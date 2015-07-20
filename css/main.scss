@@ -1,0 +1,51 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// BRAND STANDARDS -
+// https://drive.google.com/folderview?id=0B9GvJvqcpl0IWWg2VlBUOTZyT0E&usp=sharing
+$LIGHT_BLUE:     #003ca2;
+$LIGHTER_BLUE:   #003074;
+$LIGHT_GREY:     #bbbbbb;
+$DARK_GREY:      #616265;
+$DARK_BLUE:      #23282e;
+$DARK_RED:       #6a282a;
+$YELLOW_ORANGE:  #dbaa18;
+$YELLOW:         #f3db51;
+$WHITE:          #FFFFFF;
+
+
+@charset "utf-8";
+@import 'premain';
+
+html {
+  background-image: url('/img/background.jpg');
+}
+
+.black {
+  background-color: $DARK_BLUE;
+  color: $WHITE;
+}
+
+.center {
+  text-align: center;
+}
+
+
+
+
+img {
+  max-width: 100%;
+}
+
+.masthead {
+  background-color: $LIGHT_BLUE;
+
+}
+
+
+
+
+
+
+@import 'postmain';

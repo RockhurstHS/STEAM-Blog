@@ -1,0 +1,54 @@
+---
+layout: home
+---
+<div class="container-fluid masthead">
+asdf
+</div>
+<div class="container-fluid">
+  <img src="/img/banner.jpg">
+</div>
+<div class="container black">
+  <div class="row">
+    <div class="col-md-4 center">
+      <img src="/img/MR.%20GREGORY-OWSLEY-STA-450.jpg" alt="Mr. Greg Owsley">
+      <p>Greg Owsley</p>
+    </div>
+    <div class="col-md-4 center">
+      <img src="/img/MR.%20PAUL-WINKELER-STA-298.jpg" alt="Mr. Paul Winkeler">
+      <p>Paul Winkeler</p>
+    </div>
+    <div class="col-md-4 center">
+      <img src="/img/MR.%20JAMES-CLARK-STA-5000000040.jpg" alt="Mr. James W. Clark">
+      <p>J.W. Clark</p>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 center">
+      <img src="/img/chapelcross.jpg">
+    </div>
+    <div class="col-md-6">
+      <div class="container">
+        <div class="row">
+          <img src="/img/MR.%20GREGORY-OWSLEY-STA-450.jpg">
+        </div>
+        <div class="row">
+          <img src="/img/MR.%20PAUL-WINKELER-STA-298.jpg">
+        </div>
+        <div class="row">
+          <img src="/img/MR.%20JAMES-CLARK-STA-5000000040.jpg">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<h1>Recent Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
