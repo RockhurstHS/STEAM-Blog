@@ -17,9 +17,28 @@ $WHITE:          #FFFFFF;
 
 @charset "utf-8";
 @import 'premain';
+@import 'fonts';
+
+
+
 
 html {
   background-image: url('/img/background.jpg');
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  font-family: 'JupiterPro', serif;
+  text-align: center;
+  font-size: 3em;
+  padding: 7px;
+}
+
+footer {
+  padding: 7px;
 }
 
 .black {
@@ -31,20 +50,10 @@ html {
   text-align: center;
 }
 
-
-
-
-img {
-  max-width: 100%;
+#post-list {
+  list-style: none;
+  padding-left: 0;
 }
-
-.masthead {
-  background-color: $LIGHT_BLUE;
-
-}
-
-
-
 
 
 
