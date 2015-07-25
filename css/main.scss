@@ -4,51 +4,90 @@
 
 // BRAND STANDARDS -
 // https://drive.google.com/folderview?id=0B9GvJvqcpl0IWWg2VlBUOTZyT0E&usp=sharing
-$LIGHT_BLUE:     #003ca2;
-$LIGHTER_BLUE:   #003074;
+$BLUE:           #003ca2;
+$DARK_BLUE:      #003074;
 $LIGHT_GREY:     #bbbbbb;
 $DARK_GREY:      #616265;
-$DARK_BLUE:      #23282e;
 $DARK_RED:       #6a282a;
 $YELLOW_ORANGE:  #dbaa18;
 $YELLOW:         #f3db51;
-$WHITE:          #FFFFFF;
+$BLACK:          #23282e;
+$WHITE:          #ffffff;
+
+$PADDING: 7px;
 
 
 @charset "utf-8";
-@import 'premain';
+@import 'premain-boilerplate';
 @import 'fonts';
 
 
 
 
+
+
+/* ELEMENTS */
 html {
+
   background-image: url('/img/background.jpg');
+
+  img {
+    max-width: 100%;
+  }
+
+  header, footer {
+    padding: $PADDING;
+  }
 }
 
-img {
-  max-width: 100%;
+/* SITE HEADER */
+#site-header {
+
+  margin-bottom: 2 * $PADDING;
+
+  #logo-container, #title-container {
+    height: 100%;
+    display: inline-block;
+    overflow: hidden;
+  }
+
+  #title-container {
+    padding-left: $PADDING;
+  }
+
+  #logo {
+    height: 80px;
+  }
+
+  #title {
+    font-family: 'JupiterPro', serif;
+    font-size: 2.5em;
+  }
+
+  #subtitle {
+    color: $LIGHT_GREY;
+    font-size: 1.5em;
+    font-family: serif;
+  }
 }
 
-header {
-  font-family: 'JupiterPro', serif;
-  text-align: center;
-  font-size: 3em;
-  padding: 7px;
+/* SITE FOOTER */
+#site-footer {
+  margin-top: $PADDING;
 }
 
-footer {
-  padding: 7px;
-}
 
-.black {
-  background-color: $DARK_BLUE;
+/* UTILITY */
+
+.inverted {
+  background-color: $BLACK;
   color: $WHITE;
 }
 
 .center {
   text-align: center;
 }
+
 
 #post-list {
   list-style: none;
@@ -57,4 +96,7 @@ footer {
 
 
 
-@import 'postmain';
+
+
+
+@import 'postmain-boilerplate';
