@@ -3,9 +3,6 @@ layout: post
 author: Greg Owsley
 title: Heroic Leadership
 ---
-I just finished reading <u>Heroic Leadership</u> by Chris Lowney.  This should be required reading for any leader, especially one who is involved Jesuit education (every teacher is also a leader).
-
-The book describes four values that orient Jesuit leadership.  How does the Rockhurst classroom redesign project reflect these values?
 
 **Self-Awareness** - understanding their [the Jesuits] strengths, weaknesses, values, and worldview
 

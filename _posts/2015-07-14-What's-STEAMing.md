@@ -2,6 +2,7 @@
 layout: post
 author: Greg Owsley
 title: What's STEAMing?
+excerpt: The electronic equipment for the new rooms arrived yesterday!
 ---
 The electronic equipment for the new rooms arrived yesterday! 
  
