@@ -2,8 +2,8 @@
 layout: post
 author: Greg Owsley
 title: Heroic Leadership
+excerpt: What can be more energizing! Ignatian educators at Rockhurst would make St. Ignatius proud; they may not be traveling to new lands, but they are pioneering new frontiers within the classroom walls.
 ---
-
 **Self-Awareness** - understanding their [the Jesuits] strengths, weaknesses, values, and worldview
 
  - We are teaching young men. Teenage boys move...a lot.  The furniture (all on wheels) moves. There exist specific furniture arrangements that align with specific learning activities. Students can be in a circle for a class discussion, students will be in tables for group work, traditional rows for exams, etc.
