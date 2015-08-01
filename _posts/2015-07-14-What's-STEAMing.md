@@ -3,26 +3,22 @@ layout: post
 author: Greg Owsley
 title: What's STEAMing?
 ---
-Reflecting upon my Rockhurst High School experience, a few highlights come to my mind:
-
- - Playing freshmen football (‘playing’ might be too strong of a word)
- - Competing in the chess room EVERY activity period and EVERYday after school
- - Studying Physics/Playing Nintendo64 Mario Kart for 6+ hours at a friend’s house in order to prepare for a Dr. Campisano exam.
-
-The Rockhurst Vision Statement claims to “foster lifelong friendships”.
-
-One of projects within the STEAM initiative is the Classroom Redesign.
-
-Ultimately, the goal aims to create a more student-centered learning environment emphasizing collaboration – one of the core values of STEAM.
-
- - There will be no ‘front of the classroom’.
- - Flexible furniture provides more autonomy for students.
- - Cutting edge technology empower learning activities.
-
-When I reflected upon my favorite Rockhurst experiences, I wondered how much of the ‘fostering of lifelong friendships’ occurred during instruction time?
-
-Hopefully, the redesigned classrooms improve student learning.
-
-However, will it also positively impact their friendships?
-
-If so, then a student-centered approach to these rooms might realize the Rockhurst Vision in more ways than intellectual competence.
+The electronic equipment for the new rooms arrived yesterday! 
+ 
+The actual equipment in and of itself is exciting, but the prospect of putting the educational notion of ‘triangulation’ in action excites me more. We had a few small hiccups with where to put the TVs. 
+ 
+Should we remove the closet doors?
+ 
+How far away from the strobe light (for the fire alarm) does the TV need to be?
+ 
+The patience, understanding and flat out competence of the maintenance staff really made my day. 
+ 
+“I really like to feel included. Working with the students is why I’m here. I could be working somewhere else, but God put me here,” commented Scott to me this morning. 
+ 
+What a quote! Some may be surprised that the quote did not come from a teacher, but from one of our maintenance staff.  Scott works with a group of young men throughout the summer, holidays, and everyday after school.  He knows his workers just as well, if not better, than anyone in the building - including the teachers.
+ 
+When people speak of STEAM, they often think of experiential, hands-on, collaborative learning. 
+ 
+Are these values already embedded in our work-grant program?
+ 
+We have so much to learn from each other.
