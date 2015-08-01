@@ -1,0 +1,8 @@
+<div class="post">
+  <h1 class="title"><a class="post-wrapper" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="byline">Written by {{ post.author }} | {{ post.date | date: "%-d %B %Y" }}</p>
+
+  {{ post.excerpt }}
+
+  <a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}" role="button">Read More</a>
+</div>
