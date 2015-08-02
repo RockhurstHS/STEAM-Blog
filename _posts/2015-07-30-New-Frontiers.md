@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Greg Owsley
-title: Heroic Leadership
+title: New Frontiers
 excerpt: What can be more energizing! Ignatian educators at Rockhurst would make St. Ignatius proud; they may not be traveling to new lands, but they are pioneering new frontiers within the classroom walls.
 ---
 **Self-Awareness** - understanding their [the Jesuits] strengths, weaknesses, values, and worldview

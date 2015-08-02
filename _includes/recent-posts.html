@@ -3,8 +3,8 @@
     <h3 class="panel-title">Recent Posts</h3>
   </div>
   <div class="panel-body">
-    <ul id="post-list">
-      {% for post in site.posts limit:5 %}
+    <ul id="recent-posts-list">
+      {% for post in site.posts limit:6 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>

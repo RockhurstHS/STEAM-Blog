@@ -52,7 +52,6 @@ html {
   #brand-wrapper, #logo-container, #title-container {
     display: inline-block;
     height: $HEADER_HEIGHT;
-    overflow: hidden;
     vertical-align: top;
   }
 
@@ -85,7 +84,7 @@ html {
   }
 
   /* when bootstrap toggles nav menu collapse */
-  @media (min-width: 691px) {
+  @media (min-width: 767px) {
 
     #navbar {
       display: table;
@@ -140,9 +139,13 @@ body {
     color: $WHITE;
   }
 
-  #post-list {
+  #recent-posts-list {
     list-style: none;
     padding-left: 0;
+  }
+
+  #recent-posts-list li + li {
+    padding-top: 2 * $PADDING;
   }
 }
 
