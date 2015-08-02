@@ -99,6 +99,46 @@ html {
     }
 
   }
+
+  /* when the nav logo needs to shrink */
+  @media (max-width: 496px) {
+
+    /* SITE HEADER */
+    #site-header {
+
+      #logo {
+        height: 0.6875 * $HEADER_HEIGHT;
+      }
+
+      #title {
+        font-size: 1.75em;
+      }
+
+      #subtitle {
+        font-size: 1em;
+      }
+    }
+  }
+
+  /* on phone, title collapsed into the toggle button. this fixes that */
+  @media (max-width: 358px) {
+
+    #site-header {
+
+      #logo {
+        height: 0.6875 * $HEADER_HEIGHT;
+      }
+
+      #title {
+        font-size: 1.25em;
+      }
+
+      #subtitle {
+        font-size: 1em;
+      }
+    }
+  }
+
 }
 
 
@@ -134,6 +174,12 @@ body {
     text-align: center;
   }
 
+  .img-circle {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+  }
+
   .inverted {
     background-color: $BLACK;
     color: $WHITE;
@@ -151,46 +197,6 @@ body {
 
 
 
-/* MEDIA QUERIES */
-
-/* when the nav logo needs to shrink */
-@media (max-width: 496px) {
-
-  /* SITE HEADER */
-  #site-header {
-
-    #logo {
-      height: 0.6875 * $HEADER_HEIGHT;
-    }
-
-    #title {
-      font-size: 1.75em;
-    }
-
-    #subtitle {
-      font-size: 1em;
-    }
-  }
-}
-
-/* on phone, title collapsed into the toggle button. this fixes that */
-@media (max-width: 358px) {
-
-  #site-header {
-
-    #logo {
-      height: 0.6875 * $HEADER_HEIGHT;
-    }
-
-    #title {
-      font-size: 1.25em;
-    }
-
-    #subtitle {
-      font-size: 1em;
-    }
-  }
-}
 
 
 
