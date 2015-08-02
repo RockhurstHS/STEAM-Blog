@@ -2,8 +2,11 @@
 layout: post
 author: Greg Owsley
 title: New Frontiers
-excerpt: What can be more energizing! Ignatian educators at Rockhurst would make St. Ignatius proud; they may not be traveling to new lands, but they are pioneering new frontiers within the classroom walls.
 ---
+I just finished reading <u>Heroic Leadership</u> by Chris Lowney.  This should be required reading for any leader, especially one who is involved in Jesuit education (every teacher is also a leader).
+
+The book describes four values that orient Jesuit leadership.  How does the Rockhurst classroom redesign project reflect these values?
+
 **Self-Awareness** - understanding their [the Jesuits] strengths, weaknesses, values, and worldview
 
  - We are teaching young men. Teenage boys move...a lot.  The furniture (all on wheels) moves. There exist specific furniture arrangements that align with specific learning activities. Students can be in a circle for a class discussion, students will be in tables for group work, traditional rows for exams, etc.
@@ -20,6 +23,6 @@ excerpt: What can be more energizing! Ignatian educators at Rockhurst would make
 
  - We are attempting something that has NEVER been done before at Rockhurst. We are questioning the most basic of assumptions when it comes to learning in the classroom. By putting the *magis* into action, we hope that the Rockhurst experience yields better education and better formation. 
 
-What can be more energizing! Ignatian educators at Rockhurst would make St. Ignatius proud; they may not be traveling to new lands, but they are pioneering new frontiers within the classroom walls.
+What can be more energizing!? Ignatian educators at Rockhurst are making St. Ignatius proud; they may not be traveling to new lands like Francis Xavier or Matteo Ricci, but they are pioneering new frontiers within the classroom walls.
 
 Lowney, Chris. (2003) *Heroic Leadership*. Chicago: Loyola Press.
