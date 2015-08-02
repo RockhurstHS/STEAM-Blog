@@ -31,7 +31,7 @@ $BASE_URL: "/STEAM-Blog";
 /* ELEMENTS */
 html {
 
-  background-image: url('/img/background.jpg');
+  background-image: url($BASE_URL + '/img/background.jpg');
 
   img {
     max-width: 100%;
@@ -49,14 +49,11 @@ html {
 
   margin-bottom: 2 * $PADDING;
 
-  #home-link {
-    display: inline;
-  }
-
-  #logo-container, #title-container {
-    height: 100%;
+  #brand-wrapper, #logo-container, #title-container {
     display: inline-block;
+    height: $HEADER_HEIGHT;
     overflow: hidden;
+    vertical-align: top;
   }
 
   #title-container {
@@ -85,6 +82,23 @@ html {
 
   #navbar .nav li a:hover {
     color: $WHITE;
+  }
+
+  /* when bootstrap toggles nav menu collapse */
+  @media (min-width: 691px) {
+
+    #navbar {
+      display: table;
+      height: $HEADER_HEIGHT !important;
+    }
+
+    #navbar * {
+      display: table-cell;
+      height: $HEADER_HEIGHT !important;
+      text-align: center;
+      vertical-align: middle;
+    }
+
   }
 }
 
@@ -117,13 +131,13 @@ html {
 /* UTILITY */
 body {
 
+  .center {
+    text-align: center;
+  }
+
   .inverted {
     background-color: $BLACK;
     color: $WHITE;
-  }
-
-  .center {
-    text-align: center;
   }
 
   #post-list {
@@ -152,20 +166,6 @@ body {
 
     #subtitle {
       font-size: 1em;
-    }
-  }
-}
-
-/* when bootstrap toggles nav menu items */
-@media (min-width: 691px) {
-
-  #site-header {
-
-    #navbar, #navbar ul.nav, #navbar ul.nav li {
-      height: $HEADER_HEIGHT !important;
-      display: flex;
-      align-items: center;
-      justify-content: center;
     }
   }
 }
