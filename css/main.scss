@@ -49,7 +49,7 @@ html {
 
   margin-bottom: 2 * $PADDING;
 
-  #brand-wrapper, #logo-container, #title-container {
+  #brand-wrapper, #logo, #logo-container, #title-container {
     display: inline-block;
     height: $HEADER_HEIGHT;
     vertical-align: top;
@@ -83,61 +83,7 @@ html {
     color: $WHITE;
   }
 
-  /* when bootstrap toggles nav menu collapse */
-  @media (min-width: 767px) {
 
-    #navbar {
-      display: table;
-      height: $HEADER_HEIGHT !important;
-    }
-
-    #navbar * {
-      display: table-cell;
-      height: $HEADER_HEIGHT !important;
-      text-align: center;
-      vertical-align: middle;
-    }
-
-  }
-
-  /* when the nav logo needs to shrink */
-  @media (max-width: 496px) {
-
-    /* SITE HEADER */
-    #site-header {
-
-      #logo {
-        height: 0.6875 * $HEADER_HEIGHT;
-      }
-
-      #title {
-        font-size: 1.75em;
-      }
-
-      #subtitle {
-        font-size: 1em;
-      }
-    }
-  }
-
-  /* on phone, title collapsed into the toggle button. this fixes that */
-  @media (max-width: 358px) {
-
-    #site-header {
-
-      #logo {
-        height: 0.6875 * $HEADER_HEIGHT;
-      }
-
-      #title {
-        font-size: 1.25em;
-      }
-
-      #subtitle {
-        font-size: 1em;
-      }
-    }
-  }
 
 }
 
@@ -197,7 +143,61 @@ body {
 
 
 
+/* when bootstrap toggles nav menu collapse */
+  @media (min-width: 767px) {
 
+    #navbar {
+      display: table;
+      height: $HEADER_HEIGHT !important;
+    }
+
+    #navbar * {
+      display: table-cell;
+      height: $HEADER_HEIGHT !important;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+  }
+
+  /* when the nav logo needs to shrink */
+  @media (max-width: 496px) {
+
+    /* SITE HEADER */
+    #site-header {
+
+      #brand-wrapper, #logo, #logo-container, #title-container {
+        height: 0.6875 * $HEADER_HEIGHT;
+      }
+
+      #title {
+        font-size: 1.75em;
+      }
+
+      #subtitle {
+        font-size: 1em;
+      }
+    }
+  }
+
+  /* on phone, title collapsed into the toggle button. this fixes that */
+  @media (max-width: 358px) {
+
+    #site-header {
+
+      #brand-wrapper, #logo, #logo-container, #title-container {
+        height: 0.5625 * $HEADER_HEIGHT;
+      }
+
+      #title {
+        font-size: 1.25em;
+      }
+
+      #subtitle {
+        font-size: 1em;
+      }
+    }
+  }
 
 
 
