@@ -89,29 +89,36 @@ html {
 
 
 
-/* SITE FOOTER */
-#site-footer {
-  margin-top: $PADDING;
-}
-
-
-
 /* POSTS */
 .post {
 
   margin-bottom: 6 * $PADDING;
 
-  .title {
-
-  }
-
   .byline {
     color: $LIGHT_GREY;
     margin-bottom: 3 * $PADDING;
   }
+
+  .title {
+
+  }
+}
+
+/* COMMENTS */
+#comments-container {
+
+  margin-top: 15 * $PADDING;
+
+  #comment-form-submit-button {
+    margin-top: 20px;
+  }
 }
 
 
+/* SITE FOOTER */
+#site-footer {
+  margin-top: $PADDING;
+}
 
 /* UTILITY */
 body {
