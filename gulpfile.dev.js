@@ -1,6 +1,5 @@
 //credit: http://hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/
 
-//build package.json file with 'npm init'
 
 // run with "gulp comment"
 
@@ -18,7 +17,7 @@ gulp.task("comments", function() {
   var options = {
     hostname: 'pooleapp.com',
     port: 80,
-    path: '/data/{API_SECRET_KEY}',
+    path: '/data/{API-SECRET-KEY}.json',
     method: 'GET'
   };
 
@@ -33,7 +32,11 @@ gulp.task("comments", function() {
 
       // add gravatar image links if available
       for (var i = 0; i < comments.sessions.length; i++) {
-        comments.sessions[i].avatar = gravatar.url(comments.sessions[i].email, {s: '50', r: 'pg', d: '404'});
+        if(comments.sessions[i].email.length > 0) {
+          comments.sessions[i].avatar = gravatar.url(comments.sessions[i].email, {s: '50', r: 'pg', d: 'mm'});
+        } else {
+          comments.sessions[i].avatar = "";
+        }
       }
 
       // convert the json to yaml and save it for jekyll to use.

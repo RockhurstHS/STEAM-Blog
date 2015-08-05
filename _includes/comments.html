@@ -1,21 +1,32 @@
 <div id="comments-container">
 
+  <h2>Comments</h2>
+  <p>Let us know your thoughts using the <a href="#comments-form">the form below</a>.</p>
+  <hr>
+
   <ul class="listing comments">
-    {% for comment in site.data.comments.sessions %} {% if comment.path == page.url | prepend: site.baseurl %}
-    <p>{{ site.baseurl }}{{ page.url }}</p>
-    <p>{{ comment.path }} </p>
-    <p>{{ page.url | prepend: site.baseurl }}</p>
-    <li>
-      <img src="{{ comment.avatar }}" alt="{{ comment.name }}">
-      <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
-      {% if comment.url %}
-      <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a> {% else %}
-      <span class="commenter">{{ comment.name }}</span> {% endif %}
-      <div>
-        {{ comment.comment }}
-      </div>
-    </li>
-    {% endif %} {% endfor %}
+    {% for comment in site.data.comments.sessions %}
+      {% if comment.path == page.url %}
+        <li>
+          {% if comment.avatar == "" %}
+            <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
+          {% else %}
+            <img src="{{ comment.avatar }}" alt="{{ comment.name }}">
+            <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
+          {% endif %}
+
+          {% if comment.url == "" %}
+            <span class="commenter">{{ comment.name }}</span>
+          {% else %}
+            <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
+          {% endif %}
+          <div>
+            {{ comment.comment }}
+          </div>
+          <hr>
+        </li>
+      {% endif %}
+    {% endfor %}
   </ul>
 
   <div class="container-fluid inverted">
@@ -23,7 +34,7 @@
       <div class="form-group">
         <h2>Leave your comment</h2>
         <input type="hidden" name="redirect_to" value="{{ site.baseurl }}/thanks.html" />
-        <input type="hidden" name="path" value="{{ site.baseurl }}{{ page.url }}" />
+        <input type="hidden" name="path" value="{{ page.url }}" />
         <label for="name">Name</label>
         <input type="text" class="form-control" placeholder="Your Name" name="name">
         <label for="url">Website <span>(optional)</span></label>
