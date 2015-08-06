@@ -4,27 +4,37 @@
   <p>Let us know your thoughts using the <a href="#comments-form">the form below</a>.</p>
   <hr>
 
-  <ul class="listing comments">
+  <ul class="comments listing">
     {% for comment in site.data.comments.sessions %}
       {% if comment.path == page.url %}
-        <li>
-          {% if comment.avatar == "" %}
-            <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
-          {% else %}
-            <img src="{{ comment.avatar }}" alt="{{ comment.name }}">
-            <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
-          {% endif %}
 
-          {% if comment.url == "" %}
-            <span class="commenter">{{ comment.name }}</span>
-          {% else %}
-            <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
-          {% endif %}
-          <div>
+        <li>
+          <div class="author">
+
+            {% if comment.avatar != "" %}
+              <div class="gravatar-wrapper">
+                <img class="gravatar" src="{{ comment.avatar }}" alt="{{ comment.name }}">
+              </div>
+            {% endif %}
+
+            <div class="byline-wrapper">
+              <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
+              {% if comment.url == "" %}
+                <span class="commenter">{{ comment.name }}</span>
+              {% else %}
+                <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
+              {% endif %}
+            </div>
+
+          </div>
+          <div class="comment">
+
             {{ comment.comment }}
+
           </div>
           <hr>
         </li>
+
       {% endif %}
     {% endfor %}
   </ul>
