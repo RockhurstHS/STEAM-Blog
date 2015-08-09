@@ -47,7 +47,6 @@ html {
 }
 
 
-
 /* SITE HEADER */
 #site-header {
 
@@ -92,7 +91,6 @@ html {
 }
 
 
-
 /* POSTS */
 .post {
 
@@ -107,6 +105,7 @@ html {
 
   }
 }
+
 
 /* COMMENTS */
 #comments-container {
@@ -147,6 +146,7 @@ html {
   }
 }
 
+
 /* PEOPLE */
 #people-container {
   .profile-image-wrapper {
@@ -155,16 +155,22 @@ html {
     }
   }
   .profile-data-wrapper {
-    padding: $PADDING;
+    padding-left: 3 * $PADDING;
+    padding-right: 3 * $PADDING;
+    padding-top: 2 * $PADDING;
+    padding-bottom: $PADDING;
+  }
+  .row {
+    margin-bottom: 4 * $PADDING;
   }
 }
-
 
 
 /* SITE FOOTER */
 #site-footer {
   margin-top: $PADDING;
 }
+
 
 /* UTILITY */
 body {
