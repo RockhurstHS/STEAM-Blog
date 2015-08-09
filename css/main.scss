@@ -147,6 +147,19 @@ html {
   }
 }
 
+/* PEOPLE */
+#people-container {
+  .profile-image-wrapper {
+    img {
+      width: 100%;
+    }
+  }
+  .profile-data-wrapper {
+    padding: $PADDING;
+  }
+}
+
+
 
 /* SITE FOOTER */
 #site-footer {
@@ -184,60 +197,60 @@ body {
 
 
 /* when bootstrap toggles nav menu collapse */
-  @media (min-width: 767px) {
+@media (min-width: 767px) {
 
-    #navbar {
-      display: table;
-      height: $HEADER_HEIGHT !important;
-    }
-
-    #navbar * {
-      display: table-cell;
-      height: $HEADER_HEIGHT !important;
-      text-align: center;
-      vertical-align: middle;
-    }
-
+  #navbar {
+    display: table;
+    height: $HEADER_HEIGHT !important;
   }
 
-  /* when the nav logo needs to shrink */
-  @media (max-width: 496px) {
-
-    /* SITE HEADER */
-    #site-header {
-
-      #brand-wrapper, #logo, #logo-container, #title-container {
-        height: 0.6875 * $HEADER_HEIGHT;
-      }
-
-      #title {
-        font-size: 1.75em;
-      }
-
-      #subtitle {
-        font-size: 1em;
-      }
-    }
+  #navbar * {
+    display: table-cell;
+    height: $HEADER_HEIGHT !important;
+    text-align: center;
+    vertical-align: middle;
   }
 
-  /* on phone, title collapsed into the toggle button. this fixes that */
-  @media (max-width: 358px) {
+}
 
-    #site-header {
+/* when the nav logo needs to shrink */
+@media (max-width: 496px) {
 
-      #brand-wrapper, #logo, #logo-container, #title-container {
-        height: 0.5625 * $HEADER_HEIGHT;
-      }
+  /* SITE HEADER */
+  #site-header {
 
-      #title {
-        font-size: 1.25em;
-      }
+    #brand-wrapper, #logo, #logo-container, #title-container {
+      height: 0.6875 * $HEADER_HEIGHT;
+    }
 
-      #subtitle {
-        font-size: 1em;
-      }
+    #title {
+      font-size: 1.75em;
+    }
+
+    #subtitle {
+      font-size: 1em;
     }
   }
+}
+
+/* on phone, title collapsed into the toggle button. this fixes that */
+@media (max-width: 358px) {
+
+  #site-header {
+
+    #brand-wrapper, #logo, #logo-container, #title-container {
+      height: 0.5625 * $HEADER_HEIGHT;
+    }
+
+    #title {
+      font-size: 1.25em;
+    }
+
+    #subtitle {
+      font-size: 1em;
+    }
+  }
+}
 
 
 

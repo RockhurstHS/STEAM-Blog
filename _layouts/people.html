@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div id="people-container" class="container">
+
+  {% assign numColumns = 4 %}
+  {% assign columnWidth = 12 | divided_by: numColumns %}
+  {% for person in site.data.people %}
+    {% assign loopindex = forloop.index0 | modulo: numColumns %}
+    {% if loopindex == 0 %}
+
+      <div class="row">
+
+    {% endif %}
+
+    <div class="col-md-{{columnWidth}}">
+      <div class="profile-image-wrapper">
+        <img class="profile-image" src="{{ site.baseurl}}/{{ person.image }}" alt="{{ person.name }}">
+      </div>
+      <div class="profile-data-wrapper inverted">
+        <p class="profile-name">{{ person.name }}</p>
+        <p class="profile-title">{{ person.title }}</p>
+      </div>
+    </div>
+
+    {% if loopindex == 3 %}
+
+      </div>
+
+    {% endif %}
+  {% endfor %}
+
+</div>
