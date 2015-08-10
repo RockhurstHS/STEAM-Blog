@@ -33,6 +33,10 @@ html {
 
   background-image: url($BASE_URL + '/img/background.jpg');
 
+  body {
+    min-height: 100%;
+  }
+
   hr {
     border-color: #dddddd;
   }
@@ -164,7 +168,6 @@ html {
     margin-bottom: 4 * $PADDING;
   }
 }
-
 
 /* SITE FOOTER */
 #site-footer {

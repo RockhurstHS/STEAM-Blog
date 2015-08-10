@@ -5,21 +5,20 @@ layout: default
 
   {% assign numColumns = 4 %}
   {% assign columnWidth = 12 | divided_by: numColumns %}
-
   {% for person in site.data.people %}
-
+    {% assign card = person[1] %}
     {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-
-      <div class="col-sm-{{columnWidth}}">
-        <div class="profile-image-wrapper">
-          <img class="profile-image" src="{{ site.baseurl}}/{{ person.image }}" alt="{{ person.name }}">
+      <a href="{{ site.baseurl }}/team/{{ person[0] }}/">
+        <div class="col-sm-{{columnWidth}}">
+          <div class="profile-image-wrapper">
+            <img class="profile-image" src="{{ site.baseurl}}/{{ card.image }}" alt="{{ person[1].name }}">
+          </div>
+          <div class="profile-data-wrapper inverted">
+            <p class="profile-name">{{ card.name }}</p>
+            <p class="profile-title">{{ card.title }}</p>
+          </div>
         </div>
-        <div class="profile-data-wrapper inverted">
-          <p class="profile-name">{{ person.name }}</p>
-          <p class="profile-title">{{ person.title }}</p>
-        </div>
-      </div>
-
+      </a>
     {% cycle 'end row' : nil, nil, nil, '</div>' %}
 
   {% endfor %}

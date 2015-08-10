@@ -1,19 +1,14 @@
-- name: Greg Owsley
+gregowsley:
+  name: Greg Owsley
   title: STEAM Director
   image: img/greg-owsley.jpg
 
-- name: Paul Winkeler
-  title: STEAM Co-Director
+paulwinkeler:
+  name: Paul Winkeler
+  title: STEAM Coordinator
   image: img/paul-winkeler.jpg
 
-- name: J.W. Clark
+jwclark:
+  name: J.W. Clark
   title: STEAM Coordinator
   image: img/jw-clark.jpg
-
-- name: Greg Owsley
-  title: STEAM Director
-  image: img/greg-owsley.jpg
-
-- name: Paul Winkeler
-  title: STEAM Co-Director
-  image: img/paul-winkeler.jpg
