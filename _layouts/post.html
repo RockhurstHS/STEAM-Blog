@@ -5,7 +5,7 @@ layout: default
   <div class="row post">
     <div class="col-md-8">
       <h1 class="title"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
-      <p class="byline">Written by {{ site.data.people[page.author].name }} | {{ page.date | date: "%-d %B %Y" }}</p>
+      <p class="byline">Written by <a href="{{ site.baseurl}}/team/{{ page.author }}/">{{ site.data.people[page.author].name }}</a> | {{ page.date | date: "%-d %B %Y" }}</p>
       <article class="post-content">
 
         {{ content }}
