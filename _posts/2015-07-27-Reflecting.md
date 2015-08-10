@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Greg Owsley
+author: gregowsley
 title: Reflecting
 ---
 Reflecting upon my Rockhurst High School experience, a few highlights come to my mind:

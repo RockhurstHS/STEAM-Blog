@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Greg Owsley
+author: gregowsley
 title: New Frontiers
 ---
 I just finished reading <u>Heroic Leadership</u> by Chris Lowney.  This should be required reading for any leader, especially one who is involved in Jesuit education (every teacher is also a leader).
