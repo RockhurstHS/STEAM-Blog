@@ -182,14 +182,30 @@ html {
 /* UTILITY */
 body {
 
-  .center {
-    text-align: center;
-  }
-
-  .img-circle {
+  img.circle {
     border-radius: 50%;
     height: 40px;
     width: 40px;
+  }
+
+  img.whole {
+    width: 100%;
+  }
+
+  img.half {
+    width: 49%;
+  }
+
+  img.third {
+    width: 32%;
+  }
+
+  img.fourth {
+    width: 24%;
+  }
+
+  .center {
+    text-align: center;
   }
 
   .inverted {
