@@ -2,7 +2,13 @@ $(document).ready(function () {
 
   //wrap each image in magnific anchor
   $('.flex-wrapper img').each(function() {
-    $(this).wrap('<a class="image-popup-vertical-fit" href="' + this.src + '"></a>');
+    var source = this.src;
+    var desc = $(this).attr('alt');
+    if(desc !== 'undefined') {
+      $(this).wrap('<a class="image-popup-vertical-fit" href="' + this.src + '" title="' + desc + '"></a>');
+    } else {
+      $(this).wrap('<a class="image-popup-vertical-fit" href="' + this.src + '"></a>');
+    }
   });
 
   //activate magnific anchors
@@ -15,7 +21,12 @@ $(document).ready(function () {
     image: {
       verticalFit: true,
       titleSrc: function (item) {
-        return item.el.attr('title') + ' &middot; <a class="image-source-link" href="' + item.src + '" target="_blank">open original</a>';
+        var title = item.el.attr('title');
+        if(title !== 'undefined') {
+          return title + ' &middot; <a class="image-source-link" href="' + item.src + '" target="_blank">open original</a>';
+        } else {
+          return '<a class="image-source-link" href="' + item.src + '" target="_blank">open original</a>';
+        }
       }
     }
   });
