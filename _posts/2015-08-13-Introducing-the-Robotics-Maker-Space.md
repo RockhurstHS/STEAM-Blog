@@ -8,7 +8,9 @@ I had the opportunity to tour the new Robotics maker space this afternoon, and I
 
 I had the opportunity to demo one of the robotics (I even got in trouble with Andy for grinding the gears against the arena railing trying to climb its wall). I used what looks like an Xbox or Playstation controller to pilot the robot around the room. I even did some hilarious things like flip it upside down, right itself, grab a desk and try to drag it, pick up a bottle and move it, and take some laps around the classroom perimeter.
 
-<img class="half" src="{{site.baseurl}}/img/robot1.jpg">
-<img class="half" src="{{site.baseurl}}/img/robot2.jpg">
+<div class="flex-wrapper">
+  <img src="{{site.baseurl}}/img/robot1.jpg">
+  <img src="{{site.baseurl}}/img/robot2.jpg">
+</div>
 
 Finally, I had the fortunate opportunity to acquire some of the robotics programming software. I can't wait to try programming the controller and interfacing it with a tablet interface.
