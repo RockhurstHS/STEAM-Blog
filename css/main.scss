@@ -22,7 +22,7 @@ $BASE_URL: "/STEAM-Blog";
 @charset "utf-8";
 @import 'premain-boilerplate';
 @import 'fonts';
-
+@import 'magnific';
 
 
 
@@ -207,12 +207,12 @@ body {
     align-items: center;
     justify-content: space-between;
 
-    img {
+    img, a.image-popup-vertical-fit {
       flex: 1;
       width: 100%;
     }
 
-    img:not(:first-child) {
+    img:not(:first-child), a.image-popup-vertical-fit:not(:first-child) {
       margin-left: $PADDING;
     }
   }
