@@ -1,7 +1,7 @@
 # Site settings
 title: Full STEAM Ahead
-baseurl: "/STEAM-Blog"
-url: "http://rockhursths.github.io"
+baseurl: ""
+url: "https://steam.rockhursths.edu"
 
 
 #email:
