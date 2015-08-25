@@ -16,7 +16,7 @@ $WHITE:          #ffffff;
 
 $PADDING: 7px;
 $HEADER_HEIGHT: 80px;
-$BASE_URL: "/STEAM-Blog";
+$BASE_URL: ""; /* /STEAM-Blog */
 
 
 @charset "utf-8";
@@ -93,9 +93,6 @@ html {
   #navbar .nav li a:hover {
     color: $WHITE;
   }
-
-
-
 }
 
 
@@ -154,6 +151,12 @@ html {
   }
 }
 
+/* VISION */
+#vision-container {
+  p.vision {
+    font-size: 1.5em;
+  }
+}
 
 /* PEOPLE */
 #people-container {
