@@ -32,6 +32,7 @@ $BASE_URL: ""; /* /STEAM-Blog */
 html {
 
   background-image: url($BASE_URL + '/img/background.jpg');
+  font-size: 1.5em;
 
   body {
     min-height: 100%;
@@ -112,10 +113,6 @@ html {
   .title {
 
   }
-
-  p {
-    font-size: 1.5em;
-  }
 }
 
 
@@ -160,9 +157,7 @@ html {
 
 /* VISION */
 #vision-container {
-  p.vision {
-    font-size: 1.5em;
-  }
+
 }
 
 /* PEOPLE */
