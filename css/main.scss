@@ -16,7 +16,7 @@ $WHITE:          #ffffff;
 
 $PADDING: 7px;
 $HEADER_HEIGHT: 80px;
-$BASE_URL: "/STEAM-Blog";
+$BASE_URL: {{ site.baseurl }};
 
 
 @charset "utf-8";
