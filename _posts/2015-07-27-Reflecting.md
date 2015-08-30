@@ -19,6 +19,13 @@ Ultimately, the goal aims to create a more student-centered learning environment
  - Flexible furniture provides more autonomy for students.
  - Cutting edge technology empower learning activities.
  
+ <div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/chairs groupwork.png">
+  <img src="{{ site.baseurl }}/img/Tall Chairs.jpg.png">
+</div>
+
+ 
+ 
 Reflecting upon my favorite Rockhurst experiences, I wonder: how much of the ‘fostering of lifelong friendships’ occurred during instruction time?
  
 Hopefully, the redesigned classrooms improve student learning.
