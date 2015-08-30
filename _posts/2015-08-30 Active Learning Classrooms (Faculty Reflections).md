@@ -2,7 +2,6 @@
 layout: post
 author: gregowsley
 title:  Active Learning Classroom (Faculty Reflections)
-
 ---
 
 After 11 days, here are some reflections from the teachers in the Active Learning Classrooms:
