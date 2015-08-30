@@ -4,7 +4,7 @@
   </div>
   <div class="panel-body">
     <ul id="recent-posts-list" class="listing">
-      {% for post in site.posts limit:6 %}
+      {% for post in site.posts limit:15 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
