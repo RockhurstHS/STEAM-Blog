@@ -20,8 +20,8 @@ Ultimately, the goal aims to create a more student-centered learning environment
  - Cutting edge technology empower learning activities.
  
  <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/chairs groupwork.png">
-  <img src="{{ site.baseurl }}/img/Tall Chairs.jpg.png">
+  <img src="{{ site.baseurl }}/img/Room312.jpg">
+  <img src="{{ site.baseurl }}/img/StandingandSitting.jpg">
 </div>
 
  
