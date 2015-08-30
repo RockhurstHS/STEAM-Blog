@@ -1,0 +1,8 @@
+@font-face{
+	font-family: 'JupiterPro';
+	src: url($BASE_URL + '/fonts/jupiter_pro-webfont.eot');
+	src: url($BASE_URL + '$BASE_URL/fonts/jupiter_pro-webfont.eot#iefix') format('embedded-opentype'),
+	     url($BASE_URL + '/fonts/jupiter_pro-webfont.woff') format('woff'),
+	     url($BASE_URL + '/fonts/jupiter_pro-webfont.ttf') format('truetype'),
+	     url($BASE_URL + '/fonts/jupiter_pro-webfont.svg#webfont') format('svg');
+}

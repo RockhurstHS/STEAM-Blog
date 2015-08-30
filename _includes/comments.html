@@ -1,0 +1,60 @@
+<div id="comments-container">
+
+  <h2>Comments</h2>
+  <p>Let us know your thoughts using the <a href="#comments-form">the form below</a>.</p>
+  <hr>
+
+  <ul class="comments listing">
+    {% for comment in site.data.comments.sessions %}
+      {% if comment.path == page.url %}
+
+        <li>
+          <div class="author">
+
+            {% if comment.avatar != "" %}
+              <div class="gravatar-wrapper">
+                <img class="gravatar" src="{{ comment.avatar }}" alt="{{ comment.name }}">
+              </div>
+            {% endif %}
+
+            <div class="byline-wrapper">
+              <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string }}</time>
+              {% if comment.url == "" %}
+                <span class="commenter">{{ comment.name }}</span>
+              {% else %}
+                <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
+              {% endif %}
+            </div>
+
+          </div>
+          <div class="comment">
+
+            {{ comment.comment }}
+
+          </div>
+          <hr>
+        </li>
+
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <div class="container-fluid inverted">
+    <form id="comments-form" action="http://pooleapp.com/stash/bf87a364-375f-412a-9ed6-bf48cb9a3193/" method="post">
+      <div class="form-group">
+        <h2>Leave your comment</h2>
+        <input type="hidden" name="redirect_to" value="{{ site.baseurl }}/thanks.html" />
+        <input type="hidden" name="path" value="{{ page.url }}" />
+        <label for="name">Name</label>
+        <input type="text" class="form-control" placeholder="Your Name" name="name">
+        <label for="url">Website <span>(optional)</span></label>
+        <input type="text" class="form-control" placeholder="Your website (optional)" name="url">
+        <label for="email">Email <span>(we'll never spam you)</span></label>
+        <input type="text" class="form-control" placeholder="Email" name="email">
+        <label for="comment">Comment</label>
+        <textarea class="form-control" rows="5" name="comment" placeholder="Comment"></textarea>
+        <input id="comment-form-submit-button" type="submit" class="btn btn-primary" value="Post Comment" class="submit" />
+      </div>
+    </form>
+  </div>
+</div>

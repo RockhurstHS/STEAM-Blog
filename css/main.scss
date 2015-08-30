@@ -1,0 +1,299 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// BRAND STANDARDS -
+// https://drive.google.com/folderview?id=0B9GvJvqcpl0IWWg2VlBUOTZyT0E&usp=sharing
+$BLUE:           #003ca2;
+$DARK_BLUE:      #003074;
+$LIGHT_GREY:     #bbbbbb;
+$DARK_GREY:      #616265;
+$DARK_RED:       #6a282a;
+$YELLOW_ORANGE:  #dbaa18;
+$YELLOW:         #f3db51;
+$BLACK:          #23282e;
+$WHITE:          #ffffff;
+
+$PADDING: 7px;
+$HEADER_HEIGHT: 80px;
+$BASE_URL: ""; /* /STEAM-Blog */
+
+
+@charset "utf-8";
+@import 'premain-boilerplate';
+@import 'fonts';
+@import 'magnific';
+
+
+
+
+
+/* ELEMENTS */
+html {
+
+  background-image: url($BASE_URL + '/img/background.jpg');
+
+  body {
+    min-height: 100%;
+  }
+
+  h1 {
+    color: #337ab7;
+  }
+
+  hr {
+    border-color: #dddddd;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  header, footer {
+    padding: $PADDING;
+  }
+}
+
+
+/* SITE HEADER */
+#site-header {
+
+  margin-bottom: 2 * $PADDING;
+
+  #brand-wrapper, #logo, #logo-container, #title-container {
+    display: inline-block;
+    height: $HEADER_HEIGHT;
+    vertical-align: top;
+  }
+
+  #title-container {
+    padding-left: $PADDING;
+  }
+
+  #logo {
+    height: $HEADER_HEIGHT;
+  }
+
+  #title {
+    color: $WHITE;
+    font-family: 'JupiterPro', serif;
+    font-size: 2.5em;
+  }
+
+  #title:hover {
+    text-decoration: none;
+  }
+
+  #subtitle, #navbar .nav li a {
+    color: $LIGHT_GREY;
+    font-family: serif;
+    font-size: 1.5em;
+  }
+
+  #navbar .nav li a:hover {
+    color: $WHITE;
+  }
+}
+
+
+/* POSTS */
+.post {
+
+  margin-bottom: 6 * $PADDING;
+
+  .byline {
+    color: $LIGHT_GREY;
+    margin-bottom: 3 * $PADDING;
+  }
+
+  .title {
+
+  }
+}
+
+
+/* COMMENTS */
+#comments-container {
+
+  margin-top: 15 * $PADDING;
+
+  .author, .gravatar-wrapper, .byline-wrapper {
+    display: inline-block;
+    height: 40px;
+    vertical-align: top;
+  }
+
+  .byline-wrapper {
+    padding-left: $PADDING;
+  }
+
+  .gravatar {
+    border: solid $LIGHT_GREY 1px;
+    height: 100%;
+    padding: 0.375 * $PADDING;
+  }
+
+  time, span {
+    display: block;
+  }
+
+  time {
+    color: $LIGHT_GREY;
+  }
+
+  .comment {
+    margin-top: 2 * $PADDING;
+    margin-bottom: 4 * $PADDING;
+  }
+
+  #comment-form-submit-button {
+    margin-top: 20px;
+  }
+}
+
+/* VISION */
+#vision-container {
+  p.vision {
+    font-size: 1.5em;
+  }
+}
+
+/* PEOPLE */
+#people-container {
+  .profile-image-wrapper {
+    img {
+      width: 100%;
+    }
+  }
+  .profile-data-wrapper {
+    padding-left: 3 * $PADDING;
+    padding-right: 3 * $PADDING;
+    padding-top: 2 * $PADDING;
+    padding-bottom: $PADDING;
+  }
+  .row {
+    margin-bottom: 4 * $PADDING;
+  }
+}
+
+/* SITE FOOTER */
+#site-footer {
+  margin-top: $PADDING;
+}
+
+
+/* UTILITY */
+body {
+
+  img.circle {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  /* http://codepen.io/imohkay/pen/gpard */
+  /* https://css-tricks.com/using-flexbox/ */
+  /* http://stackoverflow.com/questions/25832340/css-flexbox-vertically-horizontally-center-image-without-explicitely-defining-pa */
+  .flex-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    justify-content: space-between;
+
+    img, a.image-popup-vertical-fit {
+      flex: 1;
+      width: 100%;
+    }
+
+    img:not(:first-child), a.image-popup-vertical-fit:not(:first-child) {
+      margin-left: $PADDING;
+    }
+  }
+
+  .inverted {
+    background-color: $BLACK;
+    color: $WHITE;
+  }
+
+  .listing {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  #recent-posts-list li + li {
+    padding-top: 2 * $PADDING;
+  }
+}
+
+
+
+/* when bootstrap toggles nav menu collapse */
+@media (min-width: 767px) {
+
+  #navbar {
+    display: table;
+    height: $HEADER_HEIGHT !important;
+  }
+
+  #navbar * {
+    display: table-cell;
+    height: $HEADER_HEIGHT !important;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+}
+
+/* when the nav logo needs to shrink */
+@media (max-width: 496px) {
+
+  /* SITE HEADER */
+  #site-header {
+
+    #brand-wrapper, #logo, #logo-container, #title-container {
+      height: 0.6875 * $HEADER_HEIGHT;
+    }
+
+    #title {
+      font-size: 1.75em;
+    }
+
+    #subtitle {
+      font-size: 1em;
+    }
+  }
+}
+
+/* on phone, title collapsed into the toggle button. this fixes that */
+@media (max-width: 358px) {
+
+  #site-header {
+
+    #brand-wrapper, #logo, #logo-container, #title-container {
+      height: 0.5625 * $HEADER_HEIGHT;
+    }
+
+    #title {
+      font-size: 1.25em;
+    }
+
+    #subtitle {
+      font-size: 1em;
+    }
+  }
+}
+
+
+
+
+@import 'postmain-boilerplate';
