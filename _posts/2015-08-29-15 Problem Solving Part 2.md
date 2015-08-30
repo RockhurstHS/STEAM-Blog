@@ -2,8 +2,6 @@
 layout: post
 author: gregowsley
 title:  Problem Solving (Part 2)
-
-Problem Solving (Part 2)
 	
 As I mentioned in my previous post, the Exeter Math Problem sets and the way students and teachers approach the mathematics inspired me. I implemented their Math4 problem set into my AP Calculus BC course.  After eleven days of class, here are two quotes from students:
 
