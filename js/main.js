@@ -1,3 +1,4 @@
+//region DOCUMENT READY
 $(document).ready(function () {
 
   //wrap each image in magnific anchor
@@ -32,3 +33,40 @@ $(document).ready(function () {
   });
 
 });
+//endregion
+
+//region TRELLO STUFF
+var trelloAppKey = '3ab362e6686c0f8e35e695ad94d4dcdc';
+
+var login = function() {
+  Trello.authorize({
+    type: 'popup',
+    success: setup
+  });
+};
+
+var logout = function() {
+  Trello.deauthorize();
+  updateLogin();
+};
+
+var setup = function() {
+  var isLoggedIn = updateLogin();
+  $('#report-options').toggle(isLoggedIn);
+  Trello.members.get("me", function(member){
+    console.log(member);
+  });
+}
+
+var updateLogin = function() {
+  var isLoggedIn = Trello.authorized();
+  $("#login-link").toggle(!isLoggedIn);
+  $("#logout-link").toggle(isLoggedIn);
+  return isLoggedIn;
+};
+
+$('#login-link').click(login);
+
+$('#logout-link').click(logout);
+
+//endregion
