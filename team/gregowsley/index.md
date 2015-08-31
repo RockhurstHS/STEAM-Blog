@@ -2,9 +2,6 @@
 layout: profile
 person: gregowsley
 ---
-
-<h1>Meet: {{ site.data.people[person].name }}</h1>
-
 Mr. Greg Owsley is the director of the STEAM (Science, Technology,
 Engineering, Arts, and Mathematics) initiative at Rockhurst High
 School, which is injecting cutting-edge learning science into the
