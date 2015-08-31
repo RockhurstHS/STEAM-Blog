@@ -24,15 +24,3 @@ Ultimately, the goal aims to create a more student-centered learning environment
   <img src="{{ site.baseurl }}STEAM-Blog/img/StandingandSitting.JPG">
 </div>
  
-Reflecting upon my favorite Rockhurst experiences, I wonder: how much of the ‘fostering of lifelong friendships’ occurred during instruction time?
- 
-Hopefully, the redesigned classrooms improve student learning.
- 
-But will it also positively impact their friendships? 
- 
-If so, then a student-centered approach to these rooms might realize the Rockhurst Vision in more ways than intellectual competence.
-
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/StandingandSitting.jpg">
-  <img src="{{ site.baseurl }}/img/Room312.jpg">
-</div>
