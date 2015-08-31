@@ -33,6 +33,6 @@ But will it also positively impact their friendships?
 If so, then a student-centered approach to these rooms might realize the Rockhurst Vision in more ways than intellectual competence.
 
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}STEAM-Blog/img/StandingandSitting.JPG">
-  <img src="{{ site.baseurl }}STEAM-Blog/img/Room312.JPG">
+  <img src="{{ site.baseurl }}/img/StandingandSitting.jpg">
+  <img src="{{ site.baseurl }}/img/Room312.jpg">
 </div>
