@@ -57,7 +57,7 @@ var setup = function() {
     $('#member-name').text(member.fullName);
   });
 
-  Trello.get("members/me/organizations/555f512347e116f185d698a4/boards", function(boards) {
+  Trello.get("organizations/555f512347e116f185d698a4/boards", function(boards) {
     boards.forEach(function(board) {
       console.log(board);
     });
