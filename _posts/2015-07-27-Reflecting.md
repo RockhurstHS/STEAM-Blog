@@ -20,7 +20,6 @@ Ultimately, the goal aims to create a more student-centered learning environment
  - Cutting edge technology empower learning activities.
  
  <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}STEAM-Blog/img/Room312.JPG">
-  <img src="{{ site.baseurl }}STEAM-Blog/img/StandingandSitting.JPG">
+  <img src="/img/Room312.JPG">
+  <img src="/img/StandingandSitting.JPG">
 </div>
- 

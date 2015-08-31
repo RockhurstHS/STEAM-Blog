@@ -54,7 +54,14 @@ var setup = function() {
   var isLoggedIn = updateLogin();
   $('#report-options').toggle(isLoggedIn);
   Trello.members.get("me", function(member){
-    console.log(member);
+    $('#member-name').text(member.fullName);
+  });
+
+  Trello.get("organizations/555f512347e116f185d698a4/boards", function(boards) {
+    boards.forEach(function(board) {
+      console.log(board);
+    });
+    $('#num-boards').text(boards.length);
   });
 }
 
