@@ -2,13 +2,15 @@
 layout: profile
 person: gregowsley
 ---
-Mr. Greg Owsley is the director of the STEAM (Science, Technology,
-Engineering, Arts, and Mathematics) initiative at Rockhurst High
-School, which is injecting cutting-edge learning science into the
-school culture.  He also teaches AP Calculus II.  Formerly, he was the
-chair of the Mathematics department for six years.  He earned a BA in
-Mathematics and a BA in Religious Studies from the University of
-Rochester as well as a MAT from Webster University.  He is currently
-working on a MS in Educational Leadership through St. Joseph
-University.  Beyond mathematics education, he is passionate about
-Ignatian education, neuro-education and juggling.
+##Who I am…
+
+I am passionate about Ignatian Education, Mathematics, Neuro-Education & Learning Science, and Juggling. A member of the great class of 2000, I started teaching summer school mathematics when I was 19 and am now entering my eleventh year as a full-time Ignatian educator. Before taking the position of Rockhurst STEAM director, I was the chair of the Mathematics department for six years. I’ve taught nearly every course in the Rockhurst curriculum, but spent most of my time teaching AP Calculus I and II.  
+
+Beyond the classroom I spent four years as a freshmen basketball coach, ten years as a chess team coach (including four state titles) and eleven years as the juggling club moderator.  Additionally, I direct one Kairos retreat each year. 
+
+##My academic philosophy…
+
+
+
+##My dream classroom…
+
