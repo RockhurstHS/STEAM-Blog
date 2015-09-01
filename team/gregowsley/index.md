@@ -12,6 +12,8 @@ Beyond the classroom I spent four years as a freshmen basketball coach, ten year
 
 My basic philosophy of education results from my assumption that every human being has an innate desire to learn.  I strive to stimulate that innate desire. When I evaluate and assess learning in the classroom, Ignatian spirituality mandates that I take into account the whole person. My role as an educator is not simply to facilitate a learning environment that brings out a love of knowledge, but also brings out the best within each person.  God desires each student to be who he or she was created to be.
 
+The idea that all students can grow and learn is supported by exciting psychology [research](https://www.youtube.com/watch?v=pN34FNbOKXc).
+
 The word education relates to the Latin word ‘educere’, which means ‘to bring out’.  Philosophy comes from ‘philos’, or ‘loving’, and ‘sophia’, equating to ‘knowledge’.  Therefore, an educational philosophy implies caring to bring out a love of knowledge. However, my educational philosophy is richer than the etymology that the words imply. My educational philosophy encourages more than a love of knowledge, but a love of striving for the magis. Perhaps this is the difference between a teacher and an Ignatian educator. 
 
 And to respond to Mr. Winkeler's educational philosophy, I defer to the following [comic](https://xkcd.com/435/)
