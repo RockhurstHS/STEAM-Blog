@@ -8,7 +8,7 @@ A Catholic. A husband. A son. A creative. A learner. A teacher.
 
 I am passionate about [Ignatian Education](http://www.jesuitschoolsnetwork.org/), [Mathematics](http://www.ted.com/talks/dan_meyer_math_curriculum_makeover?language=en), [Neuroeducation](https://en.wikipedia.org/wiki/Educational_neuroscience) & [Learning Science](https://en.wikipedia.org/wiki/Learning_sciences), and [Juggling](https://www.youtube.com/watch?v=YB_sfnwbgvk). 
 
-A member of the great class of 2000, I got my start teaching summer school at age 19. I’ve taught nearly every course in the Rockhurst Mathematics curriculum, but have spent the majority of my time teaching AP Calculus I and II. Now, entering my eleventh year as a full-time Ignatian educator, I am energized and excited about my new role as Rockhurst STEAM director. 
+A member of the great class of 2000, I got my start teaching summer school at age 19. I’ve taught nearly every course in the Rockhurst Mathematics curriculum, but have spent the majority of my time teaching AP Calculus I and II. Now, entering my eleventh year as a full-time Ignatian educator, I am energized and excited about my new role as Rockhurst STEAM Director. 
 
 Beyond the classroom, I have served the Rockhurst community as a freshmen basketball coach, chess team coach (including four state titles), juggling club moderator, and Kairos retreat director. 
 
