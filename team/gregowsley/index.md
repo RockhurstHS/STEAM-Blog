@@ -26,3 +26,11 @@ Student-Centered. Collaborative. Creative. Inspired. Meaningful.
 
 A dream room for my students is a living, moving, empowering space that optimizes their learning. [Mark Twain](http://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education) asserted “I never let my schooling get in the way of my education”.  In this way, the space enhances the learning experience by activating the students’ imagination and their love of learning.
 
+##My STEAM Goals
+
+In Malcolm Gladwell’s book Outliers, he describes the three criteria for succes:
+1.  He must be smart enough (which all Rockhurst students are)
+2.  Lots of time of intentional practice (10,000 hours)
+3.  An opportunity to utilize 1 & 2.
+
+My goal with the STEAM initiative is to create as many opportunities as possible for our students and faculty.  In this way we can realize our vision.
