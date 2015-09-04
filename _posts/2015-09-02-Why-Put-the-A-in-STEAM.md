@@ -7,7 +7,9 @@ published: false
 ---
 <blockquote>Should we be a "STEAM" school or a "STEM" school? That is the question.</blockquote>
 
-When we sat down at the end of last school year to lay the groundwork for this year's STEM initiative, it was proposed that we should be a STEAM school. I have to admit. At the time STEAM sounded odd to me. STEM is the more familiar of the two buzz words, one I had seen often in social media emphasizing the importance of energizing youth interest in the STEM fields. The idea is to drive today's youth to acquire skills that are high in demand in the projected future career fields. 
+When we sat down at the end of last school year to lay the groundwork for this year's STEM initiative, it was proposed that we should be a STEAM school. I have to admit. The term "STEAM" sounded odd at first. To me, STEM is the more familiar of the two buzz words, one I had seen often in social media that emphasizes the need to fill future STEM jobs with American talent. In fact, it is a matter of national security that we may lose many of our high tech jobs to overseas workers. -->insert stats here<--
+
+The goal is to energize youth interests in STEM fields. The future is projected to offer new STEM jobs at the higher rates of growths than any other field
 
 
 
