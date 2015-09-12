@@ -20,12 +20,5 @@ In any task academic or professional, submit all work, do best effort, meet all 
 
 Outdoors! But hey, computers can't really "weather the elements" so let's go with teams of four: standing Steelcase desks with 1:1 whiteboard cards, no chairs, 1:1 17" Macbook Pros, 1:4 4K Televisions. A server rack in the corner, student administered. Remove the ceiling tiles and scaffolding. White boards on spare walls. Enough electricity to power students in any formation. Oh - and Segways. One per teacher.
 
-<!--
-
-##Education
-
-B.A Communication Studies, University of Missouri - KC
-B.S. Computer Information Systems, DeVry University - South KC
-M.S. candidate Computer Science - University of Missouri - KC
-
--->
+##My STEAM goals...
+As a fisherman of intellect, I want to cast a wide net in this city. First, I want to reel in all of the student interest at Rockhurst High School. Then, I want to broadem our reach to the community. I envision students filling internships and satisfying community service obligations by offering their stem skills to organizations in need. I hope to bring computer science to grade schools so that our future students are prepared to go further. I believe this is a city with a high tech ceiling and in general has a lot of potential to bridge the technical skills gap in schools, city-wide. To do so requires making a lot of connections, having a lot of conversations. The interest is certainly there.
