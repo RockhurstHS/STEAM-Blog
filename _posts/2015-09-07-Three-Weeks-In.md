@@ -3,7 +3,7 @@ layout: post
 author: patrickcurran
 title: Three Weeks In
 ---
-I entered the new active learning classrooms with excitement as well as apprehension of the unknown.  Being in an active learning classroom has given me the permission to think outside the box, and succeed control of my classroom to my students.
+I entered the new active learning classrooms with excitement as well as apprehension of the unknown.  Being in an active learning classroom has given me the permission to think outside the box, and relinquish control of my classroom to my students.
 
 I am much more willing to give students group work in class in the active learning classrooms, since it does not require the moving of desks.  I find I ask students to work together on an example problem in the middle of a lecture and then discuss their responses.  In the past I would just call on students individually and work through the problem as a class if it appeared during my lecture because to have them get together and talk to each other in their desks was much more tedious.
 
