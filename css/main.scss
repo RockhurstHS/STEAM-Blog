@@ -205,7 +205,7 @@ body {
   /* http://codepen.io/imohkay/pen/gpard */
   /* https://css-tricks.com/using-flexbox/ */
   /* http://stackoverflow.com/questions/25832340/css-flexbox-vertically-horizontally-center-image-without-explicitely-defining-pa */
-  .flex-wrapper {
+  .flex-wrapper, .flex-wrapper-no-magnifique {
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
