@@ -10,4 +10,4 @@ title: Why Put the "A" in STEAM?
 </div>
 
 **Why put the A in STEAM?**  
-The most successful people master these two skills. We put the "A" in STEAM to foster creativity and the entrepreneurial spirit.
+The most successful people master these two skills. We put the "A" in STEAM to foster creativity and the entrepreneurial spirit. [Daniel Pink](http://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717) makes the argument that the MFA is the new MBA.
