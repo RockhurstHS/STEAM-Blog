@@ -2,24 +2,34 @@ gregowsley:
   name: Greg Owsley
   title: STEAM Director
   image: img/greg-owsley.jpg
+  profile: true
 
 paulwinkeler:
   name: Paul Winkeler
   title: STEAM Coordinator
   image: img/paul-winkeler.jpg
+  profile: true
 
 jwclark:
   name: J.W. Clark
   title: STEAM Coordinator
   image: img/jw-clark.jpg
+  profile: true
 
 franklyngar:
   name: Frank Lyngar
   title: Math Teacher
   image: img/frank-lyngar.jpg
+  profile: true
 
 patrickcurran:
   name: Patrick Curran
   title: Math Teacher
   image: img/patrick-curran.jpg
+  profile: true
 
+brentsams:
+  name: Brent Sams
+  title: French Teacher
+  image: img/brent-sams.jpg
+  profile: false

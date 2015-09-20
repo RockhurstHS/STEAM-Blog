@@ -8,17 +8,21 @@ layout: default
   {% for person in site.data.people %}
     {% assign card = person[1] %}
     {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-      <a href="{{ site.baseurl }}/team/{{ person[0] }}/">
-        <div class="col-sm-{{columnWidth}}">
-          <div class="profile-image-wrapper">
-            <img class="profile-image" src="{{ site.baseurl}}/{{ card.image }}" alt="{{ person[1].name }}">
-          </div>
-          <div class="profile-data-wrapper inverted">
-            <p class="profile-name">{{ card.name }}</p>
-            <p class="profile-title">{{ card.title }}</p>
-          </div>
+      {% if card.profile == true %}
+        <a href="{{ site.baseurl }}/team/{{ person[0] }}/">
+      {% endif %}
+      <div class="col-sm-{{columnWidth}}">
+        <div class="profile-image-wrapper">
+          <img class="profile-image" src="{{ site.baseurl}}/{{ card.image }}" alt="{{ person[1].name }}">
         </div>
-      </a>
+        <div class="profile-data-wrapper inverted">
+          <p class="profile-name">{{ card.name }}</p>
+          <p class="profile-title">{{ card.title }}</p>
+        </div>
+      </div>
+      {% if card.profile == true %}
+        </a>
+      {% endif %}
     {% cycle 'end row' : nil, nil, nil, '</div>' %}
 
   {% endfor %}
