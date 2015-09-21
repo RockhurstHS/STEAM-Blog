@@ -5,7 +5,7 @@ title: Survey Results Are In!
 excerpt: After administering the Active Learning Classroom survey designed by Steelcase Education, 253 students responded.
 ---
 
-After administering the [Active Learning Classroom](http://steam.rockhursths.edu/2015/09/21/Survey-Results-are-in.html) survey designed by Steelcase Education, 253 students responded.  The students were asked to respond on a 1-5 likert scale to questions with the following prompt:
+After administering the [Active Learning Classroom](http://steam.rockhursths.edu/2015/08/30/Active-Learning-Classrooms-(Faculty-Reflections).html) survey designed by Steelcase Education, 253 students responded.  The students were asked to respond on a 1-5 likert scale to questions with the following prompt:
 
 ###Think about a classroom you were in last year compared to this new classroom.  In this new classroom, it is (easier/harder) to…
 
