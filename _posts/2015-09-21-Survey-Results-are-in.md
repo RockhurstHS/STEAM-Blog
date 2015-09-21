@@ -1,13 +1,13 @@
 ---
 layout: post
 author: gregowsley
-title: Survey Results are in!
+title: Survey Results Are In!
 excerpt: After administering the Active Learning Classroom survey designed by Steelcase Education, 253 students responded.
 ---
 
 After administering the Active Learning Classroom survey designed by Steelcase Education, 253 students responded.  The students were asked to respond on a 1-5 likert scale to questions with the following prompt:
 
-**Think about a classroom you were in last year compared to this new classroom.  In this new classroom, it is (easier/harder) to…**
+###Think about a classroom you were in last year compared to this new classroom.  In this new classroom, it is (easier/harder) to…
 
 Here are some highlights:
 
@@ -34,7 +34,7 @@ Over 80% claim that it’s easier to participate in class. Moreover, the largest
 
 Finally, students were asked the following free response question:
 
-**How do you feel the new classroom has impacted your learning experience?**
+###How do you feel the new classroom has impacted your learning experience?
 
 A word cloud was created from their responses to extract major themes:
 
