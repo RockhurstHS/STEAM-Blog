@@ -27,6 +27,6 @@ I currently teach 5 freshmen Algebra I classes.  Instructing these newest sons o
 <br><strong> - Oscar Romero</strong>
 </blockquote>
 
-##My dream classroom
+##My dream classroom...
 
 I am “living the dream.”  Little could I imagine twenty years ago the transformation of our school from chalkboards and erasers …to iPads, projectors, wireless networks, and TI-84 color calculators.

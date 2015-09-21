@@ -32,4 +32,4 @@ brentsams:
   name: Brent Sams
   title: French Teacher
   image: img/brent-sams.jpg
-  profile: false
+  profile: true
