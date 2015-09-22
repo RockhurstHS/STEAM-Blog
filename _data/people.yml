@@ -33,3 +33,9 @@ brentsams:
   title: French Teacher
   image: img/brent-sams.jpg
   profile: true
+
+chrisbosco:
+  name: Chris Bosco
+  title: Assistant Principal - Student Affairs
+  image: img/chris-bosco.jpg
+  profile: false
