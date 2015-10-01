@@ -44,5 +44,10 @@ brandonjones:
   name: Brandon Jones
   title: Academic Technologist
   image: img/brandon-jones.jpg
+  profile: true
+
+nicolesmith:
+  name: Nicole Smith
+  title: Communication Arts Chair
+  image: img/nicole-smith.jpg
   profile: false
-  
