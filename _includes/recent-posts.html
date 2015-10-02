@@ -5,8 +5,9 @@
   <div class="panel-body">
     <ul id="recent-posts-list" class="listing">
       {% for post in site.posts limit:15 %}
+      {% assign card = site.data.people[post.author] %}
       <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span> by {{ card.name }}</span>
       </li>
       {% endfor %}
     </ul>
