@@ -8,7 +8,7 @@ September 27, 2015.  The supermoon and a total eclipse of the moon, all in one n
 The Rockhurst Photography Club and the Rockhurst Astronomy Club joined forces to witness this special event, one that won’t be seen again until 2033.  Not only was it considered the harvest moon, the time when the moon is closest to the autumnal equinox, but a perigee - the point in the orbit of the moon that it is nearest the earth - as well.
 
 <div class="flex-wrapper">
-  <img src="{{site.baseurl}}/img/supereclipse2015.jpg">
+  <img alt="Super Eclipse 2015, Photo Courtesy of Tim Nendick" src="{{site.baseurl}}/img/supereclipse2015.jpg">
 </div>
 
 We met on the RHS baseball field at dusk: Mr. Paul Winkeler and his earth science students, Mr. Tim Nendick and some of his  chemistry students and Ms. Ann Lehane and some of her photography students.  The skies had been full of billowing clouds all day, but luckily, for the event, the skies became crystal clear as the evening air cooled.  Everyone was armed with their lawn chairs, blankets, telescopes, cameras and tripods.  
