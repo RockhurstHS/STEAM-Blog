@@ -1,55 +1,55 @@
 gregowsley:
   name: Greg Owsley
   title: STEAM Director
-  image: img/greg-owsley.jpg
+  image: img/gregowsley.jpg
   profile: true
 
 paulwinkeler:
   name: Paul Winkeler
   title: STEAM Coordinator
-  image: img/paul-winkeler.jpg
+  image: img/paulwinkeler.jpg
   profile: true
 
 jwclark:
   name: J.W. Clark
   title: STEAM Coordinator
-  image: img/jw-clark.jpg
+  image: img/jwclark.jpg
   profile: true
 
 franklyngar:
   name: Frank Lyngar
   title: Math Teacher
-  image: img/frank-lyngar.jpg
+  image: img/franklyngar.jpg
   profile: true
 
 patrickcurran:
   name: Patrick Curran
   title: Math Teacher
-  image: img/patrick-curran.jpg
+  image: img/patrickcurran.jpg
   profile: true
 
 brentsams:
   name: Brent Sams
   title: French Teacher
-  image: img/brent-sams.jpg
+  image: img/brentsams.jpg
   profile: true
 
 chrisbosco:
   name: Chris Bosco
   title: Assistant Principal - Student Affairs
-  image: img/chris-bosco.jpg
+  image: img/chrisbosco.jpg
   profile: false
 
 brandonjones:
   name: Brandon Jones
   title: Educational Technologist
-  image: img/brandon-jones.jpg
+  image: img/brandonjones.jpg
   profile: true
 
 nicolesmith:
   name: Nicole Smith
   title: Communication Arts Chair
-  image: img/nicole-smith.jpg
+  image: img/nicolesmith.jpg
   profile: false
 
 larryruby:
