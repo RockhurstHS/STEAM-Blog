@@ -20,3 +20,6 @@ My dream classroom would be an effective learning environment that inspired stud
 
 The foundation of my dream workspace would be that all aspects of it would be created for the students to use, collaborate with, build around, and learn from.  
 
+##My STEAM goals...
+
+My goal is to put science in the hands of our students...to show them the world around them by having them "do" science rather than listen to how it works.  I want to see students excited about their science courses, students who are encouraged to passionately pursue science at the next level.  Ultimately I wish to see students who personally pursue science through their own initiative, who seek answers to science questions they are curious about, and who find joy in the natural world surrounding them.
