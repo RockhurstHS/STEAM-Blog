@@ -11,9 +11,9 @@ The Rockhurst Photography Club and the Rockhurst Astronomy Club joined forces to
   <img alt="Super Eclipse 2015, Photo Courtesy of Tim Nendick" src="{{site.baseurl}}/img/supereclipse2015.jpg">
 </div>
 
-We met on the RHS baseball field at dusk: Mr. Paul Winkeler and his earth science students, Mr. Tim Nendick and some of his  chemistry students and Ms. Ann Lehane and some of her photography students.  The skies had been full of billowing clouds all day, but luckily, for the event, the skies became crystal clear as the evening air cooled.  Everyone was armed with their lawn chairs, blankets, telescopes, cameras and tripods.  
+We met on the RHS baseball field at dusk: Mr. Paul Winkeler and his earth science students, Mr. Tim Nendick and some of his  chemistry students and Ms. Ann Lehane and some of her photography students.  The skies had been full of billowing clouds all day, but luckily, for the event, the skies became crystal clear as the evening air cooled.  Everyone was armed with their lawn chairs, blankets, telescopes, cameras and tripods.
 
-The large schmidt cassegrain Schmidt telescope was in place, thanks to Mr. Tim Nendick.   This was a donation to RHS and Mr. Nendick has been working to make the telescope easier for students to use spent some time refurbishing to restore it to operating condition. This 10” reflector telescope has a 2500mm/f10 lens through which we could view the night sky.  Mr. Nendick showed us how to use adaptor rings to mount his Canon camera to the telescope and he took some photographs of the moon through the lens of the telescope.  
+The large Schmidt telescope was in place, thanks to Mr. Tim Nendick.   This was a donation to RHS and Mr. Nendick has been working to make the telescope easier for students to use . This 10” reflector telescope has a 2500mm/f10 lens through which we could view the night sky.  Mr. Nendick showed us how to use adaptor rings to mount his Canon camera to the telescope and he took some photographs of the moon through the lens of the telescope.
 
 Students, telescopes and cameras with giant lenses lined the baseball field as we watched the moon rise and crest, capturing the lunar metamorphosis on all of our devices.
 
