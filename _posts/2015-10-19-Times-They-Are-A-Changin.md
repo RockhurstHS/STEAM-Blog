@@ -37,13 +37,15 @@ T= .08(A-M) represents the equation that is used in a state to tax its citizens 
 ...In a college level lecture class there are 150 students.  62% are women.  If 58% of the men pass the class and 64% of the women pass the class, what percent of the entire class failed? 
 
 ...Tim’s Catering presented the following bill to a customer:
-20 sandwiches
-5 salads
-25 bottles of water
-25 cookies
+|Quantity| Item|
+|...|... |
+|20 |sandwiches|
+|5 |salads|
+|25 |bottles of water|
+|25 |cookies|
 ________________________________
-Delivery charge			$22.50
-Grand Total			$168.50
+Delivery charge|			$22.50
+Grand Total	|		$168.50
 
 ...What percent did Tim add-on to the bill for delivering the food?
 
