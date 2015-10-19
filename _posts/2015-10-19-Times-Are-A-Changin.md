@@ -4,7 +4,8 @@ author: franklyngar
 title: " The Times They Are A-Changin' " Bob Dylan 1965
 ---
 
-<blockquote>Come gather 'round people
+
+<blockquote> Come gather 'round people
 Wherever you roam
 And admit that the waters
 Around you have grown
