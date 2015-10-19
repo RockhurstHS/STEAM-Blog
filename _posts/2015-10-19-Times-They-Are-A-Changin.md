@@ -20,7 +20,9 @@ For the times they are a-changin'.</blockquote>
 Well Bob, 50 years later, your words still ring true.
 I intentionally asked to proctor the PSAT Wednesday October 14.  I wanted to see our students in action.
 Derek Green, sophomore, was sitting in the front of the room.  I was pleased to see Derek working backwards in one of the multiple choice questions.  He worked from the answer back to the question.
+
 x2y+x+2xy+2
+
 is a problem that is solved by factoring out the GCF by grouping terms together.  In Algebra 1 we call it factoring by grouping.  This is a particularly difficult one because you must use the factoring by grouping technique twice.
 The answer (of course) is (x+2)(xy+1).  Derek multiplied the binomials in the answer together to prove that it was equivalent to the original problem.
 
@@ -95,7 +97,7 @@ T= .08(A-M) represents the equation that is used in a state to tax its citizens 
 </div>
 
 |Quantity| Item|
-|---|--- |
+|---|---:|
 |20 |sandwiches|
 |5 |salads|
 |25 |bottles of water|
@@ -106,4 +108,5 @@ T= .08(A-M) represents the equation that is used in a state to tax its citizens 
 '''What percent did Tim add-on to the bill for delivering the food?
 
 As Ignatian educators we must adapt to our ever changing world.  The new PSAT, ACT, and SAT call us to refocus our teaching techniques to emphasize a problem solving approach.  Sure, we must still teach the fundamental processes of solving linear equations, graphing linear equations in two variables, factoring polynomials, the quadratic formula, and the laws of exponents.    Creating meaningful, challenging, and interdisciplinary problems for our students must be the goal of our STEAM initiatives.
+
 FOR THE TIMES….THEY ARE A CHANGIN’
