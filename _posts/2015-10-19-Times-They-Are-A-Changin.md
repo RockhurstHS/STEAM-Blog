@@ -21,7 +21,7 @@ Well Bob, 50 years later, your words still ring true.
 I intentionally asked to proctor the PSAT Wednesday October 14.  I wanted to see our students in action.
 Derek Green, sophomore, was sitting in the front of the room.  I was pleased to see Derek working backwards in one of the multiple choice questions.  He worked from the answer back to the question.
 
-<p class="text-center">x^2y+x+2xy+2</p>
+<p class="text-center">x<sup>2</sup>y+x+2xy+2</p>
 
 is a problem that is solved by factoring out the GCF by grouping terms together.  In Algebra 1 we call it factoring by grouping.  This is a particularly difficult one because you must use the factoring by grouping technique twice.
 The answer (of course) is (x+2)(xy+1).  Derek multiplied the binomials in the answer together to prove that it was equivalent to the original problem.
@@ -39,6 +39,7 @@ T= .08(A-M) represents the equation that is used in a state to tax its citizens 
 '''In a college level lecture class there are 150 students.  62% are women.  If 58% of the men pass the class and 64% of the women pass the class, what percent of the entire class failed? 
 
 '''Tim’s Catering presented the following bill to a customer:
+
 <div class="container">
   <div class="columns">
     <div class="Quantity column">
