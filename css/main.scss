@@ -231,7 +231,7 @@ body {
     img:not(:first-child), a.image-popup-vertical-fit:not(:first-child) {
       margin-left: $PADDING;
     }
-    
+
   }
 
   .inverted {
@@ -243,7 +243,11 @@ body {
     list-style: none;
     padding-left: 0;
   }
-  
+
+  .margin-bottom-list > li {
+    margin-bottom: $PADDING;
+  }
+
   #recent-posts-list li span {
     color: #bbbbbb;
   }
