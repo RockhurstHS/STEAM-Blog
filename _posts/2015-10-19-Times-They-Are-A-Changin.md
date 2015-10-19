@@ -37,6 +37,63 @@ T= .08(A-M) represents the equation that is used in a state to tax its citizens 
 '''In a college level lecture class there are 150 students.  62% are women.  If 58% of the men pass the class and 64% of the women pass the class, what percent of the entire class failed? 
 
 '''Tim’s Catering presented the following bill to a customer:
+<div class="container">
+  <div class="columns">
+    <div class="Quantity column">
+      Quantity
+    </div>
+    <div class="Item column">
+      Item
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="20 column">
+      20
+    </div>
+    <div class="sandwiches column">
+      sandwiches
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="5 column">
+      5
+    </div>
+    <div class="salads column">
+      salads
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="25 column">
+      25
+    </div>
+    <div class="cookies column">
+      cookies
+    </div>
+  </div>
+  
+  <div class="columns">
+    <div class="Delivery charge column">
+      Delivery charge
+    </div>
+    <div class="$22.50 column">
+      $22.50
+    </div>
+  </div>
+  
+  
+  <div class="columns">
+    <div class="Grand Total column">
+      Grand Total
+    </div>
+    <div class="$168.50 column">
+      $168.50
+    </div>
+  </div>
+</div>
+
 |Quantity| Item|
 |---|--- |
 |20 |sandwiches|
