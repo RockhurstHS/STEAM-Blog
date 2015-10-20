@@ -57,9 +57,15 @@ larryruby:
   title: Principal, 2005 - 2010
   image: img/larryruby.jpg
   profile: false
-  
+
 annlehane:
   name: Ann Lehane
   title: Theatre Manager/Facility Rental
   image: img/annlehane.jpg
+  profile: false
+
+andywilcox:
+  name: Andy Wilcox
+  title: Robotics Teacher and Coach
+  image: img/andywilcox.jpg
   profile: false
