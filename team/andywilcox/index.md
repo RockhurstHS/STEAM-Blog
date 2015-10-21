@@ -12,7 +12,7 @@ Students learn best by doing - in the lab, in the shop. When possible, all teach
 
 ##My dream classroom
 
-Cabinets, Whiteboards, and tools, lots of each. Cabinets for storage and organization. Whiteboards for communication/iteration. Tools to to build things. 
+Cabinets, Whiteboards, and tools, lots of each. Cabinets for storage and organization. Whiteboards for communication/iteration. Tools to build things. 
 
 ##My STEAM goals
 
