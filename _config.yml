@@ -1,8 +1,10 @@
 # Site settings
 title: Full STEAM Ahead
 baseurl: ""
-url: "https://steam.rockhursths.edu"
+url: "http://steam.rockhursths.edu"
 
+paginate: 15
+paginate_path: /page:num/
 
 #email:
 #description: > # this means to ignore newlines until "baseurl:"

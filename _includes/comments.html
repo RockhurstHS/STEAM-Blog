@@ -39,22 +39,20 @@
     {% endfor %}
   </ul>
 
-  <div class="container-fluid inverted">
-    <form id="comments-form" action="http://pooleapp.com/stash/bf87a364-375f-412a-9ed6-bf48cb9a3193/" method="post">
-      <div class="form-group">
-        <h2>Leave your comment</h2>
-        <input type="hidden" name="redirect_to" value="{{ site.baseurl }}/thanks.html" />
-        <input type="hidden" name="path" value="{{ page.url }}" />
-        <label for="name">Name</label>
-        <input type="text" class="form-control" placeholder="Your Name" name="name">
-        <label for="url">Website <span>(optional)</span></label>
-        <input type="text" class="form-control" placeholder="Your website (optional)" name="url">
-        <label for="email">Email <span>(we'll never spam you)</span></label>
-        <input type="text" class="form-control" placeholder="Email" name="email">
-        <label for="comment">Comment</label>
-        <textarea class="form-control" rows="5" name="comment" placeholder="Comment"></textarea>
-        <input id="comment-form-submit-button" type="submit" class="btn btn-primary" value="Post Comment" class="submit" />
-      </div>
-    </form>
+  <div id="disqus_thread"></div>
+    <script>
+        var disqus_config = function () {
+            this.page.url = '{{ page.url | prepend: site.url }}';
+            this.page.identifier = this.page.url;
+        };
+        (function() {  // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+
+            s.src = '//steam-blog.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   </div>
-</div>

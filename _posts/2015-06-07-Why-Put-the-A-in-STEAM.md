@@ -5,6 +5,8 @@ title: Why Put the "A" in STEAM?
 ---
 **Let's start here**
 
+Greatness is about Vision
+
 <div class="flex-wrapper-no-magnifique">
   <img src="{{site.baseurl}}/img/why-put-the-a-in-steam.png" alt="Entrepreneurialism & Creativity">
 </div>

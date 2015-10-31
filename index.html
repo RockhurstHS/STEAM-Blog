@@ -5,7 +5,7 @@ layout: default
   <div class="row">
     <div class="col-md-8">
 
-      {% for post in site.posts limit: 15 %}
+      {% for post in paginator.posts %}
 
         {% include excerpt.html %}
 
@@ -14,7 +14,7 @@ layout: default
     </div>
     <div class="col-md-4">
 
-      {% include recent-posts.html %}
+      {% include paginated-posts.html %}
 
     </div>
   </div>
