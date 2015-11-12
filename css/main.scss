@@ -238,6 +238,14 @@ body {
 
   }
 
+  .float-left {
+    float: left;
+  }
+
+  .float-right {
+    float: right;
+  }
+
   .inverted {
     background-color: $BLACK;
     color: $WHITE;
@@ -250,6 +258,10 @@ body {
 
   .margin-bottom-list > li {
     margin-bottom: $PADDING;
+  }
+
+  .thumbnail {
+    width: 20%;
   }
 
   #recent-posts-list li span {
