@@ -69,3 +69,9 @@ andywilcox:
   title: Robotics Teacher and Coach
   image: img/andywilcox.jpg
   profile: true
+
+joeleroy:
+  name: Joe LeRoy
+  title: Math Chair
+  image: img/joeleroy.jpg
+  profile: false
