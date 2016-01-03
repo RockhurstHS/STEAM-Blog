@@ -113,7 +113,7 @@ html {
   .biblical-verse {
     font-family: 'DayRoman';
   }
-  
+
   .byline {
     color: $LIGHT_GREY;
     margin-bottom: 3 * $PADDING;
@@ -213,6 +213,23 @@ body {
 
   .center {
     text-align: center;
+  }
+
+  /* responsive YouTube video */
+  /* http://embedresponsively.com/ */
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 
   /* http://codepen.io/imohkay/pen/gpard */
