@@ -27,9 +27,13 @@ In terms of actual statistics content, the curriculum covers:
 3. Experimental design, sampling, drawing conclusions
 4. Correlation and regression
 
-Statistics is becoming more and more important in today’s world. Some even suggest that it is [more important than the Calculus](https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education?language=en). Traditionally, the existing secondary mathematics track aimed to produce as many engineers as possible. While their still exists a dearth in the engineering workforce, data science and business intelligence also compete as major players in today’s STEM marketplace. [Some universities](http://www.rochester.edu/data-science/) are even building entire Data Science buildings.
+Statistics is becoming more and more important in today’s world. Some even suggest that it is [more important than the Calculus](https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education?language=en). 
+
 
 <iframe src="https://embed-ssl.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+Traditionally, the existing secondary mathematics track aimed to produce as many engineers as possible. While their still exists a dearth in the engineering workforce, data science and business intelligence also compete as major players in today’s STEM marketplace. [Some universities](http://www.rochester.edu/data-science/) are even building entire Data Science buildings.
 
 How do we support and create opportunities for all of our students? Can we have our cake and eat it too?
 
