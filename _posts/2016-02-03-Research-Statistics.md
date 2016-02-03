@@ -41,7 +41,9 @@ My dream would be for every Rockhurst senior to take either AP Calculus or AP St
 
 Turning this reflection into action provides some difficult challenges. How do we vertically align our mathematics curriculum to support both calculus and statistics? How do inject some of these statistical practices into our science curriculum? Where does computer science fit in?
 
-So where is Rockhurst right now? For the 2016-2017 school year, Rockhurst will be offering AP Statistics. This class will count as a math credit; therefore, some students will have the option of taking this course instead of AP Calculus, or precalculus, or even College Algebra. 
+So where is Rockhurst right now? 
+
+For the 2016-2017 school year, Rockhurst will be offering AP Statistics. This class will count as a math credit; therefore, some students will have the option of taking this course instead of AP Calculus, or precalculus, or even College Algebra. 
 
 The mathematics and science departments are looking into how to use programs such as Microsoft Excel more intentionally in their curriculum. The math department is also studying the degree in which statistics shows up on the SAT exam. The steam team are working with [Rockhurst University’s](http://www.rockhurst.edu/helzberg-school-of-management/certificate-programs/data-science-certificates/) data analysis leadership to learn about how students in higher education learn these emerging fields. 
 
