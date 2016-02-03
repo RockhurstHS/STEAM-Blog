@@ -1,19 +1,27 @@
-Last November, I had the opportunity to participate in the [NCSSS](http://ncsss.org/)  (National Consortium of Secondary STEM Schools) conference in New York City. NCSSS is pretty neat since it is an acronym that contains an acronym! Rockhurst High School can learn a lot about the successes and challenges experienced by other STEM schools. Ultimately, how can Rockhurst integrate some of these innovative ideas with the non-negotiable Jesuit identity that is paramount in forming men for others?
+---
+layout: post
+author: gregowsley
+title: Service Learning
+---
+Last November, I had the opportunity to participate in the [NCSSS](http://ncsss.org/)  (National Consortium of Secondary STEM Schools) conference in New York City. An acronym that contains an acronym? How meta! Rockhurst High School can learn a lot about the successes and challenges experienced by other STEM schools. Ultimately, how can Rockhurst integrate some of these innovative ideas with the non-negotiable Jesuit identity that is paramount in forming men for others?
 
-In my first of a series of posts, I will reflect on the impact a freshmen research statistics course made at Thomas Jefferson High School for Science & Technology located in our nation’s capital.
+In my first of a series of posts, I will reflect on the implementation of a freshmen research statistics at [Thomas Jefferson High School for Science & Technology](https://www.tjhsst.edu/) .
 
 TJ requires all freshmen to take a Research Statistics course during their first semester of their freshman year. This course serves two purposes. One, it’s a strategic choice to give the school time to help properly place students in the appropriate math class the following semester (The students are coming from a variety of feeder schools). Secondly, and more importantly, freshmen then learn the following four skills:
+
 1. Provide a solid background for future science courses as well as senior lab
 2. Better understand the implications of real-world quantitative studies and policies
 3. Teach how to ask the right questions when trying to solve a problem
 4. Improve students’ communication skills
 
 There are also some secondary goals:
+
 1. Teaching freshmen better study skills
 2. Improving organizational skills via weekly notebook checks
 3. Providing a framework for students to learn mathematics and statistics using a hands-on approach
 
 In terms of actual statistics content, the curriculum covers:
+
 1. Summarizing data and looking at distributions
 2. Significance, confidence intervals, and comparisons
 3. Experimental design, sampling, drawing conclusions
