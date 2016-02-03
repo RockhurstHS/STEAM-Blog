@@ -5,7 +5,7 @@ title: NCSSS Part I - Research Statistics
 ---
 Last November, I had the opportunity to participate in the [NCSSS](http://ncsss.org/)  (National Consortium of Secondary STEM Schools) conference in New York City. An acronym that contains an acronym? How meta! Rockhurst High School can learn a lot about the successes and challenges experienced by other STEM schools. Ultimately, how can Rockhurst integrate some of these innovative ideas with the non-negotiable Jesuit identity that is paramount in forming men for others?
 
-In my first of a series of posts, I will reflect on the implementation of a freshmen research statistics at [Thomas Jefferson High School for Science & Technology](https://www.tjhsst.edu/) .
+In my first of a series of posts, I will reflect on the implementation of a freshmen research statistics course at [Thomas Jefferson High School for Science & Technology](https://www.tjhsst.edu/) .
 
 TJ requires all freshmen to take a Research Statistics course during their first semester of their freshman year. This course serves two purposes. One, it’s a strategic choice to give the school time to help properly place students in the appropriate math class the following semester (The students are coming from a variety of feeder schools). Secondly, and more importantly, freshmen then learn the following four skills:
 
@@ -27,11 +27,11 @@ In terms of actual statistics content, the curriculum covers:
 3. Experimental design, sampling, drawing conclusions
 4. Correlation and regression
 
-Statistics is becoming more and more important in today’s world. Some even suggest that it is [more important than the Calculus](https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education?language=en). 
+Statistics is becoming more and more important in today’s world. Some even suggest that it is [more important than Calculus](https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education?language=en). 
 
-
-<iframe src="https://embed-ssl.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<div class="embed-container">
+  <iframe src="https://embed-ssl.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education.html" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 Traditionally, the existing secondary mathematics track aimed to produce as many engineers as possible. While their still exists a dearth in the engineering workforce, data science and business intelligence also compete as major players in today’s STEM marketplace. [Some universities](http://www.rochester.edu/data-science/) are even building entire Data Science buildings.
 
@@ -43,7 +43,7 @@ Turning this reflection into action provides some difficult challenges. How do w
 
 So where is Rockhurst right now? 
 
-For the 2016-2017 school year, Rockhurst will be offering AP Statistics. This class will count as a math credit; therefore, some students will have the option of taking this course instead of AP Calculus, or precalculus, or even College Algebra. 
+For the 2016-2017 school year, Rockhurst will be offering AP Statistics. This class will count as a math credit; therefore, some students will have the option of taking this course instead of AP Calculus, or Precalculus, or even College Algebra. 
 
 The mathematics and science departments are looking into how to use programs such as Microsoft Excel more intentionally in their curriculum. The math department is also studying the degree in which statistics shows up on the SAT exam. The steam team are working with [Rockhurst University’s](http://www.rockhurst.edu/helzberg-school-of-management/certificate-programs/data-science-certificates/) data analysis leadership to learn about how students in higher education learn these emerging fields. 
 
