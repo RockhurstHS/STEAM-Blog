@@ -29,6 +29,8 @@ In terms of actual statistics content, the curriculum covers:
 
 Statistics is becoming more and more important in today’s world. Some even suggest that it is [more important than the Calculus](https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education?language=en). Traditionally, the existing secondary mathematics track aimed to produce as many engineers as possible. While their still exists a dearth in the engineering workforce, data science and business intelligence also compete as major players in today’s STEM marketplace. [Some universities](http://www.rochester.edu/data-science/) are even building entire Data Science buildings.
 
+<iframe src="https://embed-ssl.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 How do we support and create opportunities for all of our students? Can we have our cake and eat it too?
 
 My dream would be for every Rockhurst senior to take either AP Calculus or AP Statistics. Not all of our students want to be engineers, and that is ok! However, data analytics impact all fields and the more we can support our students with skills in data analysis, the better we support them for their future. Furthermore, the new SAT of 2016 claims three specific foci, [one of which being data analysis](https://collegereadiness.collegeboard.org/about/alignment/math/problem-solving-data-analysis).
