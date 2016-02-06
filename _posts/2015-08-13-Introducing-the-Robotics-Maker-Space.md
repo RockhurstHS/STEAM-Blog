@@ -1,6 +1,7 @@
 ---
 layout: post
 author: jwclark
+title: Introducing the Robotics Maker Space
 ---
 I had the opportunity to tour the new Robotics maker space this afternoon, and I tell you - it's as if this room was predestined for this very purpose. There's even a 4-pillar support colloseum around the robot battleground in the center of the classroom! You've really got to see it up close to feel the excitement of this room's potential. Moreover, there's plenty of space for the heavy fabrication machinery at the back of the room, and the variety of equipment as you can see in the image below has just enough space to fill the room entirely. Not to mention Andy has good taste in music which sets the work atmosphere just right.
 

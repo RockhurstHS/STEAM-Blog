@@ -1,6 +1,7 @@
 ---
 layout: post
 author: andywilcox
+title: Robotics Students Compete for Top Honors
 excerpt: After school on Dec. 14, the top teams competed in the finals in the Barry Commons, surrounded by fellow classmates and teachers.
 ---
 
