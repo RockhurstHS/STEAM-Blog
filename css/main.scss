@@ -211,8 +211,42 @@ body {
     width: 40px;
   }
 
+  .flex {
+    display: flex;
+  }
+
+  .inline {
+    display: inline-block;
+  }
+
+  .left {
+    justify-content: flex-start;
+    text-align: left;
+  }
+
   .center {
+    justify-content: center;
     text-align: center;
+  }
+
+  .right {
+    justify-content: flex-end;
+    text-align: right;
+  }
+
+  .top {
+    align-items: flex-start;
+    vertical-align: top;
+  }
+
+  .middle {
+    align-items: center;
+    vertical-align: middle;
+  }
+
+  .bottom {
+    align-items: flex-end;
+    vertical-align: bottom;
   }
 
   /* responsive YouTube video */
