@@ -14,13 +14,20 @@
 
     </ul>
     <div id="pagination-container">
-      {% if paginator.previous_page == 1%}
+      {% assign page_minus_1 = paginator.page - 1 %}
+      {% if page_minus_1 >= 2 %}
         <a class="btn btn-default btn-sm" role="button" href="{{ paginator.previous_page_path }}">Prev</a>
       {% endif %}
 
       {% for page in (1..paginator.total_pages) %}
         {% if page == 1 %}
-          <a class="btn btn-default btn-sm" role="button" href="/">{{ page }}</a>
+          {% if page == paginator.page %}
+            <a class="btn btn-info btn-sm" role="button" href="/">{{ page }}</a>
+          {% else %}
+            <a class="btn btn-default btn-sm" role="button" href="/">{{ page }}</a>
+          {% endif %}
+        {% elsif page == paginator.page %}
+          <a class="btn btn-info btn-sm" role="button" href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
         {% else %}
           <a class="btn btn-default btn-sm" role="button" href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
