@@ -6,7 +6,7 @@ person: jwclark
 
 How far back shall I go? I grew up in South Kansas City as a Red Bridge Road Runner, finished middle school as a St. Thomas More Cyclone, high school as a Rockhurst Hawklet class of 2000. Millenial in that sense. All the while, I spent 13 summers growing up along Sleeping Bear National Lakeshore in Michigan. Three of those summers I taught river and lake canoeing, outdoor survival skills, and led youth camping trips into Northern Michigan and Ontario. While finishing college I was a volunteer 7th and 8th grade math teacher at Hartman Elementary school. I now run summer programming camps at Rockhurst High School and will pick up where John McEniry left off with teaching computer science to the high school students.
 
-I hold the following degrees: B.A. Interpersonal Communication and Public Relations (UMKC), B.S. Computer Information Systems (DeVry), and M.S. Computer Science (UMKC). While I focus on software engineering and big data processing, I have extreme interest in machine learning and hope to bring some of it to the students at Rockhurst High School.
+I recently completed my master's degree in computer science from the University of Missouri here in Kansas City. While I focused on software engineering and big data processing, I also held extreme interest in machine learning and hope to bring some of it to the students at Rockhurst High School.
 
 ## My academic philosophy...
 
