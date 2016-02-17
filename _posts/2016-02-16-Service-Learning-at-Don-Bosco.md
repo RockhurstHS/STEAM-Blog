@@ -116,15 +116,50 @@ A better idea of exactly what to create would have been a major key to successfu
 
 We can agree requirements gathering was the greatest problem in understanding the overall process we were trying to digitize.
 
+## Source Code
 
-<!--
-some background / inherent interest
+The project source code is hosted on GitHub at [https://github.com/RockhurstHS/DonBosco2015](https://github.com/RockhurstHS/DonBosco2015). To run it on your machine and see what was built and how it works, you need to first install [Node.js](https://nodejs.org/). Then, from the source directory you'd have to navigate to the DBProgram folder and run <code>npm install</code> to install all of the package dependencies. Finally, run <code>node ./bin/www</code> to launch the web server and check it out at either <code>http://localhost:3000/</code> or <code>http://127.0.0.1:3000/</code>.
 
-starting before the project w/ mandatory training/classes
-apply for projects like this in the future
-half day wasted on HTML
+## Gallery
 
-For each teacher at the Don Bosco ESL Center, this amounts to roughly ten hours of data entry time saved weekly. Or, that is the goal anyway... more on that later.
-
-https://github.com/RockhurstHS/DonBosco2015
--->
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1190.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1190.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1240.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1240.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1238.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1238.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1192.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1192.jpg" alt=""></img></a></div>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1194.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1194.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1195.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1195.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1196.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1196.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1197.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1197.jpg" alt=""></img></a></div>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1198.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1198.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1237.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1237.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1200.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1200.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1211.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1211.jpg" alt=""></img></a></div>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1212.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1212.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1213.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1213.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1217.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1217.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1219.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1219.jpg" alt=""></img></a></div>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1193.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1193.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1191.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1191.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1199.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1199.jpg" alt=""></img></a></div>
+  <div class="col-xs-3">&nbsp;</div>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1220.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1220.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1236.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1236.jpg" alt=""></img></a></div>
+  <div class="col-xs-3">&nbsp;</div>
+  <div class="col-xs-3">&nbsp;</div>
+</div>
