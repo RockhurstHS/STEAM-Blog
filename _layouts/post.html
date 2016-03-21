@@ -1,12 +1,29 @@
 ---
 layout: default
 ---
-{% assign card = site.data.people[page.author] %}
+{% assign authorCount = page.authors | size %}
 <div class="container">
   <div class="row post">
     <div class="col-md-8">
       <h1 class="title"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
-      <p class="byline">Written by {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ page.author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %} | {{ page.date | date: "%-d %B %Y" }}</p>
+      <p class="byline">Written by 
+      {% if authorCount == 0 %}  
+        {% assign card = site.data.people[page.author] %}
+        {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ page.author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+      {% else %} 
+        {% for author in page.authors %}
+          {% assign card = site.data.people[author] %}
+          {% if forloop.first %}
+            {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+          {% elsif forloop.last %}
+            and {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+          {% else %}
+            , {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      | {{ page.date | date: "%-d %B %Y" }}</p>
+      
       <article class="post-content">
 
         {{ content }}
@@ -23,3 +40,6 @@ layout: default
     </div>
   </div>
 </div>
+  
+  
+  

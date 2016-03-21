@@ -330,6 +330,13 @@ body {
   #recent-posts-list li span {
     color: #bbbbbb;
   }
+  
+  #recent-posts-list li span a {
+    color: $LIGHT_GREY;
+    cusor: default;
+    pointer-events: none;
+    text-decoration: none;
+  }
 
   #recent-posts-list li + li {
     padding-top: 2 * $PADDING;

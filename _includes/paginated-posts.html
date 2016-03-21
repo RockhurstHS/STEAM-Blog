@@ -6,9 +6,8 @@
     <ul id="recent-posts-list" class="listing">
 
       {% for post in paginator.posts %}
-        {% assign card = site.data.people[post.author] %}
         <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span> by {{ card.name }}</span>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span> by {% include authors.html %}</span>
         </li>
       {% endfor %}
 

@@ -75,3 +75,15 @@ joeleroy:
   title: Math Chair
   image: img/joeleroy.jpg
   profile: false
+
+andrewwilson:
+  name: Andrew Wilson
+  title: Physics Teacher
+  image: img/andrewwilson.jpg
+  profile: false
+
+timothynendick:
+  name: Timothy Nendick
+  title: Physics Teacher
+  image: img/timothynendick.jpg
+  profile: false
