@@ -4,7 +4,6 @@ author: gregowsley
 title: Sage on the Stage to the Guide on the Side
 ---
 
-
 The following is a popular phrase right now that describes the evolving role of the teacher.
 
 **“From the sage on the stage to the guide on the side.”**
