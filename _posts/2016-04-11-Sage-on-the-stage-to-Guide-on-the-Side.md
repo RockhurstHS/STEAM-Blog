@@ -6,7 +6,7 @@ title: Sage on the Stage to the Guide on the Side
 
 The following is a popular phrase right now that describes the evolving role of the teacher.
 
-**“From the sage on the stage to the guide on the side.”**
+>**“From the sage on the stage to the guide on the side.”**
 
 This concept is alluded to in a previous blog post about the [NCSSS](http://steam.rockhursths.edu/2016/02/03/Research-Statistics.html) conference attended by several Rockhurst faculty. One of the sessions I attended was hosted by the inspirational [Ms. Earnhart](http://www.stempirecentral.com/engineering-design.html) from the [Liberal Arts & Science Academy](http://www.lasahighschool.com/) in Austin, Texas. She tasks her students with a [box project](http://www.stempirecentral.com/box-project.html), but it’s an open-ended project-based assignment. In the session, she told all of us the following:
 
