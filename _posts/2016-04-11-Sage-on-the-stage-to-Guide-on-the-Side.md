@@ -24,6 +24,7 @@ As the keynote speaker of the recent [STEMcon](http://www.stemcon.net/), the pre
 
 <div class="flex-wrapper-no-magnifique">
   <img src="{{site.baseurl}}/img/Facilitate Meaningful Mathematical Discourse.png" alt="Facilitating Meaningful Mathematicsl Discussion">
+  <div class="x1"></div>
 </div>
 
 Pulling from literature, Hermann Hesse’s book, [Journey to the East](http://www.amazon.com/The-Journey-East-Hermann-Hesse/dp/0312421680), features a servant who helped a group of travelers on their quest. Once the servant disappeared, the group lost their way, unable to move forward. They needed their guide. As the story unfolds (spoiler alert), however, the servant ended up being more than a guide; he was the [leader](http://toservefirst.com/definition-of-servant-leadership.html) of the entire organization! As guides and facilitator’s, being experts in our content - and I would add proper pedagogy - is a non-negotiable prerequisite to excellent teaching. 
