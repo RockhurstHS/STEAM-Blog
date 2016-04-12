@@ -1,6 +1,6 @@
 ---
 layout: post
-author: gowsley
+author: gregowsley
 title: Sage on the Stage to the Guide on the Side
 ---
 
