@@ -26,5 +26,5 @@ There are several awards that are handed out following each regional; the top 3 
 What was different?  Honestly, nothing.  As is the case in science and engineering, we learned a great deal from our mistakes.  We would not have been a Rookie All-Star team in Cincinnati without Kansas City being a colossal mess.  Our students learned so much from their mistakes, understood what was expected of them, then made the necessary adjustments to improve.  Simply stated, that's how science works.
 
 <div class="flex-wrapper">
-  <img src="/img/our-robot-ignatius.jpg" alt="Our Robot, Ignatius">
+  <img src="/img/our-robot-ignatius.jpg" alt="Our robot, Ignatius">
 </div>
