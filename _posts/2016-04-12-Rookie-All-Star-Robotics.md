@@ -14,8 +14,17 @@ With our next competition just a few weeks away, our students knew they had to g
 
 When we arrived in Cincinnati, we had a plan.  We knew we had an improved robot, but this time we had a team to support it.  The communication had improved, students took responsibility for their obligations to the team, everyone was determined to contribute.  This was a different team.
 
+<div class="flex-wrapper">
+  <img src="/img/IMG_9670.jpg" alt="Student engineers working on the robot.">
+  <img src="/img/IMG_9668.jpg" alt="Student engineers working in the pit.">
+</div>
+
 When you compete in FIRST Robotics competitions you are placed in a random grouping of 3 teams and you compete against another random group of 3.  It is literally luck of the draw as to who you compete with...and luck did not go our way.  We were constantly stuck with dysfunctional teams that could not contribute and thus our overall record suffered.  However, individually it was clear that our robot was one of the top robots in Cincinnati.  The students promoted our robot's individual stats, showed people our robot and pit, shared our business model with others....they promoted their robot with great vigor.  It would all pay off.
 
 There are several awards that are handed out following each regional; the top 3 awards give teams an automatic ticket to the World Championship in St. Louis.  Deep inside no one was sure what would happen....either we would receive an award and we could head to St. Louis or be shut out and our season would be over.  When it came time for the emcee to announce the "Rookie All-Star" award, you could feel the anxiety over the team as we all held our breath.  We all hoped that the changes we made would pay off........and they did.  We were named the "Rookie All-Star" team for the Cincinnati Regional, making the Jesubots one of the top rookie teams in the world.  In just a few short weeks we will be heading to St. Louis for the FIRST World Championships....with some additional improvements to our program and robot.
 
 What was different?  Honestly, nothing.  As is the case in science and engineering, we learned a great deal from our mistakes.  We would not have been a Rookie All-Star team in Cincinnati without Kansas City being a colossal mess.  Our students learned so much from their mistakes, understood what was expected of them, then made the necessary adjustments to improve.  Simply stated, that's how science works.
+
+<div class="flex-wrapper">
+  <img src="/img/IMG_9661.JPG" alt="Our Robot, Ignatius">
+</div>
