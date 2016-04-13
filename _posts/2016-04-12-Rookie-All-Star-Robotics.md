@@ -15,8 +15,8 @@ With our next competition just a few weeks away, our students knew they had to g
 When we arrived in Cincinnati, we had a plan.  We knew we had an improved robot, but this time we had a team to support it.  The communication had improved, students took responsibility for their obligations to the team, everyone was determined to contribute.  This was a different team.
 
 <div class="flex-wrapper">
-  <img src="/img/IMG_9670.jpg" alt="Student engineers working on the robot.">
-  <img src="/img/IMG_9668.jpg" alt="Student engineers working in the pit.">
+  <img src="/img/IMG_9670.JPG" alt="Student engineers working on the robot.">
+  <img src="/img/IMG_9668.JPG" alt="Student engineers working in the pit.">
 </div>
 
 When you compete in FIRST Robotics competitions you are placed in a random grouping of 3 teams and you compete against another random group of 3.  It is literally luck of the draw as to who you compete with...and luck did not go our way.  We were constantly stuck with dysfunctional teams that could not contribute and thus our overall record suffered.  However, individually it was clear that our robot was one of the top robots in Cincinnati.  The students promoted our robot's individual stats, showed people our robot and pit, shared our business model with others....they promoted their robot with great vigor.  It would all pay off.
