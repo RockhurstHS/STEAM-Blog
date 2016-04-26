@@ -57,4 +57,6 @@ The mentor model serves as a foundation of the [Robotics success](http://steam.r
 
 Students experience extended day opportunities in collaboration with the [Astronomy club](http://steam.rockhursths.edu/2015/10/13/Astrophotography-A-Blending-of-Art-and-Science.html), [Outdoors Club](http://steam.rockhursths.edu/2016/02/10/Spelunking.html). Adult-world connections already occur through the [service-learning model](http://steam.rockhursths.edu/2016/02/16/Service-Learning-at-Don-Bosco.html). (ST1.11) 
 
+I must admit, I feel confident that Rockhurst will achieve a STEM Certification. The [blog posts from this year alone](http://steam.rockhursths.edu/) demonstrate ample evidence of the indicators. 
+
 It has been a great first year and I'm very excited for the incoming class of 2020, they will experience an extraordinarily innovative education. [St. Ignatius will be proud](http://steam.rockhursths.edu/2015/07/30/New-Frontiers.html).
