@@ -9,7 +9,7 @@ excerpt: STEM is a culture, not a curriculum.
 
 The previous words were spoken last February at the AdvancED STEM Summit. The quote resonates with me because the Rockhurst STEAM initiative involves much more than a few new courses.
 
-In the Spring of 2017, Rockhurst High School will pursue a STEM Certification through the only international accrediting agency that offers such a credential. A couple of years after reaching our STEM Certification goal, Rockhurst will celebrate 100 years of school accreditation through this agency!
+In the Spring of 2017, Rockhurst High School will pursue a STEM Certification through the [only international accrediting agency](http://www.advanc-ed.org/services/stem-certification) that offers such a credential. A couple of years after reaching our STEM Certification goal, Rockhurst will celebrate 100 years of school accreditation through this agency!
 
 One of the great things about pursuing the STEM Certification is the fact that the indicators already align and reinforce the existing direction of the Rockhurst STEAM initiative. 
 
