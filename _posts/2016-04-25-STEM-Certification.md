@@ -43,7 +43,7 @@ Performance based assessments are the modus operandi of the [Robotics program](h
 
 Rockhurst is already engaged in a [curriculum design and review process](https://www.siprep.org/uploaded/ProfessionalDevelopment/CDRP/CDRP_Slides.pdf) that is focusing on [Backwards Design](http://www.edutopia.org/pdfs/resources/wiggins-mctighe-backward-design-why-backward-is-best.pdf) and influenced by professional development from [Research for Better Teaching](http://www.rbteach.com/professional-development). (ST1.6)
 
-Next year’s schedule will allow all of our teachers to meet more frequently with colleagues in [professional learning communities](http://www.ascd.org/publications/educational-leadership/may04/vol61/num08/What-Is-a-Professional-Learning-Community%C2%A2.aspx). Moreover, the [STEAM Team](http://steam.rockhursths.edu/team/) engages in nearly daily meetings regarding the future of STEAM at Rockhurst. (ST1.7).
+Next year’s schedule will allow all of our teachers to meet more frequently with colleagues in [professional learning communities](http://www.ascd.org/publications/educational-leadership/may04/vol61/num08/What-Is-a-Professional-Learning-Community%C2%A2.aspx) and teachers will be able to grow as the [teaching profession evolves](http://steam.rockhursths.edu/2016/04/11/Sage-on-the-stage-to-Guide-on-the-Side.html) with the 21st century. Moreover, the [STEAM Team](http://steam.rockhursths.edu/team/) engages in nearly daily meetings regarding the future of STEAM at Rockhurst. (ST1.7)
 
 The exceptional Advanced Placement scores from our students already demonstrate STEM literacy. Moreover, the [perception responses](http://steam.rockhursths.edu/2015/09/21/Survey-Results-are-in.html) regarding the Active Learning Classrooms also exemplify the STEM Standard. (ST1.8)
 
@@ -53,8 +53,8 @@ Teachers have attended nearly a dozen conferences this year alone. Some highligh
   <img src="/img/STEM Experiences.png">
 </div>
 
-The mentor model serves as a foundation of the [Robotics success](http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html). The motto for the Robotics mentors is “Teach them, lead them, let them.” (ST1.10).
+The mentor model serves as a foundation of the [Robotics success](http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html). The motto for the Robotics mentors is “Teach them, lead them, let them.” (ST1.10)
 
-Students experience extended day opportunities in collaboration with the [Astronomy club](http://steam.rockhursths.edu/2015/10/13/Astrophotography-A-Blending-of-Art-and-Science.html), Outdoors Club, etc. Adult-world connections occur through service-learning (ST1.11). 
+Students experience extended day opportunities in collaboration with the [Astronomy club](http://steam.rockhursths.edu/2015/10/13/Astrophotography-A-Blending-of-Art-and-Science.html), [Outdoors Club](http://steam.rockhursths.edu/2016/02/10/Spelunking.html). Adult-world connections already occur through the [service-learning model](http://steam.rockhursths.edu/2016/02/16/Service-Learning-at-Don-Bosco.html). (ST1.11) 
 
-It has been a great first year and I'm very excited for the incoming class of 2020, they will experience an extraordinarily innovative education. St. Ignatius will be proud.
+It has been a great first year and I'm very excited for the incoming class of 2020, they will experience an extraordinarily innovative education. [St. Ignatius will be proud](http://steam.rockhursths.edu/2015/07/30/New-Frontiers.html).
