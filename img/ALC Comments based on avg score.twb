@@ -1,0 +1,2263 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 9300.16.0315.0125                                -->
+<workbook source-build='9.3.0 (9300.16.0315.0125)' source-platform='mac' version='9.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Form Responses 1 (3-23-16 Student Survey - Active Learning Classroom (Responses))' inline='true' name='excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx' version='9.3'>
+      <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/gowsley/Desktop/3-23-16 Student Survey - Active Learning Classroom (Responses).xlsx' interpretationMode='0' password='' server='' validate='no'>
+        <relation name='Form Responses 1' table='[&apos;Form Responses 1$&apos;]' type='table'>
+          <columns gridOrigin='A1:O259:no:A1:O259:0' header='yes' outcome='2'>
+            <column datatype='datetime' name='Timestamp' ordinal='0' />
+            <column datatype='string' name='How do you feel the new classroom has impacted your learning experience?' ordinal='1' />
+            <column datatype='integer' name='work with other students on projects or assignments' ordinal='2' />
+            <column datatype='integer' name='get feedback from my instructor on school work during class' ordinal='3' />
+            <column datatype='integer' name='get feedback from other students on work during class' ordinal='4' />
+            <column datatype='integer' name='move around to work with my instructor or other students' ordinal='5' />
+            <column datatype='integer' name='see other students while they are speaking' ordinal='6' />
+            <column datatype='integer' name='see information when it is displayed on boards' ordinal='7' />
+            <column datatype='integer' name='access classroom tools (markers, whiteboards, etc.)' ordinal='8' />
+            <column datatype='integer' name='learn the way I like to learn' ordinal='9' />
+            <column datatype='integer' name='participate in class' ordinal='10' />
+            <column datatype='integer' name='be comfortable' ordinal='11' />
+            <column datatype='string' name='How often does the layout of the room change?' ordinal='12' />
+            <column datatype='string' name='How often do you or your classmates move the furniture?' ordinal='13' />
+            <column datatype='real' name='Average of Scores' ordinal='14' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Timestamp</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Timestamp]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>Timestamp</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>datetime</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>How do you feel the new classroom has impacted your learning experience?</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[How do you feel the new classroom has impacted your learning experience?]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>How do you feel the new classroom has impacted your learning experience?</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>work with other students on projects or assignments</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[work with other students on projects or assignments]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>work with other students on projects or assignments</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>get feedback from my instructor on school work during class</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[get feedback from my instructor on school work during class]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>get feedback from my instructor on school work during class</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>get feedback from other students on work during class</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[get feedback from other students on work during class]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>get feedback from other students on work during class</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>move around to work with my instructor or other students</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[move around to work with my instructor or other students]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>move around to work with my instructor or other students</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>see other students while they are speaking</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[see other students while they are speaking]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>see other students while they are speaking</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>see information when it is displayed on boards</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[see information when it is displayed on boards]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>see information when it is displayed on boards</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>access classroom tools (markers, whiteboards, etc.)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[access classroom tools (markers, whiteboards, etc.)]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>access classroom tools (markers, whiteboards, etc.)</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>learn the way I like to learn</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[learn the way I like to learn]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>learn the way I like to learn</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>participate in class</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[participate in class]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>participate in class</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>be comfortable</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[be comfortable]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>be comfortable</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>How often does the layout of the room change?</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[How often does the layout of the room change?]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>How often does the layout of the room change?</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>How often do you or your classmates move the furniture?</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[How often do you or your classmates move the furniture?]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>How often do you or your classmates move the furniture?</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Average of Scores</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Average of Scores]</local-name>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias>Average of Scores</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Form Responses 1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:O259:no:A1:O259:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='real' name='[Average of Scores]' role='measure' type='quantitative' />
+      <column datatype='string' name='[How do you feel the new classroom has impacted your learning experience?]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Access Classroom Tools (Markers, Whiteboards, Etc.)' datatype='integer' name='[access classroom tools (markers, whiteboards, etc.)]' role='measure' type='quantitative' />
+      <column caption='Be Comfortable' datatype='integer' name='[be comfortable]' role='measure' type='quantitative' />
+      <column caption='Get Feedback From My Instructor On School Work During Class' datatype='integer' name='[get feedback from my instructor on school work during class]' role='measure' type='quantitative' />
+      <column caption='Get Feedback From Other Students On Work During Class' datatype='integer' name='[get feedback from other students on work during class]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[learn the way I like to learn]' role='measure' type='quantitative' />
+      <column caption='Move Around To Work With My Instructor Or Other Students' datatype='integer' name='[move around to work with my instructor or other students]' role='measure' type='quantitative' />
+      <column caption='Participate In Class' datatype='integer' name='[participate in class]' role='measure' type='quantitative' />
+      <column caption='See Information When It Is Displayed On Boards' datatype='integer' name='[see information when it is displayed on boards]' role='measure' type='quantitative' />
+      <column caption='See Other Students While They Are Speaking' datatype='integer' name='[see other students while they are speaking]' role='measure' type='quantitative' />
+      <column caption='Work With Other Students On Projects Or Assignments' datatype='integer' name='[work with other students on projects or assignments]' role='measure' type='quantitative' />
+      <column-instance column='[How do you feel the new classroom has impacted your learning experience?]' derivation='None' name='[none:How do you feel the new classroom has impacted your learning experience?:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Average of Scores]' derivation='Sum' name='[sum:Average of Scores:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[access classroom tools (markers, whiteboards, etc.)]' derivation='Sum' name='[sum:access classroom tools (markers, whiteboards, etc.):qk]' pivot='key' type='quantitative' />
+      <column-instance column='[be comfortable]' derivation='Sum' name='[sum:be comfortable:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[get feedback from my instructor on school work during class]' derivation='Sum' name='[sum:get feedback from my instructor on school work during class:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[get feedback from other students on work during class]' derivation='Sum' name='[sum:get feedback from other students on work during class:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[learn the way I like to learn]' derivation='Sum' name='[sum:learn the way I like to learn:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[move around to work with my instructor or other students]' derivation='Sum' name='[sum:move around to work with my instructor or other students:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[participate in class]' derivation='Sum' name='[sum:participate in class:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[see information when it is displayed on boards]' derivation='Sum' name='[sum:see information when it is displayed on boards:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[see other students while they are speaking]' derivation='Sum' name='[sum:see other students while they are speaking:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[work with other students on projects or assignments]' derivation='Sum' name='[sum:work with other students on projects or assignments:qk]' pivot='key' type='quantitative' />
+      <group name='[Set 5]' name-style='unqualified' user:ui-builder='lasso-group'>
+        <groupfilter function='member' level='[How do you feel the new classroom has impacted your learning experience?]' member='&quot;Well&quot;' />
+      </group>
+      <layout dim-ordering='alphabetic' dim-percentage='0.278509' group-percentage='0.125' measure-ordering='alphabetic' measure-percentage='0.596491' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#1f77b4'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx]&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:access classroom tools (markers, whiteboards, etc.):qk]&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:get feedback from other students on work during class:qk]&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:work with other students on projects or assignments:qk]&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:see information when it is displayed on boards:qk]&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:move around to work with my instructor or other students:qk]&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:qk]&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:learn the way I like to learn:qk]&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:see other students while they are speaking:qk]&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Number of Records:qk]&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:be comfortable:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:participate in class:qk]&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:get feedback from my instructor on school work during class:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:How do you feel the new classroom has impacted your learning experience?:nk]' type='palette'>
+            <map to='#17becf'>
+              <bucket>&quot;I do not think it has affected my experience much. If anything it has been positive.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;I feel more attentive&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;I greatly enjoy the classrooms. It&apos;s nice to be able to move around so easily.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;I really like it. The chairs are very comfortable and I love how there are three screens for notetaking.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;I think that the active learning classrooms have been beneficial in my math class. However, I&apos;m not a huge fan of the active learning classroom in room 219. The desks are pretty small which makes it harder to write and use multiple materials at the same time. Overall, though, the new classrooms have positively impacted my learning experience.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;It depends upon the classroom, subject, and teacher. For the most part I feel it slightly improves the learning experience, but with certain teachers who are particularly tech savvy and can integrate their lessons into the new classrooms, the learning experience greatly benefits.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;It has impacted my learning experience by helping me stay more engaged in classes and awake.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;It is cool&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;It&apos;s not very different than before. Other than having spinning chairs and three screens instead of one, my learning experience is the same. But I do like the chairs, it is more comfortable. And, of course, there are more whiteboards, but my class doesn&apos;t use them very often.&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;Strongly dislike second floor classroom, to small of writing space, very unorganized&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;The new classroom has positivitely impacted my learning experience. I like the seats. I like how the teacher moves around and writes on multiple boards. I also like sitting in groups.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;A more collaborative environment and a more fun way to learn in the classroom&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;I don&apos;t think it has in any significant way&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;I feel that I have been able to pay better attention and take better notes because of the swiveling chairs and the three screens.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;I have enjoyed it. I like being able to move around while learning and having Mr. Elmore has given me the ability to spread out and move during class.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;I really like the new classrooms, are more comfortable.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;I think that the learning classroom has enhanced my experience in math class, and has enabled me to learn in new ways.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;It had made working together easier. It makes time in class fly. I like presenting and seeing videos and presentations and movies in these classes.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;It has impacted my learning experience in a positive way&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;It is easier to pay attention with the new environment.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;Its great when you do pay attention, but it creates a lot of distractions.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;The active learning classroom has been beneficial for communicating with my peers and my teacher. I appreciate being in an active learning classroom, but I find diffuculty viewing the screen from the corner of the room.&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;The new classroom makes it a lot easier to pay attention during class.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;For some reason, I feel as though it is easier to have discussions and I pay attention better.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;I feel it has helped it tremendously&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;I feel that learning is not easier or harder, it is just more fun and interactive.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;I have two of the active learning classrooms the one is 219 is a little bit easier to get distracted in as the chairs are more free to move around however they are more comfortable. I also have the room in 108. This room is more organized however is less comfortable.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;I think all 3 of th rooms create a better learning environment and would rank them: high desks=low desks&gt;swivel chairs.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;I think the active learning classroom helps me focus when reading and other work. I don&apos;t get distracted playing games because the teacher can see most of our screens. I like being able to move around the desk and chairs&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;It has allowed me to relax and focus on what is being taught to me.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;It has made it easier to learn.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;It is much easier to talk to other students while the teacher is taking (219). However, when we do solo work it is much easier to work.&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;N/A&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;The classroom has helped me learn in a new way&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;The rooms allow you to not be restricted in your chair and be free to move as you need.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;I beleive it helped me to learn more in the classroom as well as helped me to not get bored, but listen to the teacher.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;I feel like the active learning classrooms help me feel tranquil while listening to the teacher.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;I feel the new classroom has had a good and bad influence on me. It is much more comfortable than my other classes and working with other students on homework and projects is also much easier. Seeing the bored at times can be difficult depending on where I sit. With being more comfortable, I can sometimes drift off, which of course is more of a personal control thing I know but that does happen. I also feel that this may happen to others. Having the boards at the table with the markers has also come in handy. They are good for doing examples in class and by putting them up, take away the temptation to cheat.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;I like this classroom a lot, especially the higher tables because I can stand up if I&apos;m tired of sitting or sit if I want to do that, I can think better when I stretch my legs out.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;I think its enchanced my learning experience. I am honestly not a big fan of group work but I don&apos;t mind it and this new classroom has caused there to be more group work and more interactive discussions.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;In a positive way.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;It has helped because I feel a lot more relaxed when I am In that classroom&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;It helps me feel more relaxed and comfortable. Also it helps with taking notes because you can look at any of the screens to see what notes you have to write down.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;It. Creates a change from the regular desk setup which seems to cultivate being distracted. In my math room which has the high tables coach day is able to walk around  and makes it easier for all of us to interact and stay involved.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;Slightly positively at best. I had history in an active learning and the active learning class made it easier to have large group discussions. But other than that I don&apos;t feel as if it gave a positive aspect to note or test taking.&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;The new classroom has impacted my leaning experience when it comes to being able to associate and seek help from my classmates and following the lesson. It is much easier to do so as they are right next to me. Also with multiple options for the boards has helped me copy the notes easily as in some classes I am seated in the back and cannot see as well.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;Helps me relax more and helps me focus when it&apos;s time to work.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;I feel like it is more comfortable than the other classrooms. It&apos;s easy to move around and interact with other classmates. I think it has also improved the ability to see what the teacher is displaying from the projector.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;I feel that the new classroom has impacted my learning experience by giving me a room full of information. I can look any way in the room and still get the lesson that the teacher is giving. The desk setup helps us collaborate on discussions in class. While still giving the tradition feel of being in a normal class room. Overall I have absolutely love the new classrooms and will enjoy seeing the rest of the school getting them.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;I like it compared to the traditional classroom I prefer the layout of the active learning classroom.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;I think it is helped overall, it helps interact with students more and increases group work abilities.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;I&apos;ve appreciated the active learning classroom. For me, the primary benefit has really been the comfort. I&apos;m pretty tall, and the new desks and chairs are far roomier than the usual desks.&#10;In addition, the technology of the screens and projector has been very useful in allowing my teacher to use different kinds of media. It appears to all run very smoothly and is easy to use.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;It has gone well&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;It has stayed the same for me. It has however helped me in focusing in class.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;It makes the learning experience feel much more active.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;Personally, I really enjoy the active learning classrooms and believe it has greatly benefitted my learning this year.&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;The new classroom has benefitted me greatly. I can easily communicate with almost anyone in the class, and the teacher constantly moves around, making it easier to ask questions. Plus the chairs are hella comfortable. If I&apos;m gonna be sitting for almost seven hours every, I would rather not sit on a slab of plastic more solid than Batman&apos;s pecs.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;Haven&apos;t noticed much of anything as far as learning. It&apos;s certainly more engaging but I don&apos;t feel like I&apos;m learning more because of it.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;I feel like it has helped my learning expierence tremendously. And my grades reflect that. The fact that I&apos;m able to be in a group during class and able to ask them questions if confused. I also feel like it&apos;s a more hands on learning enviroment. Usually I&apos;m an anti social shy kind of person. But with the new classroom, it positively forces you to interact with people and engage.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;I feel that the classroom has been a good change. I feel more invested and involved in the lesson and I feel like learning this way is much easier and more fun&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;I like it alot because I don&apos;t like to sit still very long and in this room i get to move around a little. I like the tall chairs more than the short chairs because I&apos;m taller.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;I think it has made marginal improvements.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;I&apos;m not really sure. I think overall it has been pretty helpful. I like having several screens and I like the physical setup of the classroom.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;It has definitely improved comfortability. As for the stand alone desks that swivel, I don&apos;t believe they are the best approach to achieve the learning environment you are seeking. They are, however, great for discussion when everyone genuinely wants to be involved (Flash Seminars).&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;It has made learning much easier because we can turn and focus our attention anywhere in the room.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;It makes it easier to learn because the enviorment is better&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;Personally, I do enjoy the movement and environment of the active learning classroom. I would prefer that more of my classes are in that class because it allows me to be a little bit more comfortable, therefore encouraging me to work a little bit harder.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;The most significant impact the active learning classroom has had on my learning experience is the desks/chairs (room 107).&#10;With normal chairs, you are stuck in one position for 45 minutes for a normal class, which is bearable, but then we&apos;re stuck in them for hours for finals; something that doesn&apos;t feel particularly great. The chairs allow us to easily adjust and turn in a natural way that lets teachers utilize all the white boards in the classroom, something extremely important especially for a subject like math.&#10;I also like the desks for their large amount of space and simple, clean design. They are easy to move and have enough room to fit all my materials in an organized manner, which I find helpful because in most classes I have to constantly rummage through my backpack to get something as simple as a piece of paper.&#10;However, I don&apos;t think either of those things match up to one thing; more people pay attention. I hardly ever see anyone playing games, or messing around with their iPad. It&apos;s just so much easier to pay attention and participate and removes 90\% or the boringness of a normal classroom. I think these classrooms are extremely useful to everyone, students and teachers alike, and truly do live up to their name as active learning classrooms. I love these classrooms and hope that they do get implemented for future Rockhurst students.&#10;I hope this helps. I also hope it wasn&apos;t too long.&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;They&apos;re fine. Easy to relax and learn.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;Group work has been easier to do and the new technology facilitates learning.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;I feel it has made everyone feel more a part of the the class and they are more engaged in the class.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;I feel that the active learning classrooms lead for better discussion based classes.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;I like a certain amount of orderliness in the classroom. When one mixes Mr. Elmore and the active learning classroom with swivel chairs/desks, organization gets thrown out the window (metaphorically speaking because windows can&apos;t actually open in that room). This is not to put down Mr. Elmore&apos;s teaching style. He&apos;s a great teacher. I just believe that his style and the classroom he is paired with don&apos;t compliment each other.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;I think I focus a lot more in class, and it is a lot easier for me to see what the teacher is doing in class because of the tv screens.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;I think the new active learning classrooms make learning easier because you are more comfortable.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;It has been a lot better however I feel like it would be very hard for old teachers to use with out experience&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;It has made it more comfortable to learn instead of sitting in the old desk that you can&apos;t really adjust.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;It is very comfortable and I really like learning in this classroom.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;Negatively. They&apos;re less focused and structured. They&apos;re more chaotic, which distracts me from learning.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;The classroom makes learning less of a chore and makes it more enjoyable. The chairs make for a more relaxed classroom setting.&quot;</bucket>
+            </map>
+            <map to='#98df8a'>
+              <bucket>&quot;These classrooms are awesome. I feel more active in the classroom and am learning more.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;I don&apos;t know, it hasn&apos;t really affected it I think. The main positive outcome that I can get from it is that it is a change from the normal, boring desks that we have to sit in for the other six hours of the day.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;I feel that I am more comfortable and free moving in these classrooms. I never have a hard time viewing what needs to be veiwed or interacting with others&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;I have been able to learn more efficiently and get more work done than in other classes.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;I really like the new classroom(s). The part I like most about this classroom is that everything is move-able. The chairs turn on a swivel and you can adjust the hight to your comfort and the seat shape its self fits quite perfectly too. Having the tables on wheels is also helpful for when we have test or quizes to move into a more appropriate order. Though, I do have one \&quot;problem\&quot; with the room, as to the projector does not have a screen to display on and is instead projecting onto the whiteboard \&quot;blinding\&quot; you if if your looking up at the board from the middle of the room. Other than that Im pretty satisfied and would love to have all my classes in rooms like this.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;I think that the active learning classrooms have enhanced my learning experience. They help to break the rigid monotony of the normal classrooms and they make it easier to move around.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;It feels more open and light. I like the way of movement.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;It has impacted my learning experience greatly. It is much easier to interact with classmates and teachers and classes feel much less like lectures now.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;It is easier to move around and do group work&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;Its a more fun style of learning&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;The ability to move around enhances the learning experience. You can move around in your seat a little to keep you busy while you learn. Being stuck in a seat in other classrooms I often find myself daydreaming cause I&apos;m not able to move around.&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;The new classroom helps me to be able to pay attention to what is going on in class.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;Cool&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;I enjoy being in these classrooms because they are much more fun to be in. I&apos;m not sure how much it affects my learning overall.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;I feel that it has had a very big impact on my learning experience. I feel this because the new classrooms let me be free instead of being trapped in a single desk.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;I have had a good experience with the 1st and 3rd rooms. He 2nd room desks are very much bothersome.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;I really like the new rooms because I like the furniture, and the use of the technology. I think that the new furniture allows for both comfort and versitality becaue you can do so many different things with it. The new technology also does a great job of displaying information.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;I think that the new classroom has been very good for my learning experience this year. I like sitting at a group and discussing problems.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;It has allowed for more variety and flexiblity in class.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;It has impacted my learning on the good side. I am able to interact with people a lot more and better.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;It is making it better&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;Its more comfortable.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;The active learning classroom has impacted my learning experience in a positive way by giving me a comfortable environment to work.&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;The new classrooms have definitely made it easier to collaborate and work on problems with my classmates. Having the whiteboards is also really nice, because sometimes, when working on a particularly difficult problem, I have to erase/start over a lot.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;I do not feel much has changed.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;I feel like the new classroom Allows me to engage in class more and also changes the atmosphere from a boring classroom to a more relaxing and enjoyable one.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;I feel the the new classroom has made beneficial contributions to my learning experience.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;I really appreciate how easy it is for students as well as teachers to communicate with each other. The projector&apos;s/TV&apos;s really help with any visual aids such as English 3200 Notes, Essays, and so forth. This room is incredible in that it&apos;s so easy to be on task because of the comfortability.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;I think that it is easiest for a group discussion.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;It allows for learning to be more active and more engaging.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;It has helped me focus more because I&apos;m usually pretty comfortable and focusing better because I&apos;m not really uncomfortable.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;It is by far my favorite classroom that I have class in. The chairs are comfortable and I like the surrounding white boards. It is very easy to pay attention to the teacher and watch videos.&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;It&apos;s cool&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;Something I noticed with the new classroom is that it makes it super easy to grow bonds w the two or three guys in our block of two tables while not necessarily cutting off communication to others. It&apos;s nice to have a change of scenery from just the normal classroom everyday as well&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;The new classroom has impacted my learning experience by making it easier to learn while at the same time making it easier to pay attention to class.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;Helps me stay focused&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;I feel like it makes the environment much more laid back. It removes some of the pressure.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;I feel that the new classroom hasn&apos;t really helped mostly due to the type of class I have in there.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;I like it very much. I feel that Mr.Jones is very more interactive with the class by walking around and being able to be with the entire class. I also like the chairs, they spin.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;I think it makes for a more laid back classroom, but it doesn&apos;t harm the education in any way. It makes everything a little more comfortable and I tend to pay more attention in my active learning classrooms.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;I&apos;ve been able to connect w my classmates more and easier&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;It has had a positive effect. However, I strongly dislike how there are no windows in the room.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;It hasn&apos;t affected my learning experience.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;It really helps my learning experience. It makes me much more comfortable, and it allows me to learn a lot easier.&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;Positively&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;The new classroom has certainly impacted the environment of the class but I don&apos;t know if it has had any massive effects on learning material. The ease with which I can view projected material is very useful along with the freedom of motion though.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;Helped it by letting me learn with others.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;I feel like it is easier to pay attention in this classroom. I can move around more and feel more comfortable.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;I feel that the new active learning classroom has helped me in a big way.  It is a lot easier to learn and pay attention to people who are speaking and easier to get feed back from other students.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;I like it better than the normal classrooms&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;I think it helps the student who maybe doesn&apos;t learn in the traditional sense of \&quot;teacher-student\&quot;. For example, in my Calc class, if my teacher explains a concept one way and I&apos;m not able to grasp it, one of my peers may help me understand it in his own personal way.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;I&apos;m not sure.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;It has given me an easier way to get help from teachers and other students and also to see classmates while the class is having a group discussion.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;It has made me feel better about being in a classroom. It no longer feels like I am being held captive in an uncomfortable room. Being able to see the \&quot;board\&quot; from any spot in the room so that there is no back of the room.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;It makes learning much more interactive and enjoyable.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;Personally, I don&apos;t think they have helped at all. I think they are more of a distraction if anything. Truthfully, I think they are just a complete waste of money. I haven&apos;t done anything in these classrooms that have benefited my learning. The only think I have used the tvs for were for movies.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;The new classroom has allowed me feel unrestricted by the usual desk. The most impact comes from the easiness manner in which I could get the attention of my teacher or peers. Learning has been positively impacted, but the stiffness of the old desk seem to be more comfortable.&quot;</bucket>
+            </map>
+            <map to='#c5b0d5'>
+              <bucket>&quot;Well&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;I could share more ideas with more people.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;I feel like the new active classrooms have helped me learn alot more because we can be more interactive with technology and with our other classmates.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;I feel the new classroom has impacted my leading by making it easier and more interactive.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;I love these classrooms. It makes the learning environment for me a lot better than normal chairs.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;I think that for some classes the rooms have made my learning experience better but for others it doesn&apos;t work as well.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;In the new classroom, I have more opportunities to communicate with not only my classmates but teacher.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;It has helped by making the learning environment better with better technologies&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;It is a lot easier to participate in class and learn.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;It&apos;s a very progressive and positive update. The classrooms allow for a much comfortable classroom. Being more comfortable allows for more information to be absorbed.&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;So so&quot;</bucket>
+            </map>
+            <map to='#c7c7c7'>
+              <bucket>&quot;The new classroom has impacted my learning experience by allowing for cooperation between classmates. Being able to work with and understand other&apos;s perspectives has helped me view problems and solve problems in new ways.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Has not changed much.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;I feel it is much easier to learn and pay attention being in a more comfortable class with multiple screens throughout the room.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;i feel that the active learning is very helpful when it comes to classes such as math and science because it is easier to get engaged with what is happening in class.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;I like how the classroom is much more casual now. It&apos;s easier to figure stuff out as students instead of just being told how to do it. It&apos;s kind of difficult to see the board sometimes.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;I think it has had a positive impact on my experience.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;I think thee multiple boards that our teacher can write on helps a lot because he doesn&apos;t have to erase things to write more. I also really enjoy the desks and chairs.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;It has been a positive experience with more and more space to write notes as well as a more dynamic classroom and learning experience.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;It has made it more easy to talk to the other classmates. I think it has helped integrate technology into an everyday learning environment.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;It makes it easier to get help from the other students. I also think it is really benficial to have the recorded video lessons so if you miss a day, you can watch the video and learn how to do it on your own time.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Not a ton, it&apos;s more comfortable and enjoyable, but idk how much it has changed the experience&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;The flow of information from teacher to student is much easier with the active learning classroom&apos;s multiple screens and organic setup.&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;They are cool.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;I do not really know&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;I feel like the new classroom has allowed me to converse more and be more interactive.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;I genuinely look forward to classes in which I am in the Active Learning classrooms. The environment is a lot more fluid, and has arguable influenced my learning in a positive way.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;I really enjoy having class in the active learning classrooms. I get the opportunity to have two of my classes in Room 107, English and Math. They are two very different classes, but both teachers implement the technology very well into the learning process. I find that the classrooms make it easier for both discussion and collaboration. I always enjoy having class in those rooms.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;I think that the active learning classroom is considerably superior to the reguar classroom layout, however, I think the problem that it adresses concerning the provision of a better education is somewhat negligible compared to other problems within the classroom. While it does give greater flexibility logistically, it does not show the students the value of the material being taught, nor helps to foster their growth as students. Even the flexibility that the fluid arrangement provides, the room is only as flexible and fluid as the teacher allows or instructs. It is an improvement, certainly, but lesser than what could be done.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;It allows me to see all angles of the room and to also better understand the material by working together with other students at my pod.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;It has helped with being able to face your desk and be able to look straight and see one of the screens.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;It is certainly better than a traditional classroom, but I also feel that the technology has been abused by my teacher in order to do less work. Instead of going over the stuff we need to know, he just &apos;posts&apos; notes and expects us to teach ourselves.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;It&apos;s not much of a big change, but it has opened up opportunities for better learning. The setting gives a different feel and it offers one better understanding for instances when a teacher is lecturing.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;Sometimes it&apos;s a little difficult to focus (especially during this semester) with the added mobility and thingies to mess with. However, that is very rare and does not happen usually. Usually, the classrooms allow for students and teachers to be more involved with each other and the lessons.&quot;</bucket>
+            </map>
+            <map to='#dbdb8d'>
+              <bucket>&quot;The new classroom has led to working in groups being much easier. Also, if you do not understand something, it is much easier to get the attention of the teacher.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;I actually enjoy the discussions we have, more so than the ones in normal classrooms.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;I feel like the active learning classrooms have been a very fun and interesting experience. It makes it much easier to collaborate with students and find a comfortable position to view the board, one of the TVs, or the teacher.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;I feel that these new classrooms should be implemented throughout the school, as they have improved my learning capability and overall classroom experience by a huge margin.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;I like the rooms with the short desks and chairs.  The taller  desks and chairs are more of a distraction and are less comfortable. The shorter desks and chairs are very comfortable and are easier to move around in.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;I think it makes the classroom more comftrable&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;Improved participation and focus.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;It has helped&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;It helps me be in a comfortable enviorment which helps me learn better.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;It seems supplemental, not completely helping but not hurting either.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;Positively, we are. Able to better utilizte technology in the classroom.&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;The new classroom has helped a lot. I like how it allows the table to learn together and work together.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;I am more comfortable in the classroom and I enjoy the classrooms more.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;I feel like the active learning classrooms have made me feel more engaged in my learning.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;I feel the new classroom has allowed for a better group work environment, and a more engaged calssroom.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;I like these new classrooms. They really help and make learning much more relaxed and allow for me to see everyone and move freely to communicate with other classmates.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;I think it&apos;s much more comfortable, and this causes it to be much easier to focus and learn.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;In a positive way&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;It has helped a lot.&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;It helps me feel more open,&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;It was nice a lot more active and moveable&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;Really well&quot;</bucket>
+            </map>
+            <map to='#f7b6d2'>
+              <bucket>&quot;The new classroom has impacted me by helping the class have better discussions.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;Easier to work with people&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;I enjoy the active learning classrooms simply because I am more comfortable and this allows me to focus more on learning&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;I feel that it has helped me to understand the material better because of the greater contact between students in the classroom.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;I have really enjoyed the new classroom as it engages students to do more group work.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;I really like this new classroom since it is a very comfortable and adaptable classroom.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;I think that the new classroom has helped me through enhanced group discussion and comfort in the classroom.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;It has allowed me to be able to move a little and concentrate better.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;It has impacted my notes by making it better.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;It is more comfortable.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;Keeps me more awake. I never am tired in that class ever. Also can talk to different groups of students rather than just the ones around me&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;The active learning classroom is very helpful with taking notes. The multiple TVs make it very easy to see the information. And the whiteboards are handy for group projects.&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;The new classrooms resulted in an almost entirely positive experience.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;Hasn&apos;t changed anything in English but I enjoy it in math.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;I feel like it has helped me to interact and work better with the classmates around me.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;I feel that the biggest reason the new classrooms have impacted me is because they offer a different atmosphere then the rest of my classes. I find in easier to focus in my classes that have an active learning room because of this.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;I like it a lot, its really nice having three screens to choose between&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;I think it has impacted me in a good way. I enjoy being able to move around in my seat and stand up.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;I think they are more comfortable.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;It has been enhanced.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;It has made it much easier to pay attention and easier to work with groups with others because we can all move around.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;It makes it easier to learn&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;Not much of a difference, teaching is basically the same the only difference is I can actively move around in class and get some energy out or post up against a wall.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;The learning hasn&apos;t changed very much but the teaching styles implemented have been vastly different. The use of group work as a teaching aid has skyrocketed because moving into and out of groups is a lot easier than with the old desks.&quot;</bucket>
+            </map>
+            <map to='#ff9896'>
+              <bucket>&quot;They have helped me learn because they are interactive&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;Enhanced it.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;I feel it has allowed me to more easily access the information I need in order to learn the lesson.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;I feel that it makes it easier for some students to not pay attention,mwhile making it harder for the others&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;I have two classes in active learning rooms.  In my class in which the teacher is easily able to keep everyone focused, the room is great.  In my class in which the teacher cannot, the room seems to compound the problem.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;I really think that the new classrooms help with cooperating with other students and positively affect my learning experience.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;I think that the new classrooms have positively impacted my learning this year. being able to work with my table partners has really helped me learn the material better, and the new screens have helped me follow along with the notes better.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;It has allowed me to interact with my fellow classmates.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;It has made it easier for me to focus in class and allowed for more interactive learning.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;It is much easier to discuss and work in groups, which really makes the learning experience more hands-on.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;Much more comfortable and accessible. The chair is amazing in terms of mobility.&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;The chairs and erase boards are nice&quot;</bucket>
+            </map>
+            <map to='#ffbb78'>
+              <bucket>&quot;The only class I have in a new room is math, and I think the screens make it easier for the teacher to display information to the students. However, from the student&apos;s perspective, it&apos;s not that different from a whiteboard.&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Treemap of commens &amp; Average Score'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Form Responses 1 (3-23-16 Student Survey - Active Learning Classroom (Responses))' name='excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx' />
+          </datasources>
+          <datasource-dependencies datasource='excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx'>
+            <column datatype='real' name='[Average of Scores]' role='measure' type='quantitative' />
+            <column datatype='string' name='[How do you feel the new classroom has impacted your learning experience?]' role='dimension' type='nominal' />
+            <column-instance column='[How do you feel the new classroom has impacted your learning experience?]' derivation='None' name='[none:How do you feel the new classroom has impacted your learning experience?:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Average of Scores]' derivation='Sum' name='[sum:Average of Scores:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Average of Scores]' derivation='Sum' name='[sum:Average of Scores:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[none:How do you feel the new classroom has impacted your learning experience?:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:How do you feel the new classroom has impacted your learning experience?:nk]' />
+              <groupfilter function='member' level='[none:How do you feel the new classroom has impacted your learning experience?:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='quantitative' column='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:qk]' included-values='in-range'>
+            <min>2.5</min>
+            <max>5.0</max>
+          </filter>
+          <slices>
+            <column>[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[none:How do you feel the new classroom has impacted your learning experience?:nk]</column>
+            <column>[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value='on' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <size column='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:ok]' />
+              <color column='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:ok]' />
+              <text column='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[none:How do you feel the new classroom has impacted your learning experience?:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Story 1' type='storyboard'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Active Learning Classroom Comments based on average score.</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style />
+      <size maxheight='964' maxwidth='1016' minheight='964' minwidth='1016' />
+      <zones>
+        <zone h='100000' id='2' type='layout-basic' w='100000' x='0' y='0'>
+          <zone h='100000' id='1' param='vert' removable='false' type='layout-flow' w='100000' x='0' y='0'>
+            <zone h='4461' id='3' type='title' w='100000' x='0' y='0' />
+            <zone h='11307' id='4' paired-zone-id='5' removable='false' type='flipboard-nav' w='100000' x='0' y='4461' />
+            <zone h='83817' id='5' paired-zone-id='4' removable='false' type='flipboard' w='100000' x='0' y='15768'>
+              <flipboard active-id='1' show-nav-arrows='true'>
+                <story-points>
+                  <story-point caption='Treemap of Active Learning Classroom Comments by Score' captured-sheet='Treemap of commens &amp; Average Score' id='1' />
+                </story-points>
+              </flipboard>
+            </zone>
+          </zone>
+        </zone>
+      </zones>
+    </dashboard>
+  </dashboards>
+  <windows source-height='28'>
+    <window class='worksheet' name='Treemap of commens &amp; Average Score'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card pane-specification-id='0' param='[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:ok]' type='color' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[:Measure Names]</field>
+            <field>[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[none:How do you feel the new classroom has impacted your learning experience?:nk]</field>
+            <field>[excel-direct.0t8ybdh1qp87hg18k6jng1nygnjx].[sum:Average of Scores:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+    <window class='dashboard' maximized='true' name='Story 1'>
+      <viewpoints />
+      <active id='4' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Treemap of commens &amp; Average Score' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Story 1' width='192'>
+      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
+      AABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
