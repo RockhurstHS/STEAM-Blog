@@ -141,10 +141,6 @@ How has the perception changed since the beginning of the year?  No. All changes
 </div>
 
 
-The positive perceptions of the Active Learning Classrooms remained consistent over the year. 
-
-Welcome to the future of education.
-
 
 
 
