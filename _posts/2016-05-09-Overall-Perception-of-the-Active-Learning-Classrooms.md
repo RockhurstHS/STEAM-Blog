@@ -35,21 +35,9 @@ Using the qualitative data analysis software, Atlas.ti, here are some of the com
 
 And some of those themes relate to each other! 20% of the time students discuss improved attention, they are also saying that the learning is easier.
 
-
-Most of the survey required students to respond to the following likert scale:
-
-
-<div class="flex-wrapper">
-  <img src="/img/Survey Questions.png">
-</div>
-
-
-
 The following question intrigued me:
 
 **Does a relationship exist between the average scores and the short answer responses?**
-
-
 
 
 While playing with Tableau, I discovered a neat way of looking at the data. Using a treemap, one can read the free responses based on the average scores they gave to the questions:
