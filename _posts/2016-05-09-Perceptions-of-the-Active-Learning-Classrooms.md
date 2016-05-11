@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Overall Perception of the Active Learning Classrooms
+title: Perceptions of the Active Learning Classrooms
 excerpt: “More people pay attention. I hardly ever see anyone playing games, or messing around with their iPad. It's just so much easier to pay attention and participate..."
 ---
 
