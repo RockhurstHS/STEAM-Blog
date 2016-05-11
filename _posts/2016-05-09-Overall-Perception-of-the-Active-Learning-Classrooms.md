@@ -72,6 +72,7 @@ The top 15 words of the bottom half are on the left.  The top 15 words of the to
   <img src="/img/Bottom half vs Top half.png">
 </div>
 
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'><noscript><a href='#'><img alt='Average Individual vs. Average Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;ActiveLearningClassroomSurveyData&#47;AverageIndividualvs_AverageGroup&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1020' height='1033' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='ActiveLearningClassroomSurveyData&#47;AverageIndividualvs_AverageGroup' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;ActiveLearningClassroomSurveyData&#47;AverageIndividualvs_AverageGroup&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
 
 
 Hmm...so many words are the same.  What if we crossed out all of the words in common?
