@@ -37,7 +37,7 @@ And some of those themes relate to each other! 20% of the time students discuss 
 
 The following question intrigued me:
 
-#Does a relationship exist between the average scores and the short answer responses?
+# Does a relationship exist between the average scores and the short answer responses?
 
 
 While playing with Tableau, I discovered a neat way of looking at the data. Using a treemap, one can read the free responses based on the average scores they gave to the questions:
@@ -51,7 +51,7 @@ Another interactive way of looking at the data is below. The long horizontal lin
 
 <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'><noscript><a href='#'><img alt='Average Individual vs. Average Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;ActiveLearningClassroomSurveyData&#47;AverageIndividualvs_AverageGroup&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1020' height='1033' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='ActiveLearningClassroomSurveyData&#47;AverageIndividualvs_AverageGroup' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;ActiveLearningClassroomSurveyData&#47;AverageIndividualvs_AverageGroup&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
 
-#Another Idea
+# Another Idea
 
 This image gave me an idea. If we separated the survey respondents into two groups, those that had individual averages above the group average and those whose averages fell below the overall average, then what would we discover?
 
@@ -76,7 +76,7 @@ Remaining words in the top half:
 >**“Comfortable around room”**
 
 
-#What’s the moral of this story? 
+# What’s the moral of this story? 
 
 All students prefer the Active Learning Classrooms. Only 2 out of 252 students had an average rating below a 3 out of 5. Therefore 250 of the 252 students rated the Active Learning Classrooms as creating in improved learning experience. Overall, the average was a 4.365; thus, somewhere between ‘a little easier’ and ‘a lot easier’. 
 
@@ -84,7 +84,7 @@ All students prefer the Active Learning Classrooms. Only 2 out of 252 students h
 The students who rated questions the highest seem to articulate that the comfort is the greatest factor. The bottom half simply state that the room is an improvement. Overall, I believe that we can conclude that the Active Learning Classrooms improved the learning experience of our students this year.
 
 
-#Consistent Perception
+# Consistent Perception
 
 
 How has the perception changed since the beginning of the year?  No. All changes were negligible.  See for yourself:
