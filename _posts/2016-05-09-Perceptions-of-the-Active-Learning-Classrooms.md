@@ -5,7 +5,10 @@ title: Perceptions of the Active Learning Classrooms
 excerpt: “More people pay attention. I hardly ever see anyone playing games, or messing around with their iPad. It's just so much easier to pay attention and participate..."
 ---
 <style>
-p {margin-bottom: 20px; }
+p {
+margin-bottom: 25px;
+margin-top: 25px;
+}
 </style>
 
 The survey results for our 2nd Active Learning Classroom Survey convey so much insight! Just like the last survey, the perception data is overwhelmingly positive.
