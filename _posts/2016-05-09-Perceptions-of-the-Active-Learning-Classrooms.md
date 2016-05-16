@@ -7,7 +7,7 @@ excerpt: “More people pay attention. I hardly ever see anyone playing games, o
 <style>
 p {
 margin-bottom: 25px;
-margin-top: 25px;
+margin-top: 40px;
 }
 </style>
 
