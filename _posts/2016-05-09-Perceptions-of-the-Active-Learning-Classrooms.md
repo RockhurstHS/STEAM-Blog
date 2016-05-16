@@ -9,7 +9,13 @@ p {
 margin-bottom: 10px;
 margin-top: 40px;
 }
+blockquote p {
+margin-top: initial;
+margin-bottom: initial;
+}
 </style>
+
+
 
 The survey results for our 2nd Active Learning Classroom Survey convey so much insight! Just like the last survey, the perception data is overwhelmingly positive.
 
