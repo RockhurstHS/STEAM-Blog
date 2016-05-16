@@ -12,7 +12,7 @@ The survey results for our 2nd Active Learning Classroom Survey convey so much i
 The survey included the following short answer prompt: 
 
 <br>
->**How do you feel the new classroom has impacted your learning experience?**
+### How do you feel the new classroom has impacted your learning experience?
 
 <br>
 Here are two of my favorite quotes:
