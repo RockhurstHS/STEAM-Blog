@@ -28,7 +28,7 @@ We place less emphasis on the traditional text-in, text-out style of problem sol
   <img src="{{site.baseurl}}/img/aquarium.png" alt="Intro to Computer Science, Final Project Screenshot">
 </div>
 
-There's another type of Intro CS course I've seen emerge. It's the same style of course the new AP Computer Science Principles represents. Check out [Harvard and Yale's CS50](https://cs50.harvard.edu/) course. If truly interested, there's an online version of the course anyone can take: (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)[https://www.edx.org/course/introduction-computer-science-harvardx-cs50x].
+There's another type of Intro CS course I've seen emerge. It's the same style of course the new AP Computer Science Principles represents. Check out [Harvard and Yale's CS50](https://cs50.harvard.edu/) course. If truly interested, there's an online version of the course anyone can take: [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 
 The course we offer is more like the [MIT 600x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8). Now, I'm not touting our course as being on the same level as any of these I linked to, but I do think there exists an interesting distinction between the two approaches to teaching Intro to Computer Science. I see value in both. The question asking to compare the two has been asked on Quora, [edX: What are the differences between CS50x (Harvard) or 6.00x (MIT)](https://www.quora.com/edX-What-are-the-differences-between-CS50x-Harvard-or-6-00x-MIT). There are some good persepctives offered on that page.
 
