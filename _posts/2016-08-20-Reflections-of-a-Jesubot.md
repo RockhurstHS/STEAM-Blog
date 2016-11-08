@@ -5,6 +5,8 @@ title: Reflections of a Jesubot
 excerpt: "Everything started with a trip out to the Garmin Corporate Campus to see the big reveal."
 ---
 
+The following reflection is from Harrison Oest, a member of the great class of 2016.
+
 Everything started with a trip out to the Garmin Corporate Campus to see the big reveal. Ten or-so of us met up all the way out on 151ststreet to walk into the building with Mr. Winkeler and Mr. Wilcox as a group to watch the announcement of the game for the 2016 FIRST Robotics competition. After crowding in the auditorium to watch Dean Kamen and Woody Flowers reveal this year's game, we went to a room where we were given a beginner kit of parts and tasked with mocking up the basic electronic circuit and chassis for the bot. The saying, “That's only the tip of the iceberg,” applies here well. I would like to point out that the tip of the iceberg in this situation was part of a monolith-sized chunk of ice. The journey of a rookie team in FIRST Robotics was going to be a long couple of months.
 
 
