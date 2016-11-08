@@ -5,6 +5,8 @@ title: Engineering Internship Reflection
 excerpt: "I have had an incredible experience"
 ---
 
+Miles Wood, member of the great class of 2016, shares his reflection of his internship opportunity.
+
 The Engineering Club was created with an impactful mission in mind: to introduce students to modern concepts of engineering. In its inaugural year, the club did an incredible job of acquainting physics students with the engineering field through the Catapult Competition and the Cardboard Boat Race. However, a lack of practicality prevented the club from fully achieving its purpose. Throughout the club’s second year, Mr. Winkeler worked earnestly to establish strong ties with our neighboring engineering firm, Burns & McDonnell, and create a comprehensive 4-year shadow program. Fortunately, this program took the Rockhurst Engineering Club farther than Mr. Winkeler and I had expected.
 
 
