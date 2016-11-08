@@ -18,9 +18,9 @@ Here are some of my favorite quotes:
 
 ## “Do you know how I learned to create presentation board for science conferences? In my yearbook class.”
 
-##“Do you know when I first learned hot to analyze!? By studying poetry in English literature and learning Latin!”
+## “Do you know when I first learned hot to analyze!? By studying poetry in English literature and learning Latin!”
 
-##“Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
+## “Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
 
 The Rockhurst STEAM initiative is truly about creating opportunities that will unlock the potential of each and every student so that they may passionately pursue their [dreams](http://fox4kc.com/2016/08/16/the-popes-astronomer-speaks-to-students-at-rockhurst-high-school/).  
 
