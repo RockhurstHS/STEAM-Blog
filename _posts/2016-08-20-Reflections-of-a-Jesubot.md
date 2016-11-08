@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Harrison Oest
-title: Pope's Astronomer
+title: Reflections of a Jesubot
 excerpt: "Everything started with a trip out to the Garmin Corporate Campus to see the big reveal."
 ---
 
