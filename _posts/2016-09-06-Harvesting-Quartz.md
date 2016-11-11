@@ -6,6 +6,9 @@ excerpt: "questions of 'why' were as valuable as any sample"
 ---
 
 
+<div class="flex-wrapper">
+  <img src="{{site.baseurl}}/img/HQ1.jpg">
+</div>
 
 
 Science is a subject that is most effective when students encounter an experience with a concept or phenomena.  This encounter fosters a desire within to pursue further knowledge of the concept, meaning student wish to learn more about science.  Science does a wonderful job of capturing the imagination of students by creating questions that students feel driven to get answered.  One of the ways we can create these scientific opportunities of experience is to get outside the building, leave the surroundings of those four walls, and get into a world that functions because of science.
@@ -19,3 +22,12 @@ Our objective for the weekend was to experience a quartz mine and to bring back 
 Once we found the pit that we wanted to work in, we talked about what signs to look for when trying to find quartz.  We showed the students how veins of quartz run throughout an area and what other minerals can be found with quartz.  Students were able to find different types of quartz, even some quartz that had been altered through luminescence.  After 5 hours in the pit, each student had quite a haul of quartz they were able to take home with them.
 
 What our students experienced was a process millions of years old that our planet experienced and left clues for us to uncover.  For them, the conversation and questions of "why?" were as valuable as any sample they returned with.  They were able to experience geology in a manner that is paramount in learning. 
+
+<div class="flex-wrapper">
+  <img src="{{site.baseurl}}/img/HQ2.jpg">
+</div>
+
+
+<div class="flex-wrapper">
+  <img src="{{site.baseurl}}/img/HQ3.jpg">
+</div>
