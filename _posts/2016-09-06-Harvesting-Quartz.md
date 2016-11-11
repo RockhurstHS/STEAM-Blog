@@ -7,7 +7,7 @@ excerpt: "questions of 'why' were as valuable as any sample"
 
 
 <div class="flex-wrapper">
-  <img src="{{site.baseurl}}/img/HQ1.jpg">
+  <img src="{{site.baseurl}}/img/HQ1.JPG">
 </div>
 
 
@@ -24,10 +24,10 @@ Once we found the pit that we wanted to work in, we talked about what signs to l
 What our students experienced was a process millions of years old that our planet experienced and left clues for us to uncover.  For them, the conversation and questions of "why?" were as valuable as any sample they returned with.  They were able to experience geology in a manner that is paramount in learning. 
 
 <div class="flex-wrapper">
-  <img src="{{site.baseurl}}/img/HQ2.jpg">
+  <img src="{{site.baseurl}}/img/HQ2.JPG">
 </div>
 
 
 <div class="flex-wrapper">
-  <img src="{{site.baseurl}}/img/HQ3.jpg">
+  <img src="{{site.baseurl}}/img/HQ3.JPG">
 </div>
