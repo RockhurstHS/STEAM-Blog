@@ -1,6 +1,6 @@
 ---
 layout: post
-author: timnendick
+author: timothynendick
 title: 3D Keychains
 excerpt: "3D Printers are making their way into the Rockhurst High School curriculum"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Miles Wood
+author: mileswood
 title: Engineering Internship Reflection
 excerpt: "I have had an incredible experience"
 ---
