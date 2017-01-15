@@ -170,6 +170,23 @@ html {
   }
 }
 
+/* STEM STANDARD AND INDICATORS */
+#standard-and-indicators {
+  .standard {
+    
+    display: flex;
+    margin-bottom: 1em;
+    
+    .key {
+      flex-basis: 60px;
+      font-weight: bold;
+    }
+    .indicator {
+      flex-grow: 1; 
+    }
+  }
+}
+
 /* PEOPLE */
 #people-container {
   .profile-image-wrapper {
@@ -444,3 +461,5 @@ body {
 // #endregion MEDIA QUERIES
 
 @import 'postmain-boilerplate';
+
+
