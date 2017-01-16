@@ -13,6 +13,9 @@
         },
         "scss" : {
             "spaceUnits" : 2
+        },
+        "yaml" : {
+            "spaceUnits" : 2
         }
     }
 }
