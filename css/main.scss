@@ -173,9 +173,6 @@ html {
 
 /* STEM STANDARD AND INDICATORS */
 #standard-and-indicators {
-  .standard {
-    font-size: 1.5em;
-  }
   table.indicators {
     tr > td {
       padding: $PADDING;
@@ -361,6 +358,11 @@ body {
   .inverted {
     background-color: $BLACK;
     color: $WHITE;
+  }
+  
+  .italic-subtitle {
+    font-style: italic;
+    font-size: 1.5em;
   }
 
   .mono {

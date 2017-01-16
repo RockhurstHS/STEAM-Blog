@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <h1>{{ page.key}}</h1>
+      <p class="italic-subtitle">{{ page.description }}</p>
+      <hr>
+      {{ content }}
+    </div>
+    <div class="col-md-4">
+      {% include recent-posts.html %}
+    </div>
+  </div>
+</div>
