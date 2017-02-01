@@ -2,7 +2,7 @@
 ---
 layout: post
 author: gregowsley
-title: Outreach to Non-Traditional Students
+title: Supporting non-traditional students
 ---
 
 <div class="flex-wrapper">
