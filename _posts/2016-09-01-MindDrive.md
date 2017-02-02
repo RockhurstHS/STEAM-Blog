@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: MindDrive 
+title: Creating Student Opportunities
 excerpt: Students will be 3D printing an autonomous car
 ---
 ## MindDrive
