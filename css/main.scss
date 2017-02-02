@@ -171,6 +171,31 @@ html {
   }
 }
 
+/* STEM STANDARD AND INDICATORS */
+#standard-and-indicators {
+  table.indicators {
+    tr > td {
+      padding: $PADDING;
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      a:focus {
+        outline: initial;
+      }
+    }
+    tr:hover {
+      background-color: #e8e8e8;
+      cursor: pointer;
+    }
+    td.key {
+      font-weight: bold;
+      vertical-align: top;
+      width: 5em;
+    }
+  }
+}
+
 /* PEOPLE */
 #people-container {
   .profile-image-wrapper {
@@ -334,6 +359,11 @@ body {
     background-color: $BLACK;
     color: $WHITE;
   }
+  
+  .italic-subtitle {
+    font-style: italic;
+    font-size: 1.5em;
+  }
 
   .mono {
     font-family: monospace;
@@ -352,18 +382,18 @@ body {
     width: 20%;
   }
 
-  #recent-posts-list li span {
+  #recent-posts-list li span, #stem-accreditation-indicators li span {
     color: #bbbbbb;
   }
 
-  #recent-posts-list li span a {
+  #recent-posts-list li span a, #stem-accreditation-indicators li span a {
     color: $LIGHT_GREY;
     cursor: default;
     pointer-events: none;
     text-decoration: none;
   }
 
-  #recent-posts-list li + li {
+  #recent-posts-list li + li, #stem-accreditation-indicators li + li {
     padding-top: 2 * $PADDING;
   }
 }
@@ -431,3 +461,5 @@ body {
 // #endregion MEDIA QUERIES
 
 @import 'postmain-boilerplate';
+
+

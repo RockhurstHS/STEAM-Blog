@@ -31,6 +31,10 @@ $(document).ready(function () {
       }
     }
   });
+  
+  $('table.indicators tr').click(function() {
+    window.location = $(this).data("href");
+  });
 
 });
 //endregion
