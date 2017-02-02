@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: MindDrive Opportunity for 2 RHS Students
+title: MindDrive 
 excerpt: Students will be 3D printing an autonomous car
 ---
 ## MindDrive
