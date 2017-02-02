@@ -8,7 +8,7 @@ description: Students work independently and collaboratively in an inquiry-based
 [http://steam.rockhursths.edu/2016/03/11/Stretching-the-Spandex-of-Spacetime.html](http://steam.rockhursths.edu/2016/03/11/Stretching-the-Spandex-of-Spacetime.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.2a.jpg">
+  <img src="{{ site.baseurl }}/img/indicators/st1.2a.jpg">
 </div>
 
 ##Meca Challenge
@@ -16,5 +16,5 @@ description: Students work independently and collaboratively in an inquiry-based
 [http://www.mecachallengekc.com/](http://www.mecachallengekc.com/)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.2b.jpg">
+  <img src="{{ site.baseurl }}/img/indicators/st1.2b.jpg">
 </div>

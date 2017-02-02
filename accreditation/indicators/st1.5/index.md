@@ -8,7 +8,7 @@ description: Students demonstrate their learning through performance-based asses
 [http://steam.rockhursths.edu/2016/10/06/MLTS.html](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.5a.jpg">
+  <img src="{{ site.baseurl }}/img/indicators/st1.5a.jpg">
 </div>
 
 ## Rookie All Star Robotics
@@ -16,5 +16,5 @@ description: Students demonstrate their learning through performance-based asses
 [http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html](http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.5b.jpg">
+  <img src="{{ site.baseurl }}/img/indicators/st1.5b.jpg">
 </div>

@@ -8,7 +8,7 @@ description: STEM educators collaborate as an interdisciplinary team to plan, im
 [http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html](http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.7a.jpg">
+  <img src="{{ site.baseurl }}/img/indicators/st1.7a.jpg">
 </div>
 
 ## The LRNG Method
@@ -16,9 +16,9 @@ description: STEM educators collaborate as an interdisciplinary team to plan, im
 [http://steam.rockhursths.edu/2016/11/17/LRNG.html](http://steam.rockhursths.edu/2016/11/17/LRNG.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.7b.jpg">
+  <img src="{{ site.baseurl }}/img/indicators/st1.7b.jpg">
 </div>
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.7c.jpg" alt="The LRNG Method">
+  <img src="{{ site.baseurl }}/img/indicators/st1.7c.jpg" alt="The LRNG Method">
 </div>
