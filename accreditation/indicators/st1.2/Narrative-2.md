@@ -6,7 +6,7 @@ excerpt: Incorporating more authentic problem solving and solution finding into 
 ---
 
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/Indicator 1.2.png">
+  <img src="{{ site.baseurl }}{{ site.baseurl }}/img/Indicator 1.2.png">
 </div>
 
 

@@ -12,5 +12,5 @@ description: Community, post-secondary, business/industry partners and/or famili
 </div>
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.10a.jpg" alt="Students presenting STEAM at ISTE">
+  <img src="{{ site.baseurl }}/img/indicators/st1.10a.jpg" alt="Students presenting STEAM at ISTE">
 </div>

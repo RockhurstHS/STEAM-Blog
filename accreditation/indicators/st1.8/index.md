@@ -12,5 +12,5 @@ description: STEM learning outcomes demonstrate students’ STEM literacy necess
 [http://steam.rockhursths.edu/2016/05/13/To-Infinity-and-Beyond.html](http://steam.rockhursths.edu/2016/05/13/To-Infinity-and-Beyond.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.8a.jpg" alt="The LRNG Method">
+  <img src="{{ site.baseurl }}/img/indicators/st1.8a.jpg" alt="The LRNG Method">
 </div>

@@ -6,7 +6,7 @@ title: Supporting non-traditional students
 ---
 
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/Indicator 1.1.png">
+  <img src="{{ site.baseurl }}{{ site.baseurl }}/img/Indicator 1.1.png">
 </div>
 
 	Rockhurst High School believes that all students can achieve success in STEM curriculum. Over the course of a six year period, the mathematics department transitioned from a restrictive AP Calculus program into an open enrollment opportunity for all students. In 2008, 65 students took either the AP Calculus AB or AP Calculus BC exam. However, the math department supported the increased participation of students to 132 in 2015. Students used to believe that only the smartest students as freshmen would be able to take AP Calculus. In fact, prior to opening up the AP Calculus program, the students who took the exam were often all coming from the same feeder schools that had exceptional sixth through eighth grade math students. Success in AP Calculus was not a function of innate, genetic ability, but really was determined with how well they were mathematically prepared before even entering Rockhurst. Now, the Rockhurst mathematics curriculum is much more vertically aligned to support all students and is now culminating in about half the senior class taking an AP Calculus Exam each year. Another consequence of the open curriculum has been the increased ACT Math scores for Rockhurst students from a 26 composite to a 27.1 composite. 
