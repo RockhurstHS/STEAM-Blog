@@ -10,5 +10,5 @@ The STEAM initiative is thrilled to help two Rockhurst students participate in t
 
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.1a.jpg">
+  <img src="/img/MindDrive.jpg">
 </div>
