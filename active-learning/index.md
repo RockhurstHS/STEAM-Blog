@@ -12,7 +12,7 @@ Active Learning is a new educational mindset. [Steelcase Education is a major pl
 <div class="flex-wrapper">
   <img src="/img/Active Learning.jpeg">
 </div>
-
+[Image Credit: Steelcase Education Solutions - Active Learning](https://edtechdigest.wordpress.com/2013/11/22/purposeful-design/credit-steelcase-education-solutions-active-learning/)
 
 How do we redesign classroom space?  
 How do we adjust our pedagogy?
