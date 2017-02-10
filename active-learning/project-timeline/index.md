@@ -1,6 +1,6 @@
 ---
 layout: active-learning
-title: Project Timeline
+title: Steelcase Grant
 ---
 
 The [vision](http://steam.rockhursths.edu/vision/) of Rockhurst High School’s STEAM initiative is to form innovative men with and for others who live and collaborate in an engaging learning environment. This school wide initiative is not only bolstering STEM subjects, but is catalyzing a movement from a [teacher-centered to student-centered](http://steam.rockhursths.edu/2016/04/11/Sage-on-the-stage-to-Guide-on-the-Side.html) learning environment. Every student deserves opportunities to be successful, not simply the top 20%. Therefore, this Steelcase Active Learning Center Grant will be used to assist and support our most at-risk students through the design of an Active Learning Center Support Hub.
