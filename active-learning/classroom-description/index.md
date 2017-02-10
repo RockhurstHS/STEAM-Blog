@@ -14,7 +14,7 @@ When constinuents tour these rooms, a common comment is: "Where's the teacher"? 
  
  <div class="flex-wrapper">
   <img src="/img/Room312.JPG">
-  <img src="/img/StandingandSitting.JPG">
+  <img src="/img/Room 107 with Teacher.JPG">
 </div>
 
 
