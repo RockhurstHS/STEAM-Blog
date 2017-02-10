@@ -7,3 +7,7 @@ Will consistent exposure to an Active Learning environment impact a student’s 
 
 Part of the Rockhurst vision is to be an educational leader in the community, a ‘school for others’. We already try to serve the larger educational community by sharing our learning with others. As a private institution, we are agile. We are committed to sharing what we learn with all other educational institutions so that they may make the best high-impact decisions for their students, especially the most at-risk students who need a more individualized and active learning approach to empower their learning. 
 	
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/Screen Shot 2017-02-10 at 10.23.32 AM.png">
+</div>
+
