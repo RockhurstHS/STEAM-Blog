@@ -11,7 +11,5 @@ In order to accommodate the Steelcase Education Active Learning Center, the exis
 
 A mix of six Verb Chevron tables and twelve Node Tablet arm chairs will be installed into the room. Teachers of the Magis Academy and the Student Success Center have expressed the importance of student’s being able to easily choose between group work settings and individual work environments. Since all of the Magis Academy classes have small class sizes, the mix in furniture will be ideal for any learning activity. The Student Success Center averages between twenty and thirty students a day, so the seating capacity will be sufficient for its needs. 
 
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1jUIbSyKnhFoiSW78ZB-4dR88WAhHmT0hZavZEIw94_E/pubchart?oid=1176832654&amp;format=interactive"></iframe>
-
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1jUIbSyKnhFoiSW78ZB-4dR88WAhHmT0hZavZEIw94_E/pubchart?oid=1086130673&amp;format=interactive"></iframe>
+
