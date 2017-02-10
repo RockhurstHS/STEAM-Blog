@@ -4,7 +4,7 @@ layout: active-learning-landing
 # What is Active Learning?
 
 <blockquote>“A big problem is that traditional learning experiences are not aligned with how the brain works, particularly as it relates to attention.”
-<br><strong> - Andrew Kim</strong></blockquote>
+<br><strong> - Andrew Kim</strong>
 <br><strong> - Education Researcher at Steelcase</strong></blockquote>
 
 
