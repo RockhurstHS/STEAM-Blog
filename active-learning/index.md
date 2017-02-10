@@ -4,7 +4,7 @@ layout: active-learning-landing
 # What is Active Learning?
 
 <blockquote>“A big problem is that traditional learning experiences are not aligned with how the brain works, particularly as it relates to attention.”
-<br><strong> - Andrew Kim, Education Researcher at [Steelcase](https://www.steelcase.com/insights/articles/class-can-i-have-your-attention/)</strong></blockquote>
+<br><strong> - Andrew Kim, Education Researcher at Steelcase</strong></blockquote>
 
 
 Active Learning is a new educational mindset. [Steelcase Education is a major player in influencing the future of education.](https://www.steelcase.com/spaces-inspiration/active-learning-spaces-classrooms/#research-insights_observations) The goal of learning is for students to be the actors of their learning. They need to be engaged! Learning doesn’t happen through osmosis as Socrates articulated in Plato’s dialogue, [The Symposium](http://philosophy.eserver.org/plato/symposium.txt). 
