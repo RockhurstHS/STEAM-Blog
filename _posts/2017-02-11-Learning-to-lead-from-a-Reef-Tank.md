@@ -4,7 +4,7 @@ author: paulwinkeler
 title: Learning to Lead from a Reef Tank
 excerpt: "The tank will draw people in to our unique science program"
 ---
-The following reflection is by Rockhurst student Chase Auman:
+The following reflection is by Rockhurst sophomore Chase Auman:
 
 Allowing students to participate in out of the ordinary activities is one of many things that makes Rockhurst such a special school. That’s why when I came across the opportunity to be involved in marine biology  my freshman year, I was ecstatic. I was able to really become involved with the scientific community at Rockhurst, and could use my preexisting knowledge of marine biology to grow and improve the understanding of the science in my school. I feel that I helped the saltwater reef tank grow and become more integrated into the community, and learned while doing it.
 
