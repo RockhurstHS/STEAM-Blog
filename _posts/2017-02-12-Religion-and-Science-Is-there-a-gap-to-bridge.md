@@ -24,5 +24,5 @@ I’m myself most fully when I get to accompany others as they make discoveries 
 The world needs people who have come alive, who have found their passions and abilities and want to give them away in service. If we’re honest about what sets us apart as Jesuit educators, it should be our steadfast commitment to the growth of the whole person. That growth happens most when we’re confronted with the things that require us ask questions. If I’m examining my role as a science teacher in a Jesuit school, these questions must be at the heart of what I teach. Taking them seriously helped me to find my own vocation and lead me here. Helping my students ask those questions in the service of their faith and for the promotion of justice is the core of what I am trying to do, and is my lived answer as to how to be a bridge between science and faith.
 
 <div class="flex-wrapper">
-  <img src="/img/TN Astronomy 2.JPG">
+  <img src="/img/TN Astronomy 2.jpg">
 </div>
