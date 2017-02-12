@@ -10,6 +10,10 @@ Allowing students to participate in out of the ordinary activities is one of man
 
 Taking care of the tank helped me to understand the togetherness and progress-driven mission of Rockhurst. It showed that even the teachers wanted to know more, and to do more. But while taking care of the tank, I learned more. I developed a better understanding of water quality tests, and of taking care of larger tanks in general. 
 
+<div class="flex-wrapper">
+  <img src="/img/Reef Tank.JPG">
+</div>
+
 However, taking care of the tank did eat up a lot of my free time. It is and was a commitment, but I loved doing it. I could expect for every activity period to be in the lab, along with flex time, and even some of my free periods. But because of this sacrifice of time, the reef is now beyond sustainable and ready for even more improvement. As the tank was growing, so was the knowledge of it around the school. Everyone in the lab was asking about it, and wanted to know more. It was a rewarding experience, and I was happy to be a part of it.
 
 But still, I was desiring for more people to learn about this unique opportunity we have, and to become connected with it. It was somewhat disappointing to me that such a beautiful tank was in a secluded area for few to see. So recently, I had the idea to bring in another fish tank, but this time a fish only for the atrium. This tank, rather than being meant for experiments, is intended to be for show and observation. The tank will draw people into our unique science program, and allow those who are willing willing to be a part of a more in-depth marine biology program.
