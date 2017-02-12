@@ -1,7 +1,7 @@
 ---
 layout: post
 author: paulwinkeler
-title: JE Dunn: Building Engineers from the Ground Up
+title: Building Engineers from the Ground Up
 excerpt: "Rockhurst is as much an institution to build bonds as it is to educate."
 ---
 
