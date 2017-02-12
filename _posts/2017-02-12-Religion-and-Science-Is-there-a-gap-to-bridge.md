@@ -7,9 +7,11 @@ excerpt: "Together, we worked to explore how to bridge the perceived gap between
 
 Recently, I was given the gift of opportunity to spend a few days with Br. Guy Consolmagno and others from the [Vatican Observatory](http://www.vofoundation.org/). Together, we worked to explore how to bridge the perceived gap between religion and science, and explored these questions through the lens of astronomy. As Rockhurst continues working to live out our Jesuit identity in our STEAM initiative, such a question is a real one in our own community.
 
+
 <div class="flex-wrapper">
-  <img src="/img/TN Astronomy 1.png">
+  <img src="/img/TN Astronomy 2.jpg">
 </div>
+### Long exposure of western sky showing earth’s rotation  
 
 As a Rockhurst alumnus, I arrived at Creighton with the seeds of really big questions already planted within me. As my head was challenged with the calculus and complexities of studying Atmospheric Science, my heart found consistent consolation in service and putting feet to my faith. The question of how to weave my talents in science with the need to serve the world I was learning to see drove me to strange, hurting, beautiful places. Learning to weave my faith with my love of science defined my time as a student and remains the absolute core of my vocation to teaching.  
 
@@ -24,5 +26,6 @@ I’m myself most fully when I get to accompany others as they make discoveries 
 The world needs people who have come alive, who have found their passions and abilities and want to give them away in service. If we’re honest about what sets us apart as Jesuit educators, it should be our steadfast commitment to the growth of the whole person. That growth happens most when we’re confronted with the things that require us ask questions. If I’m examining my role as a science teacher in a Jesuit school, these questions must be at the heart of what I teach. Taking them seriously helped me to find my own vocation and lead me here. Helping my students ask those questions in the service of their faith and for the promotion of justice is the core of what I am trying to do, and is my lived answer as to how to be a bridge between science and faith.
 
 <div class="flex-wrapper">
-  <img src="/img/TN Astronomy 2.jpg">
+  <img src="/img/TN Astronomy 1.png">
 </div>
+### M42, the Orion Nebula. Taken without a telescope!
