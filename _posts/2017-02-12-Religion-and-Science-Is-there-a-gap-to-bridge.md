@@ -1,7 +1,7 @@
 ---
 layout: post
 author: timothynendick
-title: Religion & Science: Is there a gap to bridge?
+title: Religion and Science - Is there a gap to bridge?
 excerpt: "Together, we worked to explore how to bridge the perceived gap between religion and science."
 ---
 
