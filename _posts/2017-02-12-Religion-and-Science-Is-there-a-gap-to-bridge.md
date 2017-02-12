@@ -11,7 +11,7 @@ Recently, I was given the gift of opportunity to spend a few days with Br. Guy C
 <div class="flex-wrapper">
   <img src="/img/TN Astronomy 2.jpg">
 </div>
-### Long exposure of western sky showing earth’s rotation  
+## Long exposure of western sky showing earth’s rotation  
 
 As a Rockhurst alumnus, I arrived at Creighton with the seeds of really big questions already planted within me. As my head was challenged with the calculus and complexities of studying Atmospheric Science, my heart found consistent consolation in service and putting feet to my faith. The question of how to weave my talents in science with the need to serve the world I was learning to see drove me to strange, hurting, beautiful places. Learning to weave my faith with my love of science defined my time as a student and remains the absolute core of my vocation to teaching.  
 
@@ -28,4 +28,4 @@ The world needs people who have come alive, who have found their passions and ab
 <div class="flex-wrapper">
   <img src="/img/TN Astronomy 1.png">
 </div>
-### M42, the Orion Nebula. Taken without a telescope!
+## M42, the Orion Nebula. Taken without a telescope!
