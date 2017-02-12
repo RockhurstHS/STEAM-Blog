@@ -5,7 +5,7 @@ title: Building Engineers from the Ground Up
 excerpt: "Rockhurst is as much an institution to build bonds as it is to educate."
 ---
 
-The following reflection was written by Rockhurst junio Wyatt Pelton:
+The following reflection was written by Rockhurst junior Wyatt Pelton:
 
 <div class="flex-wrapper">
   <img src="/img/JE Dunn 4.JPG">
