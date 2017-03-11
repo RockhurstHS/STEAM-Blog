@@ -12,5 +12,5 @@ description: STEM teachers and leaders participate in a continuous program of ST
 [http://steam.rockhursths.edu/2015/10/30/Interviews.html](http://steam.rockhursths.edu/2015/10/30/Interviews.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.9a.jpg" alt="One to one interviews, 70 conferences, Research for Better Teaching">
+  <img src="{{ site.baseurl }}/img/indicators/st1.9a.jpg" alt="One to one interviews, 70 conferences, Research for Better Teaching">
 </div>

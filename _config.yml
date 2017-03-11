@@ -1,7 +1,6 @@
 # Site settings
 title: Full STEAM Ahead
-baseurl: ""
-url: "http://steam.rockhursths.edu"
+baseurl: "/STEAM-Blog"
 
 paginate: 15
 paginate_path: /page:num/

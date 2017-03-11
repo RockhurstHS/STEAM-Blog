@@ -12,5 +12,5 @@ description: Students are supported in their STEM learning through adult-world c
 [http://steam.rockhursths.edu/2016/08/20/Reflections-of-a-Jesubot.html](http://steam.rockhursths.edu/2016/08/20/Reflections-of-a-Jesubot.html)
 
 <div class="flex-wrapper">
-  <img src="/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo">
+  <img src="{{ site.baseurl }}/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo">
 </div>
