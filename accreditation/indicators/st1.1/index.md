@@ -20,7 +20,7 @@ When the Rockhurst High School STEAM initiative began in 2015, the STEAM team im
   <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/IntroCSpicture.jpg">
 </div>
-# Students receiving extra attention from Mr. Clark in Introduction to Computer Science
+<b> Students receiving extra attention from Mr. Clark in Introduction to Computer Science </b>
   
 At the start of the 2015 school year, Rockhurst [kicked off its Robotics program](http://steam.rockhursths.edu/2015/08/13/Introducing-the-Robotics-Maker-Space.html). One freshmen class (Introduction to Robotics), and four junior/senior classes (Robotic Engineering I) allowed 20% of the student body learn and implement the engineering design process. In conjunction with these classes, the [robotics team](http://steam.rockhursths.edu/2016/08/20/Reflections-of-a-Jesubot.html) competed in the FIRST robotics competition. In 2017-2018, the [Principles of Engineering](https://drive.google.com/file/d/0B1-JIRrX_4I5N2VYalRxS3lseUE/view?usp=sharing) (POE) course administered through [Project Lead the Way](https://drive.google.com/file/d/0B1-JIRrX_4I5N2VYalRxS3lseUE/view?usp=sharing) (PLTW) will introduce even more students to the engineering design process.
   
