@@ -29,13 +29,13 @@ Beyond these courses, which are open to all students, Rockhurst has several prog
   <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/Hurtado-Teaching-Coding.jpg">
 </div>
-  
+
 All students take a High School Placement Test. For the lowest performing students, Rockhurst requires them to attend a [four week summer school program](https://www.rockhursths.edu/pages/academics/summer-school-and-camps/academics---summer-school---magis-academy). This program includes a rigorous math class that teaches them everything they need to know in order to be successful on the first day of Algebra 1. Of the summer school group, the lowest group that is still admitted into the school enter our Magis Academy program. These students take a specialized math class their freshman and sophomore year that coincides with a study skills class. These students are then mainstreamed into the standard mathematics curriculum during their junior year. Each year, less than 5% of student applicants are declined acceptance into Rockhurst before given the opportunity to access the previously described support pathways. 
   
 This year the STEAM initiative partnered with [MindDrive](http://steam.rockhursths.edu/2016/09/01/MindDrive.html). Two Rockhurst students are now spending 27 consecutive Saturdays 3D printing and programming an autonomous car! 
 
-<div class="flex-wrapper">
- <img src="{{ site.baseur1 }}img/MindDriveRHSStudent.jpg">
+  <div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/MindDriveRHSStudent.jpg">
 </div>
 
 The STEAM initiative also organized student volunteers to work with younger students at the [STEAM Studio](http://steam-studio.com/). This service learning opportunity helps provide non-traditional students outside of Rockhurst access to STEM curriculum. It also introduces some of our “non-STEM” students to STEM curriculum through the lens of volunteering.
