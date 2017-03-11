@@ -26,7 +26,7 @@ At the start of the 2015 school year, Rockhurst [kicked off its Robotics program
   
 Beyond these courses, which are open to all students, Rockhurst has several programs that are targeting at-risk students and helping them with STEM curriculum. First of all, the [Hurtado Scholars program](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program) identifies at-risk sixth graders at three urban Catholic schools. Between eight and twelve students are accepted each year. These students receive bi-weekly tutoring from Rockhurst math and English teachers. The students also engage in a five week summer school program, which emphasizes STEM curriculum in multiple ways. The students take both a problem-based math class and an applied math class. They also learn about the engineering design process with a robotics component. The very first group of Hurtado Scholars all got into Rockhurst High School this year and every single one of them found academic success.
   
- <div class="flex-wrapper">
+  <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/Hurtado-Teaching-Coding.jpg">
 </div>
   
