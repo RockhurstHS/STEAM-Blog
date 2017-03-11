@@ -21,11 +21,10 @@ The teacher team was feeling pretty good about their solution until the first st
 
 <div class="flex-wrapper">
   <img src="/img/QualityCare1.png">
-  <img src="/img/QualityCare2.png">
+  <img src="/img/QualityCareFilter.png">
   <img src="/img/QualityCare3.png">
 </div>
 
-STEAM-Blog/img/QualityCare1.png
 
 Given the right environment, it is amazing what high school students can accomplish. As the Rockhurst High School STEAM initiative strives to futher connect students to the world they will be entering, it's crucial that we leveragee the existing Rockhurst High School network. The Alumni and Parent mentors were crucial to the student success. 
 
