@@ -3,7 +3,7 @@ layout: indicator
 key: ST1.2
 description: Students work independently and collaboratively in an inquiry-based learning environment that encourages finding creative solutions to authentic and complex problems.
 ---
-<blockquote>Self assessment score: 4</blockquote>
+<blockquote>.right(Self assessment score: 4)</blockquote>
 
 Beyond specific courses and class projects, Rockhurst utilizes seven [Active Learning Classrooms](http://steam.rockhursths.edu/active-learning/classroom-description/). Six additional classrooms will be rolled out for the 2017-2018 academic year. These [student-centered classrooms](http://steam.rockhursths.edu/2016/04/11/Sage-on-the-stage-to-Guide-on-the-Side.html) increase learner engagement, comfort and frequency of teacher and peer feedback. Moreover, the classes create [innovative opportunities](http://steam.rockhursths.edu/active-learning/classroom-description/) for teachers both [pedagogically](http://steam.rockhursths.edu/2015/09/07/Three-Weeks-In.html) and [technologically](http://steam.rockhursths.edu/2015/09/17/Reflecting-on-Student-Whiteboards.html). Rockhurst High School's mission is to form "Men for Others" who are intellectually competent, committed to justice, religious, open to growth, and loving. The increased collaboration and relationship building within these active learning classrooms help form the life-long friends that is crucial to the [vision and mission](https://www.rockhursths.edu/pages/about-us/school-information/about-us---school-information---mission-and-vision) of Rockhurst High School.
 
