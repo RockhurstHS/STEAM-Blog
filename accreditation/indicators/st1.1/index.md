@@ -4,7 +4,7 @@ key: ST1.1
 description: The STEM School supports non-traditional student participation through outreach to groups often underrepresented in STEM program areas.
 ---
 <blockquote align="right"> Self-Assessment: 3.5</blockquote>
-<p align="center"; font-size: 8em>
+<p align="center"; font-size: 20em>
 Narrative
 </p>
 Rockhurst High School believes that all students can achieve success in STEM curriculum. Over the course of a six year period, the mathematics department transitioned from a restrictive AP Calculus program into an open enrollment opportunity for all students. In 2008, 65 students took either the AP Calculus AB or AP Calculus BC exam. However, the math department supported the [increased participation](https://docs.google.com/document/d/1ZjYgFLkaYyuNpJqJG4KTkZNaxPsWIP1Z6odTiIA-vAw/edit?usp=sharing) of students to 132 in 2015. 
