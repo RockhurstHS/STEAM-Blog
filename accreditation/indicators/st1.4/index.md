@@ -29,9 +29,9 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, ne
 </div>
 
 ## Key Exemplars
-### 
-### 
-### 
+### iPad School
+### Speaker Space
+### New Courses
 
 
 
