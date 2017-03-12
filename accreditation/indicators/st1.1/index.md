@@ -39,9 +39,9 @@ This year the STEAM initiative partnered with [MindDrive](http://steam.rockhurst
 </div>
 
 The STEAM initiative also organized student volunteers to work with younger students at the [STEAM Studio](http://steam-studio.com/). This service learning opportunity helps provide non-traditional students outside of Rockhurst access to STEM curriculum. It also introduces some of our “non-STEM” students to STEM curriculum through the lens of volunteering.
-  
-  <div class="embed-container">
-  <iframe src="https://player.vimeo.com/video/195454662?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+
+  <iframe src="https://player.vimeo.com/video/195454662" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/195454662">Steam Studio Video</a> from <a href="https://vimeo.com/user13294911">Nicole Smith RHS</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br><strong> -Above video created by student Evan Isom </strong>
   
 Finally, some of our students can’t find a pathway to fit all of their interests. Many want to pursue STEM education, but have to make choices because there isn't enough room in their schedule. In order to provide more access to STEM classes, Rockhurst began a [Summer Academy](https://www.rockhursths.edu/pages/academics/summer-school-and-camps/academics---summer-school---high-school-credit-courses) in the summer of 2016. This allows students to take a full year of Chemistry in a six-week intensive. This helps students get ahead in STEM coursework, but it also helps students pursue multiple academic interests so they don’t have to make a choice early in their lives that will impact their entire academic future. 
