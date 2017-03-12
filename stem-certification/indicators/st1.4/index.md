@@ -7,8 +7,6 @@ description: Students use technology resources to conduct research, demonstrate 
 <p align="center">
 <b>Narrative</b>
 </p>
-<iframe src="https://docs.google.com/spreadsheets/d/1VFWavrFfau1WftuZQQt60QSThjfP_HwltYUe9qPAiF8/pubhtml?widget=true&amp;headers=false"></iframe>
-
 
 When students enter Rockhurst High School in the morning, the first place they pass is the [TechDesk](https://rhstechdesk.com/). This student run space serves the technology needs of Rockhurst students. One of the students who works for the TechDesk expressed his excitement to come to Rockhurst because, [“there is technology everywhere.”](https://rhstechdesk.com/2016-17-staff/) The TechDesk began when Rockhurst became a [1-1 iPad school](https://www.rockhursths.edu/pages/academics/academics---technology---ipad-program) in 2014. The [Rockhurst Technology Vision Statement reads](https://docs.google.com/document/d/12xzh8dR0L6cVpENFGvNVDF569hWh6iE9ADcfckd2-pQ/edit?usp=sharing): 
 
