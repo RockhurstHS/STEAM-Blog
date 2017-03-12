@@ -11,6 +11,10 @@ description: Students demonstrate their learning through performance-based asses
   <img src="{{ site.baseurl }}/img/indicators/st1.5a.jpg">
 </div>
 
+## NHD
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUIayLnDV9g" frameborder="0" allowfullscreen></iframe>
+
 ## Rookie All Star Robotics
 
 [http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html](http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html)
