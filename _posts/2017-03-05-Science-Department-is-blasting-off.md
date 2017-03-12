@@ -45,7 +45,7 @@ There are even more exciting courses next year!
 [Principles of Engineering (POE)](https://drive.google.com/file/d/0B1-JIRrX_4I5N2VYalRxS3lseUE/view?usp=sharing) 
 
 
-[Outdoor Classroom!?](
+And there is even an Outdoor Classroom plan in the works!
 
 
 Want to get involved in science or engineering outside the classroom? Then there are more opportunities than you may realize.
