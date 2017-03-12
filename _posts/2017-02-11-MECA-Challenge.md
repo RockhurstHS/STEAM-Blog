@@ -4,8 +4,9 @@ author: gregowsley
 title: MECA Challenge
 excerpt: “This is the type of REAL WORLD experience you simply can't teach in a classroom"
 ---
-
-<iframe width="916" height="530" src="https://www.youtube.com/embed/-UsIMKj4cUA" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/-UsIMKj4cUA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 On President's day, 46 students arrived to school voluntarily. They were split into 9 teams - each team assigned a Rockhurst alumni/parent mentor. The students were also surprised to discover that they would also be competing against a mentor led teacher team!
 
