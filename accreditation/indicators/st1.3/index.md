@@ -10,9 +10,13 @@ description: Students are empowered to personalize and self-direct their STEM le
 
 Last October, Rockhurst hosted a screening of the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). The movie articulates how the traditional education system evolved out of a factory model. This tradition treats each student input alike and expects the same output. This approach, and the consequences of it, is based off some flawed assumptions as explained in the book <u>[The End of Average](http://www.toddrose.com/endofaverage/)</u>. Over the past several years, Rockhurst High School has implemented major changes that empower and personalize learning for each individual student.  Those changes fall into four categories: physical learning environments, the academic schedule, learning experiences, and new academic classes. During the summer of 2017, the heart of the building will be redesigned to install the Academic Learning Commons. This space will be a central location allowing for multiple collisions of ideas during student self-directed times.
 
-The academic schedule of 2016-2017 shifted to allow more self-directed time during the school day. For nearly all of a student’s 7 classes, one class will drop off one out of six days. In this way, students are given self-directed time within the schedule. This is true of all learning experiences, STEM or otherwise, and therefore, a growing component of the school’s culture. Second of all, transitioning away from the factory-model of education can also be witnessed through the growing number of Active Learning Classrooms 
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/indicators/st1.3a.jpg">
+</div>
 
-In terms of personalized STEM learning experiences, there are a variety of examples in which students are supported by educators. In April of 2017, teams of students from the AP Computer Science Principles class will be competing in the SensED IOT challenge. These students use RasberryPi technology to address a social problem. Every freshman is required to take the Introduction to Computer Science class. These students work on an animated creature throughout the entire semester. The creature created is entirely up to the discretion of the student as long as it fits the class theme (ocean, outer space, etc.). In 2016, the senior service project challenged two teams of students to take STEM skills and apply them to their community service requirement. In this way, the school turned an existing community service project into a personalized STEM learning experience. These students were mentored by the computer science teacher Mr. J.W. Clark.
+The academic schedule of 2016-2017 shifted to allow more self-directed time during the school day. For nearly all of a student’s 7 classes, each class will not be in session one out of six days. In this way, students are given self-directed time within the schedule. This is true of all learning experiences, STEM or otherwise, and therefore, a growing component of the school’s culture. Second of all, transitioning away from the factory-model of education can also be witnessed through the growing number of Active Learning Classrooms. 
+
+In terms of personalized STEM learning experiences, there are a variety of examples in which students are supported by educators. In April of 2017, teams of students from the AP Computer Science Principles class will be competing in the [SensED IOT challenge](http://www.kcsocialinnovation.org/sensed/). These students use RasberryPi technology to address a social problem. Every freshman is required to take the [Introduction to Computer Science](http://steam.rockhursths.edu/2016/07/01/Intro-to-CS-Down.html) class. These students work on an animated creature throughout the entire semester. The creature created is entirely up to the discretion of the student as long as it fits the class theme (ocean, outer space, etc.). In 2016, the senior service project challenged two teams of students to take STEM skills and apply them to their community service requirement. In this way, the school turned an existing community service project into a personalized STEM learning experience. These students were mentored by the computer science teacher Mr. J.W. Clark.
 
 The Science department is also supervising teams of students that are working on a variety of personalized academic projects such as maintaining a saltwater fish tank, doing statistical analysis and research with biotechnology, and building a cyclotron. Furthermore, a group of students are learning about project management within the construction industry by studying the current construction of the Student Life and Alumni Center. These students will be presenting a project that demonstrates what they learned through job site tours, classroom presentations by the architects and construction company, and attendance of bi-weekly OAC meetings. 
 
@@ -26,9 +30,7 @@ Even within the structured academic program, there exist ample opportunities tha
 
 [http://steam.rockhursths.edu/2016/05/09/Perceptions-of-the-Active-Learning-Classrooms.html](http://steam.rockhursths.edu/2016/05/09/Perceptions-of-the-Active-Learning-Classrooms.html)
 
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/indicators/st1.3a.jpg">
-</div>
+
 
 ##Sage on the Stage to Guide on the Side
 
