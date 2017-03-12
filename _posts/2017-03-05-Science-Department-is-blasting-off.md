@@ -8,9 +8,13 @@ If you haven’t heard, the Science department reached an inflection point and i
 
 [And not because the Pope's Astronomer spoke to the entire student body](http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html)
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
+
 The students in the biology and chemistry classes are experiencing more labs than ever before.
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
+<div class="flex-wrapper">
+  <img src="{{site.baseurl}}/img/Students-Sink-Crop.jpg">
+</div>
 
 Students in Physics and Robotics are getting more and more hands on.
 
@@ -46,7 +50,6 @@ There are even more exciting courses next year!
 
 
 And there is even an Outdoor Classroom plan in the works!
-
 
 Want to get involved in science or engineering outside the classroom? Then there are more opportunities than you may realize.
 
