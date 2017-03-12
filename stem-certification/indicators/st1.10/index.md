@@ -1,9 +1,9 @@
 ---
 layout: indicator
 key: ST1.10
+assessment: 4
 description: Community, post-secondary, business/industry partners and/or families actively support and are engaged with teachers and students in the STEM program.
 ---
-<blockquote align="right"> Self assessment score: 4 </blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>

@@ -1,9 +1,9 @@
 ---
 layout: indicator
 key: ST1.11
+assessment: 3
 description: Students are supported in their STEM learning through adult-world connections and extended day opportunities.
 ---
-<blockquote align="right"> Self assessment score: 3 </blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>

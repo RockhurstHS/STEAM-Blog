@@ -1,9 +1,9 @@
 ---
 layout: indicator
 key: ST1.3
+assessment: 3
 description: Students are empowered to personalize and self-direct their STEM learning experiences supported by STEM educators who facilitate their learning.
 ---
-<blockquote align="right"> Self-Assessment: 3</blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>

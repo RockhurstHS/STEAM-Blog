@@ -1,17 +1,15 @@
 ---
 layout: default
 ---
-<div class="container">
+<div class="container indicator">
   <div class="row">
     <div class="col-md-8">
-      <h1>{{ page.key}}</h1>
+      <div class="flex middle">
+        <div class="x1 left"><h1>{{ page.key}}</h1></div>
+        <div class="x1 right self-assessment"><span class="label label-default">Self-Assessment: <span class="self-assessment-score">{{ page.assessment }}</span></span></div>
+      </div>
       <p class="italic-subtitle">{{ page.description }}</p>
-      <hr>
-      {{ content }}
-    </div>
-    <div class="col-md-4">
-      {% include indicators.html %}
-      {% include recent-posts.html %}
-    </div>
+      <hr> {{ content }} </div>
+    <div class="col-md-4"> {% include indicators.html %} {% include recent-posts.html %} </div>
   </div>
 </div>

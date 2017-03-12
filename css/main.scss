@@ -171,7 +171,7 @@ html {
 }
 
 /* STEM STANDARD AND INDICATORS */
-#standard-and-indicators {
+.indicator {
   table.indicators {
     tr > td {
       padding: $PADDING;
@@ -192,6 +192,14 @@ html {
       vertical-align: top;
       width: 5em;
     }
+  }
+  .self-assessment {
+    font-size: 1.6em;
+  }
+  .self-assessment-score {
+    font-size: 1em;
+    font-weight: bold;
+    padding: 0 7px 0 7px;
   }
 }
 

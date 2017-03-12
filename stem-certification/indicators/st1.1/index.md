@@ -1,9 +1,9 @@
 ---
 layout: indicator
 key: ST1.1
+assessment: 3.5
 description: The STEM School supports non-traditional student participation through outreach to groups often underrepresented in STEM program areas.
 ---
-<blockquote align="right"> Self-Assessment: 3.5</blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>

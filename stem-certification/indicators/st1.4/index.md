@@ -1,9 +1,9 @@
 ---
 layout: indicator
 key: ST1.4
+assessment: 4
 description: Students use technology resources to conduct research, demonstrate creative and critical thinking, and communicate and work collaboratively.
 ---
-<blockquote align="right"> Self assessment score: 4 </blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>
