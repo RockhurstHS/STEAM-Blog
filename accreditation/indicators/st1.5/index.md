@@ -3,6 +3,11 @@ layout: indicator
 key: ST1.5
 description: Students demonstrate their learning through performance-based assessments and express their conclusions through elaborated explanations of their thinking.
 ---
+<blockquote align="right"> Self assessment score: 4 </blockquote>
+<p align="center">
+<b>Narrative</b>
+</p>
+
 ## Most Likely to Succeed
 
 [http://steam.rockhursths.edu/2016/10/06/MLTS.html](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
