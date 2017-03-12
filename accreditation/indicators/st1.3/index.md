@@ -37,6 +37,6 @@ Next year, several new classes will be launched that specifically focus on provi
 Even within the structured academic program, there exist ample opportunities that provide autonomy to all students. The math department boasts a very [flexible curriculum pathway](https://drive.google.com/file/d/0B1-JIRrX_4I5ODdCLW5xZEN5c3M/view?usp=sharing) that allows easy transitions for any student to move from a standard track to an advanced track. [Summer school classes](https://www.rockhursths.edu/academics---summer-school-and-camps) also allow for all students to move to different tracks. Similarly, the Science department offers a full-credit Chemistry class during the summer. This creates more opportunities for any student interested in science to pursue additional science courses during their four years at Rockhurst High School. The science department labs have also been modified so that every six days, the students experience a [double-period lab](http://steam.rockhursths.edu/2017/01/26/Increasing-Laboratory-Time.html), which lasts 90 minutes. This extra time has allowed all students to engage in much more robust STEM learning experiences with the supervision of their science teacher.
 
 ## Key Exemplars
-### [Science Programming]()
+### [Science Programming](http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html)
 ### [Learning Spaces]()
 ### [Commnity Challenges]()
