@@ -3,7 +3,7 @@ layout: indicator
 key: ST1.6
 description: The interdisciplinary problem-based curriculum includes a focus on real world applications.
 ---
-<blockquote align="right"> Self assessment score: 4 </blockquote>
+<blockquote align="right"> Self assessment score: 2.5 </blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>
