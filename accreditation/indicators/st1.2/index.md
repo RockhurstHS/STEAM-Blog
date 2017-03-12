@@ -32,4 +32,7 @@ Incorporating more authentic problem solving and solution finding into the curri
   
 The kick-off of the [Fundamentals of Science Research](https://docs.google.com/document/d/14B8LvJySYbBbJaVf3koHQjMEQvKbGGYjQpxeDrP3UOc/edit?usp=sharing) course will support students to engage in completing their very own authentic science research project. The fruits of this work will be the completion of a written report of the authentic project followed by a presentation of the experience and findings at the end of year Rockhurst Research Symposium.
 
-
+## Key Exemplars
+### [Robotics Team](http://steam.rockhursths.edu/2015/12/16/Robotics-Students-Compete-for-Top-Honors.html)
+### [Active Learning Classrooms](http://steam.rockhursths.edu/active-learning/classroom-description/)
+### [Fundamentals of Science Research](https://docs.google.com/document/d/14B8LvJySYbBbJaVf3koHQjMEQvKbGGYjQpxeDrP3UOc/edit?usp=sharing)
