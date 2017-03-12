@@ -11,10 +11,10 @@ On March 2nd, I shared how Rockhurst approaches STEM through an Ignatian Lens du
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wa6PaYz-LGs" frameborder="0" allowfullscreen></iframe>
 
-[Slide Notes and links](https://docs.google.com/document/d/1kGheyb9_jTnp05rxC1B2d-l1Ot6SqoorGdMeUhSaanM/edit?usp=sharing)
-
-
+<p>[Slide Notes and links](https://docs.google.com/document/d/1kGheyb9_jTnp05rxC1B2d-l1Ot6SqoorGdMeUhSaanM/edit?usp=sharing)
+</p>
+<p>
 [Presentation Slides](https://docs.google.com/presentation/d/1_fcrQYaUksDqqudoECrdqpyhEvzqDV7wHLwlNZdikQ8/edit?usp=sharing)
-
+</p>
 
 
