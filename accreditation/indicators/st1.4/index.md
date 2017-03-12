@@ -28,7 +28,10 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, ne
   <img src="{{ site.baseurl }}/img/indicators/st1.4a.jpg">
 </div>
 
-
+## Key Exemplars
+### 
+### 
+### 
 
 
 
