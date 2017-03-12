@@ -3,7 +3,7 @@ layout: indicator
 key: ST1.5
 description: Students demonstrate their learning through performance-based assessments and express their conclusions through elaborated explanations of their thinking.
 ---
-<blockquote align="right"> Self assessment score: 4 </blockquote>
+<blockquote align="right"> Self assessment score: 3 </blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>
