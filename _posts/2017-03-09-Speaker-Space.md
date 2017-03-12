@@ -19,7 +19,9 @@ Our efforts show that the humanities and languages also have a place in the STEA
 Mr. Bert Roney
 Chair - Modern & Classical Languages
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JDbSJ6Yo5EA" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/JDbSJ6Yo5EA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 
