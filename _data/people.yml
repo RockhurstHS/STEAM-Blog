@@ -87,3 +87,9 @@ timothynendick:
   title: Physics Teacher
   image: img/timothynendick.jpg
   profile: true
+
+bertroney:
+  name: Bert Roney
+  title: Foreign Language Chair
+  image: img/bertroney.jpg
+  profile: false
