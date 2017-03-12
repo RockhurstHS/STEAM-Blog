@@ -3,7 +3,7 @@ layout: indicator
 key: ST1.8
 description: STEM learning outcomes demonstrate students’ STEM literacy necessary for the next level of STEM learning and for post- secondary and workforce readiness.
 ---
-<blockquote align="right"> Self assessment score: 4 </blockquote>
+<blockquote align="right"> Self assessment score: 3 </blockquote>
 <p align="center">
 <b>Narrative</b>
 </p>
