@@ -8,7 +8,7 @@ description: Students are empowered to personalize and self-direct their STEM le
 <b>Narrative</b>
 </p>
 
-Last October, Rockhurst hosted a screening of the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). The movie articulates how the traditional education system evolved out of a factory model. This tradition treats each student input alike and expects the same output. This approach, and the consequences of it, is based off some flawed assumptions as explained in [The End of Average](http://www.toddrose.com/endofaverage/). Over the past several years, Rockhurst High School has implemented major changes that empower and personalize learning for each individual student.  Those changes fall into four categories: physical learning environments, the academic schedule, learning experiences, and new academic classes. During the summer of 2017, the heart of the building will be redesigned to install the Academic Learning Commons. This space will be a central location allowing for multiple collisions of ideas during student self-directed times.
+Last October, Rockhurst hosted a screening of the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). The movie articulates how the traditional education system evolved out of a factory model. This tradition treats each student input alike and expects the same output. This approach, and the consequences of it, is based off some flawed assumptions as explained in [The End of Average](http://www.toddrose.com/endofaverage/). Over the past several years, Rockhurst High School has implemented major changes that empower and personalize learning for each individual student.  Those changes fall into four categories: [physical learning environments](https://youtu.be/NQZR4IjBjlg), the academic schedule, learning experiences, and new academic classes. [Students respond very favorably](http://steam.rockhursths.edu/2016/05/09/Perceptions-of-the-Active-Learning-Classrooms.html) to the installment of active learning classrooms, which grants individual students much more autonomy for both STEM and non-STEM learning experiences.. During the summer of 2017, the heart of the building will be redesigned to install the Academic Learning Commons (rendering below). This space will be a central location allowing for multiple collisions of ideas during student self-directed times.
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.3a.jpg">
@@ -25,19 +25,5 @@ Next year, several new classes will be launched that specifically focus on provi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uolP7nc644w" frameborder="0" allowfullscreen></iframe>
 
 
-Even within the structured academic program, there exist ample opportunities that provide autonomy to all students. The math department boasts a very flexible curriculum pathway that allows easy transitions for any student to move from a standard track to an advanced track. Summer school classes also allow for all students to move to different tracks. Similarly, the Science department offers a full-credit Chemistry class during the summer. This creates more opportunities for any student interested in science to pursue additional science courses during their four years at Rockhurst High School. The science department labs have also been modified so that every six days, the students experience a double-period lab, which lasts 90 minutes. This extra time has allowed all students to engage in much more robust STEM learning experiences with the supervision of their science teacher.
+Even within the structured academic program, there exist ample opportunities that provide autonomy to all students. The math department boasts a very [flexible curriculum pathway](https://drive.google.com/file/d/0B1-JIRrX_4I5ODdCLW5xZEN5c3M/view?usp=sharing) that allows easy transitions for any student to move from a standard track to an advanced track. [Summer school classes](https://www.rockhursths.edu/academics---summer-school-and-camps) also allow for all students to move to different tracks. Similarly, the Science department offers a full-credit Chemistry class during the summer. This creates more opportunities for any student interested in science to pursue additional science courses during their four years at Rockhurst High School. The science department labs have also been modified so that every six days, the students experience a [double-period lab](http://steam.rockhursths.edu/2017/01/26/Increasing-Laboratory-Time.html), which lasts 90 minutes. This extra time has allowed all students to engage in much more robust STEM learning experiences with the supervision of their science teacher.
 
-
-##Perceptions of the Active Learning Classrooms
-
-[http://steam.rockhursths.edu/2016/05/09/Perceptions-of-the-Active-Learning-Classrooms.html](http://steam.rockhursths.edu/2016/05/09/Perceptions-of-the-Active-Learning-Classrooms.html)
-
-
-
-##Sage on the Stage to Guide on the Side
-
-[http://steam.rockhursths.edu/2016/04/11/Sage-on-the-stage-to-Guide-on-the-Side.html](http://steam.rockhursths.edu/2016/04/11/Sage-on-the-stage-to-Guide-on-the-Side.html)
-
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/indicators/st1.3b.jpg">
-</div>
