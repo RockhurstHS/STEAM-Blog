@@ -2,7 +2,7 @@
 layout: post
 author: gregowsley
 title: Looking at STEM through an Ignatian Lens
-excerpt: Since 1972, Rockhurst High School’s senior class has been spending the beginning two and a half weeks of January spreading out for their senior service projects. This year we invested some of our effort in a service learning educational approach to one of the projects. Moreover, since this is the year we kicked off our school’s STEAM initiative, we wanted to take on a project that brings technical experience to our students (coding specifically).
+excerpt: As an Ignatian school, we already fulfill the requirements of a STEM school.
 ---
 
 I believe we are a profoundly Ignatian school and, as such, fulfill the [standards of a STEM school](http://steam.rockhursths.edu/2016/04/25/STEM-Certification.html). Furthermore, our mission as a school is to form “Men with and for Others”. Rockhurst models this behavior by being a “School with and for Others”. This means that Rockhurst High School reflects upon experiences and shares those best practices with other educational institutions. 
