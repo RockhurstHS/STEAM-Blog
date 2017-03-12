@@ -34,7 +34,9 @@ All students take a High School Placement Test. For the lowest performing studen
 
 The STEAM initiative also organized student volunteers to work with younger students at the [STEAM Studio](http://steam-studio.com/). This service learning opportunity helps provide non-traditional students outside of Rockhurst access to STEM curriculum. It also introduces some of our “non-STEM” students to STEM curriculum through the lens of volunteering.
 
-  <iframe src="https://player.vimeo.com/video/195454662" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://player.vimeo.com/video/195454662" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/195454662">Steam Studio Video</a> from <a href="https://vimeo.com/user13294911">Nicole Smith RHS</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br><strong> -Above video created by student Evan Isom </strong>
 
