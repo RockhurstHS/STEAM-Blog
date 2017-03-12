@@ -14,7 +14,8 @@ The students in the biology and chemistry classes are experiencing more labs tha
 
 Students in Physics and Robotics are getting more and more hands on.
 
-<p>[Robotics Maker Space](http://steam.rockhursths.edu/2015/08/13/Introducing-the-Robotics-Maker-Space.html)
+<p>
+[Robotics Maker Space](http://steam.rockhursths.edu/2015/08/13/Introducing-the-Robotics-Maker-Space.html)
 </p>
 <p>
 [Cardboard Boats](https://rockhursths.edu/pages/news/news---cardboard-boat-competition)
