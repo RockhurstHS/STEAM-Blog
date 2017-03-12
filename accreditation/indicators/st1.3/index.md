@@ -38,5 +38,5 @@ Even within the structured academic program, there exist ample opportunities tha
 
 ## Key Exemplars
 ### [Science Programming](http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html)
-### [Learning Spaces]()
+### [Learning Spaces](http://steam.rockhursths.edu/active-learning/)
 ### [Commnity Challenges]()
