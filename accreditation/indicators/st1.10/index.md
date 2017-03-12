@@ -3,6 +3,10 @@ layout: indicator
 key: ST1.10
 description: Community, post-secondary, business/industry partners and/or families actively support and are engaged with teachers and students in the STEM program.
 ---
+<blockquote align="right"> Self assessment score: 4 </blockquote>
+<p align="center">
+<b>Narrative</b>
+</p>
 ## Peer Learning: With A Little Help From My Friends
 
 [http://parseprofessor.blogspot.com/2016/07/peer-learning-with-little-help-of-my.html](http://parseprofessor.blogspot.com/2016/07/peer-learning-with-little-help-of-my.html)
