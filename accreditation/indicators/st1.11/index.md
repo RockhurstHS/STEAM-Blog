@@ -3,6 +3,10 @@ layout: indicator
 key: ST1.11
 description: Students are supported in their STEM learning through adult-world connections and extended day opportunities.
 ---
+<blockquote align="right"> Self assessment score: 4 </blockquote>
+<p align="center">
+<b>Narrative</b>
+</p>
 ## Engineering Internship Reflection
 
 [http://steam.rockhursths.edu/2016/11/01/Engineering-Internship-Reflection.html](http://steam.rockhursths.edu/2016/11/01/Engineering-Internship-Reflection.html)
