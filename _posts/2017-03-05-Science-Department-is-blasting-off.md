@@ -66,7 +66,7 @@ Want to get involved in science or engineering outside the classroom? Then there
 [Biotechnology](http://steam.rockhursths.edu/2017/02/22/BioTech.html)
 
 
-[cyclotron](http://steam.rockhursths.edu/2017/03/08/First-Cyclotron-in-KC.html)
+[Cyclotron](http://steam.rockhursths.edu/2017/03/08/First-Cyclotron-in-KC.html)
 
 
 [Harvesting Quartz](http://steam.rockhursths.edu/2016/09/06/Harvesting-Quartz.html)
