@@ -1,8 +1,8 @@
 ---
 layout: post
 author: paulwinkeler
-title: BioTech
-excerpt: "...allowing students to really enter the workplace and see what the future of engineering and science has to offer in a fast paced world."
+title: First Cyclotron in KC?
+excerpt: "...when I was watching a lecture being given by one of my favorite modern physicists, Dr. Michio Kaku."
 ---
 <b>The following reflection was written by James Atwater.</b>
  
