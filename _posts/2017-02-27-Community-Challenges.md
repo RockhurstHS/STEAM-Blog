@@ -12,7 +12,7 @@ These challenges live in the intersection space between full blown [robotics com
 
 
 <div class="flex-wrapper">
-  <img src="/img/Winning Group.jpg">
+  <img src="/img/Jesubots-Inside.jpg">
 </div>  
 
 For the 2016-2017 school year, Rockhurst students thrived in two of these events. Check them out!
@@ -22,6 +22,6 @@ For the 2016-2017 school year, Rockhurst students thrived in two of these events
 Students in the AP Computer Science Principles class will compete in the [SensED IOT Challenge](http://www.kcsocialinnovation.org/sensed/) in April of 2017.
 
 <div class="flex-wrapper">
-  <img src="/img/Jesubots-Inside.jpg">
+  <img src="/img/Winning Group.jpg">
 </div>  
 
