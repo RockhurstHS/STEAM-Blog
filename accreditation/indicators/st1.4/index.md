@@ -15,15 +15,17 @@ Students now use iPads to access academic books, create digital media for class 
  
 As of 2016, the school newspaper went completely digital. Three students are taking multi-calculus through the Jesuit Virtual Learning Academy. The student work from the photography and filmmaking classes will be showcased at the annual FineArts Fair on April 5th, 2017. 
 	Students in the Design for Industry class built wooden toys to give to children in need, teaching students the power of their learned skills to impact their community. The robotics class is always loud! Students are forced to collaborate while demonstrating their creative and critical thinking skills while working with their robot kits. The school library provides access to a number of digital databases and magazines that help students conduct research. This research occurs in classes throughout all departments, but especially in the Social Studies Department.
-	The Modern Language & Classics Department launched it’s Speaker Space this year. Now, students interact with each other and their teacher with the DiLL software. At least once out of every six class days, students will be using this technology to practice their listening and speaking skills. 
-	Rockhurst High School partnered with the online platform LRNG to create digital badges that will establish credentials for students as they achieve various experience points. One social studies teacher created a “Historian Skills Badge” on the LRNG platform and will be using it within his own classroom as a student project. Two teachers in the Theology department are engaging their students with the Ignatian Carbon Challenge and must submit their progress each month through reports on the ICC platform.
+
+The Modern Language & Classics Department launched it’s Speaker Space this year. Now, students interact with each other and their teacher with the DiLL software. At least once out of every six class days, students will be using this technology to practice their listening and speaking skills. 
+
+Rockhurst High School partnered with the online platform LRNG to create digital badges that will establish credentials for students as they achieve various experience points. One social studies teacher created a “Historian Skills Badge” on the LRNG platform and will be using it within his own classroom as a student project. Two teachers in the Theology department are engaging their students with the Ignatian Carbon Challenge and must submit their progress each month through reports on the ICC platform.
 Technology permeates throughout all of Rockhurst High School. Moving forward, new classes such as Project Lead the Way’s Principles of Engineering (the use of a variety of engineering tools), Fundamentals of Scientific Research (aligning experimental design with appropriate scientific tools) and the Entrepreneurship for Others (Actually building prototypes and using digital resources to conduct market research) are specifically designed to create opportunities for students to continue using technology resources to conduct research, demonstrate creative and critical thinking, and communicate and work collaboratively.
-
-
-
-
-
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.4a.jpg">
 </div>
+
+
+
+
+
