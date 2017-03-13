@@ -22,7 +22,7 @@ One of the most impactful institutional partnerships consists of the [STEAM Advi
 Rockhurst High School’s mission is to form “Men with and for Others”. The STEAM initiative values programming and outreach that models this behavior for its students. The STEAM initiative encourages Rockhurst to be a “School with and for Others”. Rockhurst can collaborate within the educational ecosystem of Kansas City and help improve that landscape. Many examples have already been included in other narratives such as the [Exeter Mathematics Institute](http://steam.rockhursths.edu/2016/08/10/EMI-2016.html) and the [Steam Studio](http://parseprofessor.blogspot.com/2016_07_01_archive.html). However, Rockhurst is also working with the [Lean Lab](http://theleanlab.org/index.html), which is an education innovation startup. Partnering with [CEED](http://ceedthefuture.com/) has led to an internal [MECA Challenge](http://steam.rockhursths.edu/2017/02/11/MECA-Challenge.html) and hopefully many others that include other schools. Finally, Rockhurst is demonstrating leadership among the Jesuit Schools Network consisting of 80 schools across the country. In early March of 2017, the STEAM Director, Greg Owsley, administered a [national webinar](https://www.jesuitschoolsnetwork.org/webinars?qt-webinars=1#qt-webinars) about how schools in the network can approach STEM through an Ignatian Lens.
  
 <div class="flex-wrapper" align="center">
-  <img src="/img/JSN Webinar.png">
+  <img src="/img/JSN Webinar.png" style="width: 40%;">
 </div>
 
 
