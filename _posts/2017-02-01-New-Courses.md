@@ -17,6 +17,7 @@ In this course, students will learn fundamental scientific research. Students wi
 Students will be required to meet regularly with their teacher one on one throughout the year. The fruits of this work will be the completion of a written report of the authentic project followed by a presentation of the experience and findings at the end of year Rockhurst research symposium.
 
 ### Course Details
+<i>
 Grade Level - 11th & 12th
 
 
@@ -30,7 +31,7 @@ Prerequisite - None
 
 
 AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1.8, ST1.10, ST1.11
-
+</i>
 
 ## Entrepreneurship for Others
 
@@ -75,7 +76,7 @@ Students have the opportunity to develop skills and understanding of course conc
 
 ### Course Details
 
-
+<i>
 Grade Level - 11th & 12th 
 
 
@@ -89,3 +90,4 @@ Prerequisite - None
 
 
 AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.4, ST1.5, ST1.6, ST.1.11
+</i>
