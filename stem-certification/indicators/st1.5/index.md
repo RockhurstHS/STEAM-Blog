@@ -47,7 +47,7 @@ On October 5th, 2016, Rockhurst High School partnered with Gould Evans architect
 Students in the [AP Computer Science Principles](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html) class are competing in the [SensED IoT challenge](http://www.kcsocialinnovation.org/sensed/) in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a [STEAM council](https://drive.google.com/file/d/0B1-JIRrX_4I5dXItM0R0U3Fab01hMjA2UlVrUFlXMDhCYUp3/view?usp=sharing), which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. 
 
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/STEAM Council.JPG">
+  <img src="{{ site.baseurl }}/img/STEAM Council.JPG" alt="Mr. Arico speaking about the possibility of extraterrestrial life." source="width: 50%;">
 </div>
 
 About 50 students participated in a [MECA challenge](http://steam.rockhursths.edu/2017/02/11/MECA-Challenge.html). These students came in on their day off and - with the help of alumni mentors - built a solution to a real, authentic social & entrepreneurial challenge and pitched it to a team of judges at the end of the day. 
