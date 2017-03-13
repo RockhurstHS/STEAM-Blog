@@ -10,7 +10,15 @@ This year in AP Computer Science Principles I signed up the entire class for the
 - **GREEN** smart: Unleash your ideas in the area of sustainability, energy and climate change - creating a way to improve green living, energy consumption, or tap into new ways to help flood areas and flooding, beach erosion, air quality and other climate issues.
 - **MOVE** smart: Think about how technology can improve how people and products move about our city. Smartphones, sensors, and open data have enabled new ways of getting from point A to B: from car-sharing services like Zipcar, to taxi services like Uber, or clever transport apps like Citymapper that help people navigate between a bus, a shared bike station, and renting a car.
 
+Each group is equipped with Macbook Pro laptops, [GrovePi starter kits](https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/grove-pi-starter-kit/), and we are in awaiting a shipment of [a lot more sensors](https://www.dexterindustries.com/GrovePi/supported-sensors/). On the laptops, we run VirtualBox and Ubuntu Server. Students installed Node.js and MongoDB on their virutal machines. They are hosting apps in Express with Socket.io so it's possible to read sensors from the Raspberry Pi computer through a student managed server and ultimately to a web interface for data visualization. It's very exciting!
+
+If you would like to know more, check out the playlist I use in the classroom:   [https://jameswclark.github.io/IoT-Challenge/Info/](https://jameswclark.github.io/IoT-Challenge/Info/)
+
+If you looked at that link, you'll see the project is broken up into three teams. This provides some nice boundaries for students to contribute their work. It also lends some great opportunities to split the curriculum and run interstitial lessons. I created checkpoints that require teams working in tandom to join forces and complete an objective. I feel really good about the playlist approach to running the class instruction.
+
 The big demo day is April 13, 2017 at Think Big Partners in downtown KC. I look forward to seeing how students assemble the various pieces of this challenge into final projects. Below are the project proposals submitted by each team.
+
+Check back to this post later and I'll have uploaded some photos.
 
 ## Project Ideas
 
