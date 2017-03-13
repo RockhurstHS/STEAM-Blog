@@ -13,7 +13,7 @@ During the 2017 President’s Day [MECA Challenge](http://steam.rockhursths.edu/
 
 Student volunteers at the [STEAM Studio](http://fox4kc.com/2017/03/01/rockhurst-university-students-team-up-with-middle-schoolers-to-build-custom-cars-for-children-with-special-needs/) engage in service learning under the direction of Dr. Mandi Sonnenberg and her graduate students. These students teach coding, [3d printing](http://steam.rockhursths.edu/2016/10/16/3D-Keychains.html), robot design and more to eager middle school and elementary school students. Moreover, the [STEAM-Studio](http://steam-studio.com/) is located at [Gould Evans](https://www.gouldevans.com/) architecture firm and students collide with those working professionals. Similarly, students in the robotics classes also volunteer their time to teach middle school students at PraireFire Museum. 
 
-<div class="flex-wrapper">
+<div class="flex-wrapper" align="center">
   <img src="{{ site.baseurl }}/img/PraireFireRobotics.JPG" style="width: 70%;">
 </div>
 
