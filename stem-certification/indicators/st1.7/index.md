@@ -26,7 +26,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 [Image Credit: Steelcase Education Solutions - Active Learning](https://edtechdigest.wordpress.com/2013/11/22/purposeful-design/credit-steelcase-education-solutions-active-learning/)
 
 
-Additional Resources:
+### Additional Resources:
 
 
 [Course Proposals for new courses](https://docs.google.com/document/d/1ZZy4ViDLS5x7UpTZIh33AIJ2ZynsaSSavLNfTgEWkaM/edit)
