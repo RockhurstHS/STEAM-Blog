@@ -29,7 +29,7 @@ Log books and lab books are an essential part of every science course. The [robo
 Outside of core curricular learning outcomes. Students are voluntarily posting [STEM reflections](http://steam.rockhursths.edu/2017/02/11/Learning-to-lead-from-a-Reef-Tank.html) on the STEAM Blog. Students articulated STEM literacy at the [ISTE conference](http://parseprofessor.blogspot.com/2016_07_01_archive.html) during the summer of 2016 and they are also demonstrating STEM literacy through various STEM related competitions.
 
 <div class="flex-wrapper" style="center">
-  <img src="{{ site.baseurl }}/img/STEAMstudioTutor.JPG" style="width: 65%;">
+  <img src="{{ site.baseurl }}/img/STEAMstudioTutor.JPG" style="width: 50%;">
 </div>
 
 In order to self-assess whether or not Rockhurst is meeting this goal, educators attend STEM Conferences such as the [AdvancED STEM Summit](https://drive.google.com/drive/folders/0B1-JIRrX_4I5YXo1a25XMTkwMXM?usp=sharing). These professional development opportunities help the school to continue to hone the way students are ensured STEM literacy.
