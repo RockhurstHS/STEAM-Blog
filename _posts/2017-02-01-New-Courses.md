@@ -47,6 +47,7 @@ Utilizing peer learning, students identify problems to be solved, learn what pro
 
 ### Course Details
 
+<i>
 Grade Level - 11th & 12th 
 
 
@@ -60,10 +61,11 @@ Prerequisite - None
 
 
 AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1.7, ST1.8, ST1.10, ST1.11
+</i>
 
 
-
-## Principles of Engineering (A course by [Project Lead the Way](https://www.pltw.org/our-programs/pltw-engineering))
+## Principles of Engineering 
+<i>(A course by [Project Lead the Way](https://www.pltw.org/our-programs/pltw-engineering))</i>
 
 Principles of Engineering (POE) is a foundation course of the high school engineering pathway. This survey course exposes students to some of the major concepts that they will encounter in a postsecondary engineering course of study. Through problems that engage and challenge, students explore a broad range of engineering topics, including mechanisms, the strength of materials and structures, automation, and kinematics. The course applies and concurrently develops secondary level knowledge and skills in mathematics, science, and technology.
 <blockquote>It also allows students to develop strategies to enable and direct their own learning, which is the ultimate goal of education.</blockquote>
