@@ -5,7 +5,7 @@ title: New Courses
 excerpt: "Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience."
 ---
 
-Three new courses will be offered for the 2017-2018 school year. The design of these three courses leverages the principles of project-based learning. Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience. All of these courses model the type of education encouraged in the movie [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
+Three new courses will be offered for the 2017-2018 school year. The design of these three courses leverages the principles of project-based learning. Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience. All of these courses model the type of education encouraged in the movie [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html).
 
 <iframe src="https://player.vimeo.com/video/122502930" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/122502930">Most Likely to Succeed Trailer</a> from <a href="https://vimeo.com/user10578118">One Potato Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
