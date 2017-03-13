@@ -12,7 +12,9 @@ When students enter Rockhurst High School in the morning, the first place they p
 
 <blockquote> “In keeping with our goal of developing “men for others” and community leaders in an increasingly diverse and technology-driven world, the Rockhurst learning community will be actively engaged in learning through the effective, efficient and ethical use of digital tools in the classroom and beyond.” </blockquote>
 
-Students now use iPads to access academic books, create digital media for class projects, and collaborate with each other with tools such as [TurnitIn.com](http://turnitin.com/). For all classes, students access their work, schedule, and other class resources through the [MyHomework App](https://myhomeworkapp.com/), which is managed through a teachers page called, [teacher.io](https://teachers.io/). Rockhurst does not have a mandated learning management system, but the most common platform is Google Classroom. 
+Students now use iPads to access academic books, create digital media for class projects, and collaborate with each other with tools such as [TurnitIn.com](http://turnitin.com/). For all classes, students access their work, schedule, and other class resources through the [MyHomework App](https://myhomeworkapp.com/), which is managed through a teachers page called, [teacher.io](https://teachers.io/). Rockhurst does not have a mandated learning management system, but the most common platform is [Google Classroom](https://rhstechdesk.com/google-classroom/). 
+
+
 
 This platform makes it easy for students to communicate and collaborate with their teacher and with each other, which supports teacher efforts to scaffold. Some classes are tranisitioning beyond an online text book to an enitrily online format including assesments. 
  
