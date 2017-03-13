@@ -33,11 +33,6 @@ The Modern Language & Classics Department launched it’s [Speaker Space](http:/
 <p>
 
 
-</p>
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/SpeakerSpaceSchedule.png">
-</div>
-
 Rockhurst High School partnered with the online platform [LRNG](https://www.lrng.org/kc) to create digital badges that will establish credentials for students as they achieve various experience points. Social studies teacher, Tim Reidy, created a [“Historian Skills Badge”](http://steam.rockhursths.edu/2016/11/17/LRNG.html) on the LRNG platform and will be using it within his own classroom as a student project. Two teachers in the Theology department are engaging their students with the [Ignatian Carbon Challenge](https://ignatiansolidarity.net/ignatian-carbon-challenge/) and must submit their progress each month through reports on the ICC platform.
 
 <div class="flex-wrapper">
