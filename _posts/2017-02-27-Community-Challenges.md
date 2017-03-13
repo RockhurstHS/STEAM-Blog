@@ -16,9 +16,13 @@ For the 2016-2017 school year, Rockhurst students thrived in two of these events
 
 46 students participated in the entrepreneural event called the [MECA Challenge](https://pnonline.org/2017/03/05/building-an-innovative-mindset/).
 
-Students in the AP Computer Science Principles class will compete in the [SensED IOT Challenge](http://www.kcsocialinnovation.org/sensed/) in April of 2017.
-
 <div class="flex-wrapper">
   <img src="/img/Winning Group.jpg">
+</div>  
+
+Students in the AP Computer Science Principles class will compete in the [SensED IOT Challenge](http://steam.rockhursths.edu/2017/03/12/SensED-Design-Demo-Day-Project-Proposals-Submitted.html) in April of 2017.
+
+<div class="flex-wrapper">
+  <img src="/img/STEAM-Blog/img/iot.jpg" style="width: 75%;">
 </div>  
 
