@@ -21,9 +21,41 @@ Log books and lab books are an essential part of every science course. The [robo
 Outside of core curricular learning outcomes. Students are voluntarily posting [STEM reflections](http://steam.rockhursths.edu/2017/02/11/Learning-to-lead-from-a-Reef-Tank.html) on the STEAM Blog. Students articulated STEM literacy at the [ISTE conference](http://parseprofessor.blogspot.com/2016_07_01_archive.html) during the summer of 2016 and they are also demonstrating STEM literacy through various STEM related competitions.
 
 In order to self-assess whether or not Rockhurst is meeting this goal, educators attend STEM Conferences such as the [AdvancED STEM Summit](https://drive.google.com/drive/folders/0B1-JIRrX_4I5YXo1a25XMTkwMXM?usp=sharing). These professional development opportunities help the school to continue to hone the way students are ensured STEM literacy.
-	
 
 ## Key Exemplars
-### [STEM Competitions](http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html)
-### [Computer Science Classes](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html)
-### [Science Research](http://steam.rockhursths.edu/2017/02/01/New-Courses.html)
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">STEM Competitions</h4>
+    <p>A growing trend in education right now involves submerging students into an authentic, real-world challenge and seeing what they can do. </p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Computer Science Classes</h4>
+    <p>Rockhurst High School offers four Computer Science courses for the 2016-17 academic year.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/02/01/New-Courses.html">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Science Research</h4>
+    <p>Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience.</p>
+  </div>
+</div>

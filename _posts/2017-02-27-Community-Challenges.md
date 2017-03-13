@@ -3,9 +3,6 @@ layout: post
 authors: gregowsley
 title: Community Challenges
 ---
-
-
-
 A growing trend in education right now involves submerging students into an authentic, real-world challenge and seeing what they can do. 
 
 These challenges live in the intersection space between full blown [robotics competition](https://www.rockhursths.edu/pages/news/news---robotics-world-championship-qualifiers) and a [hackathon](http://steam.rockhursths.edu/2015/11/10/High-School-Programming-Competition.html).

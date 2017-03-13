@@ -25,32 +25,54 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 </div>
 [Image Credit: Steelcase Education Solutions - Active Learning](https://edtechdigest.wordpress.com/2013/11/22/purposeful-design/credit-steelcase-education-solutions-active-learning/)
 
-
 ### Additional Resources:
-
 
 [Course Proposals for new courses](https://docs.google.com/document/d/1ZZy4ViDLS5x7UpTZIh33AIJ2ZynsaSSavLNfTgEWkaM/edit)
 
-
 [Academic Council Meetings](https://drive.google.com/drive/folders/0B1-JIRrX_4I5aHZFaVR6TllNWms)
-
 
 [STEAM Director Meeting Log 2015 - 2016](https://docs.google.com/document/d/1f2xr8xrGjAUUdxTViPVCessaoE7a22vjPQCTcU7DkNk/edit)
 
-
 [RBT Documents](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk)
-
 
 [Learning Commons Meeting Documents](https://drive.google.com/drive/folders/0B1-JIRrX_4I5SWlQTGdNMlFkaUE)
 
-
 [2015 Faculty Presentation and Documents](https://drive.google.com/drive/folders/0B1-JIRrX_4I5Y09kNWc5Tk5kVDg)
 
-
-
 ## Key Exemplars
-### [Research for Better Teaching](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk)
-### [1-1 Faculty Meetings](https://drive.google.com/drive/folders/0B1-JIRrX_4I5Y09kNWc5Tk5kVDg)
-### [Active Learning Classroom Teacher Meetings](https://drive.google.com/drive/folders/0B1-JIRrX_4I5fnhSVHA0TjR1MWR5UnlxbFViSG5nWHA3SXBVcXdIT0lQcERMRkctendfRkk?usp=sharing)
 
+<div class="media well">
+  <div class="media-left">
+    <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Research for Better Teaching</h4>
+    <p>What do skillful teachers believe, know, and do — individually and collaboratively — to promote the learning and achievement of each and every student?</p>
+  </div>
+</div>
 
+<div class="media well">
+  <div class="media-left">
+    <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5Y09kNWc5Tk5kVDg">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">1-1 Faculty Meetings</h4>
+    <p>We needed faculty input prior to moving forward. This would help shape a shared vision and lead to understanding our shared values. We want everyone to feel excited and a sense of co-ownership.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5fnhSVHA0TjR1MWR5UnlxbFViSG5nWHA3SXBVcXdIT0lQcERMRkctendfRkk?usp=sharing">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Active Learning Classroom Teacher Meetings</h4>
+    <p>...</p>
+  </div>
+</div>
