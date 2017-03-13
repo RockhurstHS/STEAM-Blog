@@ -6,7 +6,10 @@ excerpt: Learning can occur during self-directed time too. Isn't that what happe
 ---
 Inspired by the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html), I'm piloting a new program aimed at empowering students with psychological tools to help them develop a sense of agency and learn how to make better use of their self-directed time.
 
+<div align="center"> 
 <b> Students will participate in three sessions. </b>
+</div>
+
 
 ### Session 1 
 
@@ -36,4 +39,4 @@ An example presentation from the first pilot is below.
 </div>
 
 
-<blockquote> Education isn't confined within class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world? </blockquote>
+<blockquote> Education isn't confined to just class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world? </blockquote>
