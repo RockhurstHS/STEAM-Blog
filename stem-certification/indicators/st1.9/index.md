@@ -27,12 +27,35 @@ Finally, during [January of 2016](https://docs.google.com/presentation/d/12vGbG7
 
 
 ## Key Exemplars
-### [NCSSS](https://www.rockhursths.edu/pages/news/news---ncsss-acceptance)
-### [Faculty Impact](https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1178377008&format=interactive)
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://www.rockhursths.edu/pages/news/news---ncsss-acceptance">
+      <img class="media-object" src="/img/64/st1.9a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">NCSSS</h4>
+    <p>In mid-January, Rockhurst High School was notified of its acceptance as an Associate Member with the National Consortium of Secondary STEM Schools (NCSSS).</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1178377008&format=interactive">
+      <img class="media-object" src="/img/64/st1.9b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Faculty Impact</h4>
+    <p>...</p>
+  </div>
+</div>
+
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/08/10/EMI-2016.html">
-      <img class="media-object" src="/img/indicators/st1.6b.jpg">
+      <img class="media-object" src="/img/64/st1.9c.jpg">
     </a>
   </div>
   <div class="media-body">
