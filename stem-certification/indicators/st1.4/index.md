@@ -15,8 +15,8 @@ When students enter Rockhurst High School in the morning, the first place they p
 Students now use iPads to access academic books, create digital media for class projects, and collaborate with each other with tools such as [TurnitIn.com](http://turnitin.com/). For all classes, students access their work, schedule, and other class resources through the [MyHomework App](https://myhomeworkapp.com/), which is managed through a teachers page called, [teacher.io](https://rhstechdesk.com/category/teacher-resources/teachers-io/). Rockhurst does not have a mandated learning management system, but the most common platform is [Google Classroom](https://rhstechdesk.com/google-classroom/). 
 
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/GoogleClassroom1.png">
-  <img src="{{ site.baseurl }}/img/GoogleClassroom2.png">
+  <img src="{{ site.baseurl }}/img/GoogleClassroom1.jpg">
+  <img src="{{ site.baseurl }}/img/GoogleClassroom2.jpg">
 </div>
 
 This platform makes it easy for students to communicate and collaborate with their teacher and with each other, which supports teacher efforts to scaffold. Some classes are tranisitioning beyond an online text book to an enitrily online format including assesments. 
@@ -43,7 +43,7 @@ The Modern Language & Classics Department launched it’s [Speaker Space](http:/
 Rockhurst High School partnered with the online platform [LRNG](https://www.lrng.org/kc) to create digital badges that will establish credentials for students as they achieve various experience points. Social studies teacher, Tim Reidy, created a [“Historian Skills Badge”](http://steam.rockhursths.edu/2016/11/17/LRNG.html) on the LRNG platform and will be using it within his own classroom as a student project. Two teachers in the Theology department are engaging their students with the [Ignatian Carbon Challenge](https://ignatiansolidarity.net/ignatian-carbon-challenge/) and must submit their progress each month through reports on the ICC platform.
 
 <div align="center">
-  <img src="{{ site.baseurl }}/img/IggyCarbon.png" style="width: 50%;">
+  <img src="{{ site.baseurl }}/img/IggyCarbon.png" style="width: 50%;" alt="Ignatian Carbon Challenge Logo">
 </div>
 
 The Rockhurst mathematics department uses a personalized mathematics software called [Aleks](https://www.aleks.com/) with the [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). After a first year trial period, the impact of this technology is tremendous.
