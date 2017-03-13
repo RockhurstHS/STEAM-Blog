@@ -1,6 +1,11 @@
 //region DOCUMENT READY
 $(document).ready(function () {
   
+  $('.indicator .media').click(function() {
+    var href = $(this).find('a').first().attr('href');
+    window.location = href;
+  });
+  
   //wrap each image in magnific anchor
   $('.flex-wrapper img').each(function() {
     var source = this.src;

@@ -71,7 +71,7 @@ Finally, some of our students can’t find a pathway to fit all of their interes
   </div>
   <div class="media-body">
     <h4 class="media-heading">Opening up AP Calculus</h4>
-    <p>In the 2014-2015 school year, the Rockhurst math department chose to double the enrollment in our AP Calculus 1 course. This decision was based on the idea that our students deserved every opportunity, and we were confident that this number of students could be successful in an AP course. We have continued with this enrollment plan in the 2015-2016 school year.</p>
+    <p>In the 2014-2015 school year, the Rockhurst math department chose to double the enrollment in our AP Calculus 1 course. This decision was based on the idea that our students deserved every opportunity, and we were confident that this number of students could be successful in an AP course.</p>
   </div>
 </div>
 

@@ -212,6 +212,7 @@ html {
     }
   }
 }
+
 .indicator {
   .self-assessment {
     font-size: 1.6em;
@@ -221,6 +222,14 @@ html {
     font-weight: bold;
     padding: 0 7px 0 7px;
   }
+}
+
+.media {
+  padding: $PADDING;
+}
+.media:hover {
+  background-color: #e8e8e8;
+  cursor: pointer;
 }
 
 /* PEOPLE */
