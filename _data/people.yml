@@ -18,28 +18,22 @@ jwclark:
   image: img/jwclark.jpg
   profile: true
 
-franklyngar:
-  name: Frank Lyngar
-  title: Math Teacher
-  image: img/franklyngar.jpg
+nicolesmith:
+  name: Nicole Smith
+  title: Communication Arts Chair
+  image: img/nicolesmith.jpg
+  profile: false
+
+scottreagan:
+  name: Scott Reagan
+  title: Director of Standardized Testing / AdvancED Coordinator
+  image: img/scottreagan.jpg
   profile: true
 
-patrickcurran:
-  name: Patrick Curran
-  title: Math Teacher
-  image: img/patrickcurran.jpg
-  profile: true
-
-brentsams:
-  name: Brent Sams
-  title: French Teacher, 2010 - 2016
-  image: img/brentsams.jpg
-  profile: true
-
-chrisbosco:
-  name: Chris Bosco
-  title: Assistant Principal for Student Life
-  image: img/chrisbosco.jpg
+annlehane:
+  name: Ann Lehane
+  title: Theatre Manager/Facility Rental
+  image: img/annlehane.jpg
   profile: false
 
 brandonjones:
@@ -48,22 +42,28 @@ brandonjones:
   image: img/brandonjones.jpg
   profile: true
 
-nicolesmith:
-  name: Nicole Smith
-  title: Communication Arts Chair
-  image: img/nicolesmith.jpg
+franklyngar:
+  name: Frank Lyngar
+  title: Math Teacher
+  image: img/franklyngar.jpg
+  profile: true
+  
+patrickcurran:
+  name: Patrick Curran
+  title: Math Teacher
+  image: img/patrickcurran.jpg
+  profile: true
+
+chrisbosco:
+  name: Chris Bosco
+  title: Assistant Principal for Student Life
+  image: img/chrisbosco.jpg
   profile: false
 
 larryruby:
   name: Larry Ruby
   title: Principal, 2005 - 2010
   image: img/larryruby.jpg
-  profile: false
-
-annlehane:
-  name: Ann Lehane
-  title: Theatre Manager/Facility Rental
-  image: img/annlehane.jpg
   profile: false
 
 andywilcox:
@@ -96,10 +96,11 @@ bertroney:
   image: img/bertroney.jpg
   profile: false
   
-scottreagan:
-  name: Scott Reagan
-  title: Social Studies Teacher
-  image: img/scottreagan.jpg
+
+brentsams:
+  name: Brent Sams
+  title: French Teacher, 2010 - 2016
+  image: img/brentsams.jpg
   profile: true
 
 ### STUDENTS

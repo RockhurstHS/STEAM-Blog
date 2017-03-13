@@ -29,7 +29,7 @@ As of 2016, the school [newspaper, the Prep News, went completely digital](https
 <b>Above image taken by Rockhurst Photography Student and shown during the 2016 Roscars event</b>
 
 Students in the Design for Industry class built wooden toys to [give to children in need](http://www.kshb.com/news/local-news/rockhurst-hs-students-build-toy-trucks-for-children-in-need-for-the-holidays), teaching students the power of their learned skills to impact their community. The [robotics class](https://www.rockhursths.edu/pages/news/news---swept-away-2015?) is always loud! Students are forced to collaborate while demonstrating their creative and critical thinking skills while working with their robot kits. The school library provides access to a number of digital databases and magazines that help students conduct research. During the 2015-2016 school year, databases were accessed by students over 8,000 times. This research occurs in classes throughout all departments, but especially in the Social Studies Department. The STEAM initiative will be encouraging more studennt research in the future, as described in the new course offerings.
-<div style="center">
+<div class="center">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Hec9Ut3kYlev8DgJj5vqTId8vivDpeH1PQxyPs1dt9E/pubchart?oid=1224493137&amp;format=interactive"></iframe>
 </div>
 
@@ -42,17 +42,21 @@ The Modern Language & Classics Department launched it’s [Speaker Space](http:/
 
 Rockhurst High School partnered with the online platform [LRNG](https://www.lrng.org/kc) to create digital badges that will establish credentials for students as they achieve various experience points. Social studies teacher, Tim Reidy, created a [“Historian Skills Badge”](http://steam.rockhursths.edu/2016/11/17/LRNG.html) on the LRNG platform and will be using it within his own classroom as a student project. Two teachers in the Theology department are engaging their students with the [Ignatian Carbon Challenge](https://ignatiansolidarity.net/ignatian-carbon-challenge/) and must submit their progress each month through reports on the ICC platform.
 
-<div align="center">
+<div class="center">
   <img src="{{ site.baseurl }}/img/IggyCarbon.png" style="width: 50%;" alt="Ignatian Carbon Challenge Logo">
 </div>
 
 The Rockhurst mathematics department uses a personalized mathematics software called [Aleks](https://www.aleks.com/) with the [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). After a first year trial period, the impact of this technology is tremendous.
 
 <div class="flex-wrapper">
-  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1UawzwoIHEdKL4cYFzk5Wn70Ae1komSk2bJ3U8OiaoyM/pubchart?oid=782421778&amp;format=interactive"></iframe>
- <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1nNEpPeQjuv7CF7Sax6TAhH5UkMHEQOPLnQQbzGb-ieg/pubchart?oid=1228543938&amp;format=interactive"></iframe>
- <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1I1z5iZberafiTVdFcrr1iHtFneasQwV_SrDbehR_-Ko/pubchart?oid=757021436&amp;format=interactive"></iframe>
+  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1UawzwoIHEdKL4cYFzk5Wn70Ae1komSk2bJ3U8OiaoyM/pubchart?oid=782421778&amp;format=interactive" style="width: 50%;"></iframe>
+ <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1nNEpPeQjuv7CF7Sax6TAhH5UkMHEQOPLnQQbzGb-ieg/pubchart?oid=1228543938&amp;format=interactive" style="width: 50%;"></iframe>
+ </div>
+ <div class="flex-wrapper" class="center">
+ <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1I1z5iZberafiTVdFcrr1iHtFneasQwV_SrDbehR_-Ko/pubchart?oid=757021436&amp;format=interactive" style="width: 50%;"></iframe>
 </div>
+
+
 
 Technology permeates throughout all of Rockhurst High School. Moving forward, [new classes](http://steam.rockhursths.edu/2017/02/01/New-Courses.html) such as Project Lead the Way’s Principles of Engineering (the use of a variety of engineering tools), Fundamentals of Scientific Research (aligning experimental design with appropriate scientific tools) and the Entrepreneurship for Others (Actually building prototypes and using digital resources to conduct market research) are specifically designed to create opportunities for students to continue using technology resources to conduct research, demonstrate creative and critical thinking, and communicate and work collaboratively.
 
