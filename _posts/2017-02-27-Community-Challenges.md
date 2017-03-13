@@ -23,7 +23,9 @@ For the 2016-2017 school year, Rockhurst students thrived in two of these events
 Students in the AP Computer Science Principles class will compete in the [SensED IOT Challenge](http://steam.rockhursths.edu/2017/03/12/SensED-Design-Demo-Day-Project-Proposals-Submitted.html) in April of 2017.
 
 <div class="flex-wrapper">
-  <img src="/img/STEAM-Blog/img/iot.jpg" style="width: 75%;">
-  <figcaption>image source: www.thinkbigpartners.com</figcaption>
-</div>  
+  <figure>
+    <img src="/img/iot.jpg">
+    <figcaption>image source: www.thinkbigpartners.com</figcaption>
+  </figure>
+</div>
 
