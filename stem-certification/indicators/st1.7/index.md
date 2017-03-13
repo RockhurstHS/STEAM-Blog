@@ -27,12 +27,26 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 
 
 Additional Resources:
+
+
 [Course Proposals for new courses](https://docs.google.com/document/d/1ZZy4ViDLS5x7UpTZIh33AIJ2ZynsaSSavLNfTgEWkaM/edit)
+
+
 [Academic Council Meetings](https://drive.google.com/drive/folders/0B1-JIRrX_4I5aHZFaVR6TllNWms)
+
+
 [STEAM Director Meeting Log 2015 - 2016](https://docs.google.com/document/d/1f2xr8xrGjAUUdxTViPVCessaoE7a22vjPQCTcU7DkNk/edit)
+
+
 [RBT Documents](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk)
+
+
 [Learning Commons Meeting Documents](https://drive.google.com/drive/folders/0B1-JIRrX_4I5SWlQTGdNMlFkaUE)
+
+
 [2015 Faculty Presentation and Documents](https://drive.google.com/drive/folders/0B1-JIRrX_4I5Y09kNWc5Tk5kVDg)
+
+
 
 ## Key Exemplars
 ### [Research for Better Teaching](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk)
