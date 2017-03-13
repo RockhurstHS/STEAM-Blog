@@ -31,6 +31,39 @@ Incorporating more authentic problem solving and solution finding into the curri
 The kick-off of the [Fundamentals of Science Research](https://docs.google.com/document/d/14B8LvJySYbBbJaVf3koHQjMEQvKbGGYjQpxeDrP3UOc/edit?usp=sharing) course will support students to engage in completing their very own authentic science research project. The fruits of this work will be the completion of a written report of the authentic project followed by a presentation of the experience and findings at the end of year Rockhurst Research Symposium.
 
 ## Key Exemplars
-### [Robotics Team](http://steam.rockhursths.edu/2015/12/16/Robotics-Students-Compete-for-Top-Honors.html)
-### [Active Learning Classrooms](http://steam.rockhursths.edu/active-learning/classroom-description/)
-### [Fundamentals of Science Research](https://docs.google.com/document/d/14B8LvJySYbBbJaVf3koHQjMEQvKbGGYjQpxeDrP3UOc/edit?usp=sharing)
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2015/12/16/Robotics-Students-Compete-for-Top-Honors.html">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Robotics Team</h4>
+    <p>After school on Dec. 14, the top teams competed in the finals in the Barry Commons, surrounded by fellow classmates and teachers.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/active-learning/classroom-description/">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Active Learning Classrooms</h4>
+    <p>The classes are shifting from being teacher-centered to student-centered. The role of the teacher is changing from being a 'sage on the stage' to the 'guide on the side.'</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://docs.google.com/document/d/14B8LvJySYbBbJaVf3koHQjMEQvKbGGYjQpxeDrP3UOc/edit?usp=sharing">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Fundamentals of Science Research</h4>
+    <p>Rockhurst science teacher Heidi Kuster worked with the RHS STEAM Director, Greg Owsley, and STEAM Coordinator & Science Chair Paul Winkeler to outline the pathway to creating an opportunity for Rockhurst High School students to conduct original scientific research.</p>
+  </div>
+</div>
