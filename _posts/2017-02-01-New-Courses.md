@@ -69,6 +69,11 @@ AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1
 
 Principles of Engineering (POE) is a foundation course of the high school engineering pathway. This survey course exposes students to some of the major concepts that they will encounter in a postsecondary engineering course of study. Through problems that engage and challenge, students explore a broad range of engineering topics, including mechanisms, the strength of materials and structures, automation, and kinematics. The course applies and concurrently develops secondary level knowledge and skills in mathematics, science, and technology.
 <blockquote>It also allows students to develop strategies to enable and direct their own learning, which is the ultimate goal of education.</blockquote>
+
+<div align="center">
+  <img src="/img/PLTW_Logo.png"> 
+</div>
+
 Students have the opportunity to develop skills and understanding of course concepts through activity-, project-, and problem-based (APB) learning. By solving rigorous and relevant design problems using engineering and science concepts within a collaborative learning environment, APB learning challenges students to continually hone their interpersonal skills, creative abilities, and problem solving skills. Students will also learn how to document their work and communicate their solutions to their peers and members of the professional community. It also allows students to develop strategies to enable and direct their own learning, which is the ultimate goal of education. 
 
 
