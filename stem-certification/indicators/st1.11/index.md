@@ -37,7 +37,7 @@ Student Opportunities
 
 <div class="media well">
   <div class="media-left">
-    <a href="https://docs.google.com/spreadsheets/d/1C8TYgLK__xepv38oMaIyeNPHLFZjPmElVNe7DbdE0fY/edit#gid=0">
+    <a href="https://github.com/RockhurstHS/STEAM-Blog/blob/gh-pages/_posts/2017-03-05-Science-Department-is-blasting-off.md">
       <img class="media-object" src="/img/64/st1.2a.jpg">
     </a>
   </div>
