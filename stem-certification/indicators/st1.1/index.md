@@ -43,7 +43,7 @@ The STEAM initiative also organized student volunteers to work with younger stud
 
 This year the STEAM initiative partnered with [MindDrive](http://steam.rockhursths.edu/2016/09/01/MindDrive.html). Two Rockhurst students are now spending 27 consecutive Saturdays 3D printing and programming an autonomous car! 
 
-  <div class="flex-wrapper">
+  <div class="flex-wrapper" align="center">
   <img src="{{ site.baseurl }}/img/MindDriveRHSStudent.jpg" style="width: 50%;">
 </div>
   
