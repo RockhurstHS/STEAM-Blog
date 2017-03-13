@@ -27,7 +27,7 @@ Rockhurst’s traditional programming provides many examples that ask students t
 
 [Walt Disney](http://88929534.nhd.weebly.com/)
 
-Community service is central to the school’s mission and through partnering with the STEAM Studio, students participated in a service learning experience. They then were invited by ISTE to present their experience at a conference hosting about 20,000 educators. This was a  great opportunity for students to elaborately explain their work to a public audience.
+Community service is central to the school’s mission and through partnering with the [STEAM Studio](http://steam-studio.com/), students participated in a service learning experience. They then were [invited by ISTE](http://parseprofessor.blogspot.com/2016_07_01_archive.html) to present their experience at a conference hosting about 20,000 educators. This was a  great opportunity for students to elaborately explain their work to a public audience.
 
 ## Most Likely to Succeed
 
@@ -37,13 +37,23 @@ Community service is central to the school’s mission and through partnering wi
   <img src="{{ site.baseurl }}/img/indicators/st1.5a.jpg">
 </div>
 
-On October 5th, 2016, Rockhurst High School partnered with Gould Evans architecture firm and the STEAM studio to host the film Most Likely to Succeed. This film, shown to over 320 members of the Rockhurst community, highlights the value of public exhibitions and performance-based assessments. New programming can be traced back directly to this film as motivation. For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then pitch the result of that mini experiment to their peers.
+On October 5th, 2016, Rockhurst High School partnered with Gould Evans architecture firm and the STEAM studio to host the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). This film, shown to over 320 members of the Rockhurst community, highlights the value of public exhibitions and performance-based assessments. [New programming can be traced back directly to this film as motivation](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then [pitch the result] of that mini experiment to their peers.
+
+<div source="embed-container">
+<iframe src="https://docs.google.com/presentation/d/1ls36Pp8PSVYodmX7tFGk5lOqoYizafCgWPVjaUKu7uo/embed?start=true&loop=false&delayms=3000" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 
 
-Students in the AP Computer Science Principles class are competing in the SensED IoT challenge in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a STEAM council, which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. About 50 students participated in a MECA challenge. These students came in on their day off and - with the help of alumni mentors - built a solution to a real, authentic social & entrepreneurial challenge and pitched it to a team of judges at the end of the day. 
+Students in the [AP Computer Science Principles](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html) class are competing in the [SensED IoT challenge](http://www.kcsocialinnovation.org/sensed/) in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a [STEAM council](https://drive.google.com/file/d/0B1-JIRrX_4I5dXItM0R0U3Fab01hMjA2UlVrUFlXMDhCYUp3/view?usp=sharing), which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. 
+
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/STEAM Council.JPG">
+</div>
+
+About 50 students participated in a [MECA challenge](http://steam.rockhursths.edu/2017/02/11/MECA-Challenge.html). These students came in on their day off and - with the help of alumni mentors - built a solution to a real, authentic social & entrepreneurial challenge and pitched it to a team of judges at the end of the day. 
 
 
-For the 2017-2018 academic year, new courses will allow for even more performance-based assessment possibilities. The Fundamentals of Scientific Research course will culminate in a research symposium where students will share their research projects with a public audience. The Entrepreneurship for Others semester long course will end with an EFO Pitch Night. There are also plans to incorporate a ‘sophomore seminar’ program, which will create opportunities for every sophomore to pitch the results of miniature life-hacking experiments in an effort to help instill a growth mindset and empower students to better utilize their self-control during self-directed time.
+For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017/02/01/New-Courses.html) will allow for even more performance-based assessment possibilities. The Fundamentals of Scientific Research course will culminate in a research symposium where students will share their research projects with a public audience. The Entrepreneurship for Others semester long course will end with an EFO Pitch Night. 
 
 ## Key Exemplars
 ### [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
