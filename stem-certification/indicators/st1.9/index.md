@@ -48,7 +48,7 @@ Finally, during [January of 2016](https://docs.google.com/presentation/d/12vGbG7
   </div>
   <div class="media-body">
     <h4 class="media-heading">Faculty Impact</h4>
-    <p>...</p>
+    <p>Neary 30 STEM-related conferences have been attended by Rockhurst faculty in the last two years.</p>
   </div>
 </div>
 
