@@ -4,6 +4,13 @@ author: jwclark
 title: SensED Design Demo Project Proposals
 excerpt: 
 ---
+<div class="flex-wrapper">
+  <figure>
+    <img src="/img/iot.jpg">
+    <figcaption>image source: www.thinkbigpartners.com</figcaption>
+  </figure>
+</div>
+
 This year in AP Computer Science Principles I signed up the entire class for the [SensED 2017 Innovation Challenge](http://www.kcsocialinnovation.org/sensed/). It seems like a good fit for the curriculum as it lends well to teaching about the architecture of the internet and its many systems. The goal is to have every team build a project that addressses one of these categories:
 
 - **LIVE** smart: Create an idea that inspires new, effective and user friendly internet connected technologies that address disabled or elderly people's wellbeing, needs and aspirations.
