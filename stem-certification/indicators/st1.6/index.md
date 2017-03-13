@@ -24,7 +24,6 @@ The [pillars](https://drive.google.com/file/d/0B1-JIRrX_4I5bVNEZU5HaGFDMHc/view?
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.6a.jpg">
-  <img src="{{ site.baseurl }}/img/indicators/st1.6b.jpg">
 </div>  
 
 The science department incorporates a number of real world applications into its inquiry based curriculum. Physics teachers have students work with data acquired through observing a football flying through the air. They also built a [spacetime simulator](http://steam.rockhursths.edu/2016/03/11/Stretching-the-Spandex-of-Spacetime.html) so that students could experience the curvature of spacetime. Inside of the biology lab, there is a [saltwater fishtank](http://steam.rockhursths.edu/2017/02/11/Learning-to-lead-from-a-Reef-Tank.html). Students are charged with learning how to maintain the complicated ecosystem. Last year, students even learned how to build a [weather balloon](http://steam.rockhursths.edu/2016/05/13/To-Infinity-and-Beyond.html) even though it turned out that it was more difficult to track it down after falling from over 100,000 feet! Next year, there will be an outdoor classroom featuring the ability for students to participate in the Monarch butterfly watch. 
