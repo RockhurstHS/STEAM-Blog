@@ -15,7 +15,7 @@ The most fun way to hear students elaborately explain their thinking is to hear 
   <img src="{{ site.baseurl }}/img/robotics-in-the-pit.jpg">
 </div>
 
-In order to give more weight to performance-based assessments, the science department has worked towards increasing the amount of time students spend doing actual science in the lab. This is reflected in that the core science courses of Biology and Chemistry feature double-period science labs. More time in the labs increases the opportunities for demonstrate their learning. 
+In order to give more weight to performance-based assessments, the science department has worked towards increasing the amount of time students spend doing actual science in the lab. Beginning in 2016-2017, the academic schedule opened up to allow [double-period labs](http://steam.rockhursths.edu/2017/01/26/Increasing-Laboratory-Time.html). As a result, once a week students are in a science lab for 90 minutes. This allowed students to truly engage in more collaborative and inquiry-based learning experiences. 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
 
