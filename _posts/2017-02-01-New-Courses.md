@@ -37,7 +37,7 @@ AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1
 
 Rockhurst High School is developing this course with the assistance of the [UMKC Small Business Development and Technology Center](http://info.umkc.edu/sbtdc/?doing_wp_cron=1489373947.9933199882507324218750).
 
-<div class="flex-wrapper">
+<div align="center>
   <img src="/img/UMKC SBTDC.png">
 </div>
 
