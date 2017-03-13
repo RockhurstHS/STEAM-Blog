@@ -21,7 +21,11 @@ Student volunteers at the [STEAM Studio](http://fox4kc.com/2017/03/01/rockhurst-
 
 On smaller scales, there are Rockhurst students working on a [biotechnology project for KU medical school](http://steam.rockhursths.edu/2017/02/22/BioTech.html), others building a website for a real estate firm, still more students are working for Rockhurst High School as lab technicians, and still another student is [interning at Burns & McDonnell Engineering firm](http://steam.rockhursths.edu/2016/11/01/Engineering-Internship-Reflection.html). By simply walking to the robotics room everyday after school, it is obviously apparent how valuable the mentors are for those students. The [Jesubots](https://www.rockhursths.edu/pages/academics/jesubots/academics---jesubots---service-opportunities) actually have a mentor motto: “Teach them, lead them, let them.”
 
-In the fall of 2016, a group of students went to KC Techweek. Their favorite part of the day included walking around the expo asking startup entrepreneurs questions about how they accomplished the creation of a company. This trip was a natural extension of the annual [Rockhurst career day](https://drive.google.com/file/d/0B1GfFTBj5fhQWlBpSzV0cGdZT2s/view?usp=sharing). On this day, students sign up to attend talks given by Rockhurst alumni to learn about specific career pathways. Students in the Communication Arts department are working on web page designs for companies. Students studying Graphics Design are making logos to be used in puclic.
+In the fall of 2016, a group of students went to KC Techweek. Their favorite part of the day included walking around the expo asking startup entrepreneurs questions about how they accomplished the creation of a company. 
+
+<blockquote>"KC Techweek was valuable to me because it gave me examples of how regular people like myself have made their businesses into a reality through perseverance and having big dreams." - RHS Student Brion Dennis</blockquote>
+
+This trip was a natural extension of the annual [Rockhurst career day](https://drive.google.com/file/d/0B1GfFTBj5fhQWlBpSzV0cGdZT2s/view?usp=sharing). On this day, students sign up to attend talks given by Rockhurst alumni to learn about specific career pathways. Students in the Communication Arts department are working on web page designs for companies. Students studying Graphics Design are making logos to be used in puclic.
 
 <div class="flex-wrapper" align="center">
   <img src="{{ site.baseurl }}/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo" style="width: 60%;">
