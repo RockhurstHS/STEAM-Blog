@@ -14,11 +14,8 @@ Beyond specific courses and class projects, Rockhurst utilizes seven [Active Lea
   <img src="/img/Room 107 with Teacher.JPG">
 </div>
 
-Beginning in 2016-2017, the academic schedule opened up to allow [double-period labs](http://steam.rockhursths.edu/2017/01/26/Increasing-Laboratory-Time.html). As a result, once a week students are in a science lab for 90 minutes. This allowed students to truly engage in more collaborative and inquiry-based learning experiences. 
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
-
-Beyond the science classroom, the Advanced Filmmaking students worked with community organizations such as [Operation Breakthrough](https://vimeo.com/185839796), [Morning Glory Cafe](https://vimeo.com/188333157), and the [STEAM Studio](http://steam-studio.com/) to create videos for them. The Introduction to Graphic Design and the Web Design classes improved the website and created marketing materials for [1861 Wealth Advisors](https://docs.google.com/document/d/1QQIPVmrsBKtIoHgAwCooZ790jnjKIYccI2sp8zu0i74/edit?usp=sharing). Furthermore, the Drawing & Design for Industry class constructed toy trucks and [donated them to children](https://www.rockhursths.edu/pages/news/news---regis-toy-drive) at Operation Breakthrough.
+The Advanced Filmmaking students worked with community organizations such as [Operation Breakthrough](https://vimeo.com/185839796), [Morning Glory Cafe](https://vimeo.com/188333157), and the [STEAM Studio](http://steam-studio.com/) to create videos for them. The Introduction to Graphic Design and the Web Design classes improved the website and created marketing materials for [1861 Wealth Advisors](https://docs.google.com/document/d/1QQIPVmrsBKtIoHgAwCooZ790jnjKIYccI2sp8zu0i74/edit?usp=sharing). Furthermore, the Drawing & Design for Industry class constructed toy trucks and [donated them to children](https://www.rockhursths.edu/pages/news/news---regis-toy-drive) at Operation Breakthrough.
 
 <iframe src="https://player.vimeo.com/video/185839796" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/185839796">Dylan&#039;s Outside Agency Video</a> from <a href="https://vimeo.com/user13294911">Nicole Smith RHS</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
