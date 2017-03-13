@@ -25,7 +25,7 @@ What are we doing in our new “Speaker Space?”  With twenty nine Mac minis an
 <div class="flex-wrapper">
   <figure> 
     <img src="{{ site.baseurl }}/img/SpeakerSpaceSchedule.png">
-    <figurecaption> Ms. Shao's Mandarin Chinese 2 class uses the speaker space every 5th period on a 'D' day</figurecaption>
+    <figcaption> Ms. Shao's Mandarin Chinese 2 class uses the speaker space every 5th period on a 'D' day</figcaption>
   </figure>
 </div>
 
