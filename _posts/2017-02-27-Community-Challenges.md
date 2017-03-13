@@ -24,5 +24,6 @@ Students in the AP Computer Science Principles class will compete in the [SensED
 
 <div class="flex-wrapper">
   <img src="/img/STEAM-Blog/img/iot.jpg" style="width: 75%;">
+  <figcaption>image source: www.thinkbigpartners.com</figcaption>
 </div>  
 
