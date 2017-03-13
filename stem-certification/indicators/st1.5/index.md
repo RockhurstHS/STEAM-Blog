@@ -86,12 +86,12 @@ For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017
 
 <div class="media well">
   <div class="media-left">
-    <a href="https://www.rockhursths.edu/pages/news/news---robotics-world-championship-qualifiers">
+    <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
       <img class="media-object" src="/img/64/st1.2c.jpg">
     </a>
   </div>
   <div class="media-body">
-    <h4 class="media-heading">Robotics</h4>
-    <p>The team received the Rookie All Star Award, which placed them in the top 300 robotics teams in the world (which is in the top 6%), and earned them an opportunity to compete at the World Championships April 27-30 in St. Louis, in the program's first year.</p>
+    <h4 class="media-heading">Community Challenges</h4>
+    <p>A growing trend in education right now involves submerging students into an authentic, real-world challenge and seeing what they can do.“Awesome event…really well done. This is the type of REAL WORLD experiences you simply can’t teach in a classroom. Keep up the good work.” - Andrew Wank '05</p>
   </div>
 </div>
