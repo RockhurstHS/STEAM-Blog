@@ -17,7 +17,7 @@ In the fall of 2016, a group of students went to KC Techweek. Their favorite par
 Next year, more adult world connections will be created through new courses. The Fundamentals of Scientific Research course will support students conduct an authentic research project by providing them adult-world connections. Similarly, the students engaged in the Entrepreneurship for Others class will also be introduced to adult-world connections on a regular basis. Adult guest speakers will be a weekly portion of the course. Moreover, students will have mentors that assist them with their prototypes, market research and pitches. Further connecting students to the world is central to the STEAM initiative’s mission.
 
 Student Opportunities
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1C8TYgLK__xepv38oMaIyeNPHLFZjPmElVNe7DbdE0fY/pubchart?oid=67880379&amp;format=interactive"></iframe>
 
 ## Engineering Internship Reflection
 
