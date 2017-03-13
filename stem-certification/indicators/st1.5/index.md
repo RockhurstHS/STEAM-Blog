@@ -11,7 +11,7 @@ description: Students demonstrate their learning through performance-based asses
 The most fun way to hear students elaborately explain their thinking is to hear it from the mouth of a [Jesubot](http://steam.rockhursths.edu/2016/08/20/Reflections-of-a-Jesubot.html). The Rockhurst’s robotics team began in the fall of 2015 and is the flagship program that models 21st century learning. These students competed in the high-stakes FIRST Robotics competition and boasted an acceptance to the [World Championship during their inaugural year](http://steam.rockhursths.edu/2016/04/12/Rookie-All-Star-Robotics.html). 
 
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/robotics-student-engineers.jpg" style="width=50%";>
+  <img src="{{ site.baseurl }}/img/robotics-student-engineers.jpg" style="width: 50%"; style="height: 50%";>
 </div>
 
 In order to give more weight to performance-based assessments, the science department has worked towards increasing the amount of time students spend doing actual science in the lab. This is reflected in that the core science courses of Biology and Chemistry feature double-period science labs. More time in the labs increases the opportunities for demonstrate their learning. 
