@@ -50,7 +50,41 @@ This year the STEAM initiative partnered with [MindDrive](http://steam.rockhurst
 Finally, some of our students can’t find a pathway to fit all of their interests. Many want to pursue STEM education, but have to make choices because there isn't enough room in their schedule. In order to provide more access to STEM classes, Rockhurst began a [Summer Academy](https://www.rockhursths.edu/pages/academics/summer-school-and-camps/academics---summer-school---high-school-credit-courses) in the summer of 2016. This allows students to take a full year of Chemistry in a six-week intensive. This helps students get ahead in STEM coursework, but it also helps students pursue multiple academic interests so they don’t have to make a choice early in their lives that will impact their entire academic future. 
 
 ## Key Exemplars
-### [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program)
-### [Opening up AP Calculus](http://steam.rockhursths.edu/2016/05/16/AP-Calculus-AB-2015-Results.html)
-### [Introduction to Computer Science for all](http://steam.rockhursths.edu/2016/07/01/Intro-to-CS-Down.html)
+
+<div class="media">
+  <div class="media-left">
+    <a href="https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program">
+      <img class="media-object" src="/img/64/st1.1a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Hurtado Scholars</h4>
+    <p>The Hurtado Scholars Program is an educational and leadership opportunity offered by Rockhurst High School to prepare middle school boys for success at a college preparatory high school and beyond.</p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/05/16/AP-Calculus-AB-2015-Results.html">
+      <img class="media-object" src="/img/64/st1.1b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Opening up AP Calculus</h4>
+    <p>In the 2014-2015 school year, the Rockhurst math department chose to double the enrollment in our AP Calculus 1 course. This decision was based on the idea that our students deserved every opportunity, and we were confident that this number of students could be successful in an AP course. We have continued with this enrollment plan in the 2015-2016 school year.</p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/07/01/Intro-to-CS-Down.html">
+      <img class="media-object" src="/img/64/st1.1c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Introduction to Computer Science for all</h4>
+    <p>July 1, 2016 marks the completion of my first ever high school credit course, Intro to Computer Science. It was nice to be able to focus on just one course as well as rehearse the curriculum planned for release this school year as a required technical credit for graduation.</p>
+  </div>
+</div>
+
 

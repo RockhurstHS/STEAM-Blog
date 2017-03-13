@@ -53,6 +53,10 @@ html {
   img {
     max-width: 100%;
   }
+  
+  img.media-object {
+    max-width: initial;
+  }
 
   header, footer {
     padding: $PADDING;
