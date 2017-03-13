@@ -16,7 +16,11 @@ When the STEAM initiative began in the fall of 2015, a [report](https://drive.go
 
 A huge part of part of this was making sure written curriculum reflected the STEM ideals the school wanted to infuse.  After spending parts of two years with this program the school initiated a program where all classes in the school would have a [written curriculum](https://drive.google.com/drive/folders/0B3F7qMT7tLRdflBRSVVYcUM3Rm1vbnFFVXQ1aGlPX1I3T1BCN2ZJMl9fLUdMaC1PQVJuelE) with specific content, assessments, and identified learning outcomes that made sure our students were “literate” for 21st century learning.
 
-Rockhurst High School prides itself in STEM learning outcomes demonstrated by student AP Scores. All students are required to take four full years of mathematics and about half the senior class takes the AP Calculus Exam each year. All students are also required to take three years of science although many of them take four.
+Rockhurst High School prides itself in STEM learning outcomes demonstrated by student AP Scores as described in the [school profile](https://www.rockhursths.edu/file/college-counseling/2016-17/RHS_ProfileBook_2016_17_F.pdf). All students are required to take four full years of mathematics and about half the senior class takes the AP Calculus Exam each year. All students are also required to take three years of science although many of them take four.
+
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/APresults2016.png">
+</div>
 
 Beginning in 2016, the computer science curriculum was completely rebooted. Starting with the class of 2020, every student is required to take [Introduction to Computer Science](http://steam.rockhursths.edu/2016/07/01/Intro-to-CS-Down.html). This graduation requirement introduces every student to coding and each student demonstrates their learning by coding an animated character that lives within a digital ecosystem created by the class. Furthermore, both [AP Computer Science A an AP Computer Science Principles](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html) are now being taught to a variety of students.
 
