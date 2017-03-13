@@ -29,7 +29,7 @@ As of 2016, the school [newspaper, the Prep News, went completely digital](https
 <b>Above image taken by Rockhurst Photography Student and shown during the 2016 Roscars event</b>
 
 Students in the Design for Industry class built wooden toys to [give to children in need](http://www.kshb.com/news/local-news/rockhurst-hs-students-build-toy-trucks-for-children-in-need-for-the-holidays), teaching students the power of their learned skills to impact their community. The [robotics class](https://www.rockhursths.edu/pages/news/news---swept-away-2015?) is always loud! Students are forced to collaborate while demonstrating their creative and critical thinking skills while working with their robot kits. The school library provides access to a number of digital databases and magazines that help students conduct research. During the 2015-2016 school year, databases were accessed by students over 8,000 times. This research occurs in classes throughout all departments, but especially in the Social Studies Department. The STEAM initiative will be encouraging more studennt research in the future, as described in the new course offerings.
-<div style="center">
+<div class="center">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Hec9Ut3kYlev8DgJj5vqTId8vivDpeH1PQxyPs1dt9E/pubchart?oid=1224493137&amp;format=interactive"></iframe>
 </div>
 
