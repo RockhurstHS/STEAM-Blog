@@ -48,11 +48,38 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
 
 ## Key Exemplars
 
-### [iPad School](https://www.rockhursths.edu/pages/academics/academics---technology---ipad-program)
+<div class="media well">
+  <div class="media-left">
+    <a href="https://www.rockhursths.edu/pages/academics/academics---technology---ipad-program">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">iPad School</h4>
+    <p>The 1:1 iPad program seeks to increase student learning by ensuring that every student and teacher in every classroom have an Internet-connected iPad.</p>
+  </div>
+</div>
 
-### [Speaker Space](http://steam.rockhursths.edu/2017/03/09/Speaker-Space.html)
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/03/09/Speaker-Space.html">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Speaker Space</h4>
+    <p>Our efforts show that the humanities and languages also have a place in the STEAM educational world. The greatest satisfaction is seeing the students’ positive response and to hear them speaking the target language.</p>
+  </div>
+</div>
 
-### [New Courses](http://steam.rockhursths.edu/2017/02/01/New-Courses.html)
-
-
-
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/02/01/New-Courses.html">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">New Courses</h4>
+    <p>Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience.</p>
+  </div>
+</div>
