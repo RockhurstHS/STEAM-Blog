@@ -95,6 +95,12 @@ bertroney:
   title: Foreign Language Chair
   image: img/bertroney.jpg
   profile: false
+  
+scottreagan:
+  name: Scott Reagan
+  title: Social Studies Teacher
+  image: img/scottreagan.jpg
+  profile: true
 
 ### STUDENTS
 
