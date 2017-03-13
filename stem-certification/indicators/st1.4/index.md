@@ -21,7 +21,7 @@ Students now use iPads to access academic books, create digital media for class 
 
 This platform makes it easy for students to communicate and collaborate with their teacher and with each other, which supports teacher efforts to scaffold. Some classes are tranisitioning beyond an online text book to an enitrily online format including assesments. 
  
-As of 2016, the school newspaper went completely digital. Three students are taking multi-calculus through the Jesuit Virtual Learning Academy. The student work from the photography and filmmaking classes will be showcased at the annual FineArts Fair on April 5th, 2017. 
+As of 2016, the school [newspaper, the Prep News, went completely digital](https://pnonline.org/). Three students are taking multi-calculus through the Jesuit Virtual Learning Academy. The student work from the photography and filmmaking classes will be showcased at the annual FineArts Fair on April 5th, 2017. 
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/Roscars 2016 Creative.jpg">
