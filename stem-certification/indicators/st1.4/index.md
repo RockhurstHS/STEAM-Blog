@@ -29,13 +29,14 @@ Students in the Design for Industry class built wooden toys to [give to children
 
 The Modern Language & Classics Department launched it’s [Speaker Space](http://steam.rockhursths.edu/2017/03/09/Speaker-Space.html) this year. Now, students interact with each other and their teacher with the [DiLL software](http://www.swifteducation.com/). At least once out of every six class days, students will be using this technology to practice their listening and speaking skills. 
 
+<div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JDbSJ6Yo5EA" frameborder="0" allowfullscreen></iframe>
-<p>
+</div>
 
 
 Rockhurst High School partnered with the online platform [LRNG](https://www.lrng.org/kc) to create digital badges that will establish credentials for students as they achieve various experience points. Social studies teacher, Tim Reidy, created a [“Historian Skills Badge”](http://steam.rockhursths.edu/2016/11/17/LRNG.html) on the LRNG platform and will be using it within his own classroom as a student project. Two teachers in the Theology department are engaging their students with the [Ignatian Carbon Challenge](https://ignatiansolidarity.net/ignatian-carbon-challenge/) and must submit their progress each month through reports on the ICC platform.
 
-<div class="flex-wrapper">
+<div align="center">
   <img src="{{ site.baseurl }}/img/IggyCarbon.png">
 </div>
 
@@ -46,8 +47,11 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
 </div>
 
 ## Key Exemplars
+
 ### [iPad School](https://www.rockhursths.edu/pages/academics/academics---technology---ipad-program)
+
 ### [Speaker Space](http://steam.rockhursths.edu/2017/03/09/Speaker-Space.html)
+
 ### [New Courses](http://steam.rockhursths.edu/2017/02/01/New-Courses.html)
 
 
