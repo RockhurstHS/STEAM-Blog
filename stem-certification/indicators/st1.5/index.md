@@ -37,10 +37,12 @@ On October 5th, 2016, Rockhurst High School partnered with Gould Evans architect
 </div>
 
 
-[New programming can be traced back directly to this film as motivation](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then [pitch the result] of that mini experiment to their peers.
+[New programming can be traced back directly to this film as motivation](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then [pitch the result](http://steam.rockhursths.edu/2017/03/01/Life-Hacking.html) of that mini experiment to their peers.
+
 
 
 Students in the [AP Computer Science Principles](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html) class are competing in the [SensED IoT challenge](http://www.kcsocialinnovation.org/sensed/) in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a [STEAM council](https://drive.google.com/file/d/0B1-JIRrX_4I5dXItM0R0U3Fab01hMjA2UlVrUFlXMDhCYUp3/view?usp=sharing), which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. 
+
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/STEAM Council.JPG" alt="Mr. Arico speaking about the possibility of extraterrestrial life." source="width: 50%;">
@@ -49,7 +51,9 @@ Students in the [AP Computer Science Principles](http://steam.rockhursths.edu/20
 About 50 students participated in a [MECA challenge](http://steam.rockhursths.edu/2017/02/11/MECA-Challenge.html). These students came in on their day off and - with the help of alumni mentors - built a solution to a real, authentic social & entrepreneurial challenge and pitched it to a team of judges at the end of the day. 
 
 
+
 For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017/02/01/New-Courses.html) will allow for even more performance-based assessment possibilities. The Fundamentals of Scientific Research course will culminate in a research symposium where students will share their research projects with a public audience. The Entrepreneurship for Others semester long course will end with an EFO Pitch Night. 
+
 
 ## Key Exemplars
 ### [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
