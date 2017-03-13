@@ -9,7 +9,9 @@ description: STEM teachers and leaders participate in a continuous program of ST
 </p>
 Recently, Rockhurst High School became an affiliate member of the [National Consortium of Secondary STEM Schools (NCSSS)](https://www.rockhursths.edu/pages/news/news---ncsss-acceptance). For the past two years, representatives of Rockhurst High School have accompanied the STEAM Director to this conference, which features sessions for administrators as well as specific content areas. This is one of many examples of faculty attending STEM-specific professional conferences. A variety of Rockhurst teachers and administrators have made a total of nearly 80 appearances at over a twenty-five conferences during the last two years.
 
+<div align="center">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1951257408&amp;format=interactive"></iframe>
+</div>
 
 Some highlights of these experiences include the [Exeter Mathematics Institute](http://steam.rockhursths.edu/2016/08/10/EMI-2016.html) (attended by seven math department members), the [Internet of Things](http://steam.rockhursths.edu/2016/07/31/SensED-Internet-of-Things-Curriculum.html) workshop, the EMP Museum STEAM workshop, AP Seminars Silicon Valley, [Faith and Science Astronomy Conference](http://steam.rockhursths.edu/2017/02/12/Religion-and-Science-Is-there-a-gap-to-bridge.html), STEMCon, [NCSSS](http://steam.rockhursths.edu/2016/02/03/Research-Statistics.html), and the AdvancED STEM Summit. The robotics teacher alone attended six conferences/workshops specifically geared towards the launch of the robotics program (National Science Teacher’s STEM Conference, STEMcon, Carnegie Mellon Robotics Academy, Intelitek Training, National Science Teacher’s Regional Conference, and SeaPerch ROV Build).
 
