@@ -123,43 +123,43 @@ The project source code is hosted on GitHub at [https://github.com/RockhurstHS/D
 ## Gallery
 
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1190.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1190.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1240.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1240.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1238.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1238.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1192.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1192.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1190.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1190.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1240.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1240.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1238.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1238.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1192.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1192.jpg" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1194.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1194.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1195.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1195.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1196.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1196.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1197.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1197.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1194.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1194.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1195.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1195.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1196.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1196.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1197.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1197.jpg" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1198.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1198.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1237.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1237.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1200.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1200.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1211.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1211.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1198.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1198.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1237.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1237.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1200.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1200.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1211.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1211.jpg" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1212.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1212.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1213.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1213.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1217.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1217.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1219.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1219.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1212.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1212.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1213.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1213.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1217.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1217.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1219.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1219.jpg" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1193.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1193.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1191.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1191.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1199.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1199.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1193.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1193.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1191.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1191.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1199.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1199.jpg" alt=""></a></div>
   <div class="col-xs-3">&nbsp;</div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1220.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1220.jpg" alt=""></img></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1236.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1236.jpg" alt=""></img></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1220.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1220.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/donboscogallery/IMG_1236.jpg" title=""><img src="/img/donboscogallery/thumbs/IMG_1236.jpg" alt=""></a></div>
   <div class="col-xs-3">&nbsp;</div>
   <div class="col-xs-3">&nbsp;</div>
 </div>

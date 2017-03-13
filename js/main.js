@@ -1,6 +1,6 @@
 //region DOCUMENT READY
 $(document).ready(function () {
-
+  
   //wrap each image in magnific anchor
   $('.flex-wrapper img').each(function() {
     var source = this.src;

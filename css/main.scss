@@ -57,8 +57,21 @@ html {
   header, footer {
     padding: $PADDING;
   }
+  
+  figure {
+    display:inline-block;
+    
+    img {
+      vertical-align: middle;
+    }
+    
+    figcaption {
+      background-color: $BLACK;
+      color: $WHITE;
+      padding: $PADDING;
+    }
+  }
 }
-
 
 /* SITE HEADER */
 #site-header {
