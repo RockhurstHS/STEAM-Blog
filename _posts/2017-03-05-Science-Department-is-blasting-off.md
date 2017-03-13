@@ -51,8 +51,11 @@ There are even more exciting courses next year!
 
 And there is even an Outdoor Classroom plan in the works!
 
-Want to get involved in science or engineering outside the classroom? Then there are more opportunities than you may realize.
+Want to get involved in science or engineering outside the classroom? Then there are more opportunities than you may realize. The STEAM initiative has helped create a number of student opportunities. Most of them are through the science department.
 
+<div align="center">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1C8TYgLK__xepv38oMaIyeNPHLFZjPmElVNe7DbdE0fY/pubchart?oid=67880379&amp;format=interactive"></iframe>
+</div>
 
 [Robotics Team](http://steam.rockhursths.edu/2015/08/13/Introducing-the-Robotics-Maker-Space.html)
 
