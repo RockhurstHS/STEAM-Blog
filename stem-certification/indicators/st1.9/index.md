@@ -8,13 +8,14 @@ description: STEM teachers and leaders participate in a continuous program of ST
 <b>Narrative</b>
 </p>
 Recently, Rockhurst High School became an affiliate member of the [National Consortium of Secondary STEM Schools (NCSSS)](https://www.rockhursths.edu/pages/news/news---ncsss-acceptance). For the past two years, representatives of Rockhurst High School have accompanied the STEAM Director to this conference, which features sessions for administrators as well as specific content areas. This is one of many examples of faculty attending STEM-specific professional conferences. A variety of Rockhurst teachers and administrators have made a total of nearly 80 appearances at over a twenty-five conferences during the last two years.
-<div align="center">
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1178377008&amp;format=interactive"></iframe>
-</div>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1951257408&amp;format=interactive"></iframe>
 
 Some highlights of these experiences include the [Exeter Mathematics Institute](http://steam.rockhursths.edu/2016/08/10/EMI-2016.html) (attended by seven math department members), the [Internet of Things](http://steam.rockhursths.edu/2016/07/31/SensED-Internet-of-Things-Curriculum.html) workshop, the EMP Museum STEAM workshop, AP Seminars Silicon Valley, [Faith and Science Astronomy Conference](http://steam.rockhursths.edu/2017/02/12/Religion-and-Science-Is-there-a-gap-to-bridge.html), STEMCon, [NCSSS](http://steam.rockhursths.edu/2016/02/03/Research-Statistics.html), and the AdvancED STEM Summit. The robotics teacher alone attended six conferences/workshops specifically geared towards the launch of the robotics program (National Science Teacher’s STEM Conference, STEMcon, Carnegie Mellon Robotics Academy, Intelitek Training, National Science Teacher’s Regional Conference, and SeaPerch ROV Build).
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1951257408&amp;format=interactive"></iframe>
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/indicators/st1.6b.jpg">
+</div>  
 
 In the spring of 2016, Rockhurst High School arranged a memorandum of understanding with [Rockhurst University] so that faculty members at the high school can take classes at the university for a reduced tuition. The genesis of this memorandum grew out of a desire to help support teachers take advantage of the University’s emerging [data science program](http://ww2.rockhurst.edu/news/03-16-2016/another-top-ranking-helzberg-management-mba). A long term goal of the STEAM initiative includes infusing data science content into the existing school curriculum. 
 
