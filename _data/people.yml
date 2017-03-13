@@ -1,3 +1,5 @@
+### FACULTY & STAFF
+
 gregowsley:
   name: Greg Owsley
   title: STEAM Director
@@ -93,3 +95,11 @@ bertroney:
   title: Foreign Language Chair
   image: img/bertroney.jpg
   profile: false
+
+### STUDENTS
+
+harrisonoest:
+  name: Harrison Oest
+  
+mileswood:
+  name: Miles Wood

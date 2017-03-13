@@ -9,12 +9,12 @@ I believe we are a profoundly Ignatian school and, as such, fulfill the [standar
 
 On March 2nd, I shared how Rockhurst approaches STEM through an Ignatian Lens during an online webinar for the [Jesuit Schools Network (JSN)](https://www.jesuitschoolsnetwork.org/), which is comprised of about 80 schools from around the United States, Central America and beyond.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wa6PaYz-LGs" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/wa6PaYz-LGs" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<p>[Slide Notes and links](https://docs.google.com/document/d/1kGheyb9_jTnp05rxC1B2d-l1Ot6SqoorGdMeUhSaanM/edit?usp=sharing)
-</p>
-<p>
+[Slide Notes and links](https://docs.google.com/document/d/1kGheyb9_jTnp05rxC1B2d-l1Ot6SqoorGdMeUhSaanM/edit?usp=sharing)
+
 [Presentation Slides](https://docs.google.com/presentation/d/1_fcrQYaUksDqqudoECrdqpyhEvzqDV7wHLwlNZdikQ8/edit?usp=sharing)
-</p>
 
 

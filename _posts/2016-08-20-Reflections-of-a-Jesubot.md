@@ -1,6 +1,6 @@
 ---
 layout: post
-author: harrisonoest
+author: Harrison Oest
 title: Reflections of a Jesubot
 excerpt: "Everything started with a trip out to the Garmin Corporate Campus to see the big reveal."
 ---
