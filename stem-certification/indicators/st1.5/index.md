@@ -8,20 +8,8 @@ description: Students demonstrate their learning through performance-based asses
 <b>Narrative</b>
 </p>
 
-## Most Likely to Succeed
 
-[http://steam.rockhursths.edu/2016/10/06/MLTS.html](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
-
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/indicators/st1.5a.jpg">
-</div>
-
-## NHD
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zUIayLnDV9g" frameborder="0" allowfullscreen></iframe>
-
-[Walt Disney](http://88929534.nhd.weebly.com/)
-
+The most fun way to hear students elaborately explain their thinking is to hear it from the mouth of a Jesubot. The Rockhurst’s robotics team began in the fall of 2015 and is the flagship program that models 21st century learning. These students competed in the high-stakes FIRST Robotics competition and boasted an acceptance to the World Championship during their inaugural year. In order to give more weight to performance-based assessments, the science department has worked towards increasing the amount of time students spend doing actual science in the lab. This is reflected in that the core science courses of Biology and Chemistry feature double-period science labs. More time in the labs increases the opportunities for demonstrate their learning. 
 
 ## Rookie All Star Robotics
 
@@ -30,3 +18,34 @@ description: Students demonstrate their learning through performance-based asses
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.5b.jpg">
 </div>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
+
+There exists many examples of how Rockhurst’s traditional programming set students up to express conclusions through elaborate explanations. For example, the social studies department co-curriculars alone boast a nationally renowned mock trial team, competitive Model UN teams and yearly National History Day projects. Moreover, the communication arts department often puts students in positions to demonstrate their learning through performance-based assessments such as the Roscars, the Rockhurst High School themed film festival, and other student broadcasting events.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUIayLnDV9g" frameborder="0" allowfullscreen></iframe>
+
+[Walt Disney](http://88929534.nhd.weebly.com/)
+
+Community service is central to the school’s mission and through partnering with the STEAM Studio, students participated in a service learning experience. They then were invited by ISTE to present their experience at a conference hosting about 20,000 educators. This was a  great opportunity for students to elaborately explain their work to a public audience.
+
+## Most Likely to Succeed
+
+[http://steam.rockhursths.edu/2016/10/06/MLTS.html](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
+
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/indicators/st1.5a.jpg">
+</div>
+
+On October 5th, 2016, Rockhurst High School partnered with Gould Evans architecture firm and the STEAM studio to host the film Most Likely to Succeed. This film, shown to over 320 members of the Rockhurst community, highlights the value of public exhibitions and performance-based assessments. New programming can be traced back directly to this film as motivation. For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then pitch the result of that mini experiment to their peers.
+
+
+Students in the AP Computer Science Principles class are competing in the SensED IoT challenge in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a STEAM council, which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. About 50 students participated in a MECA challenge. These students came in on their day off and - with the help of alumni mentors - built a solution to a real, authentic social & entrepreneurial challenge and pitched it to a team of judges at the end of the day. 
+
+
+For the 2017-2018 academic year, new courses will allow for even more performance-based assessment possibilities. The Fundamentals of Scientific Research course will culminate in a research symposium where students will share their research projects with a public audience. The Entrepreneurship for Others semester long course will end with an EFO Pitch Night. There are also plans to incorporate a ‘sophomore seminar’ program, which will create opportunities for every sophomore to pitch the results of miniature life-hacking experiments in an effort to help instill a growth mindset and empower students to better utilize their self-control during self-directed time.
+
+## Key Exemplars
+### [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
+### [National History Day](https://www.rockhursths.edu/pages/students/students---landing)
+### [Robotics](https://www.rockhursths.edu/pages/news/news---robotics-world-championship-qualifiers)
