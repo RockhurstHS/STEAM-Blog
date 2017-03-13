@@ -13,11 +13,15 @@ When [Brother Guy Consolmagno](https://www.rockhursths.edu/pages/news/news---bro
 <i>
 “Studying the universe is an act of worship.”
 
+
 “Do you know where I learned to wave my arms like this and speak in front of people? In my drama class. In my speech class!”
+
 
 “Do you know how I learned to create presentation board for science conferences? In my yearbook class.”
 
+
 “Do you know when I first learned how to analyze!? By studying poetry in English literature and learning Latin!”
+
 
 “Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
 
@@ -43,7 +47,7 @@ Included in the objectives of co-curricular planning, students experience a mult
 
 Within other academic courses, students are also asked to solve real world problems in an interdisciplinary approach. Students in the AP Computer Science Principles class are competing in the [SensED IoT Challenge](http://www.kcsocialinnovation.org/sensed/) for a class project. Students in the Kansas City History class (using an ibook written by their teacher!) are asked to used a variety of digital and technological skills to earn a Historian Skills badge through the LRNG platform. Within theology classes, students are solving environmental and sustainability by participating in the [Ignatian Carbon Challenge](https://ignatiansolidarity.net/ignatian-carbon-challenge/). 
 
-<div source="embed-container">
+<div class="embed-container">
 <iframe src="https://www.youtube.com/embed/-ivLs6HKXTI" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -52,7 +56,7 @@ Within other academic courses, students are also asked to solve real world probl
 <div class="media">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/08/10/EMI-2016.html">
-      <img class="media-object" src="/indicators/st1.6b.jpg">
+      <img class="media-object" src="/img/indicators/st1.6b.jpg">
     </a>
   </div>
   <div class="media-body">
