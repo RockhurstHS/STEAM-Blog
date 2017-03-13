@@ -13,7 +13,7 @@ Rockhurst High School offers the following four Computer Science courses for the
 - AP Computer Science Principles (two semesters)
 - AP Computer Science A (two semesters)
 
-I (blogged previously)[{{ site.baseurl }}/2016/07/01/Intro-to-CS-Down.html] about the Intro CS course.
+I [blogged previously]({{ site.baseurl }}/2016/07/01/Intro-to-CS-Down.html) about the Intro CS course.
 
 Software Application Development focuses primarily on iOS development, taking advantage of the current one-to-one iPad program at the high school and the fact that we have Apple computer labs. To power mobile applications in this course, students will learn about virtual hardware, deploy their own Linux servers, install and configure a MySQL database instance, and write RESTful API routes in Node.js and Express.
 
