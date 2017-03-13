@@ -47,5 +47,42 @@ Within other academic courses, students are also asked to solve real world probl
 <iframe src="https://www.youtube.com/embed/-ivLs6HKXTI" frameborder="0" allowfullscreen></iframe>
 </div>
 
+## Key Exemplars
+
+<div class="media">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/08/10/EMI-2016.html">
+      <img class="media-object" src="/indicators/st1.6b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Exeter Mathematics Institute</h4>
+    <p>Exeter Mathematics Institute (EMI) is an intensive, hands-on professional development program for public middle and secondary school mathematics teachers. Our goal is to improve mathematics education by working directly with teachers on mathematics content and pedagogy.</p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html">
+      <img class="media-object" src="/img/Guy Consolmagno.png">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Pope's Astronomer</h4>
+    <p>"It was truly a blessing for our students to have the opportunity to hear Brother Consolmagno speak," said Mr. Paul Winkeler, Science, Technology, Engineering, Arts, and Mathematics Director.  "While his work in Planetary Science is vast and ground breaking, students also learned about his faith journey and how God invites us to encounter Him through the heavens."  </p>
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/02/11/MECA-Challenge.html">
+      <img class="media-object" src="/img/Winning Group.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">MECA Challenge</h4>
+    <p>“Awesome event…really well done. This is the type of REAL WORLD experiences you simply can’t teach in a classroom. Keep up the good work.”</p>
+  </div>
+</div>
 
 
