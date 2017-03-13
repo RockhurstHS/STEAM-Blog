@@ -33,8 +33,40 @@ Student Opportunities
   <img src="{{ site.baseurl }}/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo">
 </div>
 
-
 ## Key Exemplars
-### [Student Opportunities](https://docs.google.com/spreadsheets/d/1C8TYgLK__xepv38oMaIyeNPHLFZjPmElVNe7DbdE0fY/edit#gid=0)
-### [Building for Others](https://www.rockhursths.edu/pages/news/news---je-dunn-mentorship?)
-### [Servicee Learning](http://steam.rockhursths.edu/2016/02/16/Service-Learning-at-Don-Bosco.html)
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://docs.google.com/spreadsheets/d/1C8TYgLK__xepv38oMaIyeNPHLFZjPmElVNe7DbdE0fY/edit#gid=0">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Student Opportunities</h4>
+    <p>...</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://www.rockhursths.edu/pages/news/news---je-dunn-mentorship">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Building for Others</h4>
+    <p>These students are working with JE Dunn team members to learn as much as they can about the business.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/02/16/Service-Learning-at-Don-Bosco.html">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Servicee Learning</h4>
+    <p>This year we invested some of our effort in a service learning educational approach to one of the senior service projects.</p>
+  </div>
+</div>

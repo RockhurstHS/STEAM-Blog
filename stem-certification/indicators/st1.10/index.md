@@ -32,7 +32,39 @@ Education Affairs Meetings
 </div>
 
 ## Key Exemplars
-### [STEAM Advisory Board](https://docs.google.com/document/d/1WlOZvl3XxWkNRKFiIOETbOvCqY7C-FNf5vQ6YBZKE-g/edit?usp=sharing)
-### [School for Others](https://www.jesuitschoolsnetwork.org/webinars?qt-webinars=1#qt-webinars)
-### [Middle School Math Day](http://steam.rockhursths.edu/2015/11/28/Middle-School-Math-Day.html)
 
+<div class="media well">
+  <div class="media-left">
+    <a href="https://docs.google.com/document/d/1WlOZvl3XxWkNRKFiIOETbOvCqY7C-FNf5vQ6YBZKE-g/edit?usp=sharing">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">STEAM Advisory Board</h4>
+    <p>...</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://www.jesuitschoolsnetwork.org/webinars?qt-webinars=1#qt-webinars">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">School for Others</h4>
+    <p>...</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2015/11/28/Middle-School-Math-Day.html">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Middle School Math Day</h4>
+    <p>The math department hosted 19 middle school math teachers, on November 13th. The day was an opportunity to meet them and to collaborate and exchange ideas.</p>
+  </div>
+</div>
