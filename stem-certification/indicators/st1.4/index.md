@@ -48,10 +48,6 @@ Rockhurst High School partnered with the online platform [LRNG](https://www.lrng
 
 Technology permeates throughout all of Rockhurst High School. Moving forward, [new classes](http://steam.rockhursths.edu/2017/02/01/New-Courses.html) such as Project Lead the Way’s Principles of Engineering (the use of a variety of engineering tools), Fundamentals of Scientific Research (aligning experimental design with appropriate scientific tools) and the Entrepreneurship for Others (Actually building prototypes and using digital resources to conduct market research) are specifically designed to create opportunities for students to continue using technology resources to conduct research, demonstrate creative and critical thinking, and communicate and work collaboratively.
 
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/indicators/st1.4a.jpg">
-</div>
-
 ## Key Exemplars
 
 <div class="media well">
