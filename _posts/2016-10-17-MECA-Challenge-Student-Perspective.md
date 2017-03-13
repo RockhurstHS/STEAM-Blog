@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: MECA Challenge
+title: MECA Challenge - Student Perspective
 excerpt: Together, we created a business in 3 hours
 ---
 
