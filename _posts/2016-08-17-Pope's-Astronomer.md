@@ -8,7 +8,7 @@ excerpt: "Studying the universe is an act of Worship"
   <img src="{{site.baseurl}}/img/Guy Consolmagno.png">
 </div>
 
-[Brother Guy Consolmagno](https://www.youtube.com/watch?v=kmU2gDbP_Tk) spoke to students yesterday. He beautifully articulated how the values of Jesuit education enrich the goals of the STEAM initiative. 
+[Brother Guy Consolmagno](https://www.youtube.com/watch?v=kmU2gDbP_Tk) spoke to students [yesterday](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno). He beautifully articulated how the values of Jesuit education enrich the goals of the STEAM initiative. 
 
 Here are some of my favorite quotes:
 
@@ -33,3 +33,5 @@ He explained how our experiences are the framework for working across discipline
 I would like to say he described in an efficient, engaging and delightful presentation how we can “see” our existence in color and depth versus black & white and two dimensional.  Thankful!"
 
 Special thanks to [Mr. Paul Winkeler](http://steam.rockhursths.edu/team/paulwinkeler/), STEM Coordinator, for setting up this wonderful event.
+
+You can read more about his visit [here](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno).
