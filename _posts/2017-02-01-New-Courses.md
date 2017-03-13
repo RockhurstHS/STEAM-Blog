@@ -48,9 +48,17 @@ Utilizing peer learning, students identify problems to be solved, learn what pro
 ### Course Details
 
 Grade Level - 11th & 12th 
+
+
 Length - One semester course
+
+
 Type of Course - Elective 
+
+
 Prerequisite - None
+
+
 AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1.7, ST1.8, ST1.10, ST1.11
 
 
@@ -64,8 +72,18 @@ Students have the opportunity to develop skills and understanding of course conc
 
 
 ### Course Details
+
+
 Grade Level - 11th & 12th 
+
+
 Length - Two semester science course
+
+
 Type of Course - Elective 
+
+
 Prerequisite - None
+
+
 AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.4, ST1.5, ST1.6, ST.1.11
