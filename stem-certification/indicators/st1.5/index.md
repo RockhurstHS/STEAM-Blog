@@ -19,7 +19,7 @@ In order to give more weight to performance-based assessments, the science depar
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
 
-There exists many examples of how Rockhurst’s traditional programming set students up to express conclusions through elaborate explanations. For example, the social studies department co-curriculars alone boast a nationally renowned mock trial team, competitive Model UN teams and yearly National History Day projects. Moreover, the communication arts department often puts students in positions to demonstrate their learning through performance-based assessments such as the Roscars, the Rockhurst High School themed film festival, and other student broadcasting events.
+Rockhurst’s traditional programming provides many examples that ask students to express conclusions through elaborate explanations. For example, the social studies department co-curriculars alone boast a [nationally renowned Mock Trial team](https://www.facebook.com/RockhurstHigh/photos/a.220743781318984.54310.156062314453798/1155714567821896/?type=3&theater), competitive Model UN teams and yearly [National History Day](https://www.rockhursths.edu/pages/students/students---landing) projects. Moreover, the communication arts department often puts students in positions to demonstrate their learning through performance-based assessments such as the Roscars, the Rockhurst High School themed film festival, and other student broadcasting events.
 
 <div class="embed-container">
 <iframe src="https://www.youtube.com/embed/zUIayLnDV9g" frameborder="0" allowfullscreen></iframe>
