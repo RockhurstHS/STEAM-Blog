@@ -1,13 +1,13 @@
 ---
 layout: indicator
 key: ST1.6
-assessment: 2.5
+assessment: 2
 description: The interdisciplinary problem-based curriculum includes a focus on real world applications.
 ---
 <p align="center">
 <b>Narrative</b>
 </p>
-When Brother Guy Consolmagno spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
+When [Brother Guy Consolmagno](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno) spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
 
 <p align="center">
 <i>
@@ -23,6 +23,8 @@ When Brother Guy Consolmagno spoke in front of the entire student body last fall
 
 </i>
 </p>
+
+
 
 The pillars for which the math department curriculum stand on identify problem solving ability as the main goal for all students. The school emphasizes the importance of a problem-based curriculum through hosting two week-long Exeter Mathematics Institutes each summer in partnership with area schools such as St. Teresa’s Academy and Notre Dame de Sion. The mathematics department also began working closer with the science department in order to incorporate data from science labs into the mathematics lessons.
   
