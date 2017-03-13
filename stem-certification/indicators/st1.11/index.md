@@ -63,7 +63,7 @@ Student Opportunities
     </a>
   </div>
   <div class="media-body">
-    <h4 class="media-heading">Servicee Learning</h4>
+    <h4 class="media-heading">Service Learning</h4>
     <p>This year we invested some of our effort in a service learning educational approach to one of the senior service projects.</p>
   </div>
 </div>
