@@ -39,7 +39,7 @@ On October 5th, 2016, Rockhurst High School partnered with Gould Evans architect
 
 [New programming can be traced back directly to this film as motivation](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then [pitch the result] of that mini experiment to their peers.
 
-<div source="embed-container">
+<div source="embed-container" align="center">
 <iframe src="https://docs.google.com/presentation/d/1ls36Pp8PSVYodmX7tFGk5lOqoYizafCgWPVjaUKu7uo/embed?start=true&loop=false&delayms=3000" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
