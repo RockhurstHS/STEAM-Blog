@@ -18,8 +18,8 @@ What are we doing in our new “Speaker Space?”  With twenty nine Mac minis an
 </p>
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/SpeakerSpaceSchedule.png">
-  <img alt="A student taking Ms. Chiao's Mandarin Chinese 2 class woould attend the speaker space every 5th period on a 'D' day." "src=SpeakerSpaceSchedule.png">
 </div>
+<img alt="A student taking Ms. Chiao's Mandarin Chinese 2 class woould attend the speaker space every 5th period on a 'D' day." "src=SpeakerSpaceSchedule.png">
 
 Our efforts show that the humanities and languages also have a place in the STEAM educational world.  We are proud of this initiative, but the greatest satisfaction is seeing the students’ positive response and to hear them speaking the target language.  The Rockhurst High School Modern & Classical Languages teachers are blessed to have this new resource.  We look forward to providing our students with the best experience possible to learn languages in a new era of education.  
 
