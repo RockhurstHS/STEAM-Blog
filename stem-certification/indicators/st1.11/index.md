@@ -7,6 +7,18 @@ description: Students are supported in their STEM learning through adult-world c
 <p align="center">
 <b>Narrative</b>
 </p>
+Everything that happens on campus can and should be turned into a learning opportunity. This belief sparked the idea of the JE Dunn “Building for Others” internship program. The construction firm won the bid to build the new Student Life and Alumni Center on East side of campus facing the football field. Turning this construction site into a classroom, students are taken on job-site tours, given presentations by the project managers and architects, as well as attend the bi-weekly Owner, Architect, Contractor (OAC) meetings. When the building unveils itself in August, students will be presenting a project summarizing a specific learning and take away from the experience.
+
+During the 2017 President’s Day MECA Challenge, teams of five students were paired with a Rockhurst alumni mentor to solve an entrepreneurial challenge. These mentors were specifically vetted to exceptionally talented within the entrepreneurial and technology space. Student volunteers at the STEAM Studio engage in service learning under the direction of Dr. Mandi Sonnenberg and her graduate students. These students teach coding, 3d printing, robot design and more to eager middle school and elementary school students. Moreover, the STEAM Studio is located at Gould Evans architecture firm and students collide with those working professionals. Similarly, students in the robotics classes also volunteer their time to teach middle school students at PraireFire Museum. 
+
+On smaller scales, there are Rockhurst students working on a biotechnology project for KU medical school, others building a website for a real estate firm, students working for the school as lab technicians, and a student interning at Burns & McDonnell Engineering firm. By simply walking to the robotics room everyday after school, it is obviously apparent how valuable the mentors are for those students. The Jesubots actually have a mentor motto: “Teach them, lead them, let them.”
+In the fall of 2016, a group of students went to KC Techweek. Their favorite part of the day included walking around the expo asking startup entrepreneurs questions about how they accomplished the creation of a company. This trip was a natural extension of the annual Rockhurst career day. On this day, students sign up to attend talks given by Rockhurst alumni to learn about specific career pathways.
+
+Next year, more adult world connections will be created through new courses. The Fundamentals of Scientific Research course will support students conduct an authentic research project by providing them adult-world connections. Similarly, the students engaged in the Entrepreneurship for Others class will also be introduced to adult-world connections on a regular basis. Adult guest speakers will be a weekly portion of the course. Moreover, students will have mentors that assist them with their prototypes, market research and pitches. Further connecting students to the world is central to the STEAM initiative’s mission.
+
+Student Opportunities
+
+
 ## Engineering Internship Reflection
 
 [http://steam.rockhursths.edu/2016/11/01/Engineering-Internship-Reflection.html](http://steam.rockhursths.edu/2016/11/01/Engineering-Internship-Reflection.html)
@@ -20,3 +32,9 @@ description: Students are supported in their STEM learning through adult-world c
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo">
 </div>
+
+
+## Key Exemplars
+### [Student Opportunities](https://docs.google.com/spreadsheets/d/1C8TYgLK__xepv38oMaIyeNPHLFZjPmElVNe7DbdE0fY/edit#gid=0)
+### [Building for Others](https://www.rockhursths.edu/pages/news/news---je-dunn-mentorship?)
+### [Servicee Learning](http://steam.rockhursths.edu/2016/02/16/Service-Learning-at-Don-Bosco.html)
