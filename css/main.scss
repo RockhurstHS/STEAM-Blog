@@ -70,9 +70,10 @@ html {
     }
     
     figcaption {
-      background-color: $BLACK;
-      color: $WHITE;
-      padding: $PADDING;
+      font-style: italic;
+      font-size: 0.9em;
+      padding-top: 0.8 * $PADDING;
+      text-align: center;
     }
   }
 }

@@ -21,14 +21,12 @@ But many questions and a lot of anxiety followed.  Would we have the money?  Is 
 
 What are we doing in our new “Speaker Space?”  With twenty nine Mac minis and a teacher station, instructors are able to arrange students in groups of two, three, four or larger to converse through the headsets.  All textbook audio files are housed in a catalog for speaking and listening comprehension activities.  Teachers can also create their own unique activities.  We can also “drop” video clips on to student screens.  All student conversations can be recorded, and teachers can access these files from anywhere for assessment via our own Rockhurst DiLL software webpage. 
 
-
 <div class="flex-wrapper">
   <figure> 
     <img src="{{ site.baseurl }}/img/SpeakerSpaceSchedule.png">
-    <figurecaption> Ms. Shao's Mandarin Chinese 2 class uses the speaker space every 5th period on a 'D' day</figurecaption>
+    <figcaption>Ms. Shao's Mandarin Chinese 2 class uses the speaker space every 5th period on a 'D' day</figcaption>
   </figure>
 </div>
-
 
 Our efforts show that the humanities and languages also have a place in the STEAM educational world.  We are proud of this initiative, but the greatest satisfaction is seeing the students’ positive response and to hear them speaking the target language.  The Rockhurst High School Modern & Classical Languages teachers are blessed to have this new resource.  We look forward to providing our students with the best experience possible to learn languages in a new era of education.  
 
