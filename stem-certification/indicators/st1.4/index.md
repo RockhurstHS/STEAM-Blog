@@ -47,8 +47,9 @@ Rockhurst High School partnered with the online platform [LRNG](https://www.lrng
 </div>
 
 The Rockhurst mathematics department uses a personalized mathematics software called [Aleks](https://www.aleks.com/) with the [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). After a first year trial period, the impact of this technology is tremendous.
+
 <div class="flex-wrapper">
-  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1UawzwoIHEdKL4cYFzk5Wn70Ae1komSk2bJ3U8OiaoyM/pubchart?oid=782421778&amp;format=interactive">    </iframe>
+  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1UawzwoIHEdKL4cYFzk5Wn70Ae1komSk2bJ3U8OiaoyM/pubchart?oid=782421778&amp;format=interactive"></iframe>
  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1nNEpPeQjuv7CF7Sax6TAhH5UkMHEQOPLnQQbzGb-ieg/pubchart?oid=34094877&amp;format=interactive"></iframe>
  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1I1z5iZberafiTVdFcrr1iHtFneasQwV_SrDbehR_-Ko/pubchart?oid=1845779929&amp;format=interactive"></iframe>
 </div>
