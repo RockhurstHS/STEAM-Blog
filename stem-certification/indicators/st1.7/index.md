@@ -13,7 +13,7 @@ Rockhurst High School educators value collaboration and have a history of doing 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8H-vuCg_rYQ?list=PLE49B6B6E48D3E6A4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The STEAM team, composed of a STEAM Director and two STEAM Coordinators met nearly every day of the 2015 - 2016 school year in order to plan, implement, and improve aspects of STEAM around the school. Beyond those three, the STEAM Director worked closely with department chairs, the educational technologist, the librarian (particularly with the planning of the learning commons) and members of the advancement office. The STEAM team began the 2015 school year with [interviewing every single faculty member one on one](https://docs.google.com/presentation/d/1cISBkHWQQZFmaYLIFg7AS7BK9QArEQK0mi4XL1duqpM/edit) in order to assess the biggest needs around the school in terms of STEM learning experiences. 
+The STEAM team, composed of a STEAM Director and two STEAM Coordinators <b>met nearly every day</b> of the 2015 - 2016 school year in order to plan, implement, and improve aspects of STEAM around the school. Beyond those three, the STEAM Director worked closely with department chairs, the educational technologist, the librarian (particularly with the planning of the learning commons) and members of the advancement office. The STEAM team began the 2015 school year with [interviewing every single faculty member one on one](https://docs.google.com/presentation/d/1cISBkHWQQZFmaYLIFg7AS7BK9QArEQK0mi4XL1duqpM/edit) in order to assess the biggest needs around the school in terms of STEM learning experiences. 
 
 <div class="flex-wrapper">
   <img src="/img/Reactions to STEAM.jpg">
@@ -25,7 +25,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 </div>
 [Image Credit: Steelcase Education Solutions - Active Learning](https://edtechdigest.wordpress.com/2013/11/22/purposeful-design/credit-steelcase-education-solutions-active-learning/)
 
-### Additional Resources:
+## Additional Resources:
 
 [Course Proposals for new courses](https://docs.google.com/document/d/1ZZy4ViDLS5x7UpTZIh33AIJ2ZynsaSSavLNfTgEWkaM/edit)
 
