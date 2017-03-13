@@ -21,10 +21,7 @@ In the spring of 2016, Rockhurst High School arranged a memorandum of understand
 
 After an initial training session from a Steelcase representative, the teachers from the [Active Learning classrooms](http://steam.rockhursths.edu/active-learning/) met biweekly to share their best practices. For 2016-2017, the [STEAM Blog](http://steam.rockhursths.edu/) created an ‘Active Learning’ portion. This will be used to help facilitate further professional development opportunities for 2017-2018 school year. In fact, about one-third of the classrooms will be outfitted as active learning classrooms next year. It was fascinating to hear the [reaction from Rockhurst's retired principal](http://steam.rockhursths.edu/2015/10/06/A-Visit-to-Whats-Next.html). All of these experiences are on top of the standard professional development commitments of Rockhurst staff and faculty.
 
-
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/indicators/st1.9a.jpg" alt="One to one interviews, 70 conferences, Research for Better Teaching">
-</div>
+Finally, during [January of 2016](https://docs.google.com/presentation/d/12vGbG7OgZa-PT6YKlsE5bIADI8MgopqNGYu6CT_DqnM/edit?usp=sharing) and [January of 2017](https://docs.google.com/presentation/d/1MCNpXJ1a_6xnjScTV8Z_r6U2dU_whEC95X61vohfvDc/edit?usp=sharing), the STEAM Director presented an update regarding all of the faculty and students involved in various STEAM-related opportunities.
 
 
 ## Key Exemplars
