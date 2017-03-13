@@ -39,4 +39,4 @@ An example presentation from the first pilot is below.
 </div>
 
 
-<blockquote> Education isn't confined within class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world? </blockquote>
+<blockquote> Education isn't confined to just class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world? </blockquote>
