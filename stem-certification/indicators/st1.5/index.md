@@ -87,7 +87,7 @@ For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/Winning Group.jpg">
     </a>
   </div>
   <div class="media-body">
