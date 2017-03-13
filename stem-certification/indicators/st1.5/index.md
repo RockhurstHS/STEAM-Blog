@@ -19,25 +19,25 @@ In order to give more weight to performance-based assessments, the science depar
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DukEa9uNOTR2zXDjrFgl6Y2eJde6U4IBzK4AszoHTRw/pubchart?oid=1983344515&amp;format=interactive"></iframe>
 
-Rockhurst’s traditional programming provides many examples that ask students to express conclusions through elaborate explanations. For example, the social studies department co-curriculars alone boast a [nationally renowned Mock Trial team](https://www.facebook.com/RockhurstHigh/photos/a.220743781318984.54310.156062314453798/1155714567821896/?type=3&theater), competitive Model UN teams and yearly [National History Day](https://www.rockhursths.edu/pages/students/students---landing) projects. Moreover, the communication arts department often puts students in positions to demonstrate their learning through performance-based assessments such as the Roscars, the Rockhurst High School themed film festival, and other student broadcasting events.
+Rockhurst’s traditional programming provides many examples that ask students to express conclusions through elaborate explanations. For example, the social studies department co-curriculars alone boast a [nationally renowned Mock Trial team](https://www.facebook.com/RockhurstHigh/photos/a.220743781318984.54310.156062314453798/1155714567821896/?type=3&theater), competitive Model UN teams and yearly [National History Day](https://www.rockhursths.edu/pages/students/students---landing) projects such as women's rights (see video below) or a webpage about [Walt Disney](http://88929534.nhd.weebly.com/). Moreover, the communication arts department often puts students in positions to demonstrate their learning through performance-based assessments such as the Roscars, the Rockhurst High School themed film festival, and other student broadcasting events.
 
 <div class="embed-container">
 <iframe src="https://www.youtube.com/embed/zUIayLnDV9g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Walt Disney](http://88929534.nhd.weebly.com/)
 
 Community service is central to the school’s mission and through partnering with the [STEAM Studio](http://steam-studio.com/), students participated in a service learning experience. They then were [invited by ISTE](http://parseprofessor.blogspot.com/2016_07_01_archive.html) to present their experience at a conference hosting about 20,000 educators. This was a  great opportunity for students to elaborately explain their work to a public audience.
 
-## Most Likely to Succeed
 
-[http://steam.rockhursths.edu/2016/10/06/MLTS.html](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
+On October 5th, 2016, Rockhurst High School partnered with Gould Evans architecture firm and the STEAM studio to host the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). This film, shown to over 320 members of the Rockhurst community, highlights the value of public exhibitions and performance-based assessments. 
+
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.5a.jpg">
 </div>
 
-On October 5th, 2016, Rockhurst High School partnered with Gould Evans architecture firm and the STEAM studio to host the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). This film, shown to over 320 members of the Rockhurst community, highlights the value of public exhibitions and performance-based assessments. [New programming can be traced back directly to this film as motivation](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then [pitch the result] of that mini experiment to their peers.
+
+[New programming can be traced back directly to this film as motivation](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). For example, Rockhurst is piloting a new program for rising sophomores in which they execute a miniature, personalized action plan inspired by a psychological concept (such as Carol Dweck’s Growth Mindset research) and then [pitch the result] of that mini experiment to their peers.
 
 <div source="embed-container">
 <iframe src="https://docs.google.com/presentation/d/1ls36Pp8PSVYodmX7tFGk5lOqoYizafCgWPVjaUKu7uo/embed?start=true&loop=false&delayms=3000" frameborder="0" allowfullscreen="true"></iframe>
