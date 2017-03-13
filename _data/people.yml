@@ -24,16 +24,10 @@ nicolesmith:
   image: img/nicolesmith.jpg
   profile: false
 
-franklyngar:
-  name: Frank Lyngar
-  title: Math Teacher
-  image: img/franklyngar.jpg
-  profile: true
-
-patrickcurran:
-  name: Patrick Curran
-  title: Math Teacher
-  image: img/patrickcurran.jpg
+scottreagan:
+  name: Scott Reagan
+  title: Director of Standardized Testing / AdvancED Coordinator
+  image: img/scottreagan.jpg
   profile: true
 
 annlehane:
@@ -42,17 +36,29 @@ annlehane:
   image: img/annlehane.jpg
   profile: false
 
-chrisbosco:
-  name: Chris Bosco
-  title: Assistant Principal for Student Life
-  image: img/chrisbosco.jpg
-  profile: false
-
 brandonjones:
   name: Brandon Jones
   title: Educational Technologist
   image: img/brandonjones.jpg
   profile: true
+
+franklyngar:
+  name: Frank Lyngar
+  title: Math Teacher
+  image: img/franklyngar.jpg
+  profile: true
+  
+patrickcurran:
+  name: Patrick Curran
+  title: Math Teacher
+  image: img/patrickcurran.jpg
+  profile: true
+
+chrisbosco:
+  name: Chris Bosco
+  title: Assistant Principal for Student Life
+  image: img/chrisbosco.jpg
+  profile: false
 
 larryruby:
   name: Larry Ruby
@@ -90,11 +96,6 @@ bertroney:
   image: img/bertroney.jpg
   profile: false
   
-scottreagan:
-  name: Scott Reagan
-  title: Director of Standardized Testing / AdvancED Coordinator
-  image: img/scottreagan.jpg
-  profile: true
 
 brentsams:
   name: Brent Sams
