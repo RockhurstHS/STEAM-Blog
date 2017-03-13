@@ -23,3 +23,4 @@ Ultimately, the goal aims to create a more student-centered learning environment
   <img src="/img/Room312.JPG">
   <img src="/img/StandingandSitting.JPG">
 </div>
+
