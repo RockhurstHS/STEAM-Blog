@@ -21,7 +21,7 @@ But many questions and a lot of anxiety followed.  Would we have the money?  Is 
 
 What are we doing in our new “Speaker Space?”  With twenty nine Mac minis and a teacher station, instructors are able to arrange students in groups of two, three, four or larger to converse through the headsets.  All textbook audio files are housed in a catalog for speaking and listening comprehension activities.  Teachers can also create their own unique activities.  We can also “drop” video clips on to student screens.  All student conversations can be recorded, and teachers can access these files from anywhere for assessment via our own Rockhurst DiLL software webpage. 
 
-</p>
+
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/SpeakerSpaceSchedule.png">
 </div>
