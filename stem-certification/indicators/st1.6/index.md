@@ -9,19 +9,20 @@ description: The interdisciplinary problem-based curriculum includes a focus on 
 </p>
 When Brother Guy Consolmagno spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
 
+<p align="center">
 <i>
+“Studying the universe is an act of worship.”
 
-<align="center"> “Studying the universe is an act of worship.”
+“Do you know where I learned to wave my arms like this and speak in front of people? In my drama class. In my speech class!”
 
-<align="center"> “Do you know where I learned to wave my arms like this and speak in front of people? In my drama class. In my speech class!”
+“Do you know how I learned to create presentation board for science conferences? In my yearbook class.”
 
-<align="center"> “Do you know how I learned to create presentation board for science conferences? In my yearbook class.”
+“Do you know when I first learned how to analyze!? By studying poetry in English literature and learning Latin!”
 
-<align="center"> “Do you know when I first learned how to analyze!? By studying poetry in English literature and learning Latin!”
-
-<align="center"> “Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
+“Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
 
 </i>
+</p>
 
 The pillars for which the math department curriculum stand on identify problem solving ability as the main goal for all students. The school emphasizes the importance of a problem-based curriculum through hosting two week-long Exeter Mathematics Institutes each summer in partnership with area schools such as St. Teresa’s Academy and Notre Dame de Sion. The mathematics department also began working closer with the science department in order to incorporate data from science labs into the mathematics lessons.
   
