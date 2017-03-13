@@ -38,6 +38,39 @@ Next year, several new classes will be launched that specifically focus on provi
 Even within the structured academic program, there exist ample opportunities that provide autonomy to all students. The math department boasts a very [flexible curriculum pathway](https://drive.google.com/file/d/0B1-JIRrX_4I5ODdCLW5xZEN5c3M/view?usp=sharing) that allows easy transitions for any student to move from a standard track to an advanced track. [Summer school classes](https://www.rockhursths.edu/academics---summer-school-and-camps) also allow for all students to move to different tracks. Similarly, the Science department offers a full-credit Chemistry class during the summer. This creates more opportunities for any student interested in science to pursue additional science courses during their four years at Rockhurst High School. The science department labs have also been modified so that every six days, the students experience a [double-period lab](http://steam.rockhursths.edu/2017/01/26/Increasing-Laboratory-Time.html), which lasts 90 minutes. This extra time has allowed all students to engage in much more robust STEM learning experiences with the supervision of their science teacher.
 
 ## Key Exemplars
-### [Science Programming](http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html)
-### [Learning Spaces](http://steam.rockhursths.edu/active-learning/)
-### [Community Challenges](http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html)
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Science Programming</h4>
+    <p>Not only did they spend a combined 80+ hours cleaning the laboratory glassware this summer or put a weather station on the roof, they continue to increase the number of innovative student offerings at an increasing rate.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/active-learning/">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Learning Spaces</h4>
+    <p>We want to leverage the strong brotherhood that exists at Rockhurst and get the students to engage with one another more frequently during instruction time.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Community Challenges</h4>
+    <p>Rockhurst science teacher Heidi Kuster worked with the RHS STEAM Director, Greg Owsley, and STEAM Coordinator & Science Chair Paul Winkeler to outline the pathway to creating an opportunity for Rockhurst High School students to conduct original scientific research.</p>
+  </div>
+</div>
