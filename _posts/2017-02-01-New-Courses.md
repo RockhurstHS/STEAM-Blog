@@ -17,19 +17,33 @@ In this course, students will learn fundamental scientific research. Students wi
 Students will be required to meet regularly with their teacher one on one throughout the year. The fruits of this work will be the completion of a written report of the authentic project followed by a presentation of the experience and findings at the end of year Rockhurst research symposium.
 
 ### Course Details
-Grade Level - 11th & 12th 
+Grade Level - 11th & 12th
+
+
 Length - Two semester lab science course
+
+
 Type of Course - Elective 
+
+
 Prerequisite - None
+
+
 AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1.8, ST1.10, ST1.11
 
 
 ## Entrepreneurship for Others
 
+Rockhurst High School is developing this course with the assistance of the [UMKC Small Business Development and Technology Center](http://info.umkc.edu/sbtdc/?doing_wp_cron=1489373947.9933199882507324218750).
+
+<div class="flex-wrapper">
+  <img src="/img/UMKC SBTDC.png">
+</div>
+
+
 This course inspires and engages students with the perseverance and determination of an entrepreneurial mindset needed to succeed academically and in life. Relying on the values of Men for Others, students will grow more confident in themselves and their ability to positively affect their community. By utilizing an experiential, problem-based methodology, students are encouraged to apply what they are learning in real-world circumstances, enabling them to develop entrepreneurial attitudes, behaviors and skills.  
 <blockquote>Culminating with an “Entrepreneurship for Others” (EFO) Pitch Night</blockquote>
 Utilizing peer learning, students identify problems to be solved, learn what problems create the greatest opportunities for the community and marketplace, assess what data they have, what assumptions need testing, and how and where to access new information that may lead to the resolution of the problem.  Students refine their ideas in the real world by working through assumptions, data, and validation with experienced entrepreneurs.  Culminating with an “Entrepreneurship for Others” (EFO) Pitch Night, open to the public, students will then present their learning canvas experiences and any associated products or services.
-
 
 ### Course Details
 
@@ -41,7 +55,7 @@ AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1
 
 
 
-## Principles of Engineering (A course by Project Lead the Way)
+## Principles of Engineering (A course by [Project Lead the Way](https://www.pltw.org/our-programs/pltw-engineering))
 
 Principles of Engineering (POE) is a foundation course of the high school engineering pathway. This survey course exposes students to some of the major concepts that they will encounter in a postsecondary engineering course of study. Through problems that engage and challenge, students explore a broad range of engineering topics, including mechanisms, the strength of materials and structures, automation, and kinematics. The course applies and concurrently develops secondary level knowledge and skills in mathematics, science, and technology.
 <blockquote>It also allows students to develop strategies to enable and direct their own learning, which is the ultimate goal of education.</blockquote>
