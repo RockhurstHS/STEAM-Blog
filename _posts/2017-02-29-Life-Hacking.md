@@ -6,7 +6,7 @@ excerpt: Learning can occur during self-directed time too. Isn't that what happe
 ---
 <p align="center">
 ## Life-Hacking
->/p>
+</p>
 Inspired by the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html), I'm piloting a new program aimed at empowering students with psychological tools to help them develop a sense of agency and learn how to make better use of their self-directed time.
 
 <b> Students will participate in three sessions. </b>
