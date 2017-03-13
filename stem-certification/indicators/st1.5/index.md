@@ -28,6 +28,9 @@ Rockhurst’s traditional programming provides many examples that ask students t
 
 Community service is central to the school’s mission and through partnering with the [STEAM Studio](http://steam-studio.com/), students participated in a service learning experience. They then were [invited by ISTE](http://parseprofessor.blogspot.com/2016_07_01_archive.html) to present their experience at a conference hosting about 20,000 educators. This was a  great opportunity for students to elaborately explain their work to a public audience.
 
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/ISTEimage.JPG">
+</div>
 
 On October 5th, 2016, Rockhurst High School partnered with Gould Evans architecture firm and the STEAM studio to host the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html). This film, shown to over 320 members of the Rockhurst community, highlights the value of public exhibitions and performance-based assessments. 
 
@@ -41,7 +44,7 @@ On October 5th, 2016, Rockhurst High School partnered with Gould Evans architect
 
 
 
-Students in the [AP Computer Science Principles](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html) class are competing in the [SensED IoT challenge](http://www.kcsocialinnovation.org/sensed/) in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a [STEAM council](https://drive.google.com/file/d/0B1-JIRrX_4I5dXItM0R0U3Fab01hMjA2UlVrUFlXMDhCYUp3/view?usp=sharing), which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. 
+Students in the [AP Computer Science Principles](http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html) class are competing in the [SensED IoT challenge](http://steam.rockhursths.edu/2017/03/12/SensED-Design-Demo-Day-Project-Proposals-Submitted.html) in April of 2017. One team is creating an improved cane to be used by members of the blind community. A collection of students self-organized to form a [STEAM council](https://drive.google.com/file/d/0B1-JIRrX_4I5dXItM0R0U3Fab01hMjA2UlVrUFlXMDhCYUp3/view?usp=sharing), which organizes weekly talks about STEAM topics. Alternating back and forth between teacher talks and student talks, the council hopes to encourage further exploration and research into particular aspects of STEAM. 
 
 
 <div class="flex-wrapper">
