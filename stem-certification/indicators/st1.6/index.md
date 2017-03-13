@@ -13,15 +13,23 @@ When [Brother Guy Consolmagno](https://www.rockhursths.edu/pages/news/news---bro
 <i>
 “Studying the universe is an act of worship.”
 
+
+<p align="center">
 <div>
 “Do you know where I learned to wave my arms like this and speak in front of people? In my drama class. In my speech class!”
 </div>
+
+<p align="center">
 <div>
 “Do you know how I learned to create presentation board for science conferences? In my yearbook class.”
 </div>
+
+<p align="center">
 <div>
 “Do you know when I first learned how to analyze!? By studying poetry in English literature and learning Latin!”
 </div>
+
+<p align="center">
 <div>
 “Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
 </div>
