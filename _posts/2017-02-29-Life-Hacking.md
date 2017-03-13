@@ -4,35 +4,28 @@ authors: gregowsley
 title: Life-Hacking
 excerpt: Learning can occur during self-directed time too. Isn't that what happens in the real world?
 ---
-<p align="center">
-## Life-Hacking
+## <p align="center">
+<b> Life-Hacking </b>
 </p>
 Inspired by the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html), I'm piloting a new program aimed at empowering students with psychological tools to help them develop a sense of agency and learn how to make better use of their self-directed time.
 
 <b> Students will participate in three sessions. </b>
 
-<i> 
 ### Session 1 
-</i>
 
 Students will be introduced to a topic, such as Growth Mindset.
 
 <div class="embed-container">
 <iframe src="https://www.youtube.com/embed/pN34FNbOKXc" frameborder="0" allowfullscreen></iframe>
 </div>
-<i> 
-
 
 ### Session 2
-</i>
 
 
 Students will develop an action plan with their peers. They will all agree to create a [SMART goal](https://www.projectsmart.co.uk/smart-goals.php) and decide how they will measure their progress towards that goal in the coming week.
 
 
-<i> 
 ### Session 3
-</i>
 
 
 Students will then present their learnings to their fellow peers.
@@ -46,4 +39,4 @@ An example presentation from the first pilot is below.
 </div>
 
 
-Education isn't confined within class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world?
+<blockquote> Education isn't confined within class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world? </blockquote>
