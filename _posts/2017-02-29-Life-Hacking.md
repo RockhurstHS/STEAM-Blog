@@ -39,7 +39,11 @@ Students will then present their learnings to their fellow peers.
 
 
 An example presentation from the first pilot is below.
+
+
+<div class="embed-container">
 <iframe src="https://docs.google.com/presentation/d/1ls36Pp8PSVYodmX7tFGk5lOqoYizafCgWPVjaUKu7uo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 
 Education isn't confined within class time, athletic/co-curricular practice time, or retreat time. Learning can occur during self-directed time too. Isn't that what happens in the real world?
