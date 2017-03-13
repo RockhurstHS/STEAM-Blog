@@ -5,36 +5,20 @@ assessment: 2
 description: The interdisciplinary problem-based curriculum includes a focus on real world applications.
 ---
 <p align="center">
-<b>Narrative</b>
+  <b>Narrative</b>
 </p>
+
 When [Brother Guy Consolmagno](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno) spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
 
-<p align="center">
-“Studying the universe is an act of worship.”
+*“Studying the universe is an act of worship.”*
 
+*“Do you know where I learned to wave my arms like this and speak in front of people? In my drama class. In my speech class!”*
 
-<p align="center">
-<div>
-“Do you know where I learned to wave my arms like this and speak in front of people? In my drama class. In my speech class!”
-</div>
+*“Do you know how I learned to create presentation board for science conferences? In my yearbook class.”*
 
-<p align="center">
-<div>
-“Do you know how I learned to create presentation board for science conferences? In my yearbook class.”
-</div>
+*“Do you know when I first learned how to analyze!? By studying poetry in English literature and learning Latin!”*
 
-<p align="center">
-<div>
-“Do you know when I first learned how to analyze!? By studying poetry in English literature and learning Latin!”
-</div>
-
-<p align="center">
-<div>
-“Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
-</div>
-
-</p>
-
+*“Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”*
 
 The [pillars](https://drive.google.com/file/d/0B1-JIRrX_4I5bVNEZU5HaGFDMHc/view?usp=sharing) for which the math department curriculum stand on identify problem solving ability as the main goal for all students. The school emphasizes the importance of a problem-based curriculum through hosting two week-long [Exeter Mathematics Institutes](http://steam.rockhursths.edu/2016/08/10/EMI-2016.html) each summer in partnership with area schools such as St. Teresa’s Academy and Notre Dame de Sion. The mathematics department also began working closer with the science department in order to [incorporate data from science labs](https://drive.google.com/file/d/0B1-JIRrX_4I5ZnJaWXhHem5CZm8/view?usp=sharing) into the mathematics lessons.
 
@@ -58,9 +42,7 @@ Within other academic courses, students are also asked to solve real world probl
   <iframe src="https://www.youtube.com/embed/-ivLs6HKXTI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 ## Key Exemplars
-
 
 <div class="media well">
   <div class="media-left">
