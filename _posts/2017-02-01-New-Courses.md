@@ -37,7 +37,7 @@ AdvancED STEM Standard Indicators: ST1.1, ST1.2, ST1.3, ST1.4, ST1.5, ST1.6, ST1
 
 Rockhurst High School is developing this course with the assistance of the [UMKC Small Business Development and Technology Center](http://info.umkc.edu/sbtdc/?doing_wp_cron=1489373947.9933199882507324218750).
 
-<img align="center"; src="/img/UMKC SBTDC.png"> 
+<img src="/img/UMKC SBTDC.png"; align="center"> 
 
 This course inspires and engages students with the perseverance and determination of an entrepreneurial mindset needed to succeed academically and in life. Relying on the values of Men for Others, students will grow more confident in themselves and their ability to positively affect their community. By utilizing an experiential, problem-based methodology, students are encouraged to apply what they are learning in real-world circumstances, enabling them to develop entrepreneurial attitudes, behaviors and skills.  
 <blockquote>Culminating with an “Entrepreneurship for Others” (EFO) Pitch Night</blockquote>
