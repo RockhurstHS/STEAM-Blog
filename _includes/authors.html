@@ -1,7 +1,11 @@
 {% assign authorCount = post.authors | size %}
 {% if authorCount == 0 %}  
   {% assign card = site.data.people[post.author] %}
-  {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ post.author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+  {% if card %}
+    {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ post.author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+  {% else %}
+    {{ post.author }}
+  {% endif %}
 {% else %}
   {% for author in post.authors %}
     {% assign card = site.data.people[author] %}
