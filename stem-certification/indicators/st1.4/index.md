@@ -50,7 +50,7 @@ The Rockhurst mathematics department uses a personalized mathematics software ca
 
 <div class="flex-wrapper">
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1UawzwoIHEdKL4cYFzk5Wn70Ae1komSk2bJ3U8OiaoyM/pubchart?oid=782421778&amp;format=interactive"></iframe>
- <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1nNEpPeQjuv7CF7Sax6TAhH5UkMHEQOPLnQQbzGb-ieg/pubchart?oid=34094877&amp;format=interactive"></iframe>
+ <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1nNEpPeQjuv7CF7Sax6TAhH5UkMHEQOPLnQQbzGb-ieg/pubchart?oid=1228543938&amp;format=interactive"></iframe>
  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1I1z5iZberafiTVdFcrr1iHtFneasQwV_SrDbehR_-Ko/pubchart?oid=1845779929&amp;format=interactive"></iframe>
 </div>
 
