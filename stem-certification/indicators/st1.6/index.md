@@ -7,7 +7,7 @@ description: The interdisciplinary problem-based curriculum includes a focus on 
 <p align="center">
 <b>Narrative</b>
 </p>
-	When Brother Guy Consolmagno spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
+When Brother Guy Consolmagno spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
 
 <i>
 
