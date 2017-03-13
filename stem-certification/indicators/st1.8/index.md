@@ -28,7 +28,7 @@ Log books and lab books are an essential part of every science course. The [robo
 
 Outside of core curricular learning outcomes. Students are voluntarily posting [STEM reflections](http://steam.rockhursths.edu/2017/02/11/Learning-to-lead-from-a-Reef-Tank.html) on the STEAM Blog. Students articulated STEM literacy at the [ISTE conference](http://parseprofessor.blogspot.com/2016_07_01_archive.html) during the summer of 2016 and they are also demonstrating STEM literacy through various STEM related competitions.
 
-<div class="flex-wrapper" style="center">
+<div style="center">
   <img src="{{ site.baseurl }}/img/STEAMstudioTutor.JPG" style="width: 50%;">
 </div>
 
