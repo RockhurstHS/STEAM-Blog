@@ -56,6 +56,39 @@ For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017
 
 
 ## Key Exemplars
-### [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html)
-### [National History Day](https://www.rockhursths.edu/pages/students/students---landing)
-### [Robotics](https://www.rockhursths.edu/pages/news/news---robotics-world-championship-qualifiers)
+
+<div class="media well">
+  <div class="media-left">
+    <a href="http://steam.rockhursths.edu/2016/10/06/MLTS.html">
+      <img class="media-object" src="/img/64/st1.2a.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Most Likely to Succeed</h4>
+    <p>Rockhurst High Schools hosted 320 people on October 4th, 2016 for a film screening of Most Likely to Succeed. This events aimed to inform the local community of the future trends in education.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://www.rockhursths.edu/pages/students/students---landing">
+      <img class="media-object" src="/img/64/st1.2b.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">National History Day</h4>
+    <p>Welcome to the student landing page! Keep up to date on News, Events, and much more.  Read more about upcoming events and activities taking place in your community.</p>
+  </div>
+</div>
+
+<div class="media well">
+  <div class="media-left">
+    <a href="https://www.rockhursths.edu/pages/news/news---robotics-world-championship-qualifiers">
+      <img class="media-object" src="/img/64/st1.2c.jpg">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Robotics</h4>
+    <p>The team received the Rookie All Star Award, which placed them in the top 300 robotics teams in the world (which is in the top 6%), and earned them an opportunity to compete at the World Championships April 27-30 in St. Louis, in the program's first year.</p>
+  </div>
+</div>

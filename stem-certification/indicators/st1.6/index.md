@@ -55,7 +55,7 @@ Included in the objectives of co-curricular planning, students experience a mult
 Within other academic courses, students are also asked to solve real world problems in an interdisciplinary approach. Students in the AP Computer Science Principles class are competing in the [SensED IoT Challenge](http://www.kcsocialinnovation.org/sensed/) for a class project. Students in the Kansas City History class (using an ibook written by their teacher!) are asked to used a variety of digital and technological skills to earn a Historian Skills badge through the LRNG platform. Within theology classes, students are solving environmental and sustainability by participating in the [Ignatian Carbon Challenge](https://ignatiansolidarity.net/ignatian-carbon-challenge/). 
 
 <div class="embed-container">
-<iframe src="https://www.youtube.com/embed/-ivLs6HKXTI" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/-ivLs6HKXTI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Key Exemplars
