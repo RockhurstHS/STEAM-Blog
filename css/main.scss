@@ -222,15 +222,19 @@ html {
     font-weight: bold;
     padding: 0 7px 0 7px;
   }
+  .media {
+    padding: $PADDING;
+  }
+  .media:hover {
+    background-color: #e8e8e8;
+    cursor: pointer;
+  }
+  .media-object {
+    width: 64px;
+    height: 64px;
+  }
 }
 
-.media {
-  padding: $PADDING;
-}
-.media:hover {
-  background-color: #e8e8e8;
-  cursor: pointer;
-}
 
 /* PEOPLE */
 #people-container {

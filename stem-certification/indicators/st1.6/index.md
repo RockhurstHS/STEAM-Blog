@@ -10,7 +10,6 @@ description: The interdisciplinary problem-based curriculum includes a focus on 
 When [Brother Guy Consolmagno](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno) spoke in front of the entire student body last fall, he emphasized the importance of an interdisciplinary curriculum. Here are some of the best quotes:
 
 <p align="center">
-<i>
 “Studying the universe is an act of worship.”
 
 
@@ -34,7 +33,6 @@ When [Brother Guy Consolmagno](https://www.rockhursths.edu/pages/news/news---bro
 “Science is collaborative! Scientists are great at it. If you notice, nearly all science papers are written by a team!”
 </div>
 
-</i>
 </p>
 
 
