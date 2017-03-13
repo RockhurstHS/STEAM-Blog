@@ -433,6 +433,18 @@ body {
   .thumbnail {
     width: 20%;
   }
+    
+  .active-learning a, .indicator a, .post a, .profile a {
+    font-weight: bold;
+  }
+  
+  .byline a, .listing a, .panel a, a.btn, a.post-wrapper {
+    font-weight: initial;
+  }
+  
+  .panel a {
+    font-weight: initial;
+  }
   
   .listing {
     list-style: none;

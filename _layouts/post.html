@@ -5,7 +5,7 @@ layout: default
 <div class="container">
   <div class="row post">
     <div class="col-md-8">
-      <h1 class="title"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+      <h1 class="title">{{ page.title }}</h1>
       <p class="byline">Written by 
       {% if authorCount == 0 %}
         {% assign card = site.data.people[page.author] %}
