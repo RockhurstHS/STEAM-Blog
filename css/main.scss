@@ -353,9 +353,17 @@ body {
   }
 
   .gsheet-interactive-row {
-    resize: both;
+    display: flex;
     position: relative;
     width: 100%;
+  }
+  
+  .gsheet-interactive-row > * {
+    min-width: 1px;
+  }
+  
+  .gsheet-interactive-column {
+    flex: 1;
   }
 
   /* responsive YouTube & Vimeo video */

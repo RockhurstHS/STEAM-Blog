@@ -24,6 +24,9 @@ $(document).ready(function () {
       transform: "translate(-50%, -50%) " + "scale(" + scale + ")"
     });
 
+    // doesn't work - try this: http://stackoverflow.com/questions/8883503/getting-the-size-of-a-css3-transformed-element
+    var frameHeight = $('.gsheet-interactive-frame').height();
+    $('.gsheet-interactive-column').height(frameHeight);
   }
 
   var starterData = { 
