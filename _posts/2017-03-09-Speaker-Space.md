@@ -15,8 +15,12 @@ How to improve student speaking and listening comprehension?  The last few years
 My first step was to reach out to Jesuit schools across the country.  Did they have a language lab?  What technologies are they using?  During the 2015-2016 school year we contacted software companies, gathered research and pricing and held webinars after school for our department members.  I attended the national ACTFL language conference to sample products in person.  I visited several language labs at schools in our area.  Mr. Jeremy McElduff and I also visited St. Louis University High School to meet with their tech team and faculty. 
 
 
+
 <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/SpeakerSpaceJeremy.JPG">
+  <figure>
+    <img src="{{ site.baseurl }}/img/SpeakerSpaceJeremy.JPG">
+    <figcaption>Mr. Jeremy McElduff testing out options at a nearby high school.</figcaption>
+    </figure>
 </div>
 
 
@@ -24,11 +28,6 @@ Our conclusion was clear.  While many might imagine a “language lab” as an a
 
 
 But many questions and a lot of anxiety followed.  Would we have the money?  Is there space for a lab?  What product should we use?  With the support of the STEAM committee and the administration, we targeted the “DiLL” software - Digital Interactive Language Learning.  As the school year progressed our questions were answered.  Our principal, Mr. Greg Harkness, offered to convert a journalism Mac lab into a new lab.  The “STEAM” committee, whose members followed our journey, lobbied on our behalf.  Our president, Fr. Terrence Baum S.J. approved the funds.  Academic vice principal, Mr. Scott Duschen, supported our request to integrate this new resource into our curriculum.  Anxiety morphed into excitement and ultimately our department implemented a new “Speaker Space” language lab for the 2016-2017 school year. 
-
-<div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/SpeakerSpaceJeremy.JPG">
-  <figcaption>Mr. Jeremy McElduff testing out options at a nearby high school.</figcaption>
-</div>
 
 
 What are we doing in our new “Speaker Space?”  With twenty nine Mac minis and a teacher station, instructors are able to arrange students in groups of two, three, four or larger to converse through the headsets.  All textbook audio files are housed in a catalog for speaking and listening comprehension activities.  Teachers can also create their own unique activities.  We can also “drop” video clips on to student screens.  All student conversations can be recorded, and teachers can access these files from anywhere for assessment via our own Rockhurst DiLL software webpage. 
