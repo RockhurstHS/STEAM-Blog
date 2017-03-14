@@ -66,7 +66,7 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
 
 <div class="media well">
   <div class="media-left">
-    <a href="http://steam.rockhursths.edu/2017/03/09/Speaker-Space.html">
+    <a href="{{ site.baseurl }}/2017/03/09/Speaker-Space.html">
       <img class="media-object" src="/img/64/st1.2b.jpg">
     </a>
   </div>
@@ -78,7 +78,7 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
 
 <div class="media well">
   <div class="media-left">
-    <a href="http://steam.rockhursths.edu/2017/02/01/New-Courses.html">
+    <a href="{{ site.baseurl }}/2017/02/01/New-Courses.html">
       <img class="media-object" src="/img/64/st1.2c.jpg">
     </a>
   </div>

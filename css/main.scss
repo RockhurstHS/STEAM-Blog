@@ -290,6 +290,12 @@ body {
     height: 40px;
     width: 40px;
   }
+  
+  p.caption {
+    font-size: 0.9em;
+    font-style: italic;
+    text-align: center;
+  }
 
   .flex {
     display: flex;
