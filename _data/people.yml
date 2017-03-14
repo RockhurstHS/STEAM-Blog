@@ -95,7 +95,6 @@ bertroney:
   title: Foreign Language Chair
   image: img/bertroney.jpg
   profile: false
-  
 
 brentsams:
   name: Brent Sams
@@ -103,10 +102,4 @@ brentsams:
   image: img/brentsams.jpg
   profile: true
 
-### STUDENTS
 
-harrisonoest:
-  name: Harrison Oest
-  
-mileswood:
-  name: Miles Wood
