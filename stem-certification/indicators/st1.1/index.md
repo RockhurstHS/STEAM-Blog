@@ -18,9 +18,11 @@ Students used to believe that only the "smartest" of them could take AP Calculus
 When the Rockhurst High School STEAM initiative began in 2015, the STEAM director and two coordinators immediately identified a need for improvement within the computer science department. Previously, only the top students were taking computer science courses and none of those students were given the support to succeed on an Advanced Placement computer science exam. Beginning in 2016, every freshmen is taking a one semester [Introduction to Computer Science](http://steam.rockhursths.edu/2016/07/01/Intro-to-CS-Down.html) course where they learn how to program with a language called Processing (an extension of Java) and JavaScript. With this course, we will set interested students up for more success in future AP Computer Science courses. Currently, Rockhurst now offers [AP Computer Science A and AP Computer Science Principles](https://drive.google.com/drive/folders/0B1-JIRrX_4I5bEVPbDNQekM3aVE?usp=sharing). Additionally, stereotypes will be broken as every students realizes that learning computer science is possible and accessible for all. Rockhurst strives to set every student up for success; one example is [a free computer essentials summer course](http://steam.rockhursths.edu/2016/09/17/CS-Success-For-All.html) to help teach necessary skills for all incoming freshman.
   
   <div class="flex-wrapper">
-  <img src="{{ site.baseurl }}/img/IntroCSpicture.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/img/IntroCSpicture.jpg">
+    <figcaption>Students receiving extra attention from Mr. Clark in Introduction to Computer Science<figcaption>
+    </figure>
 </div>
-<b> Students receiving extra attention from Mr. Clark in Introduction to Computer Science </b>
   
 At the start of the 2015 school year, Rockhurst [kicked off its Robotics program](http://steam.rockhursths.edu/2015/08/13/Introducing-the-Robotics-Maker-Space.html). One freshmen class (Introduction to Robotics), and four junior/senior classes (Robotic Engineering I) allowed 20% of the student body learn and implement the engineering design process. In conjunction with these classes, the [robotics team](http://steam.rockhursths.edu/2016/08/20/Reflections-of-a-Jesubot.html) competed in the FIRST robotics competition. In 2017-2018, the [Principles of Engineering](https://drive.google.com/file/d/0B1-JIRrX_4I5N2VYalRxS3lseUE/view?usp=sharing) (POE) course administered through [Project Lead the Way](https://drive.google.com/file/d/0B1-JIRrX_4I5N2VYalRxS3lseUE/view?usp=sharing) (PLTW) will introduce even more students to the engineering design process.
   
