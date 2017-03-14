@@ -10,7 +10,7 @@ Standardized Testing Director, AdvancED Coordinator, Social Studies Teacher, Dat
 
 ## My Academic Philosophy
 
-My academic philsophy is to facilitate an enverionment that encourages learning at all levels, to raise the bar up so that all students are peforming at their best and feel ownsership in that process.
+My academic philsophy is to facilitate an environment that encourages learning at all levels, to raise the bar up so that all students are peforming at their best and feel ownership in that process.
 
 ## My Dream Classroom
 
