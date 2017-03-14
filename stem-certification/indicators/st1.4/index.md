@@ -46,17 +46,7 @@ Rockhurst High School partnered with the online platform [LRNG](https://www.lrng
   <img src="{{ site.baseurl }}/img/IggyCarbon.png" style="width: 50%;" alt="Ignatian Carbon Challenge Logo">
 </div>
 
-The Rockhurst mathematics department uses a personalized mathematics software called [Aleks](https://www.aleks.com/) with the [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). After a first year trial period, the impact of this technology is tremendous.
-
-<div class="flex-wrapper">
-  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1UawzwoIHEdKL4cYFzk5Wn70Ae1komSk2bJ3U8OiaoyM/pubchart?oid=782421778&amp;format=interactive" style="width: 50%;"></iframe>
- <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1nNEpPeQjuv7CF7Sax6TAhH5UkMHEQOPLnQQbzGb-ieg/pubchart?oid=1228543938&amp;format=interactive" style="width: 50%;"></iframe>
- </div>
- <div class="flex-wrapper" class="center">
- <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1I1z5iZberafiTVdFcrr1iHtFneasQwV_SrDbehR_-Ko/pubchart?oid=757021436&amp;format=interactive" style="width: 50%;"></iframe>
-</div>
-
-
+The Rockhurst mathematics department uses a personalized mathematics software called [Aleks](https://www.aleks.com/) with the [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). After a first year trial period, the impact of this technology is tremendous. The <b>Aleks data</b> clearly demonstrates that this technological resource allows students to demonstrate their critical thinking skills in way that provides immediate feedback for the students as well as assisting educators in tracking progress. 
 
 Technology permeates throughout all of Rockhurst High School. Moving forward, [new classes](http://steam.rockhursths.edu/2017/02/01/New-Courses.html) such as Project Lead the Way’s Principles of Engineering (the use of a variety of engineering tools), Fundamentals of Scientific Research (aligning experimental design with appropriate scientific tools) and the Entrepreneurship for Others (Actually building prototypes and using digital resources to conduct market research) are specifically designed to create opportunities for students to continue using technology resources to conduct research, demonstrate creative and critical thinking, and communicate and work collaboratively.
 
