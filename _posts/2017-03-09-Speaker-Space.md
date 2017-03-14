@@ -38,6 +38,26 @@ Chair - Modern & Classical Languages
 </div>
 
 
+## Gallery
+STEAM-Blog/img/speakerspace/SpeakerSpace1.JPG
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace1.JPG" title=""><img src="/img/speakerspace/SpeakerSpace1.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace2.JPG" title=""><img src="/img/speakerspace/SpeakerSpace2.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace3.JPG" title=""><img src="/img/speakerspace/SpeakerSpace3.JPG" alt=""></a></div>
+</div>
+<p>&nbsp;</p>
+<div class="row">
+   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace4.JPG" title=""><img src="/img/speakerspace/SpeakerSpace4.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace5.JPG" title=""><img src="/img/speakerspace/SpeakerSpace5.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace6.JPG" title=""><img src="/img/speakerspace/SpeakerSpace6.JPG" alt=""></a></div>
+  
+</div>
+<p>&nbsp;</p>
+<div class="row">
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace7.JPG" title=""><img src="/img/speakerspace/SpeakerSpace7.JPG.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace8.JPG" title=""><img src="/img/speakerspace/SpeakerSpace8.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace9.JPG" title=""><img src="/img/speakerspace/SpeakerSpace9.JPG" alt=""></a></div>
+</div>
 
 
 
