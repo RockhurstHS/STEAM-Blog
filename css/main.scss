@@ -339,6 +339,20 @@ body {
     align-items: flex-end;
     vertical-align: bottom;
   }
+  
+  /* responsive interactive google sheet iframe */
+  /* http://codepen.io/jwclark/pen/WpOWBR */
+  .gsheet-interactive-frame {
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    background: white;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: center center;
+  }
 
   /* responsive YouTube & Vimeo video */
   /* http://embedresponsively.com/ */
