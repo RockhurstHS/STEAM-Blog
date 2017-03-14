@@ -1,6 +1,42 @@
 //region DOCUMENT READY
 $(document).ready(function () {
   
+  /* BEGIN INTERACTIVE GSHEET IFRAMES */
+  
+  // http://codepen.io/jwclark/pen/WpOWBR
+  /* fork of http://codepen.io/chriscoyier/pen/VvRoWy */
+  var master = $('.gsheet-interactive-frame').first();
+  var replicas = $('.gsheet-interactive-frame');
+  var masterHeight = master.outerHeight();
+  var masterWidth = master.outerWidth();
+  var gsheetRow = $('.gsheet-interactive-row');
+
+  function doResize(event, ui) {
+
+    var scale, origin;
+
+    scale = Math.min(
+      $('.gsheet-interactive-column').width() / masterWidth,    
+      $('.gsheet-interactive-column').height() / masterHeight
+    );
+
+    replicas.css({
+      transform: "translate(-50%, -50%) " + "scale(" + scale + ")"
+    });
+
+  }
+
+  var starterData = { 
+    size: {
+      width:  $('.gsheet-interactive-column').width(),
+      height: $('.gsheet-interactive-column').height()
+    }
+  }
+
+  doResize(gsheetRow, starterData);
+  
+  /* END INTERACTIVE GSHEET IFRAMES */
+  
   $('.indicator .media').click(function() {
     var href = $(this).find('a').first().attr('href');
     window.location = href;
