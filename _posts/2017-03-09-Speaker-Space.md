@@ -69,7 +69,7 @@ STEAM-Blog/img/speakerspace/SpeakerSpace1.JPG
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace7.JPG" title=""><img src="/img/speakerspace/SpeakerSpace7.JPG.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace7.JPG" title=""><img src="/img/speakerspace/SpeakerSpace7.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace8.JPG" title=""><img src="/img/speakerspace/SpeakerSpace8.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/speakerspace/SpeakerSpace9.JPG" title=""><img src="/img/speakerspace/SpeakerSpace9.JPG" alt=""></a></div>
 </div>
