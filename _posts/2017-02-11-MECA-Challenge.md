@@ -5,6 +5,8 @@ title: MECA Challenge
 excerpt: “This is the type of REAL WORLD experience you simply can't teach in a classroom"
 tags: arts, student-impact
 ---
+<blockquote>"Awesome event…really well done. This is the type of REAL WORLD experiences you simply can’t teach in a classroom. Keep up the good work." -Andrew Wank</blockquote>
+
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/-UsIMKj4cUA" frameborder="0" allowfullscreen></iframe>
 </div>
