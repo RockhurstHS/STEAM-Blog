@@ -1,0 +1,6 @@
+{% for tag in page.tags %}
+  {% assign temp = site.data.tags[tag] %}
+  {% if temp %}
+    <span class="label label-default">{{ temp.label }}</span>
+  {% endif %}
+{% endfor %}

@@ -6,28 +6,34 @@ layout: default
   <div class="row post">
     <div class="col-md-8">
       <h1 class="title">{{ page.title }}</h1>
-      <p class="byline">Written by 
-      {% if authorCount == 0 %}
-        {% assign card = site.data.people[page.author] %}
-        {% if card %}
-          {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ page.author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}      
-        {% else %}
-          {{ page.author }}
-        {% endif %}
-      {% else %} 
-        {% for author in page.authors %}
-          {% assign card = site.data.people[author] %}
-          {% if forloop.first %}
-            {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
-          {% elsif forloop.last %}
-            and {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
-          {% else %}
-            , {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+      <div class="flex">
+        <div class="x1 byline">
+          Written by 
+          {% if authorCount == 0 %}
+            {% assign card = site.data.people[page.author] %}
+            {% if card %}
+              {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ page.author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}      
+            {% else %}
+              {{ page.author }}
+            {% endif %}
+          {% else %} 
+            {% for author in page.authors %}
+              {% assign card = site.data.people[author] %}
+              {% if forloop.first %}
+                {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+              {% elsif forloop.last %}
+                and {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+              {% else %}
+                , {% if card.profile == true %}<a href="{{ site.baseurl}}/team/{{ author }}/">{% endif %}{{ card.name }}{% if card.profile == true %}</a>{% endif %}
+              {% endif %}
+            {% endfor %}
           {% endif %}
-        {% endfor %}
-      {% endif %}
-      | {{ page.date | date: "%-d %B %Y" }}</p>
-      
+          | {{ page.date | date: "%-d %B %Y" }}
+        </div>
+        <div class="x1 right">
+          {% include post-tags.html %}
+        </div>
+      </div>      
       <article class="post-content">
 
         {{ content }}

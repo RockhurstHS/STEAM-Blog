@@ -1,0 +1,55 @@
+# this file manually whitelists tags
+# only tags found in this file may be used in site
+# in case we wish to explore a different approach:
+# https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/
+
+# this seems like the right way to do it:
+# http://jekyll.tips/jekyll-casts/output-json/
+
+active-learning:
+  label: Active Learning
+
+advanced:
+  label: AdvancED
+
+arts:
+  label: Arts
+
+cs:
+  label: Computer Science
+
+engineering:
+  label: Engineering
+
+entrepreneurship:
+  label: Entrepreneurship
+
+faculty-impact:
+  label: Faculty Impact
+
+math:
+  label: Mathematics
+
+pbl:
+  label: Project Based Learning
+  
+school-for-others:
+  label: School for Others
+  
+science:
+  label: Science
+  
+sensed:
+  label: SensED
+
+service-learning:
+  label: Service Learning
+  
+student-impact:
+  label: Student Impact
+
+student-perspectives:
+  label: Student Perspectives
+
+tech:
+  label: Technology
