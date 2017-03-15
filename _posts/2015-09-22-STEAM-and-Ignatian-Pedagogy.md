@@ -2,6 +2,7 @@
 layout: post
 author: chrisbosco
 title: STEAM and Ignatian Pedagogy
+tags: school-for-others, active-learning
 ---
 Recently I came across [an article about Boyan Slat](http://www.citylab.com/tech/2015/09/could-a-62-mile-floating-wall-clean-up-the-ocean/403753/), a young man who three years ago gave a TEDx talk about his innovative, “radical” plan to remove plastics from oceans.  The talk went viral likely as a result of several factors: his plan was simple in that it’d be powered by the oceans themselves; it would rely on a 62-mile-wide floating wall anchored to the ocean floor; it would in theory remove millions of tons of plastic in the oceans; and the idea’s creator, Slat, was then 18-years old.  Today and $2 million raised later, this young dreamer’s idea is being acted upon.
 
