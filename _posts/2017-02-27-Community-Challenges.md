@@ -2,6 +2,7 @@
 layout: post
 authors: gregowsley
 title: Community Challenges
+tags: active-learning, arts, tech
 ---
 A growing trend in education right now involves submerging students into an authentic, real-world challenge and seeing what they can do. 
 
