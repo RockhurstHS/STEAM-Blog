@@ -3,6 +3,7 @@ layout: post
 author: jwclark
 title: A Visit to K-State and the High School Programming Competition
 excerpt: Eleven young men from The Rock ventured out to Kansas State University to compete in their annual high school programming contest. 
+tags: tech
 ---
 Eleven young men from The Rock ventured out to Kansas State University to compete in an annual high school programming contest. To give you an idea of the size and scale of the event, I took this picture just minutes before round one:
 
