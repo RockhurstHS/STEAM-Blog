@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: MECA Challenge
 excerpt: “This is the type of REAL WORLD experience you simply can't teach in a classroom"
+tags: arts, student-impact
 ---
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/-UsIMKj4cUA" frameborder="0" allowfullscreen></iframe>
