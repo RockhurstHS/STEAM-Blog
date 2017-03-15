@@ -2,6 +2,7 @@
 layout: post
 author: gregowsley
 title: Reflecting
+tags: active-learning
 ---
 Reflecting upon my Rockhurst High School experience, a few highlights come to my mind:
 
