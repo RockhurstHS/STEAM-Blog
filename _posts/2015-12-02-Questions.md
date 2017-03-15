@@ -2,6 +2,7 @@
 layout: post
 author: paulwinkeler
 title: Question?
+tags: science
 ---
 We are in the midst of an ambitious education initiative and at the very core is the important question...what is best for our students' academic future?  While acquisition of knowledge is important, what does it allow our students to do?  What does it allow them to become?  Does lecturing basic facts lead to skill acquisition?  
 
