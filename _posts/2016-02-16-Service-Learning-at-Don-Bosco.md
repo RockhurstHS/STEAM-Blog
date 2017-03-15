@@ -3,6 +3,7 @@ layout: post
 author: jwclark
 title: Service Learning at Don Bosco Center
 excerpt: Since 1972, Rockhurst High School’s senior class has been spending the beginning two and a half weeks of January spreading out for their senior service projects. This year we invested some of our effort in a service learning educational approach to one of the projects. Moreover, since this is the year we kicked off our school’s STEAM initiative, we wanted to take on a project that brings technical experience to our students (coding specifically).
+tags: service-learning, tech
 ---
 <div class="flex-wrapper">
   <img src="/img/dbesl.jpg">
