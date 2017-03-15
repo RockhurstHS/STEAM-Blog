@@ -2,6 +2,7 @@
 layout: post
 author: andywilcox
 title: Gearing Up For Competitive Robotics
+tags: engineering
 ---
 Greetings from the land of curricular and co-curricular robotics.
 
