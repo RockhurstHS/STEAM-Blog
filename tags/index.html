@@ -1,0 +1,7 @@
+---
+layout: tag-search
+---
+{% for tag in site.data.tags %}
+  {% assign card = tag[1] %}
+  <span class="tag label label-default">{{ card.label }}</span>
+{% endfor %}  

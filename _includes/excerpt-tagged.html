@@ -1,0 +1,16 @@
+<div id="{{ post.url }}" class="post">
+  <h1 class="title"><a class="post-wrapper" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="flex">
+    <div class="x1 byline">Written by {% include authors.html %} | {{ post.date | date: "%-d %B %Y" }}</div>
+    <div class="x1 right tags">
+      {% for tag in post.tags %}
+        {% assign temp = site.data.tags[tag] %}
+        {% if temp %}
+          <span class="label label-default">{{ temp.label }}</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  <p>{{ post.excerpt }}</p>
+  <a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}" role="button">Read More</a>
+</div>

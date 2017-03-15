@@ -282,6 +282,17 @@ html {
   }
 }
 
+/* TAG SEARCH */
+#tag-search {
+  
+  #posts-list .post {
+    display: none;
+  }
+  .tag {
+    cursor: pointer;
+  }
+}
+
 /* UTILITY */
 body {
 

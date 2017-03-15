@@ -1,6 +1,68 @@
 //region DOCUMENT READY
 $(document).ready(function () {
   
+  /** START TAG SEARCH */
+  
+  var tagSearchFilters = [];
+  
+/**
+ * @description determine if an array contains one or more items from another array.
+ * @param {array} haystack the array to search.
+ * @param {array} arr the array providing items to check for in the haystack.
+ * @return {boolean} true|false if haystack contains at least one item from arr.
+ */
+  var findOne = function (haystack, arr) {
+      return arr.some(function (v) {
+          return haystack.indexOf(v) >= 0;
+      });
+  };
+  
+  // a search tag was clicked
+  $('#tag-search #tags-list .tag').click(function() {
+    
+    var clicked = $(this);
+    var filter = clicked.text();
+    
+    if(clicked.hasClass('label-default')) {
+      
+      clicked.removeClass('label-default');
+      clicked.addClass('label-info');
+      tagSearchFilters.push(filter);
+            
+      //
+      $('#posts-list .post').each(function() {
+        var tags = $(this).find('.tags').text().replace(/^\s+|\s+$/g,'').split(/\s+/);
+        if(findOne(tagSearchFilters, tags)) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      });
+      
+    } else {
+      
+      clicked.addClass('label-default');
+      clicked.removeClass('label-info');
+      
+      var index = tagSearchFilters.indexOf(filter);
+      if(index > -1) {
+        tagSearchFilters.splice(index, 1);
+      }
+      
+      //
+      $('#posts-list .post').each(function() {
+        var tags = $(this).find('.tags').text().replace(/^\s+|\s+$/g,'').split(/\s+/);
+        if(findOne(tagSearchFilters, tags)) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      });
+    }
+  });
+  
+  /** END TAG SEARCH */
+  
   $('.indicator .media').click(function() {
     var href = $(this).find('a').first().attr('href');
     window.location = href;
