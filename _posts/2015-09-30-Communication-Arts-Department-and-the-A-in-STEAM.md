@@ -2,6 +2,7 @@
 layout: post
 author: nicolesmith
 title: Communication Arts Department and the “A” in STEAM
+tags: arts
 ---
 Quite a bit of the talk around the STEAM initiative has revolved around the first and last letters; S- for Science and M- for Math.  The other letters are not being ignored at Rockhurst.  The Communication Arts department was created to add more opportunities in the arts.  Introduction to Movie Making, Advanced Film Making, Introduction to Broadcasting, Introduction to Photography, Public Speaking, Newspaper and Yearbook are a few of the classes in the CA department that provide students with an opportunity to “communicate artistically”.  As the Communication Arts department continues to grow, a few clubs have been started to introduce students to the existing courses available and to possible courses.
 

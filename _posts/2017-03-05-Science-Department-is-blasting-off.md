@@ -2,6 +2,7 @@
 layout: post
 author: gregowsley
 title: Science Department is blasting off!
+tags: science
 ---
 
 If you haven’t heard, the Science department reached an inflection point and is positively accelerating. 

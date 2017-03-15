@@ -3,6 +3,7 @@ layout: post
 author: bertroney
 title: Speaker Space
 excerpt: "...when I was watching a lecture being given by one of my favorite modern physicists, Dr. Michio Kaku."
+tags: arts tech
 ---
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.4a.jpg">

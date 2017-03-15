@@ -2,6 +2,7 @@
 layout: post
 author: jwclark
 title: Why Put the "A" in STEAM?
+tags: arts
 ---
 **Let's start here**
 

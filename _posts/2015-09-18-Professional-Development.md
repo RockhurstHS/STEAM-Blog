@@ -2,6 +2,7 @@
 layout: post
 author: paulwinkeler
 title: Professional Development
+tags: faculty-impact
 ---
 As professional educators it is our obligation to our craft to continue to develop our toolbox of skills as the world our audience lives in changes.  By meeting our students where they are at…in their world…we are required as teachers to reflect on creative strategies that allow our students to grow academically during their formation at Rockhurst.  Professional Development is a key aspect of our careers as teachers and is also an crucial component of STEAM.
 

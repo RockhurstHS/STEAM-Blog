@@ -2,6 +2,7 @@
 layout: post
 author: patrickcurran
 title: Three Weeks In
+tags: active-learning faculty-impact
 ---
 I entered the new active learning classrooms with excitement as well as apprehension of the unknown.  Being in an active learning classroom has given me the permission to think outside the box, and relinquish control of my classroom to my students.
 

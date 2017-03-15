@@ -2,6 +2,7 @@
 layout: post
 author: paulwinkeler
 title: The Future of Science Education
+tags: science
 ---
 Recently I was in St. Louis and visited my wife’s cousin who is a DJ for a well known rock’n’roll radio station.  We met up at the radio station, so I was able to see the workings of the station behind the scenes.  I quickly realized that what went on behind the microphones was not what I had previously thought.  The entire station is run by computers... no CD’s, no records, no answering phones, just music previously programmed, delivered by computers.  When I asked my wife’s cousin about the innovative methods his station uses, he said, “Times have changed, we need to use the technology that we have to deliver what our listeners want.  We are here because of them.”
 

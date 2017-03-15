@@ -2,6 +2,7 @@
 layout: post
 author: brandonjones
 title: How We Work
+tags: tech
 ---
 One of the more empowering aspects of Jesuit education is that we have a pretty clear vision of the people our students are becoming when they cross the graduation threshold. In fact, the characteristics are laid out specifically in the [Profile of the Graduate at Graduation](http://www.jesuitschoolsnetwork.org/pedagogy/graduate). As such, new programs are filtered through the Grad at Grad lens.
 

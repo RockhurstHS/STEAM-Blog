@@ -2,6 +2,7 @@
 layout: post
 author: annlehane
 title: Astrophotography - A Blending of Art and Science
+tags: arts science
 ---
 September 27, 2015.  The supermoon and a total eclipse of the moon, all in one night.  What could be more fun or fascinating?
 
