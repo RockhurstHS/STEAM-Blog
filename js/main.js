@@ -5,12 +5,7 @@ $(document).ready(function () {
   
   var tagSearchFilters = [];
   
-/**
- * @description determine if an array contains one or more items from another array.
- * @param {array} haystack the array to search.
- * @param {array} arr the array providing items to check for in the haystack.
- * @return {boolean} true|false if haystack contains at least one item from arr.
- */
+  // http://stackoverflow.com/a/25926600/1161948
   var findOne = function (haystack, arr) {
       return arr.some(function (v) {
           return haystack.indexOf(v) >= 0;
