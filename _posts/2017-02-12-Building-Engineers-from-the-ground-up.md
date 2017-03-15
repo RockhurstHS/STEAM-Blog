@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: Building Engineers from the Ground Up
 excerpt: "Rockhurst is as much an institution to build bonds as it is to educate."
+tags: engineering, student-perspectives
 ---
 
 The following reflection was written by Rockhurst junior Wyatt Pelton:
