@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: Harvesting Quartz
 excerpt: "questions of 'why' were as valuable as any sample"
+tags: science
 ---
 
 
