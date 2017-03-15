@@ -2,6 +2,7 @@
 layout: post
 author: paulwinkeler
 title: NSTA Conference 
+tags: science
 ---
 Recently I attended a conference in Philadelphia by the National Science Teachers Association that focused primarily on engineering.  During my time at the conference I was quickly reminded that no one has "solved" STEAM, that its concept, in each individual academic community, is developed through the creativity of the teachers and designed for the needs of the student body.  There is not, and there likely never will be, a national answer for STEAM that reaches the needs of all schools.
 

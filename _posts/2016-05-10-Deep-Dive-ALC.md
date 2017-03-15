@@ -2,6 +2,7 @@
 layout: post
 author: gregowsley
 title: Deep Dive into Perception Data
+tags: active-learning
 ---
 
 ## What’s the moral of this story? 

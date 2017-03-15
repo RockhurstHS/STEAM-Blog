@@ -3,6 +3,7 @@ layout: post
 author: jwclark
 title: SensED Internet of Things Curriculum
 excerpt: The SensED Internet of Things workshop was beneficial to my upcoming academic year and armed me with a collection of materials that I will likely use to support my instruction of the AP Computer Science Principles curriculum framework.
+tags: student-impact, tech
 ---
 When Greg Owsley asked me if I wanted to enroll in the SensED IoT workshop at the end of July, I was reluctant to give up 30 hours of my free time at the end of summer vacation. Just one week earlier, I was attending the AP Computer Science A workshop in Palo Alto thinking of excuses that could get me dismissed from the SensED workshop. I decided not to flake out and rather give it a chance.
 

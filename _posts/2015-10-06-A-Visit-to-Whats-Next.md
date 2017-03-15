@@ -2,6 +2,7 @@
 layout: post
 author: larryruby
 title: A Visit to What’s Next
+tags: active-learning, engineering, faculty-impact
 ---
 A recent visit to the Rockhurst High School STEAM program at the invitation of its enthusiastic and exuberant director, Mr. Greg Owsley, proved to be exciting and exhilarating. As the years pass since my retirement in 2010, the fond memories of the ROCK rest ever gentle on my mind. The soul of Rockhurst has always been dedicated and enthusiastic teachers instructing students focused on learning and formation in the Jesuit tradition. Well, those things have not changed. But Jesuit education and the Rockhurst tradition have always asked “what’s next?” And so it is with the STEAM program, an integration of science, technology, engineering, arts, and math. A number of co-curricular clubs and activities make this a total approach to learning and solving problems. In my own experience as a teacher and administrator, I always believed in the maxim, “it’s not the answers one seeks, but the questions one asks” that provides the foundation for learning and thinking.
 

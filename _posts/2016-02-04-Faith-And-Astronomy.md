@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: Faith and Astronomy
 excerpt: I was very fortunate to travel recently to Tucson, Arizona to attend a workshop through the Vatican Observatory Foundation.  The workshop was titled "Faith and Astronomy" where the objective was to discuss the relationship between the Church and science through the eyes of astronomy.  As a staunch supporter of astronomy, it was an honor to attend such a workshop as it was administered by Jesuit Brother Guy Consolmagno, the director of the Vatican Observatory.  Brother Guy is one of the celebrities of astronomy and someone who has brought a better understanding of how the Catholic Church views advancements in science.  To spend time with him over the week was a once in a career opportunity.
+tags: science
 ---
 I was very fortunate to travel recently to Tucson, Arizona to attend a workshop through the Vatican Observatory Foundation.  The workshop was titled "Faith and Astronomy" where the objective was to discuss the relationship between the Church and science through the eyes of astronomy.  As a staunch supporter of astronomy, it was an honor to attend such a workshop as it was administered by Jesuit Brother Guy Consolmagno, the director of the Vatican Observatory.  Brother Guy is one of the celebrities of astronomy and someone who has brought a better understanding of how the Catholic Church views advancements in science.  To spend time with him over the week was a once in a career opportunity.  
 

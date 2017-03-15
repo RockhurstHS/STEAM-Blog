@@ -2,6 +2,7 @@
 layout: post
 author: gregowsley
 title: Service Learning
+tags: service-learning
 ---
 In January of 2015, my friend [Mr. Bill Palin](http://www.abajournal.com/news/article/lawyers_and_developers_take_part_in_inaugural_hackcess_to_justice_legal_hac), a lawyer in Boston calls my cell. “Hey Greg, I just finished helping teach this course at MIT. The level of sophistication is really not that great, you should run this class at your school.” 
 

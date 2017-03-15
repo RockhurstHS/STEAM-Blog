@@ -2,6 +2,7 @@
 layout: post
 author: brentsams
 title: Reflection on Student Whiteboards
+tags: active-learning
 ---
 When I notice the many changes that have occurred during the transition to the new classroom, I am most impressed with the way in which the students seem to be more engaged in daily activities. This has been achieved with new furniture/technology and with the introduction of the personal whiteboards to the students. The whiteboards serve many functions in the new classroom, including privacy and visibility.
 

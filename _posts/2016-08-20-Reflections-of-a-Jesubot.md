@@ -3,6 +3,7 @@ layout: post
 author: Harrison Oest
 title: Reflections of a Jesubot
 excerpt: "Everything started with a trip out to the Garmin Corporate Campus to see the big reveal."
+tags: engineering, student-perspectives
 ---
 
 The following reflection is from Harrison Oest, a member of the great class of 2016.

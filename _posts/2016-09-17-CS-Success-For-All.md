@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: CS Success for all.
 excerpt: "What if I'm not a computer guy?"
+tags: student-impact, tech
 ---
 
 <blockquote>"What if I'm not a computer guy?" - Anonymous incoming Freshman.</blockquote>

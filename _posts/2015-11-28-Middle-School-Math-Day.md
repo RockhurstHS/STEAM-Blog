@@ -2,6 +2,7 @@
 layout: post
 author: joeleroy
 title: Middle School Math Day
+tags: math, school-for-others
 ---
 The math department hosted 19 middle school math teachers, on November 13th.  The day was an opportunity to meet them and to collaborate and exchange ideas.  Our invitations were met with a lot of excitement, and that made the day easy to put together.
 

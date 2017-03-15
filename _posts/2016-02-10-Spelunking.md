@@ -2,6 +2,7 @@
 layout: post
 author: paulwinkeler
 title: Spelunking
+tags: science, student-impact
 ---
 Recently I was invited my Luke McLellan and his boys in the Outdoor Club to join them for a spelunking trip to share some geology knowledge during the trek.  I was excited for the invitation and grateful for the opportunity.  What could be more "STEAM" than combining adventure and science???
 

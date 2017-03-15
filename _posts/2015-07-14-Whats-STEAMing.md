@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: What's STEAMing?
 excerpt: The electronic equipment for the new rooms arrived yesterday!
+tags: active-learning
 ---
 The electronic equipment for the new rooms arrived yesterday!
 

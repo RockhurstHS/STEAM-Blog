@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Sage on the Stage to the Guide on the Side
 excerpt: I had a brilliant conversation with a colleague. She shared with me - and shared correctly - that teachers are the ones who make the greatest impact on student success. For this reason, teachers still need to be experts in their content area. 
+tags: active-learning
 ---
 
 The following is a popular phrase right now that describes the evolving role of the teacher.

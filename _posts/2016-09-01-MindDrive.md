@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Creating Student Opportunities
 excerpt: Students will be 3D printing an autonomous car
+tags: engineering, student-impact
 ---
 ## MindDrive
 

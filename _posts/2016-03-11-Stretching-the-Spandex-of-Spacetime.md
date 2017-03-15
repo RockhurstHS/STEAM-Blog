@@ -4,6 +4,7 @@ authors:
 - andrewwilson
 - timothynendick
 title: Stretching the Spandex of Spacetime
+tags: science
 ---
 
 Sometimes, we get strange looks buying things in stores. Like the one asking why we’re buying five yards of hot red spandex using a tax-exempt form.  Then there are the looks of helpless pity from homeowners just trying to fix their sink as these two people stumble through the hardware store aisles clutching an irresponsible number of 8-foot lengths of electrical conduit, knocking paint brushes from their display hooks. There are the strange looks from students as we spend five hours, attempting to assemble what appeared to passerby as a gigantic hamster wheel, only for it to snap apart over and over, vaulting PVC fittings into the air in the Barry commons.  

@@ -2,6 +2,7 @@
 layout: post
 author: paulwinkeler
 title: Rookie All Star Robotics
+tags: engineering, student-impact
 ---
 
 Any team that is in its first year of competition is going to learn some lessons the hard way and take their fair share of lumps.  Our rookie FIRST Robotics Team is no different as we have had a challenging journey to get where we are today.  What started out as a challenge has grown into a process that has developed the minds of our young engineers.  

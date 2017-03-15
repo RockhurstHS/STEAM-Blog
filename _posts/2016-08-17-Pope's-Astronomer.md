@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Pope's Astronomer
 excerpt: "Studying the universe is an act of Worship"
+tags: science
 ---
 <div class="flex-wrapper">
   <img src="{{site.baseurl}}/img/Guy Consolmagno.png">
