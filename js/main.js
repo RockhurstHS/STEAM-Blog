@@ -3,8 +3,10 @@ $(document).ready(function () {
   
   /** START TAG SEARCH */
   
+  // the list of tags to filter by
   var tagSearchFilters = [];
   
+  // if array one contains any element from array two
   // http://stackoverflow.com/a/25926600/1161948
   var findOne = function (haystack, arr) {
       return arr.some(function (v) {
@@ -12,48 +14,51 @@ $(document).ready(function () {
       });
   };
   
-  // a search tag was clicked
-  $('#tag-search #tags-list .tag').click(function() {
-    
-    var clicked = $(this);
-    var filter = clicked.text();
-    
-    if(clicked.hasClass('label-default')) {
-      
-      clicked.removeClass('label-default');
-      clicked.addClass('label-info');
-      tagSearchFilters.push(filter);
-            
-      //
-      $('#posts-list .post').each(function() {
-        var tags = $(this).find('.tags').text().replace(/^\s+|\s+$/g,'').split(/\s+/);
-        if(findOne(tagSearchFilters, tags)) {
-          $(this).show();
-        } else {
-          $(this).hide();
-        }
-      });
-      
+  // returns an array of tags from any given post
+  function getTags(post) {
+    var tags = [];
+    post.find('.tags').children('span.label').each(function() {
+      tags.push($(this).text());
+      console.log($(this).text());
+    });
+    return tags;
+  }
+  
+  // updates UI and the array of filters to be applied
+  function toggleFilters(tag) {
+    if(tag.hasClass('label-default')) {
+      tag.removeClass('label-default');
+      tag.addClass('label-info');
+      tagSearchFilters.push(tag.text());
     } else {
-      
-      clicked.addClass('label-default');
-      clicked.removeClass('label-info');
-      
-      var index = tagSearchFilters.indexOf(filter);
+      tag.addClass('label-default');
+      tag.removeClass('label-info');
+      var index = tagSearchFilters.indexOf(tag.text());
       if(index > -1) {
         tagSearchFilters.splice(index, 1);
       }
-      
-      //
-      $('#posts-list .post').each(function() {
-        var tags = $(this).find('.tags').text().replace(/^\s+|\s+$/g,'').split(/\s+/);
-        if(findOne(tagSearchFilters, tags)) {
-          $(this).show();
-        } else {
-          $(this).hide();
-        }
-      });
-    }
+    }    
+  }
+
+  // display posts with tags in the tagSearchFilters array
+  function filterPosts(tag) {
+    $('#posts-list .post').each(function() {
+      var post = $(this);
+      var tags = getTags(post);
+      console.log(tags);
+      if(findOne(tagSearchFilters, tags)) {
+        post.show();
+      } else {
+        post.hide();
+      }
+    });
+  }
+  
+  // a search tag was clicked
+  $('#tag-search #tags-list .tag').click(function() {
+    var tag = $(this);
+    toggleFilters(tag);
+    filterPosts(tag);
   });
   
   /** END TAG SEARCH */
