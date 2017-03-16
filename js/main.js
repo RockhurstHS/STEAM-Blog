@@ -1,7 +1,25 @@
 //region DOCUMENT READY
 $(document).ready(function () {
   
-  /** START TAG SEARCH */
+  /* UTILITY */
+  
+  // gets query string params by name from url
+  // http://stackoverflow.com/a/901144/1161948
+  function getParameterByName(name, url) {
+    if (!url) {
+      url = window.location.href;
+    }
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+      results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+  
+  /* END UTILITY */
+  
+  /* START TAG SEARCH */
   
   // the list of tags to filter by
   var tagSearchFilters = [];
@@ -19,7 +37,6 @@ $(document).ready(function () {
     var tags = [];
     post.find('.tags').children('span.label').each(function() {
       tags.push($(this).text());
-      console.log($(this).text());
     });
     return tags;
   }
@@ -45,7 +62,6 @@ $(document).ready(function () {
     $('#posts-list .post').each(function() {
       var post = $(this);
       var tags = getTags(post);
-      console.log(tags);
       if(findOne(tagSearchFilters, tags)) {
         post.show();
       } else {
@@ -60,6 +76,19 @@ $(document).ready(function () {
     toggleFilters(tag);
     filterPosts(tag);
   });
+  
+  // a post tag was clicked
+  $('.post .tags .label').click(function() {
+    window.location = '/tags/?q=' + $(this).text();
+  });
+  
+  var q = getParameterByName('q');
+
+  if(q.length > 0 && window.location.pathname === '/tags/') {
+    var tag = $('#tags-list .label:contains("' + q + '")');
+    toggleFilters(tag);
+    filterPosts(tag);
+  }
   
   /** END TAG SEARCH */
   
