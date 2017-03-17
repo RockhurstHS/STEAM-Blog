@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Problem Solving
 tags: math
+indicators: st1.2
 ---
 Despite more than ten years of experience teaching mathematics at Rockhurst, I had a wonderfully humbling experience at the Exeter Mathematics Institute problem-based learning workshop this past week. Math teacher Patrick Curran, Math Department Chair Joe LeRoy and I spent four 8+ hour days working through mathematics problems written by the faculty at the Phillips Exeter Academy.
 
