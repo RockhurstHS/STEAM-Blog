@@ -4,6 +4,7 @@ author: gregowsley
 title: What's STEAMing?
 excerpt: The electronic equipment for the new rooms arrived yesterday!
 tags: active-learning
+indicators:
 ---
 The electronic equipment for the new rooms arrived yesterday!
 
