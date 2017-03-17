@@ -3,6 +3,7 @@ layout: post
 author: jwclark
 title: We Call it Rocktopus
 tags: tech
+indicators:
 ---
 The first 3D print to arrive at Rockhurst High School. When I heard about it, I had to grab a few photos and share. It's blue. It has eight arms. We call it "Rocktopus." 
 
