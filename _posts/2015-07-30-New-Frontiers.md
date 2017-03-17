@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: New Frontiers
 tags: faculty-impact
+indicators:
 ---
 I just finished reading <u>Heroic Leadership</u> by Chris Lowney.  This should be required reading for any leader, especially one who is involved in Jesuit education (every teacher is also a leader).
 
