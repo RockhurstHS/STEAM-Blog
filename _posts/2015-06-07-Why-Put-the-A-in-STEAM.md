@@ -3,6 +3,7 @@ layout: post
 author: jwclark
 title: Why Put the "A" in STEAM?
 tags: arts
+indicators: st1.3 st1.5 st1.6 
 ---
 **Let's start here**
 
