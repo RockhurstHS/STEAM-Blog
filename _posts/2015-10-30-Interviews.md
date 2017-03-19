@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: Teacher Interviews
 tags: faculty-impact
+indicators: st1.7
 ---
 
 At the very core of our STEAM Initiative is the inclusiveness of all its aspects.  It is our objective to impact each student in each of his classes, allowing him to experience an holistic academic culture.  Throughout my research, travels, and conversations I have discovered that the cornerstone of our initiative, without debate, are the people within the Rockhurst community.  Our creativity, our desires to improve, our professionalism, our care for our students, our openness to new ideas...these are paramount to meeting our objectives.  No purchasing of materials or building new structure can meet what we can do as teachers.  We are STEAM.  
