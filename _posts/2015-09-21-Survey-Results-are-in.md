@@ -4,6 +4,7 @@ author: gregowsley
 title: Survey Results Are In!
 excerpt: After administering the Active Learning Classroom survey designed by Steelcase Education, 253 students responded.
 tags: active-learning student-impact
+indicators: st1.2 st1.3 st1.4 st1.7
 ---
 
 After administering the [Active Learning Classroom](http://steam.rockhursths.edu/2015/08/30/Active-Learning-Classrooms-(Faculty-Reflections).html) survey designed by Steelcase Education, 253 students responded.  The students were asked to respond on a 1-5 likert scale to questions with the following prompt:
