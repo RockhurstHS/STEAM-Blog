@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title:  Active Learning Classroom (Faculty Reflections)
 tags: active-learning faculty-impact
+indicators: st1.7 st1.9
 ---
 
 After 11 days, here are some reflections from the teachers in the Active Learning Classrooms:
