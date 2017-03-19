@@ -4,6 +4,7 @@ author: paulwinkeler
 title: Harvesting Quartz
 excerpt: "questions of 'why' were as valuable as any sample"
 tags: science
+indicators: st1.1 st1.2 st1.3 st1.5
 ---
 
 
