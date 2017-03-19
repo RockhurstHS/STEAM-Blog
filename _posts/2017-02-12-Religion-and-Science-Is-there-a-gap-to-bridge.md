@@ -4,6 +4,7 @@ author: timothynendick
 title: Religion and Science - Is there a gap to bridge?
 excerpt: "Together, we worked to explore how to bridge the perceived gap between religion and science."
 tags: arts, science
+indicators: st1.6 st1.9 st1.10
 ---
 
 Recently, I was given the gift of opportunity to spend a few days with Br. Guy Consolmagno and others from the [Vatican Observatory](http://www.vofoundation.org/). Together, we worked to explore how to bridge the perceived gap between religion and science, and explored these questions through the lens of astronomy. As Rockhurst continues working to live out our Jesuit identity in our STEAM initiative, such a question is a real one in our own community.
