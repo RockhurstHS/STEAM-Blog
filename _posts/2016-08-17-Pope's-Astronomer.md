@@ -4,6 +4,7 @@ author: gregowsley
 title: Pope's Astronomer
 excerpt: "Studying the universe is an act of Worship"
 tags: science
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 ---
 <div class="flex-wrapper">
   <img src="{{site.baseurl}}/img/Guy Consolmagno.png">
