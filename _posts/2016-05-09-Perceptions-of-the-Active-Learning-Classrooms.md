@@ -4,6 +4,7 @@ author: gregowsley
 title: Perceptions of the Active Learning Classrooms
 excerpt: “More people pay attention. I hardly ever see anyone playing games, or messing around with their iPad. It's just so much easier to pay attention and participate..."
 tags: active-learning
+indicators: st1.1 st1.2 st1.4 st1.7 st1.8
 ---
 <style>
 p {
