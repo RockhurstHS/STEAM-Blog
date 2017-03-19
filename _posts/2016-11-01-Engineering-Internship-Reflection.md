@@ -4,6 +4,7 @@ author: Miles Wood
 title: Engineering Internship Reflection
 excerpt: "I have had an incredible experience"
 tags: engineering, student-perspectives
+indicators: st1.11
 ---
 
 Miles Wood, member of the great class of 2016, shares his reflection of his internship opportunity.
