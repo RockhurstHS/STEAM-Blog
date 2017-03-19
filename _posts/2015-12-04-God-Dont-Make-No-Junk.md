@@ -4,6 +4,7 @@ author: franklyngar
 title: God Don't Make No Junk
 excerpt: The algebra, geometry, trigonometry, and calculus skills taught in the Math Department are the tools that programmers, scientists, and engineers use to describe the wondrous world our God has created. As an instructor steeped in the Jesuit tradition, I constantly remind our young sons of Ignatius to see God’s presence in all things, “God don’t make no junk.”
 tags: math, tech
+indicators: st1.2 st1.4
 ---
 <blockquote>
   <strong>Job 12:7-9</strong>
