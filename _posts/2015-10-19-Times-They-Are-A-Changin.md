@@ -4,6 +4,7 @@ author: franklyngar
 title: The Times They Are A Changin', Bob Dylan 1965
 excerpt: Come gather 'round people wherever you roam and admit that the waters around you have grown and accept it that soon you'll be drenched to the bone if your time to you is worth savin' then you better start swimmin' or you'll sink like a stone for the times they are a-changin'. - Bob Dylan
 tags: math
+indicators: st1.2 st1.5 st1.7
 ---
 <blockquote>Come gather 'round people
 <br>Wherever you roam
