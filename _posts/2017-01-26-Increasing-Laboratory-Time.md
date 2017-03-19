@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: Increasing Laboratory Time
 tags: active-learning, science
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8 
 ---
 When a student graduates from Rockhurst, there are fundamental skills he should have attained while matriculating.  A Rockhurst graduate should be able to write in a proficient manner, Experimentation is the foundation of science.  Discover a problem, postulate a hypothesis, and then determine an experiment that can test that hypothesis...this is the format that we reinforce with our students.  The foundation of the experiment is the content delivered in class; the content allows the students to problem solve and determine the best experiment.
 
