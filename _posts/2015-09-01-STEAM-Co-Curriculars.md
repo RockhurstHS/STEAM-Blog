@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: STEAM Co-Curriculars
 tags: science
+indicators: st1.2 st1.3 st1.5
 ---
 Underneath the Science Department's umbrella of "STEAM Co-Curriculars", there are 7 clubs: Science Club, Ecology Club, Robotics Club, Astronomy Club, Zoology Club, Engineering Club, and Rocket Club.  Co-Curricular Clubs offer students an opportunity that is an extension of the classroom, enhancing their formation and allowing them experiences they may not be able to have within the current academic curriculum.
 
