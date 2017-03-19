@@ -4,6 +4,7 @@ author: jwclark
 title: CS1 Down
 excerpt: July 1, 2016 marks the completion of my first ever high school credit course, Intro to Computer Science. It was nice to be able to focus on just one course as well as rehearse the curriculum planned for release this school year as a required technical credit for graduation.
 tags: student-impact, tech
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8 st1.9 st1.10
 ---
 <div class="flex-wrapper">
   <img src="{{site.baseurl}}/img/cs1.jpg" alt="Intro Computer Science, Rockhurst High School Summer 2016">
