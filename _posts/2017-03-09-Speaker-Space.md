@@ -4,6 +4,7 @@ author: bertroney
 title: Speaker Space
 excerpt: "...when I was watching a lecture being given by one of my favorite modern physicists, Dr. Michio Kaku."
 tags: arts tech
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 ---
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/indicators/st1.4a.jpg">
