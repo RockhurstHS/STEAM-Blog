@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Research Statistics
 tags: math, science
+indicators: st1.4 st1.6 st1.9
 ---
 Last November, I had the opportunity to participate in the [NCSSS](http://ncsss.org/)  (National Consortium of Secondary STEM Schools) conference in New York City. An acronym that contains an acronym? How meta! Rockhurst High School can learn a lot about the successes and challenges experienced by other STEM schools. Ultimately, how can Rockhurst integrate some of these innovative ideas with the non-negotiable Jesuit identity that is paramount in forming men for others?
 
