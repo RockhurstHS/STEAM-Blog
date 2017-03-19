@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Science Department is blasting off!
 tags: science
+indicators: st1.6 st1.7 st1.8 st1.9 st1.10
 ---
 
 If you haven’t heard, the Science department reached an inflection point and is positively accelerating. 
