@@ -4,6 +4,7 @@ author: gregowsley
 title: New Courses 
 excerpt: Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience.
 tags: arts, engineering, science
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 ---
 
 Three new courses will be offered for the 2017-2018 school year. The design of these three courses leverages the principles of project-based learning. Students will be given ample autonomy to take ownership over their own, authentic research and will be sharing their learnings to a public audience. All of these courses model the type of education encouraged in the movie [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html).
