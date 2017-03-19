@@ -4,6 +4,7 @@ author: jwclark
 title: Computer Science Courses for 2016-17
 excerpt: I'd like to take an opportunity before things start getting too hectic to officially announce what's planned for Computer Science at Rockhurst High School for the 2016-17 school year.
 tags: tech
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5
 ---
 This is the week that school starts. Teachers are called to return starting this Monday, and students will begin their orientation programs this week. Monday next week we are back in full swing again. I'd like to take an opportunity before things start getting too hectic to officially announce what's planned for Computer Science at Rockhurst High School for the 2016-17 school year.
 
