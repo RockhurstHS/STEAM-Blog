@@ -3,6 +3,7 @@ layout: post
 author: paulwinkeler
 title: Solar System Ambassador For Hire
 tags: faculty-impact,  science
+indicators: st1.1 st1.9 st1.10
 ---
 Back in September I was notified that the Jet Propulsion Laboratory was accepting applications for their Solar System Ambassador Program.  I have always been fascinated with the science and engineering that has come out of JPL.  JPL is the lab that is administrated by NASA at Cal Tech that has designed, developed, and managed such programs as the three Mars rovers (Spirit, Opportunity, and Curiosity), the Dawn mission at Ceres, the Cassini mission at Saturn, the Juno mission heading to Jupiter, and the Spitzer Space Telescope.  Knowing this, I knew I wanted to apply to such a tremendous program.  
 
