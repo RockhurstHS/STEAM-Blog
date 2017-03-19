@@ -3,6 +3,7 @@ layout: post
 author: franklyngar
 title: Problem Solving in the Jesuit Tradition
 tags: math, faculty-impact
+indicators:
 ---
 I have been teaching high school aged men and women problem solving skills since January of 1974. The technology of the day—the sliderule.  At Grain Valley High School, I started my first programming (coding) class in 1978 using four TRS 80 computers from Radio Shack with 4K Memory.  We saved our programs on cassette tapes.  Wow…technology has changed in the last 41 years, but developing problem solving skills in young minds …well… that hasn’t changed that much.
 
