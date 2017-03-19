@@ -4,6 +4,7 @@ author: gregowsley
 title: AdvancED STEM Certification
 excerpt: STEM is a culture, not a curriculum.
 tags: faculty-impact ,school-for-others, student-impact
+indicators: st1.9 st1.10
 ---
 
 >**“STEM is a culture, not a curriculum.”**
