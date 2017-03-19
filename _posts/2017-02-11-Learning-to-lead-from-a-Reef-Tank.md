@@ -4,6 +4,7 @@ author: paulwinkeler
 title: Learning to Lead from a Reef Tank
 excerpt: "The tank will draw people in to our unique science program"
 tags: science, student-perspectives
+indicators: st1.2 st1.3 st1.4 st1.11
 ---
 The following reflection is by Rockhurst sophomore Chase Auman:
 
