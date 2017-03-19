@@ -4,6 +4,7 @@ author: gregowsley
 title: Creating Student Opportunities
 excerpt: Students will be 3D printing an autonomous car
 tags: engineering, student-impact
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 ## MindDrive
 
