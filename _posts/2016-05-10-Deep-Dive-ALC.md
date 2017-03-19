@@ -3,6 +3,7 @@ layout: post
 author: gregowsley
 title: Deep Dive into Perception Data
 tags: active-learning
+indicators: st1.1 st1.2 st1.4 st1.7 st1.8
 ---
 
 ## What’s the moral of this story? 
