@@ -3,7 +3,7 @@ layout: post
 author: paulwinkeler
 title: First Cyclotron in KC?
 excerpt: "...when I was watching a lecture being given by one of my favorite modern physicists, Dr. Michio Kaku."
-tags: engineering science
+tags: engineering science student-perspectives
 indicators: st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 <i> Note: The project described below does require responsible and knowledgable supervision. </i>
