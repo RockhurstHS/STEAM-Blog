@@ -4,6 +4,7 @@ author: gregowsley
 title: MECA Challenge - Student Perspective
 excerpt: Together, we created a business in 3 hours
 tags: arts, student-perspectives
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.8 st1.10 st1.11
 ---
 
 Testimonial by Rockhurst Senior Ori Taylor:
