@@ -4,6 +4,7 @@ author: gregowsley
 title: Looking at STEM through an Ignatian Lens
 excerpt: As an Ignatian school, we already fulfill the requirements of a STEM school.
 tags: school-for-others
+indicators: st1.6 st1.7 st1.9 st1.10
 ---
 
 I believe we are a profoundly Ignatian school and, as such, fulfill the [standards of a STEM school](http://steam.rockhursths.edu/2016/04/25/STEM-Certification.html). Furthermore, our mission as a school is to form “Men with and for Others”. Rockhurst models this behavior by being a “School with and for Others”. This means that Rockhurst High School reflects upon experiences and shares those best practices with other educational institutions. 
