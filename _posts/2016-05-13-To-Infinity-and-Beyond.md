@@ -4,6 +4,7 @@ author: paulwinkeler
 title: To Infinity and Beyond
 excerpt: The two inflight pictures are from about 3,000 feet and 100,000 feet.  Notice on the picture from the highest point of the flight how you can see the blue of the atmosphere below the balloon as well as the darkness of space.
 tags: science
+indicators: st1.2 st1.4 st1.5 st1.6 st1.7
 ---
 .....and back!
 
