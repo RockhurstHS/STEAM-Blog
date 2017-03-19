@@ -4,6 +4,7 @@ author: gregowsley
 title: CS Success for all.
 excerpt: "What if I'm not a computer guy?"
 tags: student-impact, tech
+indicators: st1.1 st1.4
 ---
 
 <blockquote>"What if I'm not a computer guy?" - Anonymous incoming Freshman.</blockquote>
