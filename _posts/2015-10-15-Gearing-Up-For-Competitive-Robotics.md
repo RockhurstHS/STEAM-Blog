@@ -3,6 +3,7 @@ layout: post
 author: andywilcox
 title: Gearing Up For Competitive Robotics
 tags: engineering
+indicators: st1.4 st1.5 st1.11
 ---
 Greetings from the land of curricular and co-curricular robotics.
 
