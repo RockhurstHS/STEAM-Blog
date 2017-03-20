@@ -424,15 +424,14 @@ body {
     justify-content: space-between;
     margin-bottom: 14px;
 
-    img, a.image-popup-vertical-fit {
+    img, a.image-popup-vertical-fit, .x1 {
       flex: 1;
       width: 100%;
     }
 
-    img:not(:first-child), a.image-popup-vertical-fit:not(:first-child) {
+    img:not(:first-child), a.image-popup-vertical-fit:not(:first-child), .x1:not(:first-child) {
       margin-left: $PADDING;
     }
-
   }
 
   .float-left {
