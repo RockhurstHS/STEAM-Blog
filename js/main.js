@@ -84,7 +84,7 @@ $(document).ready(function () {
   
   var q = getParameterByName('q');
 
-  if(q.length > 0 && window.location.pathname === '/tags/') {
+  if(q && q.length > 0 && window.location.pathname === '/tags/') {
     var tag = $('#tags-list .label:contains("' + q + '")');
     toggleFilters(tag);
     filterPosts(tag);
