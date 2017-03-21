@@ -35,7 +35,7 @@ The kick-off of the [Fundamentals of Science Research](https://docs.google.com/d
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2015/12/16/Robotics-Students-Compete-for-Top-Honors.html">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/Robotics-Team-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -47,7 +47,7 @@ The kick-off of the [Fundamentals of Science Research](https://docs.google.com/d
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/active-learning/classroom-description/">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/Active-Learning-Classrooms-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -59,7 +59,7 @@ The kick-off of the [Fundamentals of Science Research](https://docs.google.com/d
 <div class="media well">
   <div class="media-left">
     <a href="https://docs.google.com/document/d/14B8LvJySYbBbJaVf3koHQjMEQvKbGGYjQpxeDrP3UOc/edit?usp=sharing">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/Fundamentals-of-Science-Research-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
