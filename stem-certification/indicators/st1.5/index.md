@@ -63,7 +63,7 @@ For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/10/06/MLTS.html">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/Most-Likely-To-Succeed-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -75,7 +75,7 @@ For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017
 <div class="media well">
   <div class="media-left">
     <a href="https://www.rockhursths.edu/pages/students/students---landing">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/NHD-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -87,7 +87,7 @@ For the 2017-2018 academic year, [new courses](http://steam.rockhursths.edu/2017
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
-      <img class="media-object" src="/img/64/Winning Group.jpg">
+      <img class="media-object" src="/img/64/Community-Challenges-1-5-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
