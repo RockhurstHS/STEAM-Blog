@@ -42,7 +42,7 @@ Even within the structured academic program, there exist ample opportunities tha
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/Science-Programming-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -54,7 +54,7 @@ Even within the structured academic program, there exist ample opportunities tha
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/active-learning/">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/Learning-Spaces-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -66,7 +66,7 @@ Even within the structured academic program, there exist ample opportunities tha
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/Community-Challenges-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
