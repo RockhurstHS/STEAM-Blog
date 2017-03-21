@@ -56,7 +56,6 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
   <div class="media-left">
     <a href="https://www.rockhursths.edu/pages/academics/academics---technology---ipad-program">
       <img class="media-object" src="/img/64/iPad-School-Icon.jpg">
-  </div>">
     </a>
   </div>
   <div class="media-body">
