@@ -55,19 +55,19 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
 <div class="media well">
   <div class="media-left">
     <a href="https://www.rockhursths.edu/pages/academics/academics---technology---ipad-program">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/iPad-School-Icon.jpg
+  </div>">
     </a>
   </div>
   <div class="media-body">
     <h4 class="media-heading">iPad School</h4>
     <p>The 1:1 iPad program seeks to increase student learning by ensuring that every student and teacher in every classroom have an Internet-connected iPad.</p>
-  </div>
 </div>
 
 <div class="media well">
   <div class="media-left">
     <a href="{{ site.baseurl }}/2017/03/09/Speaker-Space.html">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/Speaker-Space-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -79,7 +79,7 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
 <div class="media well">
   <div class="media-left">
     <a href="{{ site.baseurl }}/2017/02/01/New-Courses.html">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/New-Courses-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
