@@ -53,7 +53,7 @@ Finally, some of our students can’t find a pathway to fit all of their interes
 <div class="media well">
   <div class="media-left">
     <a href="https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program">
-      <img class="media-object" src="/img/64/st1.1a.jpg">
+      <img class="media-object" src="/img/64/Hurtado-Scholars-Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -65,7 +65,7 @@ Finally, some of our students can’t find a pathway to fit all of their interes
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/05/16/AP-Calculus-AB-2015-Results.html">
-      <img class="media-object" src="/img/64/st1.1b.jpg">
+      <img class="media-object" src="/img/64/Introduction-to-computer-science-for-all-icon.jpg">
     </a>
   </div>
   <div class="media-body">
