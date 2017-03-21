@@ -61,6 +61,7 @@ Technology permeates throughout all of Rockhurst High School. Moving forward, [n
   <div class="media-body">
     <h4 class="media-heading">iPad School</h4>
     <p>The 1:1 iPad program seeks to increase student learning by ensuring that every student and teacher in every classroom have an Internet-connected iPad.</p>
+   </div>
 </div>
 
 <div class="media well">
