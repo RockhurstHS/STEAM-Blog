@@ -1,0 +1,20 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Related Posts</h3>
+  </div>
+  <div class="panel-body">
+    <ul id="recent-posts-list" class="listing">
+
+      {% for post in site.posts limit: 10 %}
+        {% assign key = page.key | downcase %}
+        {% if post.indicators contains key %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span> by {% include authors.html %}</span>
+          </li>
+          {% endif %}
+      {% endfor %}
+
+    </ul>
+  </div>
+</div>
+<img width="100%" src="{{ site.baseurl }}/img/chapelcross.jpg">
