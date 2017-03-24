@@ -36,7 +36,7 @@ Rockhurst High School’s mission is to form “Men with and for Others”. The 
 <div class="media well">
   <div class="media-left">
     <a href="https://docs.google.com/document/d/1WlOZvl3XxWkNRKFiIOETbOvCqY7C-FNf5vQ6YBZKE-g/edit?usp=sharing">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/STEAM_Advisory_Board_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -48,7 +48,7 @@ Rockhurst High School’s mission is to form “Men with and for Others”. The 
 <div class="media well">
   <div class="media-left">
     <a href="https://www.jesuitschoolsnetwork.org/webinars?qt-webinars=1#qt-webinars">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/School_for_Others_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -60,7 +60,7 @@ Rockhurst High School’s mission is to form “Men with and for Others”. The 
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2015/11/28/Middle-School-Math-Day.html">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/Middle_School_Math_Day_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
