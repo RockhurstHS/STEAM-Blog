@@ -39,19 +39,19 @@ Next year, more adult world connections will be created through [new courses](ht
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/Student_Opportunities_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
     <h4 class="media-heading">Student Opportunities</h4>
-    <p>...</p>
+    <p>The STEAM initiative has helped create a number of student opportunities. Most of them are through the science department.</p>
   </div>
 </div>
 
 <div class="media well">
   <div class="media-left">
     <a href="https://www.rockhursths.edu/pages/news/news---je-dunn-mentorship">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/Building_For_Others_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -63,7 +63,7 @@ Next year, more adult world connections will be created through [new courses](ht
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/02/16/Service-Learning-at-Don-Bosco.html">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/Service_Learning_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
