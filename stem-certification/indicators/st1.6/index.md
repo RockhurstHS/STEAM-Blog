@@ -46,7 +46,7 @@ Within other academic courses, students are also asked to solve real world probl
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/08/10/EMI-2016.html">
-      <img class="media-object" src="/img/indicators/st1.6b.jpg">
+      <img class="media-object" src="/img/64/EMI_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -58,7 +58,7 @@ Within other academic courses, students are also asked to solve real world probl
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html">
-      <img class="media-object" src="/img/Guy Consolmagno.png">
+      <img class="media-object" src="/img/64/Brother_Guy_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -70,7 +70,7 @@ Within other academic courses, students are also asked to solve real world probl
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/02/11/MECA-Challenge.html">
-      <img class="media-object" src="/img/Winning Group.jpg">
+      <img class="media-object" src="/img/64/MECA_Challenge_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
