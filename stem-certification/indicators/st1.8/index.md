@@ -39,7 +39,7 @@ In order to self-assess whether or not Rockhurst is meeting this goal, educators
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/02/27/Community-Challenges.html">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/STEM_Competitions_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -51,7 +51,7 @@ In order to self-assess whether or not Rockhurst is meeting this goal, educators
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2016/08/08/Computer-Science-2016.html">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/Computer_Science_Classes_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -63,7 +63,7 @@ In order to self-assess whether or not Rockhurst is meeting this goal, educators
 <div class="media well">
   <div class="media-left">
     <a href="http://steam.rockhursths.edu/2017/02/01/New-Courses.html">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/Science_Research_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
