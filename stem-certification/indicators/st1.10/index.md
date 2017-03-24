@@ -41,7 +41,7 @@ Rockhurst High School’s mission is to form “Men with and for Others”. The 
   </div>
   <div class="media-body">
     <h4 class="media-heading">STEAM Advisory Board</h4>
-    <p>...</p>
+    <p>Members from the greater STEAM community will be asked to form an advisory board to help guide the STEAM initiatives at St. Teresa’s Academy and Rockhurst High School.The goal is to represent a breadth and depth of awareness in a variety of STEAM fields to help connect and prepare our students for the world.</p>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ Rockhurst High School’s mission is to form “Men with and for Others”. The 
   </div>
   <div class="media-body">
     <h4 class="media-heading">School for Others</h4>
-    <p>...</p>
+    <p>Rockhurst will be a community asset and be a "School for Others" in order to model for students what it means to be a "Man for Others". </p>
   </div>
 </div>
 
