@@ -25,7 +25,7 @@ In the fall of 2016, a group of students went to KC Techweek. Their favorite par
 
 <blockquote>"KC Techweek was valuable to me because it gave me examples of how regular people like myself have made their businesses into a reality through perseverance and having big dreams." - RHS Student Brion Dennis</blockquote>
 
-This trip was a natural extension of the annual [Rockhurst career day](https://drive.google.com/file/d/0B1GfFTBj5fhQWlBpSzV0cGdZT2s/view?usp=sharing). On this day, students sign up to attend talks given by Rockhurst alumni to learn about specific career pathways. Students in the Communication Arts department are working on web page designs for companies. Students studying Graphics Design are making logos to be used in puclic.
+This trip was a natural extension of the annual [Rockhurst career day](https://drive.google.com/file/d/0B1GfFTBj5fhQWlBpSzV0cGdZT2s/view?usp=sharing). On this day, students sign up to attend talks given by Rockhurst alumni to learn about specific career pathways. Students in the Communication Arts department are working on web page designs for companies. Students studying Graphics Design are making logos to be used in public.
 
 <div class="flex-wrapper" align="center">
   <img src="{{ site.baseurl }}/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo" style="width: 60%;">
