@@ -53,7 +53,7 @@ Rockhurst High School’s mission is to form “Men with and for Others”. The 
   </div>
   <div class="media-body">
     <h4 class="media-heading">School for Others</h4>
-    <p>Rockhurst will be a community asset and be a "School for Others" in order to model for students what it means to be a "Man for Others". </p>
+    <p>Rockhurst will be a community asset and be a "School with and for Others" in order to model for students what it means to be a "Man with and for Others". </p>
   </div>
 </div>
 
