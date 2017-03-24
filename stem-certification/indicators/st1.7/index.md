@@ -44,7 +44,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 <div class="media well">
   <div class="media-left">
     <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk">
-      <img class="media-object" src="/img/64/st1.2a.jpg">
+      <img class="media-object" src="/img/64/RBT_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -56,7 +56,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 <div class="media well">
   <div class="media-left">
     <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5Y09kNWc5Tk5kVDg">
-      <img class="media-object" src="/img/64/st1.2b.jpg">
+      <img class="media-object" src="/img/64/1_1_Interviews_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
@@ -68,7 +68,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 <div class="media well">
   <div class="media-left">
     <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5fnhSVHA0TjR1MWR5UnlxbFViSG5nWHA3SXBVcXdIT0lQcERMRkctendfRkk?usp=sharing">
-      <img class="media-object" src="/img/64/st1.2c.jpg">
+      <img class="media-object" src="/img/64/ALC_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
