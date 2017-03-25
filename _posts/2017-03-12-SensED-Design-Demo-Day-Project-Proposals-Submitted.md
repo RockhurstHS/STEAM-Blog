@@ -4,7 +4,7 @@ author: jwclark
 title: SensED Design Demo Project Proposals
 excerpt: The big demo day is April 13, 2017 at Think Big Partners in downtown KC. I look forward to seeing how students assemble the various pieces of this challenge into final projects.
 tags: tech
-indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8 st1.10 st1.11
+indicators: st1.2 st1.3 st1.4 st1.5 st1.8 st1.10
 ---
 <div class="flex-wrapper">
   <figure>
