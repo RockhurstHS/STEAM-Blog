@@ -4,7 +4,7 @@ authors: gregowsley
 title: Life-Hacking
 excerpt: Learning can occur during self-directed time too. Isn't that what happens in the real world?
 tags: active-learning, arts, student-impact
-indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.8
+indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8
 ---
 Inspired by the film [Most Likely to Succeed](http://steam.rockhursths.edu/2016/10/06/MLTS.html), I'm piloting a new program aimed at empowering students with psychological tools to help them develop a sense of agency and learn how to make better use of their self-directed time.
 
