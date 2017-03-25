@@ -7,7 +7,9 @@ description: STEM educators collaborate as an interdisciplinary team to plan, im
 <p align="center">
 <b>Narrative</b>
 </p>
-Rockhurst High School educators value collaboration and have a history of doing so regularly. For many years, teachers from all departments attended a voluntary sharing of best practices through a program called the [Art of Teaching](https://www.youtube.com/playlist?list=PLE49B6B6E48D3E6A4). Over the last two years, the entire faculty dedicated themselves to educational best practices training from the consultant firm [Research for Better Teaching (RBT)](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk). This training of the entire faculty was both STEM and non-STEM focused. This type of school-wide training marks a significant departure from traditional professional development initiatives, which previously consisted of one or two annual days that were thematically unconnected.
+Rockhurst High School educators value collaboration and have a history of doing so regularly. For many years, teachers from all departments attended a voluntary sharing of best practices through a program called the [Art of Teaching](https://www.youtube.com/playlist?list=PLE49B6B6E48D3E6A4). This past year, the entire school community came together to celebrate the [Year of Mercy](https://www.rockhursths.edu/pages/news/news---year-of-mercy).
+
+Over the last two years, the entire faculty dedicated themselves to educational best practices training from the consultant firm [Research for Better Teaching (RBT)](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk). This training of the entire faculty was both STEM and non-STEM focused. This type of school-wide training marks a significant departure from traditional professional development initiatives, which previously consisted of one or two annual days that were thematically unconnected.
 
 <div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8H-vuCg_rYQ?list=PLE49B6B6E48D3E6A4" frameborder="0" allowfullscreen></iframe>
