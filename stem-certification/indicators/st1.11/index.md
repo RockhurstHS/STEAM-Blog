@@ -31,7 +31,7 @@ This trip was a natural extension of the annual [Rockhurst career day](https://d
   <img src="{{ site.baseurl }}/img/indicators/st1.11a.jpg" alt="RHS STEAM Logo" style="width: 60%;">
 </div>
 
-Next year, more adult world connections will be created through [new courses](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). The Fundamentals of Scientific Research course will support students conduct an authentic research project by providing them adult-world connections. Similarly, the students engaged in the Entrepreneurship for Others class will also be introduced to adult-world connections on a regular basis. Adult guest speakers will be a weekly portion of the course. Moreover, students will have mentors that assist them with their prototypes, market research and pitches. Further connecting students to the world is central to the [STEAM initiative’s mission](http://steam.rockhursths.edu/2017/02/01/New-Courses.html).
+Next year, more adult world connections will be created through [new courses](http://steam.rockhursths.edu/2017/02/01/New-Courses.html). The Fundamentals of Scientific Research course will support students conduct an authentic research project by providing them adult-world connections. Similarly, the students engaged in the Entrepreneurship for Others class will also be introduced to adult-world connections on a regular basis. Adult guest speakers will be a weekly portion of the course. Moreover, students will have mentors that assist them with their prototypes, market research and pitches. Further connecting students to the world is central to the [STEAM initiative’s mission](http://steam.rockhursths.edu/vision/).
 
 
 ## Key Exemplars
