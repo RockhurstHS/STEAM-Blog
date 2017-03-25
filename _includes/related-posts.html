@@ -5,7 +5,7 @@
   <div class="panel-body">
     <ul id="recent-posts-list" class="listing">
 
-      {% for post in site.posts limit: 10 %}
+      {% for post in site.posts %}
         {% assign key = page.key | downcase %}
         {% if post.indicators contains key %}
           <li>
