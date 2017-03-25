@@ -9,11 +9,13 @@ description: STEM educators collaborate as an interdisciplinary team to plan, im
 </p>
 Rockhurst High School educators value collaboration and have a history of doing so regularly. For many years, teachers from all departments attended a voluntary sharing of best practices through a program called the [Art of Teaching](https://www.youtube.com/playlist?list=PLE49B6B6E48D3E6A4). This past year, the entire school community came together to celebrate the [Year of Mercy](https://www.rockhursths.edu/pages/news/news---year-of-mercy).
 
-Over the last two years, the entire faculty dedicated themselves to educational best practices training from the consultant firm [Research for Better Teaching (RBT)](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk). This training of the entire faculty was both STEM and non-STEM focused. This type of school-wide training marks a significant departure from traditional professional development initiatives, which previously consisted of one or two annual days that were thematically unconnected.
 
 <div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8H-vuCg_rYQ?list=PLE49B6B6E48D3E6A4" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+Over the last two years, the entire faculty dedicated themselves to educational best practices training from the consultant firm [Research for Better Teaching (RBT)](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk). This training of the entire faculty was both STEM and non-STEM focused. This type of school-wide training marks a significant departure from traditional professional development initiatives, which previously consisted of one or two annual days that were thematically unconnected.
 
 The STEAM team, composed of a STEAM Director and two STEAM Coordinators <b>met nearly every day</b> of the 2015 - 2016 school year in order to plan, implement, and improve aspects of STEAM around the school. Beyond those three, the STEAM Director worked closely with department chairs, the educational technologist, the librarian (particularly with the planning of the learning commons) and members of the advancement office. The STEAM team began the 2015 school year with [interviewing every single faculty member one on one](https://docs.google.com/presentation/d/1cISBkHWQQZFmaYLIFg7AS7BK9QArEQK0mi4XL1duqpM/edit) in order to assess the [biggest needs](http://steam.rockhursths.edu/2015/10/30/Interviews.html) around the school in terms of STEM learning experiences. 
 
