@@ -8,7 +8,7 @@ description: STEM learning outcomes demonstrate students’ STEM literacy necess
 <b>Narrative</b>
 </p>
 
-When the STEAM initiative began in the fall of 2015, a [report](https://drive.google.com/file/d/0B9GvJvqcpl0IUGFrLU04TGYxWnM/view?usp=sharing) was generated to ascertain the existing success. At the end of 2015, a <b>STEAM Executive Report</b> identified goals and timelines for the various STEM-related aspects of Rockhurst High School. In addition, Rockhurst partnered with [Research for Better Teachers](https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk), an educational and consulting firm to help the entire school, from the administration on down, make sure that our curriculum was reflecting the learning outcomes desired.   
+When the STEAM initiative began in the fall of 2015, a <b>report</b> was generated to ascertain the existing success. At the end of 2015, a <b>STEAM Executive Report</b> identified goals and timelines for the various STEM-related aspects of Rockhurst High School. In addition, Rockhurst partnered with [Research for Better Teachers](http://www.rbteach.com/), an educational and consulting firm to help the entire school, from the administration on down, make sure that our curriculum was reflecting the learning outcomes desired.   
 
 <div class="flex-wrapper" align="center">
   <img src="{{ site.baseurl }}/img/STEAM Executive Report.png" style="width: 70%;">
@@ -32,7 +32,7 @@ Outside of core curricular learning outcomes. Students are voluntarily posting [
   <img src="{{ site.baseurl }}/img/STEAMstudioTutor.JPG" style="width: 50%;">
 </div>
 
-In order to self-assess whether or not Rockhurst is meeting this goal, educators attend STEM Conferences such as the [AdvancED STEM Summit](https://drive.google.com/drive/folders/0B1-JIRrX_4I5YXo1a25XMTkwMXM?usp=sharing). These professional development opportunities help the school to continue to hone the way students are ensured STEM literacy.
+In order to self-assess whether or not Rockhurst is meeting this goal, educators attend STEM Conferences such as the [AdvancED STEM Summit](http://www.cvent.com/events/second-annual-advanced-tennessee-stem-summit/event-summary-be11b97fa6944485bf0d75413f58afe2.aspx). These professional development opportunities help the school to continue to hone the way students are ensured STEM literacy.
 
 ## Key Exemplars
 
