@@ -8,7 +8,7 @@ description: STEM learning outcomes demonstrate students’ STEM literacy necess
 <b>Narrative</b>
 </p>
 
-When the STEAM initiative began in the fall of 2015, a <b>report</b> was generated to ascertain the existing success. At the end of 2015, a <b>STEAM Executive Report</b> identified goals and timelines for the various STEM-related aspects of Rockhurst High School. In addition, Rockhurst partnered with [Research for Better Teachers](http://www.rbteach.com/), an educational and consulting firm to help the entire school, from the administration on down, make sure that our curriculum was reflecting the learning outcomes desired.   
+When the STEAM initiative began in the fall of 2015, a <b>report</b> was generated to ascertain the existing success. At the end of 2015, a <b>STEAM Executive Report</b> identified goals and timelines for the various STEM-related aspects of Rockhurst High School. In addition, Rockhurst partnered with [Research for Better Teaching](http://www.rbteach.com/), an educational and consulting firm to help the entire school, from the administration on down, make sure that our curriculum was reflecting the learning outcomes desired.   
 
 <div class="flex-wrapper" align="center">
   <img src="{{ site.baseurl }}/img/STEAM Executive Report.png" style="width: 70%;">
