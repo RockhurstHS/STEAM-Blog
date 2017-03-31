@@ -39,7 +39,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
   </div>
   <div class="media-body">
     <h4 class="media-heading">Research for Better Teaching</h4>
-    <p>What do skillful teachers believe, know, and do — individually and collaboratively — to promote the learning and achievement of each and every student?</p>
+    <p>What do skillful teachers believe, know, and do — individually and collaboratively — to promote the learning and achievement of each and every student? All Rockhurst High School faculty members participate in this training.</p>
   </div>
 </div>
 
