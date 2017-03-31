@@ -42,7 +42,7 @@ Finally, during <b>January of 2016</b> and [January of 2017](https://docs.google
 
 <div class="media well">
   <div class="media-left">
-    <a href="https://docs.google.com/spreadsheets/d/1Op6lmBHQFjOMUmYXOVAdXZicPiCzptz0uyGm1PFhmh0/pubchart?oid=1178377008&format=interactive">
+    <a>
       <img class="media-object" src="/img/64/st1.9b.jpg">
     </a>
   </div>
