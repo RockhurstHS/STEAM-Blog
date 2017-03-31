@@ -33,7 +33,7 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 
 <div class="media well">
   <div class="media-left">
-    <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5djY5Q1o4QzdhRlk">
+    <a href="http://www.rbteach.com/">
       <img class="media-object" src="/img/64/RBT_Icon.jpg">
     </a>
   </div>
