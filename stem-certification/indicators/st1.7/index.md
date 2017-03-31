@@ -45,13 +45,13 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 
 <div class="media well">
   <div class="media-left">
-    <a href="https://drive.google.com/drive/folders/0B1-JIRrX_4I5Y09kNWc5Tk5kVDg">
+    <a>
       <img class="media-object" src="/img/64/1_1_Interviews_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
     <h4 class="media-heading">1-1 Faculty Meetings</h4>
-    <p>We needed faculty input prior to moving forward. This would help shape a shared vision and lead to understanding our shared values. We want everyone to feel excited and a sense of co-ownership.</p>
+    <p>We needed faculty input prior to moving forward. This helped shape a shared vision and lead to a shared understanding of our values. The goal is a shared excitement and sense of co-ownership.</p>
   </div>
 </div>
 
