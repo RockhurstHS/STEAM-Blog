@@ -2,11 +2,13 @@
 layout: post
 author: gregowsley
 title: Nationally Renowned
-excerpt: Rockhurst is one of two schools in the country that can claim both of the above honors.
+excerpt: Where has the STEAM initiative put Rockhurst on the national map?
 tags: school-for-others
 indicators: st1.10 
 ---
-Where has the STEAM initiative put Rockhurst on the national map? At the end of March, Rockhurst was awarded a [STEM Certification](http://steam.rockhursths.edu/stem-certification/) from AdvancED, the largest international school accreditation agency. Rockhurst is the first school in Missouri or Kansas to receive this recognition. The official story can be read [here](https://www.rockhursths.edu/pages/news/news---stem-certification).
+<blockquote> Where has the STEAM initiative put Rockhurst on the national map? </blockquote> 
+
+At the end of March, Rockhurst was awarded a [STEM Certification](http://steam.rockhursths.edu/stem-certification/) from AdvancED, the largest international school accreditation agency. Rockhurst is the first school in Missouri or Kansas to receive this recognition. The official story can be read [here](https://www.rockhursths.edu/pages/news/news---stem-certification).
 
 <div class='tableauPlaceholder' id='viz1492614276351' style='position: relative'>
   <noscript>
