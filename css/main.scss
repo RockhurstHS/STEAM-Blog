@@ -118,6 +118,21 @@ html {
   }
 }
 
+/* BANNER */
+#banner-container {
+  margin-bottom: 3 * $PADDING;
+  
+  #stem-certified-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: $PADDING;
+    padding-left: 3 * $PADDING;
+    padding-bottom: $PADDING;
+    height: 100%;
+  }
+}
+
 /* PAGINATION */
 #pagination-container {
   text-align: center;
