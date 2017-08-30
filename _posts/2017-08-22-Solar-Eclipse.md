@@ -7,7 +7,7 @@ tags: science
 indicators: st1.1 st1.2 st1.4 st1.6 st1.7 
 ---
 
-For the first time in close to 100 years our region experienced a total solar eclipse.  For many of us, the experience was glowing with science, was a spiritual moment, and was deeply moving.  The Astronomy Club was excited to host an event at our stadium by allowing the Rockhurst Community to observe the eclipse and providing solar glasses.  
+For the first time in close to 100 years our region experienced a total solar eclipse.  For many of us, the experience was glowing with science, was a [spiritual moment](http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html), and was deeply moving.  The Astronomy Club was excited to host an event at our stadium by allowing the Rockhurst Community to observe the eclipse and providing solar glasses.  
 
 <div align="center" class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/eclipse-1.jpg" style="width: 50%;"></div>
@@ -24,7 +24,7 @@ Following some concerning weather, the eclipse started at 11:43 am, which was ri
  <div class="x1"><img src="{{ site.baseurl }}/img/eclipse-4.jpg" style="width: 50%;"></div>
 </div>     
 
-While the event was taking place, members of the Astronomy Club were operating two telescopes, capturing pictures of the eclipse.  They were challenged in not only finding the sun through the telescopes' solar filters, but also keep the sun in view.  Using cameras that were attached to the telescopes, which were connected to a computer, this challenge was met as we captured some incredible pictures of the eclipse, the sun, and sun spots.
+While the event was taking place, members of the Astronomy Club were operating two telescopes, capturing pictures of the eclipse.  They were challenged in not only finding the sun through the telescopes' solar filters, but also keep the sun in view.  [Using cameras](http://steam.rockhursths.edu/2015/10/13/Astrophotography-A-Blending-of-Art-and-Science.html) that were attached to the telescopes, which were connected to a computer, this challenge was met as we captured some incredible pictures of the eclipse, the sun, and sun spots.
 
 <div align="center" class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/eclipse-3.jpg" style="width: 50%;"></div>
