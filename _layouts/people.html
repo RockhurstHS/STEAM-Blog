@@ -8,7 +8,7 @@ layout: default
   {% for person in site.data.people %}
     {% assign card = person[1] %}
 
-    {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
+    {% cycle 'add row' : '<div class="row">', '', '', '' %}
       {% if card.image %}
         {% if card.profile == true %}
           <a href="{{ site.baseurl }}/team/{{ person[0] }}/">
