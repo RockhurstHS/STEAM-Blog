@@ -10,21 +10,9 @@ layout: default
 
     {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
       {% if card.image %}
-        {% if card.profile == true %}
-          <a href="{{ site.baseurl }}/team/{{ person[0] }}/">
-        {% endif %}
         <div class="col-sm-{{columnWidth}}">
-          <div class="profile-image-wrapper">
-            <img class="profile-image" src="{{ site.baseurl}}/{{ card.image }}" alt="{{ person[1].name }}">
-          </div>
-          <div class="profile-data-wrapper inverted">
-            <p class="profile-name">{{ card.name }}</p>
-            <p class="profile-title">{{ card.title }}</p>
-          </div>
+          <img width="100%" src="http://placehold.it/100%">
         </div>
-        {% if card.profile == true %}
-          </a>
-        {% endif %}
       {% endif %}
     {% cycle 'end row' : nil, nil, nil, '</div>' %}
 
