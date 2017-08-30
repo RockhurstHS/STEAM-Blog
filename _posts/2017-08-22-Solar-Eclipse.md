@@ -18,7 +18,7 @@ A solar eclipse occurs when the moon is in the new moon phase and it moves acros
   <div class="x1"><img src="{{ site.baseurl }}/img/eclipse-6.jpg" style="width: 50%;"></div>
 </div>     
 
-Following some concerning weather, the eclipse started at 11:43 am, which was right on time. At 12:30 pm, students began moving down to the stadium while the moon had already moved over about half the face of the sun.  While walking down to the stadium the students were instructed not to look up, but rather focus on their senses, at how the shadows look different, listen for birds changing the way they behave, and feeling for a drop in the temperature. Once our students received their glasses, they could see this impressive event and were instantly amazed.  Rockhurst was just south of the path of totality so we were not able to take off our glasses at any point in time to look at the sun, but we experienced a phenomenal natural event.  
+Following some concerning weather, the eclipse started at 11:43 am, which was right on time. At 12:30 pm, students began moving down to the stadium while the moon had already moved over about half the face of the sun.  While walking down to the stadium the students were instructed not to look up, but rather focus on their senses, at how the shadows look different, listen for birds changing the way they behave, and feeling for a [drop in the temperature](http://rhswx.rockhursths.edu/). Once our students received their glasses, they could see this impressive event and were instantly amazed.  Rockhurst was just south of the path of totality so we were not able to take off our glasses at any point in time to look at the sun, but we experienced a phenomenal natural event.  
 
 <div align="center" class="flex-wrapper">
  <div class="x1"><img src="{{ site.baseurl }}/img/eclipse-4.jpg" style="width: 50%;"></div>
@@ -42,6 +42,6 @@ For our community, remembering we are in the presence of God was important durin
   <div class="x1"><img src="{{ site.baseurl }}/img/eclipse-2.jpg" style="width: 50%;"></div>
 </div>  
 
-For our community, this rare event encapsulated each aspect of our Graduate at Graduation motto.  A once in a lifetime experience that displayed the majesty of science and the grandeur of God all at once.  
+For our community, this rare event encapsulated each aspect of our Graduate at Graduation motto.  A once in a lifetime experience that displayed the majesty of [science](http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html) and the grandeur of God all at once.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allowfullscreen></iframe>
