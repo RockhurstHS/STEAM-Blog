@@ -44,4 +44,6 @@ For our community, remembering we are in the presence of God was important durin
 
 For our community, this rare event encapsulated each aspect of our Graduate at Graduation motto.  A once in a lifetime experience that displayed the majesty of [science](http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html) and the grandeur of God all at once.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+<iframe src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allowfullscreen></iframe>
+</div>
