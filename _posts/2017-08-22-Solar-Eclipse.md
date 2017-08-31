@@ -7,6 +7,10 @@ tags: science
 indicators: st1.1 st1.2 st1.4 st1.6 st1.7 
 ---
 
+<div class="embed-container">
+<iframe src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 For the first time in close to 100 years our region experienced a total solar eclipse.  For many of us, the experience was glowing with science, was a [spiritual moment](http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html), and was deeply moving.  The Astronomy Club was excited to host an event at our stadium by allowing the Rockhurst Community to observe the eclipse and providing solar glasses.  
 
 <div align="center" class="flex-wrapper">
@@ -43,7 +47,3 @@ For our community, remembering we are in the presence of God was important durin
 </div>  
 
 For our community, this rare event encapsulated each aspect of our Graduate at Graduation motto.  A once in a lifetime experience that displayed the majesty of [science](http://steam.rockhursths.edu/2017/03/05/Science-Department-is-blasting-off.html) and the grandeur of God all at once.  
-
-<div class="embed-container">
-<iframe src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allowfullscreen></iframe>
-</div>
