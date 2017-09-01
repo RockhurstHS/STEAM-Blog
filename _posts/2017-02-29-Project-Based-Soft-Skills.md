@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: gregowsley
-title: Life-Hacking
+title: Project-Based Soft Skills
 excerpt: Learning can occur during self-directed time too. Isn't that what happens in the real world?
 tags: active-learning, arts, student-impact
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.7 st1.8
