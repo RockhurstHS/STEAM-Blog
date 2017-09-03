@@ -2,13 +2,15 @@
 layout: post
 author: gregowsley
 title: Student presented at national education conference.
-excerpt: "...allowing students to really enter the workplace and see what the future of engineering and science has to offer in a fast paced world."
+excerpt: "It opened my eye to a lot of the innovation that is happening in the education technology field and get a preview of what the “Classroom of the Future” might look like."
 tags: science student-perspectives service learning
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 <center>
 <b>The following reflection was written by Krishon Harris.</b>
 </center>
+
+<blockquote>It opened my eye to a lot of the innovation that is happening in the education technology field and get a preview of what the “Classroom of the Future” might look like.</blockquote>
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/ISTEimage.JPG">
