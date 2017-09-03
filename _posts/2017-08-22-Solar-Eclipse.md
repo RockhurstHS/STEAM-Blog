@@ -10,7 +10,7 @@ indicators: st1.1 st1.2 st1.4 st1.6 st1.7
 <div class="embed-container">
 <iframe src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allowfullscreen></iframe>
 </div>
-<p class="caption">Paul Winkeler highlights the solar eclipse as this month's Ignatian moment.</p>
+<p class="caption">Mr. Paul Winkeler highlights the solar eclipse as this month's Ignatian moment.</p>
 
 For the first time in close to 100 years our region experienced a total solar eclipse.  For many of us, the experience was glowing with science, was a [spiritual moment](http://steam.rockhursths.edu/2016/08/17/Pope's-Astronomer.html), and was deeply moving.  The Astronomy Club was excited to host an event at our stadium by allowing the Rockhurst Community to observe the eclipse and providing solar glasses.  
 
