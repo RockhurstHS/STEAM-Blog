@@ -19,7 +19,7 @@ Participating in [STEAM Studio](http://steam-studio.com/) and [ISTE](https://con
 
 <center>
 <div class="flex-wratter">
-  <img src="{{ site.baseur1 }}/img/STEAM-Studio-Inside(1).jpg">
+  <img src="{{ site.baseur1 }}/img/STEAM-Studio-Inside (1).jpg">
 </div>
 <p class="caption">Krishon working with a student at the STEAM Studio.</p>
 </center>
