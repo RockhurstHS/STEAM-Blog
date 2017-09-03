@@ -15,7 +15,7 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 </div>
 <p class="caption">Students Krishon Harris, Brion Dennis and Connor Aguilar presenting at ISTE 2016 in Denver, CO.</p>
 
-Participating in [STEAM Studio](http://steam-studio.com/) and [ISTE](https://conference.iste.org/2017/0 have been very enjoyable parts of my Rockhurst career. Participating in STEAM Studio has given me the opportunity to do meaningful things in the community while also learning and doing something I am passionate about. I am very passionate about technology and STEAM has been a great outlet. Participating in the STEAM Studio has also allowed me to branch out and connect with other tech firms such as Cerner and Tesla. 
+Participating in [STEAM Studio](http://steam-studio.com/) and [ISTE](https://conference.iste.org/2017/) have been very enjoyable parts of my Rockhurst career. Participating in STEAM Studio has given me the opportunity to do meaningful things in the community while also learning and doing something I am passionate about. I am very passionate about technology and STEAM has been a great outlet. Participating in the STEAM Studio has also allowed me to branch out and connect with other tech firms such as Cerner and Tesla. 
 
 <center>
 <div class="flex-wratter">
