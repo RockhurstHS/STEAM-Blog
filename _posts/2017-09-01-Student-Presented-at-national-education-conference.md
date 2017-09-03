@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Student presenting at national education conference.
+title: Student presented at national education conference.
 excerpt: "...allowing students to really enter the workplace and see what the future of engineering and science has to offer in a fast paced world."
 tags: science student-perspectives service learning
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
