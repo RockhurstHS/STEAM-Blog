@@ -131,6 +131,11 @@ $(document).ready(function () {
   $('table.indicators tr').click(function() {
     window.location = $(this).data("href");
   });
+  
+  // https://stackoverflow.com/a/4425214/1161948
+  $(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+  }).attr('target', '_blank');
 
 });
 //endregion
