@@ -132,6 +132,7 @@ $(document).ready(function () {
     window.location = $(this).data("href");
   });
   
+  // opens all offsite links in a new tab
   // https://stackoverflow.com/a/4425214/1161948
   $(document.links).filter(function() {
     return this.hostname != window.location.hostname;
