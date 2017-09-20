@@ -12,7 +12,7 @@ In fulfilling our mission of forming young men to strive for academic excellence
 
 <div class="flex-wrapper">
   <figure>
-    <img src="{{ site.baseurl }}/img/LC-1.jpeg">
+    <img src="{{ site.baseurl }}/img/LC-8.JPG">
     <figcaption>Rockhurst student using a telescope to take a picture 5 minutes before totality.</figcaption>
   </figure>
 </div>
@@ -31,7 +31,7 @@ Numerous students and teachers have taken advantage of the silent study room, an
 <div class="row">
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-2.jpeg" title=""><img src="/img/LC-2.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-5.jpeg" title=""><img src="/img/LC-5.jpeg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-8.JPG" title=""><img src="/img/LC-8.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-1.jpeg" title=""><img src="/img/LC-1.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-9.JPG" title=""><img src="/img/LC-9.JPG" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
