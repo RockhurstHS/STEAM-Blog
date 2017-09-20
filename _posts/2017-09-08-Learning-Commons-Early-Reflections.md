@@ -12,7 +12,7 @@ In fulfilling our mission of forming young men to strive for academic excellence
 
 <div class="flex-wrapper">
   <figure>
-    <img src="{{ site.baseurl }}/img/LC-1.jpeg.jpg">
+    <img src="{{ site.baseurl }}/img/LC-1.jpeg">
     <figcaption>Rockhurst student using a telescope to take a picture 5 minutes before totality.</figcaption>
   </figure>
 </div>
