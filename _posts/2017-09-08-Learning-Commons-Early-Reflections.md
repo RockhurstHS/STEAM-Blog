@@ -3,7 +3,7 @@ layout: post
 author: gregowsley
 title: Learning Commons: Early Reflections
 excerpt: "At any given time during the day, you can walk through and see students taking advantage of their self-directed time."
-tags: active-learning student-impact
+tags: active-learning, student-impact
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.8 st1.10 st1.11 
 ---
 # The following post is authored by Amy Gansner, Rockhurst High School Librarian.
