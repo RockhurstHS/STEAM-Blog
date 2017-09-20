@@ -23,7 +23,7 @@ Numerous students and teachers have taken advantage of the silent study room, an
 
 <div class="row">
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-6.jpeg" title=""><img src="/img/LC-6.jpeg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-7.jpg" title=""><img src="/img/LC-7.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-7.JPG" title=""><img src="/img/LC-7.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-3.jpeg" title=""><img src="/img/LC-3.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-4.jpeg" title=""><img src="/img/LC-4.jpeg" alt=""></a></div>
 </div>
@@ -31,7 +31,7 @@ Numerous students and teachers have taken advantage of the silent study room, an
 <div class="row">
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-2.jpeg" title=""><img src="/img/LC-2.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-5.jpeg" title=""><img src="/img/LC-5.jpeg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-8.jpg" title=""><img src="/img/LC-8.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-9.jpg" title=""><img src="/img/LC-9.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-8.JPG" title=""><img src="/img/LC-8.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-9.JPG" title=""><img src="/img/LC-9.JPG" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
