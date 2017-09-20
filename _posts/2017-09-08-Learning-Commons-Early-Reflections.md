@@ -1,11 +1,12 @@
 ---
 layout: post
-author: amygansner
+author: gregowsley
 title: Learning Commons: Early Reflections
 excerpt: 
 tags: activelearning studentimpact
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.8 st1.10 st1.11 
 ---
+## The following post is authored by Amy Gansner, Rockhurst High School Librarian.
 <div class="flex-wrapper">
   <figure>
     <img src="{{ site.baseurl }}/img/LC-5.jpeg.jpg">
