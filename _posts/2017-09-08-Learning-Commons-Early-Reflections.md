@@ -29,7 +29,7 @@ Numerous students and teachers have taken advantage of the silent study room, an
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-2.jpeG" title=""><img src="/img/LC-2.jpe" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-2.jpeG" title=""><img src="/img/LC-2.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-5.jpeg" title=""><img src="/img/LC-5.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-1.jpeg" title=""><img src="/img/LC-1.jpeg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/LC-9.JPG" title=""><img src="/img/LC-9.JPG" alt=""></a></div>
