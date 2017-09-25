@@ -8,7 +8,7 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 
 <center>
-<b>The following reflection was written by Clayton Chambon after volunteering at the [KC Area Life Science Institute Annual Dinner](http://kclifesciences.org/events/previous-kcalsi-events/annual-dinner/).</b>
+<b>The following reflection was written by Clayton Chambon after volunteering at the </b> [KC Area Life Science Institute Annual Dinner](http://kclifesciences.org/events/previous-kcalsi-events/annual-dinner/).
 </center>
 
 <div class="flex-wrapper">
