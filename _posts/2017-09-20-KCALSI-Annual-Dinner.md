@@ -7,7 +7,7 @@ tags: science student-perspectives service learning
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 
-## The following reflection was written by Clayton Chambon after volunteering at the [KC Area Life Science Institute Annual Dinner](http://kclifesciences.org/events/previous-kcalsi-events/annual-dinner/).
+### The following reflection was written by Clayton Chambon after volunteering at the [KC Area Life Science Institute Annual Dinner](http://kclifesciences.org/events/previous-kcalsi-events/annual-dinner/).
 
 
 <div class="flex-wrapper">
