@@ -1,6 +1,6 @@
 ---
 layout: post
-author: gregowsley
+author: amygansner
 title: Learning Commons-Early Reflections
 excerpt: "At any given time during the day, you can walk through and see students taking advantage of their self-directed time."
 tags: active-learning, student-impact

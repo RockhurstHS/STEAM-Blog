@@ -101,6 +101,12 @@ marvingrilliot:
   title: Hurtado Scholars Director
   image: img/marvingrilliot.jpg
   profile: false
+  
+amygansner:
+  name: Amy Gansner
+  title: Librarian
+  image: img/amygansner.jpg
+  profile: true
 
 brentsams:
   name: Brent Sams
