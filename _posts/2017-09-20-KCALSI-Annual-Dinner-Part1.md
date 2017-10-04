@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: KC Area Life Science Institute Annual Dinner
+title: KC Area Life Science Institute Annual Dinner (Part 1 of 2)
 excerpt: I am glad to be alive at this particular time in human history.
 tags: science student-perspectives service learning
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
