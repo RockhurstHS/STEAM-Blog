@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Storytelling with Film
+title: Storytelling through Film
 excerpt: "It’s not the equipment that tells the story; it's you who tells the story."
 tags: arts student-perspectives
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.8
