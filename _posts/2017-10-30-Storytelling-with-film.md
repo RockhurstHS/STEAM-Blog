@@ -2,7 +2,7 @@
 layout: post
 author: gregowsley
 title: Storytelling with Film
-excerpt: "It’s not the equipment that tells the story, it's you, who tells the story."
+excerpt: "It’s not the equipment that tells the story; it's you who tells the story."
 tags: arts student-perspectives
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.8
 ---
@@ -24,7 +24,7 @@ you to explore career opportunities outside of the normal school curriculum. My 
 <p><a href="https://vimeo.com/239862659">MVI_0482</a> from <a href="https://vimeo.com/user70049260">Evan Highfill</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 We get to learn what it means to tell a story in a digital way. I originally enrolled in the class to see the cool equipment, but I have come to a conclusion that
-it’s not the equipment that tells the story, it's you, who tells the story. Creating stories is an
+it’s not the equipment that tells the story; it's you who tells the story. Creating stories is an
 aspect of being a man for others because we are able to teach people through a fun and
 entertaining environment about what they didn’t know, help them by learning moral value stories
 and by inspiring them to be creative.
