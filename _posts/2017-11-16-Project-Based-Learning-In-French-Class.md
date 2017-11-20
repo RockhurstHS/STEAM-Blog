@@ -14,8 +14,7 @@ This project-based learning immersion experience inspired her to immediately sta
   <center>
 Apprendre des jeux de société
 Par Michael Navato 
-  </center>
-</b>
+  </center></b>
 
 Bonjour et bienvenue sur mon blog au sujet des activités de Rockhurst! J’écris aujourd’hui au sujet d’un projet que Français 2 et 3 ont participé. Il y a deux semaines, Madame Lane commençait une unité en Français 3 au sujet des jeux de sociétés. L’objectif principal était d’apprendre par une expérience interactive et pratique. Ici, Français 3 a créé des jeux pour Français 2 à jouer!
 
@@ -40,8 +39,7 @@ Alors, c’est tout!
   <center>
 Learning through board games
 By Michael Navato
-  </center>
-</b>
+  </center></b>
 
 Hello and welcome to my blog about Rockhurst activities! Today, I'm writing about a project French 2 and 3 participated in! Two weeks ago, Madame Lane started a Unit in French about board games. The main goal was to learn from an interactive and hands-on experience. In this case, French 3 made board games for French 2 to play!
 
