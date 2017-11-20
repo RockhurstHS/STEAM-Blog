@@ -34,9 +34,9 @@ Alors, c’est tout!
   <div class="x1"><img src="{{ site.baseurl }}/img/BoardGame4.JPG"></div>
 </div>
 
-<center><b>
+<b><center>
 Learning through board games
-By Michael Navato</b></center>
+By Michael Navato</center></b>
 
 Hello and welcome to my blog about Rockhurst activities! Today, I'm writing about a project French 2 and 3 participated in! Two weeks ago, Madame Lane started a Unit in French about board games. The main goal was to learn from an interactive and hands-on experience. In this case, French 3 made board games for French 2 to play!
 
