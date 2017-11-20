@@ -11,8 +11,10 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 This project-based learning immersion experience inspired her to immediately start a project in her class. Her French 3 class was tasked to create a board game that the French 2 class could play. The following reflection is from Michael Navato, French 3 student. English translation can be found past the images.
 
 <b>
+  <center>
 Apprendre des jeux de société
 Par Michael Navato 
+  </center>
 </b>
 
 Bonjour et bienvenue sur mon blog au sujet des activités de Rockhurst! J’écris aujourd’hui au sujet d’un projet que Français 2 et 3 ont participé. Il y a deux semaines, Madame Lane commençait une unité en Français 3 au sujet des jeux de sociétés. L’objectif principal était d’apprendre par une expérience interactive et pratique. Ici, Français 3 a créé des jeux pour Français 2 à jouer!
@@ -35,8 +37,10 @@ Alors, c’est tout!
 </div>
 
 <b> 
+  <center>
 Learning through board games
 By Michael Navato
+  </center>
 </b>
 
 Hello and welcome to my blog about Rockhurst activities! Today, I'm writing about a project French 2 and 3 participated in! Two weeks ago, Madame Lane started a Unit in French about board games. The main goal was to learn from an interactive and hands-on experience. In this case, French 3 made board games for French 2 to play!
