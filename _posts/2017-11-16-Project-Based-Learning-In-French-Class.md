@@ -8,7 +8,9 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 
 <b>French Teacher Emily Lane attended the High Tech High Fall Residency in mid-October. </b>
-This project-based learning immersion experience inspired her to immediately start a project in her class. Her French 3 class was tasked to create a board game that the French 2 class could play. The following reflection is from Michael Navato, French 3 student. English translation can be found past the images.
+This project-based learning immersion experience inspired her to immediately start a project. Her French 3 class was tasked to create (while speaking French) a board game that the French 2 class could play (while speaking French). 
+
+The following reflection is from Michael Navato, French 3 student. English translation can be found past the images.
 
 <b><center>
 Apprendre des jeux de société
