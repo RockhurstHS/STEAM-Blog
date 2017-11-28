@@ -108,10 +108,15 @@ amygansner:
   image: img/amygansner.jpg
   profile: true
 
+emilylane:
+  name: Emily Lane
+  title: French Teacher
+  image: img/emilylane.jpg
+  profile: true
+
 brentsams:
   name: Brent Sams
   title: French Teacher, 2010 - 2016
   image: img/brentsams.jpg
   profile: true
-
 
