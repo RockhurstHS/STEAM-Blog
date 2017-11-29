@@ -17,7 +17,8 @@ layout: default
 </div>
 
 <script>
+  // in view page source on steam.rockhursths.edu/tags/
   var posts = [{% for post in site.posts %}
-      {"title":"{{ post.title | replace: '"', ''' }}","author":"{{ post.author }}","tags":"{{ post.tags }}","url":"{{ post.url }}"}{% unless forloop.last %},{% endunless %}{% endfor %}
+      {"title":"{{ post.title | replace: '"', '' }}","author":"{{ post.author }}","tags":"{{ post.tags }}","url":"{{ post.url }}"}{% unless forloop.last %},{% endunless %}{% endfor %}
   ];
 </script>
