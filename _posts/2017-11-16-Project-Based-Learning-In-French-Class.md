@@ -32,7 +32,7 @@ Alors, c’est tout!
 -Michael
 
 <div class="flex-wrapper">
-  <div class="x1"><img src="{{ site.baseurl }}/img/BoardGame1.JPG"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/FBG6.JPG"></div>
   <div class="x1"><img src="{{ site.baseurl }}/img/BoardGame4.JPG"></div>
 </div>
 
@@ -72,7 +72,7 @@ STEAM-Blog/img/FBG2.JPG
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG6.JPG" title=""><img src="/img/FBG6.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/BoardGame1.JPG" title=""><img src="/img/BoardGame1.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG7.JPG" title=""><img src="/img/FBG7.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG8.JPG" title=""><img src="/img/FBG8.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG1.JPG" title=""><img src="/img/FBG1.JPG" alt=""></a></div>
