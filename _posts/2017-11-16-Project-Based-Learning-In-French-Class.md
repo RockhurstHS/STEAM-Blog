@@ -1,14 +1,15 @@
 ---
 layout: post
-author: gregowsley
+author: emilylane
 title: Project Based Learning in French Class
 excerpt: The main goal was to learn from an interactive and hands-on experience. The experience gave me more confidence in presenting directions and answering questions in French.
 tags: activelearning studentperspectives facultyimpact
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
 
-<b>French Teacher Emily Lane attended the High Tech High Fall Residency in mid-October. </b>
-This project-based learning immersion experience inspired her to immediately start a project. Her French 3 class was tasked to create (while speaking French) a board game that the French 2 class could play (while speaking French). 
+AFter attending the High Tech High Fall Residency in mid-October, the project-based learning immersion experience inspired me to immediately start a project. French 3 students were tasked with building original board games that would target a few different skill and content areas (giving directions, explaining rules, describing differences between francophone and American cities). The class used the language they had already acquired to discuss board games that they liked and didn't like, and used that discussion to develop a list of vocabulary and grammatical structures necessary for describing the properties and processes of those games. The discussion also gave way to criteria for a good board game, which was later used to assess their success in creating one of their own. 
+
+At each step of brainstorming, prototyping, revising, rebuilding, and so on, students directed their own work in small groups and were individually responsible for ensuring the quality of their game. The peak of the project came when each group presented their work to the Rockhurst French 2 class, who got to spend a period learning to play (and playing!) an original french-language board game. Students from both classes reported that using French in an authentic context helped them to both learn new concepts and feel more comfortable using the language they had already acquired. 
 
 The following reflection is from Michael Navato, French 3 student. English translation can be found past the images.
 
