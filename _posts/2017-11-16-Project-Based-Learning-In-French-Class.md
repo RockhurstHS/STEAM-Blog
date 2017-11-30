@@ -75,12 +75,12 @@ STEAM-Blog/img/FBG2.JPG
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/BoardGame1.JPG" title=""><img src="/img/BoardGame1.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG7.JPG" title=""><img src="/img/FBG7.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG8.JPG" title=""><img src="/img/FBG8.JPG" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG3.JPG" title=""><img src="/img/FBG3.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG12.JPG" title=""><img src="/img/FBG12.JPG" alt=""></a></div>
   </div>
 <p>&nbsp;</p>
 <div class="row">
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG2.JPG" title=""><img src="/img/FBG2.JPG" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG12.JPG" title=""><img src="/img/FBG12.JPG" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG3.JPG" title=""><img src="/img/FBG3.JPG" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/FBG1.JPG" title=""><img src="/img/FBG1.JPG" alt=""></a></div>
 </div>
 <p>&nbsp;</p>
