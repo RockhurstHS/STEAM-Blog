@@ -7,7 +7,7 @@ tags: active-learning faculty-impact
 indicators: st1.2 st1.7 st1.8 st1.9
 ---
 
-<blockquote>"I believe that the greatest gift you can give your family and the world is a healthy you." - Mr. Jamie Placht</blockquote>
+<blockquote>"I believe that the greatest gift you can give your family and the world is a healthy you."   Mr. Jamie Placht</blockquote>
 
 Rockhurst High School science teacher [Mr. Jamie Placht](https://alumservicecorps.org/the-beauty-of-the-moment/) challenged students today to be more intentional and mindful about what they put in their body and how active they are in their daily life. Through research-supported data, Mr. Placht shared with students the psychological and physical impact. Students were visibly interested to learn how they can make better decisions in order to set themselves up for future success. The presentation can be read below.
 
