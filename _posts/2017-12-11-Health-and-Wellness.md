@@ -4,7 +4,7 @@ author: gregowsley
 title: Student Health and Wellness
 excerpt: I believe that the greatest gift you can give your family and the world is a healthy you.
 tags: active-learning faculty-impact
-indicators: st1.2 st1.7 st1.8 st1.9
+indicators: st1.2 st1.3 st1.6 st1.10
 ---
 
 <blockquote>"I believe that the greatest gift you can give your family and the world is a healthy you."   Mr. Jamie Placht</blockquote>
