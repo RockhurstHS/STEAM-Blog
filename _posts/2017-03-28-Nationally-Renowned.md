@@ -39,7 +39,7 @@ At the end of March, Rockhurst was awarded a [STEM Certification](http://steam.r
 </script>
 
 <br>
-This recognition affirms the hard work of the entire Rockhurst staff to provide the best possible 21st century education for its students. Furthermore, the accolade is stacked upon [Rockhurst's acceptance to the National Consortium of Secondary STEM Schools (NCSSS)](https://www.rockhursths.edu/pages/news/news---ncsss-acceptance?). When tutoring the MIT labs last November, the MIT Admissions director communicated that approximately 10% of its current student body comes from the 80+ NCSSS schools. Rockhurst's membership into this organization creates an advantage for its college bound students. More importantly, acceptance into the agency indicates that Rockhurst is providing an education that competes with other top national schools.
+This recognition affirms the hard work of the entire Rockhurst staff to provide the best possible 21st century education for its students. Furthermore, the accolade is stacked upon [Rockhurst's acceptance to the National Consortium of Secondary STEM Schools (NCSSS)](https://www.rockhursths.edu/pages/news/news---ncsss-acceptance?). When tuoring the MIT labs last November, the MIT Admissions director communicated that approximately 10% of its current student body comes from the 80+ NCSSS schools. Rockhurst's membership into this organization creates an advantage for its college bound students. More importantly, acceptance into the agency indicates that Rockhurst is providing an education that competes with other top national schools.
 
 <div class='tableauPlaceholder' id='viz1492614259193' style='position: relative'>
   <noscript>
