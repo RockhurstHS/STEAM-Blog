@@ -479,7 +479,7 @@ body {
     width: 20%;
   }
     
-  .active-learning a, .indicator a, .post a, .profile a {
+  .active-learning a, .indicator a, .post a, .profile a, #events-container a:not(.btn) {
     font-weight: bold;
   }
   
