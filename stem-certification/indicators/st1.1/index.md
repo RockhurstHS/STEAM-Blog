@@ -8,8 +8,8 @@ description: The STEM School supports non-traditional student participation thro
 <b>Narrative</b>
 </p>
 [Rockhurst High School believes that all students can achieve success in STEM curriculum](https://youtu.be/PkSQAUYBI9E). Over the course of a six year period, the mathematics department transitioned from a restrictive AP Calculus program into an open enrollment opportunity for all students. In 2008, 65 students took either the AP Calculus AB or AP Calculus BC exam. However, the math department supported the increased participation of students to 132 in 2015. 
-  
-  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1IlRAIk7-M_YG9qy054AVHyRPeGu4TOFwwTZsczPjlz8/pubchart?oid=280636973&amp;format=interactive"></iframe>
+
+  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJpAVC5NDdziP-Bk40DHblh1wLfXlXtJc7CU-KJb5adYcSHlL-8l3tXqllnV7SU_9OD1OLvg9sXxgn/pubchart?oid=280636973&format=interactive"></iframe>
   
 Students used to believe that only the "smartest" of them could take AP Calculus. In fact, prior to opening up the AP Calculus program, the students who took the exam were often all coming from the same feeder schools. Those students were fortunate to have exceptional sixth through eighth grade math teachers. Success in AP Calculus was not a function of innate, genetic ability, but really was determined by how well they were mathematically prepared before their secondary education even began. Now, the Rockhurst mathematics curriculum is much more vertically aligned to support all students resulting in about [half the senior class taking an AP Calculus Exam each year](http://steam.rockhursths.edu/2016/05/16/AP-Calculus-AB-2015-Results.html). Efforts in both the mathematics and science departments have increased ACT STEM Scores over the course of the last five years by almost a full point. In fact, across the entire school, 49.6% of students will expect to take an AP Exam before graduation. In the spring of 2017, 640 AP Exams will be taken by students - a school record!
 

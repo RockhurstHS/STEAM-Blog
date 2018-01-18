@@ -45,13 +45,13 @@ Furthermore, the infusion of learning science into the Rockhurst High School exp
 
 <div class="media well">
   <div class="media-left">
-    <a>
+    <a href="http://steam.rockhursths.edu/2017/12/01/Relationships-Drive-Succes.html">
       <img class="media-object" src="/img/64/1_1_Interviews_Icon.jpg">
     </a>
   </div>
   <div class="media-body">
     <h4 class="media-heading">1-1 Faculty Meetings</h4>
-    <p>We needed faculty input prior to moving forward. This helped shape a shared vision and lead to a shared understanding of our values. The goal is a shared excitement and sense of co-ownership.</p>
+    <p>We needed faculty input prior to moving forward. This helped shape a shared vision and lead to a shared understanding of our values. The goal was to foster shared excitement and sense of co-ownership.</p>
   </div>
 </div>
 
