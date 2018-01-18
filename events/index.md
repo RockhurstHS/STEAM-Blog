@@ -16,3 +16,7 @@ The Kiewit Engineering Group based in Lenexa, KS is now accepting applications f
 
 <a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/438649200/" role="button">Apply</a>
 
+## Hire KC Job Fair
+### March 24th - free to attend, but must sign up.
+
+<a class="btn btn-primary" href="https://hirekcyouth.org/#" role="button">Sign Up/a>
