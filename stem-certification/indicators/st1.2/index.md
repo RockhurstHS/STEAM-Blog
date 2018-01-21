@@ -1,7 +1,7 @@
 ---
 layout: indicator
 key: ST1.2
-assessment: 4
+assessment: 3
 description: Students work independently and collaboratively in an inquiry-based learning environment that encourages finding creative solutions to authentic and complex problems.
 ---
 <p align="center">
