@@ -1,7 +1,7 @@
 ---
 layout: indicator
 key: ST1.9
-assessment: 4
+assessment: 3
 description: STEM teachers and leaders participate in a continuous program of STEM-specific professional learning.
 ---
 <p align="center">
