@@ -1,7 +1,7 @@
 ---
 layout: indicator
 key: ST1.7
-assessment: 3
+assessment: 2
 description: STEM educators collaborate as an interdisciplinary team to plan, implement, and improve integrated STEM learning experiences.
 ---
 <p align="center">
