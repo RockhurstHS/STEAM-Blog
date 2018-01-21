@@ -1,7 +1,7 @@
 ---
 layout: indicator
 key: ST1.11
-assessment: 3
+assessment: 2
 description: Students are supported in their STEM learning through adult-world connections and extended day opportunities.
 ---
 <p align="center">
