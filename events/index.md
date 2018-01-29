@@ -4,10 +4,10 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
-## Sign up now to volunteer at the STEAM Studio
+## STEAM Studio Volunteers
 ### We really need students to help on Thursdays!!!
 
-Sign up now to volunteer at the STEAM Studio this semester. First sessions start next week!
+Sign up now to volunteer at the STEAM Studio this semester. This work can also be counted towards work grant hours.
 
 Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosthetic-arm-for-metro-boy-now-going-to-teach-other-kids-how-to-do-it-too/) that showcases how senior Krishon Harris made a huge impact through his work at the STEAM Studio.
 
