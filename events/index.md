@@ -29,4 +29,5 @@ The Kiewit Engineering Group based in Lenexa, KS is now accepting applications f
 ### February 24th - 8:30am - 11:30am
 
 The Rockhurst University math department, along with [Prep-KC](http://www.prepkc.org/), will be hosting Mathapalooza 2018 on Saturday, February 24th.  This event provides high school and early college students an opportunity to engage in a mathematical exploration that they would not typically get a chance to experience in high school, as well as a career jumping event where they will meet with a variety of professionals working in mathematics related fields, graduate students in mathematics related programs, and undergraduate mathematics students.
+
 <a class="btn btn-primary" href="https://www.surveymonkey.com/r/Mathapalooza18" role="button">Sign Up</a>
