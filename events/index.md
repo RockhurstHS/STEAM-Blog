@@ -14,7 +14,7 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfipuWvkheI6sEO2vlRYuPSr8q9kYX83hWgHB-4n3lwx589gQ/viewform?usp=sf_link" role="button">Volunteer</a>
 
 ## Kiewit LEAD Internship Announcement
-### (January 31st Deadline) (Juniors & Seniors Only) 
+### (January 31st Deadline) (Sophomores, Juniors or Seniors Only) 
 
 The Kiewit Engineering Group based in Lenexa, KS is now accepting applications for the Leadership Engineering Application & Design (LEAD) Internship this upcoming summer. It is a paid internship - 40 hours/week for 8-10 weeks.
 
