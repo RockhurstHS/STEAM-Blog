@@ -1,0 +1,40 @@
+---
+layout: post
+author: amygansner
+title: Learning Commons
+excerpt: As Rockhurst began its STEAM initiative, naturally some of the discussion lent itself to our physical spaces. Active Learning areas were necessary to further the initiative, and what better place to promote active learning than the library? Using the model of an academic learning commons found most often in institutions of higher learning and tailoring it to fit the special needs of Rockhurst High School, we were able to create a large, flexible space that supports learning in many different forms.
+---
+
+## Narrative
+
+As Rockhurst began its STEAM initiative, naturally some of the discussion lent itself to our physical spaces. Active Learning areas were necessary to further the initiative, and what better place to promote active learning than the library? Using the model of an academic learning commons found most often in institutions of higher learning and tailoring it to fit the special needs of Rockhurst High School, we were able to create a large, flexible space that supports learning in many different forms.
+
+We began our conversations by talking to the people who would be most directly impacted--our students. Student input was gathered in a survey as well as through informal conversation. We asked questions about the things they liked best and least about the current library, and what would a dream library look like and what would it include. The student answers were very insightful. We learned that a silent study area and room for collaboration were non-negotiables. We learned that comfort was key and the support of everyday technology was necessary in our new space. Most of all, we learned that the space we currently had was not meeting the needs of our students. In fact, we were falling short of what they needed.
+
+Next, our focus turned to faculty, staff, and administration. A month was spent meeting the adults in our building during lunch and compiling the data we gathered from them. Teachers shared what they thought the new space should include. Overwhelmingly, the theme for the Rockhurst adults centered around supporting student success. Student success was mentioned 94 times in our lunch conversations! And very much like the student input, the top themes for faculty, staff and administration were collaboration, silent study space, community area, technology, and flexibility.
+
+All of our notes were compiled and turned over to Gould and Evans to assist them in their initial planning. They were outstanding in their ability to ask questions, clarify concerns and really listen to what makes Rockhurst unique. Over the course of the next year, there were many meetings, conversations, and little changes as we moved toward completion of the Learning Commons. As a result, we ended up with a space that truly fits our needs as a community!
+
+## Pitch Space
+
+In the course of our conversations, community space was mentioned 55 times and performance space was mentioned 11 times. From this theme, an idea grew to include a space that could be used for guest speakers, student presentations, small performances, club meetings, and much more. The space can hold up to 50 seats and is equipped with a sound system. When not in use, the space is flexible for students to move chairs around to sit and study or work together. We had 83 pitch space reservations during our first semester in the new learning commons.
+
+
+## Silent Study
+
+A silent study room was very clearly a non-negotiable space named by students and adults alike. The result is a part of the Learning Commons walled off by glass to accommodate those that prefer a quiet study environment. The space has movable tables and chairs, bookshelves along one wall, and whiteboard along one wall. The glass keeps it highly visible for those supervising the Learning Commons.
+
+
+## Tech Desk
+
+Technology was noted 51 times in our conversations with the Rockhurst community. As we talked more in-depth about technology, we came to a decision to house our Educational Technologist in our Learning Commons office space along with the Librarians, and also to give space for a tech desk to accommodate students needing assistance with technology. This change allows for high visibility for our Educational Technologist as well as the benefit of working closely with the Librarians, as technology and library services are so closely related. 
+
+
+## Conference Rooms
+
+Another theme that consistently came up was that of collaboration. There were 62 mentions of collaboration in our initial discussions. Elements of our STEAM curriculum require collaboration, so we definitely felt a need for space to support that. There are three small group rooms that can be reserved for group study and collaboration. The rooms are equipped with a large monitor, apple tv, and large whiteboards. They are glass enclosed to keep noise to a minimum as well as offer high visibility. During the first semester in our new learning commons, the conference rooms were reserved 695 times.
+
+
+## Makerspace
+
+Although makerspace only was noted 25 times in our conversations, there were other themes that closely correlated. Collaboration, flexibility, technology, student success, and resources and supplies fell into this category. Creating a makerspace supported the STEAM curriculum. Students now have space and supplies to create, investigate, play, tinker, and be curious. The area includes items like a sewing machine, sphero ball, clay, art supplies, and virtual reality glasses. 
