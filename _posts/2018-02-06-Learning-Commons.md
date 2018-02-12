@@ -32,13 +32,27 @@ In the course of our conversations, community space was mentioned 55 times and p
 
 ## Silent Study
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Silent Study Room.JPG"></div>
+</div>
+<p class="caption">Students utilizing the silent study room.</p>
+
 A silent study room was very clearly a non-negotiable space named by students and adults alike. The result is a part of the Learning Commons walled off by glass to accommodate those that prefer a quiet study environment. The space has movable tables and chairs, bookshelves along one wall, and whiteboard along one wall. The glass keeps it highly visible for those supervising the Learning Commons.
 
 
 ## Tech Desk
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Silent Study Room.JPG"></div>
+</div>
+<p class="caption">Students utilizing the silent study room.</p>
+
 Technology was noted 51 times in our conversations with the Rockhurst community. As we talked more in-depth about technology, we came to a decision to house our Educational Technologist in our Learning Commons office space along with the Librarians, and also to give space for a tech desk to accommodate students needing assistance with technology. This change allows for high visibility for our Educational Technologist as well as the benefit of working closely with the Librarians, as technology and library services are so closely related. 
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Tech Desk 1.JPG"></div>
+</div>
+<p class="caption">The tech desk tends to be a popular spot within the learning commons.</p>
 
 ## Conference Rooms
 
