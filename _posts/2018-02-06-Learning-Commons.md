@@ -7,11 +7,32 @@ excerpt: As Rockhurst began its STEAM initiative, naturally some of the discussi
 
 ## Narrative
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Learning Commons 5.jpg"></div>
+</div>
+<p class="caption">Students spread throughout the Learning Commons working with various palettes of posture.</p>
+
 As Rockhurst began its STEAM initiative, naturally some of the discussion lent itself to our physical spaces. Active Learning areas were necessary to further the initiative, and what better place to promote active learning than the library? Using the model of an academic learning commons found most often in institutions of higher learning and tailoring it to fit the special needs of Rockhurst High School, we were able to create a large, flexible space that supports learning in many different forms.
+STEAM-Blog/img/activelearning/
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Learning Commons 1.jpg"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Learning Commons 3 (1).jpg"></div>
+</div>
+<p class="caption">Students studying in various spacese within the Learning Commons.</p>
 
 We began our conversations by talking to the people who would be most directly impacted--our students. Student input was gathered in a survey as well as through informal conversation. We asked questions about the things they liked best and least about the current library, and what would a dream library look like and what would it include. The student answers were very insightful. We learned that a silent study area and room for collaboration were non-negotiables. We learned that comfort was key and the support of everyday technology was necessary in our new space. Most of all, we learned that the space we currently had was not meeting the needs of our students. In fact, we were falling short of what they needed.
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Learning Commons 2.jpg"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Linscott Krezek Moore.jpg"></div>
+</div>
+<p class="caption">Students and teachers working together in breakout pods adjacent to the Learning Commons.</p>
+
 Next, our focus turned to faculty, staff, and administration. A month was spent meeting the adults in our building during lunch and compiling the data we gathered from them. Teachers shared what they thought the new space should include. Overwhelmingly, the theme for the Rockhurst adults centered around supporting student success. Student success was mentioned 94 times in our lunch conversations! And very much like the student input, the top themes for faculty, staff and administration were collaboration, silent study space, community area, technology, and flexibility.
+
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/IMG_9511.JPG"></div>
+</div>
 
 All of our notes were compiled and turned over to Gould and Evans to assist them in their initial planning. They were outstanding in their ability to ask questions, clarify concerns and really listen to what makes Rockhurst unique. Over the course of the next year, there were many meetings, conversations, and little changes as we moved toward completion of the Learning Commons. As a result, we ended up with a space that truly fits our needs as a community!
 
