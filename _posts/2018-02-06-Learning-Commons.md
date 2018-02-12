@@ -17,8 +17,18 @@ All of our notes were compiled and turned over to Gould and Evans to assist them
 
 ## Pitch Space
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/unnamed.jpg"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Group 1.jpg"></div>
+</div>
+<p class="caption">Students teams in the 'Entrepreneurship for Others' course giving their end of semester public pitches.</p>
+
 In the course of our conversations, community space was mentioned 55 times and performance space was mentioned 11 times. From this theme, an idea grew to include a space that could be used for guest speakers, student presentations, small performances, club meetings, and much more. The space can hold up to 50 seats and is equipped with a sound system. When not in use, the space is flexible for students to move chairs around to sit and study or work together. We had 83 pitch space reservations during our first semester in the new learning commons.
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Eamon Duede (1).jpg"></div>
+</div>
+<p class="caption">Alumnus Eamon Duede '03 shares with students how studying philosophy of science led to him being a director at the 'Knowledgelab'.</p>
 
 ## Silent Study
 
