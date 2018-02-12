@@ -58,9 +58,26 @@ Technology was noted 51 times in our conversations with the Rockhurst community.
 
 ## Conference Rooms
 
-Another theme that consistently came up was that of collaboration. There were 62 mentions of collaboration in our initial discussions. Elements of our STEAM curriculum require collaboration, so we definitely felt a need for space to support that. There are three small group rooms that can be reserved for group study and collaboration. The rooms are equipped with a large monitor, apple tv, and large whiteboards. They are glass enclosed to keep noise to a minimum as well as offer high visibility. During the first semester in our new learning commons, the conference rooms were reserved 695 times.
+<blockquote> The conference rooms were reserved 695 times the first semester! </blockquote>
+
+Another theme that consistently came up was that of collaboration. There were 62 mentions of collaboration in our initial discussions. Elements of our STEAM curriculum require collaboration, so we definitely felt a need for space to support that. There are three small group rooms that can be reserved for group study and collaboration. 
+
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Conference Room 2.JPG"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Conference Room.JPG></div>
+</div>
+<p class="caption">Students working together.</p>
+
+
+The rooms are equipped with a large monitor, apple tv, and large whiteboards. They are glass enclosed to keep noise to a minimum as well as offer high visibility. During the first semester in our new learning commons, the conference rooms were reserved 695 times.
 
 
 ## Makerspace
+
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Maker Space 1.JPG"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Maker Space 2.JPG></div>
+</div>
+<p class="caption">Students making together.</p>
 
 Although makerspace only was noted 25 times in our conversations, there were other themes that closely correlated. Collaboration, flexibility, technology, student success, and resources and supplies fell into this category. Creating a makerspace supported the STEAM curriculum. Students now have space and supplies to create, investigate, play, tinker, and be curious. The area includes items like a sewing machine, sphero ball, clay, art supplies, and virtual reality glasses. 
