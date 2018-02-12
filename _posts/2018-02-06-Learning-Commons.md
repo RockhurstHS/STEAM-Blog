@@ -68,7 +68,7 @@ A silent study room was very clearly a non-negotiable space named by students an
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Tech Desk.jpg"></div>
 </div>
-<p class="caption">Students utilizing the silent study room.</p>
+<p class="caption">Students getting help from the school's educational technologist.</p>
 
 Technology was noted 51 times in our conversations with the Rockhurst community. As we talked more in-depth about technology, we came to a decision to house our Educational Technologist in our Learning Commons office space along with the Librarians, and also to give space for a tech desk to accommodate students needing assistance with technology. This change allows for high visibility for our Educational Technologist as well as the benefit of working closely with the Librarians, as technology and library services are so closely related. 
 
