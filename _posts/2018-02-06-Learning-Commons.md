@@ -64,7 +64,7 @@ Another theme that consistently came up was that of collaboration. There were 62
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Conference Room 2.JPG"></div>
-  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Conference Room.JPG></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Conference Room.JPG"></div>
 </div>
 <p class="caption">Students working together.</p>
 
@@ -76,7 +76,7 @@ The rooms are equipped with a large monitor, apple tv, and large whiteboards. Th
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Maker Space 1.JPG"></div>
-  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Maker Space 2.JPG></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Maker Space 2.JPG"></div>
 </div>
 <p class="caption">Students making together.</p>
 
