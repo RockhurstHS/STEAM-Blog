@@ -43,7 +43,7 @@ A silent study room was very clearly a non-negotiable space named by students an
 ## Tech Desk
 
 <div class="flex-wrapper">
-  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Silent Study Room.JPG"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Tech Desk.jpgG"></div>
 </div>
 <p class="caption">Students utilizing the silent study room.</p>
 
