@@ -17,6 +17,8 @@ All of our notes were compiled and turned over to Gould and Evans to assist them
 
 ## Pitch Space
 
+<blockquote> The pitch space was used 83 times 1st semester. </blockquote>
+
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/unnamed.jpg"></div>
   <div class="x1"><img src="{{ site.baseurl }}/img/activelearning/Group 1.jpg"></div>
