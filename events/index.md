@@ -43,5 +43,5 @@ create new technology, establish new startups, innovate education
 or discover new ideas in your field, the Wolfram Summer School is
 for you.
 
-<a class="btn btn-primary" href="https://education.wolfram.com/summer/school/" role="button">Enroll Here</a>
+<a class="btn btn-primary" href="https://education.wolfram.com/summer/school/" role="button">Click Here for more Information</a>
 
