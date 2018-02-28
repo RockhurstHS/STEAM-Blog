@@ -30,6 +30,18 @@ https://drive.google.com/open?id=0B1-JIRrX_4I5Tjk5YzFwbjFUenJXWFhmVDFYMHFLYWl4ZE
 
 ## Wolfram Summer Camp
 ### June 24 - July 13 in Boston, MA
+One of the most innovative summer programs--where technology
+meets science, education and entrepreneurship--has opened its
+applications. 
+
+Take advantage of a unique opportunity to work on real projects
+with some of the best architects in tech. Network with a
+hand-picked, international group of talented students and
+professionals from a wide range of backgrounds. Whether you dream
+to build artificial intelligence, advance your original research,
+create new technology, establish new startups, innovate education
+or discover new ideas in your field, the Wolfram Summer School is
+for you.
 
 <a class="btn btn-primary" href="https://education.wolfram.com/summer/school/" role="button">Enroll Here</a>
 
