@@ -20,5 +20,12 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 
 ## Drone Repair Tech
 ### After School Job Opportunity
+
 <a class="btn btn-primary" href="
 https://drive.google.com/open?id=0B1-JIRrX_4I5Tjk5YzFwbjFUenJXWFhmVDFYMHFLYWl4ZEZJ" role="button">Click Here for more Information</a>
+
+## Wolfram Summer Camp
+### June 24 - July 13 in Boston, MA
+
+<a class="btn btn-primary" href="https://education.wolfram.com/summer/school/" role="button">Enroll Here</a>
+
