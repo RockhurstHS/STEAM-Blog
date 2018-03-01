@@ -16,7 +16,7 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfipuWvkheI6sEO2vlRYuPSr8q9kYX83hWgHB-4n3lwx589gQ/viewform?usp=sf_link" role="button">Volunteer</a>
 
-## Find Summer Internships at the Job Fair posted below!
+## Find Summer Internships at the Job Fair below!
 
 <div class="flex-wrapper">
   <img src="/img/2018 HKCY Career Fair.png">
