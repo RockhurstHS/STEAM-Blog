@@ -22,7 +22,9 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 
 <a class="btn btn-primary" href="https://hirekcyouth.org/#" role="button">Sign Up</a>
 
-STEAM-Blog/img/2018 HKCY Career Fair.png
+<div class="flex-wrapper">
+  <img src="/img/2018 HKCY Career Fair.png">
+</div>  
 
 ## Drone Repair Tech
 ### After School Job Opportunity
