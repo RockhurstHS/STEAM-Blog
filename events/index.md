@@ -55,3 +55,10 @@ for you.
 
 <a class="btn btn-primary" href="https://education.wolfram.com/summer/school/" role="button">Click Here for more Information</a>
 
+## Directory of Engineering Camps
+<div class="flex-wrapper">
+  <img src="/img/EngineeringEducationServiceCenter.gif">
+</div> 
+If you are interested in engineering, please find a directory of camps below.
+<a class="btn btn-primary" href="http://www.engineeringedu.com/store/index.php?route=information/information&information_id=8" role="button">Click Here for more Information</a>
+
