@@ -24,6 +24,14 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 
 <a class="btn btn-primary" href="https://hirekcyouth.org/#" role="button">Sign Up</a>
 
+## Science Stars
+### Volunteering for Cure of Ars Catholic School 
+
+<div class="flex-wrapper">
+  <img src="/img/ScienceStars.jpg">
+</div>  
+<a class="btn btn-primary" href="https://drive.google.com/open?id=0B1-JIRrX_4I5aUdGbTM5eGpLbjBVY3BKWm9jV0dzeklHZWhJ" role="button">Click for More Information</a>
+
 ## Drone Repair Tech
 ### After School Job Opportunity
 
