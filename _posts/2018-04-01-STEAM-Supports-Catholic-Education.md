@@ -40,7 +40,11 @@ Ultimately, Rockhurst is a Catholic, Jesuit high school. [The school is about](h
 
 Over the last three years, new [Jesubot friendships](https://www.rockhursths.edu/jesubots) have been forged. Students are interacting with each other more often during instruction time in the [Active Learning Classrooms](http://steam.rockhursths.edu/2016/05/09/Perceptions-of-the-Active-Learning-Classrooms.html) - a great way to improve a student's ability to be open to growth and loving. Furthermore, classes that [focus more on projects](http://steam.rockhursths.edu/2016/07/01/Intro-to-CS-Down.html) continue to leverage these foundational Jesuit school values. 
 
-So when I honestly pray and reflect on where the STEAM initiative fits into Rockhurst’s Catholic identity, I feel the Good Spirit at work. Through the lens of STEAM, the school’s Catholic Identity is crystal clear.
+Are there other ways Rockhurst lives out its Catholic identity? ABSOLUTELY. 
+<center> [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). [Service](https://www.rockhursths.edu/pages/news/news---year-of-mercy-continues). [Athletics and more]https://www.youtube.com/watch?v=qH1193YZyFA).</center>
+<i>This is the beauty of St. Ignatius's words of "Finding God in All Things."</i>
+
+When I honestly pray and reflect on where the STEAM initiative fits into Rockhurst’s Catholic identity, I feel the Good Spirit at work. Through the lens of STEAM, the school’s Catholic Identity is crystal clear.
 
 Happy Easter!
 [Greg Owsley](http://steam.rockhursths.edu/team/gregowsley/), class of ‘00
