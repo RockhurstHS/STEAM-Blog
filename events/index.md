@@ -8,7 +8,6 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ### Three Separate Options:
 #### Mondays, April 9, 16, 23, 30, May 7, 14
 #### Wednesdays, April 4, 11, 18, 25, May 2, 9
-#### Thursdays, April 5, 12, 19, 26, May 3, 10
 
 Sign up now to volunteer at the STEAM Studio this semester. This work can also be counted towards work grant hours.
 
