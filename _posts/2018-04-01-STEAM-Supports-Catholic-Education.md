@@ -44,7 +44,7 @@ Are there other ways Rockhurst lives out its Catholic identity? ABSOLUTELY.
 
 [Hurtado Scholars](https://www.rockhursths.edu/pages/about-us/about-us---hurtado-scholars-program). [Service](https://www.rockhursths.edu/pages/news/news---year-of-mercy-continues). [Athletics and more.](https://www.youtube.com/watch?v=qH1193YZyFA)
 
-<i>This is the beauty of St. Ignatius's words of "Finding God in All Things."</i>
+<i>This is the beauty of St. Ignatius's wise words of "Finding God in All Things."</i>
 
 When I honestly pray and reflect on where the STEAM initiative fits into Rockhurst’s Catholic identity, I feel the Good Spirit at work. Through the lens of STEAM, the school’s Catholic Identity is crystal clear.
 
