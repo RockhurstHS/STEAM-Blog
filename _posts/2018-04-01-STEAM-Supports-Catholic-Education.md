@@ -43,5 +43,7 @@ Over the last three years, new [Jesubot friendships](https://www.rockhursths.edu
 So when I honestly pray and reflect on where the STEAM initiative fits into Rockhurst’s Catholic identity, I feel the Good Spirit at work. Through the lens of STEAM, the school’s Catholic Identity is crystal clear.
 
 [Greg Owsley](http://steam.rockhursths.edu/team/gregowsley/), class of ‘00
+
 STEAM Director
+
 Rockhurst High School
