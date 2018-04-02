@@ -5,7 +5,7 @@ title: Rockhurst hosts regional STEM Conference
 excerpt: Rockhurst showed that they truly were academic leaders in the Region championing excellence in learning in a Jesuit institution.  It was tremendous!
 ---
 
-<blockquote> Rockhurst showed that they truly were academic leaders in the Region championing excellence in learning in a Jesuit institution.  It was tremendous! </blockquote)
+<blockquote> Rockhurst showed that they truly were academic leaders in the Region championing excellence in learning in a Jesuit institution.  It was tremendous! </blockquote>
 
 Rockhurst High School serves the greater education community. During March 13th and 14th of 2018, Rockhurst exemplified this service by hosting the [AdvancED Missouri Join the Journey: Spotlighting STEM Conference](http://www.cvent.com/events/advanced-missouri-join-the-journey-spotlighting-stem-conference/event-summary-13ba5e792b784513bac9445992df71a1.aspx). Over 100 educators from 12 states and 3 countries, representing over 50 schools attended to hear [Rockhurst’s story of earning a STEM certification](https://www.rockhursths.edu/pages/news/news---stem-certification) and learn how the process might work at their respective school.
 
