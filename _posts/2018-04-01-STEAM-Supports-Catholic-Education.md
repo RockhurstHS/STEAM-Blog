@@ -5,11 +5,11 @@ title: STEAM Initiative Supports Catholic Education
 excerpt: When I honestly pray and reflect on where the STEAM initiative fits into Rockhurst’s Catholic identity, I feel the Good Spirit at work. Through the lens of STEAM, the school’s Catholic Identity is crystal clear.
 ---
 
-## Does a focus on STEAM take away from a school’s Catholic Identity?
+## Is a focus on STEAM consistent with a school’s Catholic Identity?
 
 This is a crucial question. Here are some of my thoughts:
 
-Helping Catholic Schools Stay Open
+### Helping Catholic Schools Stay Open
 
 Let’s get the practical side out of the way, but put it out there nonetheless. Amplifying STEAM curriculum helps all schools, including Catholic schools, stay competitive in today’s diverse educational ecosystem. [There is a long documented trend of Catholic Parochial schools closing due to the rise of local charter schools](https://www.edreform.com/wp-content/uploads/2013/02/Saving-Catholic-Schools_New-Wine-in-an-old-bottle.pdf). When [Rockhurst hosted the AdvancED Regional STEM Conference in March of 2018](http://steam.rockhursths.edu/2018/03/15/AdvancED-STEM-Conference.html), over 60 educators from Catholic schools attended to learn how to improve their school. I believe this conference helped equip other Catholic schools to better serve their students. Traditionally, Catholic schools are not staffed with an innovation officer to serve the school's compass as it navigates into the future.  The STEM Conference helped point schools in a positive direction. This is a good thing for Catholic education.
 
