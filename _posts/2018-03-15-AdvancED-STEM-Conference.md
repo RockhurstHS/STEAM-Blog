@@ -6,7 +6,7 @@ excerpt: Rockhurst showed that they truly were academic leaders in the Region ch
 ---
 
 <blockquote> Rockhurst showed that they truly were academic leaders in the Region championing excellence in learning in a Jesuit institution.  It was tremendous! </blockquote>
-# Feedback by a former Rockhurst parent.
+<b> Feedback by a former Rockhurst parent. </b>
 
 Rockhurst High School serves the greater education community. During March 13th and 14th of 2018, Rockhurst exemplified this service by hosting the [AdvancED Missouri Join the Journey: Spotlighting STEM Conference](http://www.cvent.com/events/advanced-missouri-join-the-journey-spotlighting-stem-conference/event-summary-13ba5e792b784513bac9445992df71a1.aspx). Over 100 educators from 12 states and 3 countries, representing over 50 schools attended to hear [Rockhurst’s story of earning a STEM certification](https://www.rockhursths.edu/pages/news/news---stem-certification) and learn how the process might work at their respective school.
 
@@ -23,11 +23,11 @@ Today, schools are challenged to provide a relevant educational experience for s
 In order for a school to earn a STEM certification, a school [must provide evidence](http://steam.rockhursths.edu/stem-certification/) and artifacts of exemplar practice that supports the eleven indicators of the AdvancED STEM Standard. Each of the conference’s 30 breakout sessions ([the session program can be seen here](https://custom.cvent.com/110075779E56425DB8EDA43F961FFAB6/files/cacec10949aa48498b6ab7120200b31a.pdf)) represented practices and behaviors of these eleven indicators. Therefore, each of the 30+ sessions empowered educators with tools, contacts and steps that they can implement at their respective schools. 
 
 <blockquote> Thank you for an insightful and well-constructed conference! I met a lot of wonderful people and learned a great deal about the incredible work being done at Rockhurst and other organizations in our region. I look forward to sharing my learning with my KC STEM colleagues. </blockquote>
-# Community partner
+<b> Community partner </b>
 
 Rockhurst High School desires to serve the community. Students at Rockhurst participate in thousands of hours of community service each year.  Nearly fifty faculty, administration and staff modeled this same behavior, but in service to their counterparts at other schools. This STEM Conference is simply one indicator and artifact that Rockhurst is helping lift up education across the entire community. [Rockhurst High School’s mission](https://www.rockhursths.edu/pages/about-us/school-information/about-us---school-information---mission-and-vision) is to form “Men with and for Others”; this conference is an example of how the school models for its students by being a “School with and for Others.”
   
   
 <blockquote> Thanks for taking the time and effort to get host this conference.  This was a great opportunity for me as I begin initiating the STREAM initiative at my school.  I was able to get a great amount of information from the sessions and spend time talking and collaborating with others who attended. </blockquote>
 
-### Principal from a local Catholic parochial school
+<b> Principal from a local Catholic parochial school </b>
