@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Rockhurst hosts regional STEM Conference
+title: Rockhurst Hosts Regional STEM Conference
 excerpt: Rockhurst showed that they truly were academic leaders in the Region championing excellence in learning in a Jesuit institution.  It was tremendous!
 ---
 
