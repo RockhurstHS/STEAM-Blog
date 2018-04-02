@@ -16,13 +16,15 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfipuWvkheI6sEO2vlRYuPSr8q9kYX83hWgHB-4n3lwx589gQ/viewform?usp=sf_link" role="button">Volunteer</a>
 
-## Find Summer Internships at the Job Fair below!
+## City-Wide MECA Challenge
+MECA Challenge is a one-day innovation competition, where students work in teams of seven with an entrepreneur mentor to solve a real-world problem.
+
+Please email Mr. Owsley by Wednesday, April 4th, at gowsley@rockhursths.edu if you are interested. 
 
 <div class="flex-wrapper">
-  <img src="/img/2018 HKCY Career Fair.png">
+  <img src="/img/ScienceStars.jpg">
 </div>  
-
-<a class="btn btn-primary" href="https://hirekcyouth.org/#" role="button">Sign Up</a>
+<a class="btn btn-primary" href="https://www.eventbrite.com/e/meca-challenge-citywide-high-school-invitational-tickets-43324608069" role="button">More Information Here</a>
 
 ## Science Stars
 ### Volunteering for Cure of Ars Catholic School 
@@ -37,6 +39,13 @@ Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosth
 
 <a class="btn btn-primary" href="
 https://drive.google.com/open?id=0B1-JIRrX_4I5Tjk5YzFwbjFUenJXWFhmVDFYMHFLYWl4ZEZJ" role="button">Click Here for more Information</a>
+
+## Engineering U 
+### A FREE summer academy at the Burns & McDonnell world headquarters, where students will engage with experienced engineers, architects and construction professionals.
+<div class="flex-wrapper">
+  <img src="/img/ScienceStars.jpg">
+</div>  
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5VFRvd0VIWDNiWG42S00xSnJoMEhyMUxNZWNF/view?usp=sharing" role="button">Click for More Information</a>
 
 ## Wolfram Summer Camp
 ### June 24 - July 13 in Boston, MA
