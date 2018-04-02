@@ -30,7 +30,7 @@ Rockhurst has multiple maker spaces throughout the building. The [Learning Commo
 
 ### History of Catholic Mathematicians
 
-As a mathematician, I get most excited about the rich history of Catholic (and especially Jesuit) mathematicians. Did you know that Christopher Clavius, S.J. created the Gregorian Calendar? Moreover, he was Galieo’s teacher! The [Rockhurst Math Hub](https://sites.google.com/rockhursths.edu/faculty-math-hub/) is actually dubbed the Clavius Center (The idea for this name was not mine, but the mathematics department chair Joe LeRoy). I may be too biased with this subject since I wrote a 30 page paper in college about Jesuit mathematicians. I won’t paste that paper into this blog post, but I encourage you to [explore this website](
+As a mathematician, I get most excited about the rich history of Catholic (and especially Jesuit) mathematicians. Did you know that Christopher Clavius, S.J. created the Gregorian Calendar? Moreover, he was Galieo’s teacher! The [Rockhurst Math Hub](https://sites.google.com/rockhursths.edu/faculty-math-hub/) is actually dubbed the Clavius Center (The idea for this name was not mine, but the mathematics department chair Joe LeRoy). I may be too biased with this subject since I wrote a 30 page paper about Jesuit mathematicians in college. I won’t paste that paper into this blog post, but I encourage you to [explore this website](
 http://faculty.fairfield.edu/jmac/sj/sjscient.htm) that outlines much of this history.
 
 
