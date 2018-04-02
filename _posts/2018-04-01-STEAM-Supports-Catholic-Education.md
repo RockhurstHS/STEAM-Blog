@@ -24,7 +24,8 @@ When school’s leverage STEAM curricula and pedagogies, new opportunities are c
 
 ### STEAM is about Studying God’s Creation
 
-When [Brother Guy Consolmagno, S.J. addressed students](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno) in the Fall of 2016, he stated that “Studying the universe is studying God’s Creation.” STEAM is simply one more way to active religious awe. The following fall, the Rockhurst community witnessed a beautiful eclipse and preceded the astronomical wonder with a school-wide prayer. <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+When [Brother Guy Consolmagno, S.J. addressed students](https://www.rockhursths.edu/pages/news/news---brother-guy-consolmagno) in the Fall of 2016, he stated that “Studying the universe is studying God’s Creation.” STEAM is simply one more way to active religious awe. The following fall, the Rockhurst community witnessed a beautiful eclipse and preceded the astronomical wonder with a school-wide prayer. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmcNekdXiyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Rockhurst has multiple maker spaces throughout the building. The [Learning Commons](http://steam.rockhursths.edu/2018/02/06/Learning-Commons.html) even had a costume making contest in the month of October, which resulted in a student sewing a starry night costume, influenced by the famous work of Vincent van Gogh. [Art itself](https://www.rockhursths.edu/pages/news/news---fine-arts-festival-2015) participates in the act of creation. What better way to celebrate our God-given humanity?
 
 ### History of Catholic Mathematicians
