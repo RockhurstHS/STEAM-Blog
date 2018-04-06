@@ -4,6 +4,10 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+## Roscars
+### April 26th at 7:00pm in the Rose Theatre
+Please attend this student film festival. All are invited!
+
 ## STEAM Studio Volunteers
 ### Three Separate Options:
 #### Mondays, April 9, 16, 23, 30, May 7, 14
