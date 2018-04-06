@@ -9,7 +9,7 @@ excerpt: When I honestly pray and reflect on where the STEAM initiative fits int
 
 This is a crucial question. Here are some of my thoughts:
 
-### Helping Catholic Schools Stay Open
+### Advancing Catholic School's Reputation for Quality
 
 Let’s get the practical side out of the way, but put it out there nonetheless. Amplifying STEAM curriculum helps all schools, including Catholic schools, stay competitive in today’s diverse educational ecosystem. 
 
