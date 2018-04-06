@@ -37,7 +37,11 @@ In order for a school to earn a STEM certification, a school [must provide evide
 <p class="caption">Chris Bosco, Assistant Principal for Student Affairs at Rockhurst High School shares how STEM methodology and pedagogy are used within Rockhurst's student health & wellness initiatives.</p>
 
 Rockhurst High School desires to serve the community. Students at Rockhurst participate in thousands of hours of community service each year.  Nearly fifty faculty, administration and staff modeled this same behavior, but in service to their counterparts at other schools. This STEM Conference is simply one indicator and artifact that Rockhurst is [helping lift up education](http://steam.rockhursths.edu/2018/04/01/STEAM-Supports-Catholic-Education.html) across the entire community. [Rockhurst High School’s mission](https://www.rockhursths.edu/pages/about-us/school-information/about-us---school-information---mission-and-vision) is to form “Men with and for Others”; this conference is an example of how the school models for its students by being a “School with and for Others.”
-  
+
+<div class="flex-wrapper">
+  <img src="{{ site.baseur1 }}/img/Gubbels2.JPG">
+</div>
+<p class="caption">Rebecca Gubbels from the University of Missouri Kansas City Small Business Development Technology Center shares how she is working with Rockhurst and the Entrepreneurship for Others class to cultivate an entrepreneurial mindset for Rockhurst High School students.</p>
   
 <blockquote> Thanks for taking the time and effort to get host this conference.  This was a great opportunity for me as I begin initiating the STREAM initiative at my school.  I was able to get a great amount of information from the sessions and spend time talking and collaborating with others who attended. - Local Catholic Parochial School Principal</blockquote>
 
