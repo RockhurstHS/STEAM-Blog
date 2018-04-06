@@ -23,15 +23,15 @@ Today, schools are challenged to provide a relevant educational experience for s
 </div>
 <p class="caption">On the left, Becky Densmore, AdvancED Vice President of the North Region detailing the eleven STEM Certification Indicators for nearly three dozen conference attendees. Filip Sain is on the right. He is a mathematics teacher at the Phillips Exeter Academy, flew into Kansas City to share how students at his school experience a problem-based mathematics curriculum.</p>
 
-In order for a school to earn a STEM certification, a school [must provide evidence](http://steam.rockhursths.edu/stem-certification/) and artifacts of exemplar practice that supports the eleven indicators of the AdvancED STEM Standard. Each of the conference’s 30 breakout sessions ([the session program can be seen here](https://custom.cvent.com/110075779E56425DB8EDA43F961FFAB6/files/cacec10949aa48498b6ab7120200b31a.pdf)) represented practices and behaviors of these eleven indicators. Therefore, each of the 30+ sessions empowered educators with tools, contacts and steps that they can implement at their respective schools. 
-
-<blockquote> Thank you for an insightful and well-constructed conference! I met a lot of wonderful people and learned a great deal about the incredible work being done at Rockhurst and other organizations in our region. I look forward to sharing my learning with my KC STEM colleagues. - Community Partner</blockquote>
-
 <div class="flex-wrapper">
   <img src="{{ site.baseur1 }}/img/Gubbels2.JPG">
   <img src="{{ site.baseurl }}/img/Bosco.JPG">
 </div>
 <p class="caption">On the left, Rebecca Gubbels from the University of Missouri Kansas City Small Business Development Technology Center shares how she is working with Rockhurst and the Entrepreneurship for Others class to cultivate an entrepreneurial mindset for Rockhurst High School students. On the right, Chris Bosco, Assistant Principal for Student Affairs at Rockhurst High School, shares how STEM methodology and pedagogy are used within Rockhurst's student health & wellness initiatives.</p>
+
+In order for a school to earn a STEM certification, a school [must provide evidence](http://steam.rockhursths.edu/stem-certification/) and artifacts of exemplar practice that supports the eleven indicators of the AdvancED STEM Standard. Each of the conference’s 30 breakout sessions ([the session program can be seen here](https://custom.cvent.com/110075779E56425DB8EDA43F961FFAB6/files/cacec10949aa48498b6ab7120200b31a.pdf)) represented practices and behaviors of these eleven indicators. Therefore, each of the 30+ sessions empowered educators with tools, contacts and steps that they can implement at their respective schools. 
+
+<blockquote> Thank you for an insightful and well-constructed conference! I met a lot of wonderful people and learned a great deal about the incredible work being done at Rockhurst and other organizations in our region. I look forward to sharing my learning with my KC STEM colleagues. - Community Partner</blockquote>
 
 Rockhurst High School desires to serve the community. Students at Rockhurst participate in thousands of hours of community service each year.  Nearly fifty faculty, administration and staff modeled this same behavior, but in service to their counterparts at other schools. This STEM Conference is simply one indicator and artifact that Rockhurst is [helping lift up education](http://steam.rockhursths.edu/2018/04/01/STEAM-Supports-Catholic-Education.html) across the entire community. [Rockhurst High School’s mission](https://www.rockhursths.edu/pages/about-us/school-information/about-us---school-information---mission-and-vision) is to form “Men with and for Others”; this conference is an example of how the school models for its students by being a “School with and for Others.”
   
