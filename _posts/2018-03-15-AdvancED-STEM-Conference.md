@@ -37,8 +37,8 @@ Rockhurst High School desires to serve the community. Students at Rockhurst part
   
 <blockquote> Thanks for taking the time and effort to get host this conference.  This was a great opportunity for me as I begin initiating the STREAM initiative at my school.  I was able to get a great amount of information from the sessions and spend time talking and collaborating with others who attended. - Local Catholic Parochial School Principal</blockquote>
 
-<div>
-  <img src="{{ site.baseur1 }}/img/Above & Beyond Award.jpg" width="50%" height="50%">
+<div class="flex-wrapper">
+  <img src="{{ site.baseur1 }}/img/Above & Beyond Award.jpg">
 </div>
 
 
