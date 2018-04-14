@@ -313,6 +313,299 @@ html {
   }
 }
 
+/* TWO PARTY VISUALIZE */
+
+#g-chart {
+  display: block;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+#g-chart a {
+  font-weight: initial;
+}
+
+#g-form {
+  text-align: center;
+}
+
+#g-form input {
+  border-right: none;
+  border-radius: 3px 0 0 3px;
+  border: solid 1px #ccc;
+  padding: 4px 8px;
+  width: 223px;
+}
+
+#g-form button {
+  background: #004276;
+  border: none;
+  border-radius: 0 3px 3px 0;
+  color: #fff;
+  padding: 5px 8px;
+  position: relative;
+  top: 1px;
+  width: 30px;
+}
+
+.g-label {
+  margin-left: 5%;
+}
+
+.g-legend {
+  color: #999;
+  height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.g-arrow {
+  position: absolute;
+}
+
+.g-arrow:before {
+  position: absolute;
+}
+
+.g-overview {
+  position: absolute;
+  text-align: center;
+}
+
+.g-legend .g-democrat.g-pointer {
+  position: absolute;
+  text-align: right;
+}
+
+.g-swatch {
+  height: 8px;
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  margin: 0 3px;
+}
+
+.g-republican.g-swatch {
+  background-color: #f9caca;
+  border-radius: 0 4px 4px 0;
+}
+
+.g-democrat.g-swatch {
+  background-color: #c5d7ea;
+  border-radius: 4px 0 0 4px;
+}
+
+.g-republican.g-swatch {
+  background-color: #f9caca;
+}
+
+.g-notes {
+  height: 100px;
+  position: absolute;
+}
+
+.g-note {
+  color: #999;
+  position: absolute;
+}
+
+.g-note b {
+  color: #333;
+  text-transform: uppercase;
+}
+
+.g-note-arrow {
+  fill: none;
+  stroke: #aaa;
+  stroke-dasharray: 2, 2;
+  stroke-width: 1.5px;
+  -webkit-transition: stroke-opacity 250ms ease;
+  -moz-transition: stroke-opacity 250ms ease;
+  -ms-transition: stroke-opacity 250ms ease;
+  -o-transition: stroke-opacity 250ms ease;
+  transition: stroke-opacity 250ms ease;
+}
+
+.g-error {
+  background: #ffa;
+  border: solid 1px #ccc;
+  line-height: 1.2em;
+}
+
+.g-node .g-democrat {
+  fill: #c5d7ea;
+}
+
+.g-node.g-hover .g-democrat {
+  fill: #d1172b;
+  fill: #acbed1;
+}
+
+.g-node.g-selected .g-democrat {
+  fill: #99c0e5;
+  stroke: #6081a3;
+  stroke-width: 1.5px;
+}
+
+.g-node .g-republican {
+  fill: #f9caca;
+}
+
+.g-node.g-hover .g-republican {
+  fill: #dfb1b1;
+}
+
+.g-node.g-selected .g-republican {
+  fill: #fda4a7;
+  stroke: #af5e61;
+  stroke-width: 1.5px;
+}
+
+.g-node .g-split {
+  stroke: #000;
+  stroke-opacity: .18;
+  shape-rendering: crispEdges;
+}
+
+a.g-label {
+  color: inherit;
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1em;
+  position: absolute;
+}
+
+.g-label .g-value {
+  white-space: nowrap;
+}
+
+.g-overlay,
+.g-node,
+.g-label {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.g-overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.g-body {
+  min-height: 700px;
+}
+
+.g-has-topic .g-isnt-topic,
+.g-hasnt-topic .g-is-topic {
+  display: none;
+}
+
+.g-body h3 {
+  line-height: 1.4em;
+  font-weight: normal;
+}
+
+.g-body .g-mention p {
+  margin: 10px 0 0 0;
+}
+
+.g-mentions h3 {
+  text-align: center;
+}
+
+.g-divider,
+.g-truncated {
+  border-top: solid 1px #ccc;
+}
+
+.g-head a {
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.g-mention {
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 1px #ccc;
+}
+
+.g-mention a {
+  border-radius: 3px;
+  padding: 1px 3px;
+  text-decoration: none;
+}
+
+.g-mention p {
+  color: #444;
+  order: 1;
+}
+
+.g-mention p a {
+  font-weight: initial;
+}
+
+.g-mention .g-speaker {
+  order: 2;
+}
+
+.g-mention .g-speaker::before {
+  content: "– ";
+}
+
+.g-mention .g-speaker-title {
+  order: 3;
+  margin-bottom: 10px;
+}
+
+.g-democrat a {
+  background-color: #c5d7ea;
+  color: #4a5783;
+}
+
+.g-republican a {
+  background-color: #fbdedf;
+  color: #734143;
+}
+
+.g-mention p:before,
+.g-mention p:after {
+  color: #ddd;
+  position: absolute;
+}
+
+.g-mention p::before {
+  content: "“";
+  margin-left: -7px;
+
+}
+
+.g-mention p::after {
+  content: "”";
+  margin-left: 2px;
+}
+
+.g-speaker {
+  text-transform: uppercase;
+}
+
+.g-speaker-title {
+  color: #aaa;
+}
+
+.g-republican .g-speaker,
+.g-republican .g-speaker-title {
+  text-align: right;
+}
+
+.g-truncated {
+  border-top-style: dashed;
+  color: #aaa;
+  display: none;
+  text-align: center;
+}
+
 /* UTILITY */
 body {
 
