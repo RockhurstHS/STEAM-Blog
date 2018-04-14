@@ -12,6 +12,10 @@ excerpt: The Words We Use
         overflow: hidden;
         position: relative;
     }
+  
+    #g-chart a {
+        font-weight: initial;
+    }
 
     #g-form {
         /*font: 16px sans-serif;*/
@@ -291,13 +295,23 @@ excerpt: The Words We Use
         flex-direction: column;
         border-bottom: solid 1px #ccc;
     }
-
+    
+    .g-mention a {
+        border-radius: 3px;
+        padding: 1px 3px;
+        text-decoration: none;
+    }
+    
     .g-mention p {
         color: #444;
         /*font-family: Georgia;*/
         /*font-size: 1.3em;*/
         /*line-height: 1.40em;*/
         order: 1;
+    }
+    
+    .g-mention p a {
+        font-weight: initial;
     }
     
     .g-mention .g-speaker {
@@ -320,12 +334,6 @@ excerpt: The Words We Use
 
     .g-republican .g-mention p {
         /*margin: 1.5em 140px 1.5em 20px;*/
-    }
-
-    .g-mention a {
-        border-radius: 3px;
-        /*padding: 1px 3px;*/
-        text-decoration: none;
     }
 
     .g-democrat a {
