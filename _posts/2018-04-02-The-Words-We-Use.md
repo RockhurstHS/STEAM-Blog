@@ -242,6 +242,10 @@ excerpt: The Words We Use
         font-weight: normal;*/
         /*margin-bottom: 0.9em;*/
     }
+    
+    .g-body .g-mention p {
+        margin: 10px 0 0 0;
+    }
 
     .g-mentions {
         /*width: 445px;*/
@@ -260,7 +264,6 @@ excerpt: The Words We Use
     }
 
     .g-divider,
-    .g-mention,
     .g-truncated {
         border-top: solid 1px #ccc;
     }
@@ -284,13 +287,31 @@ excerpt: The Words We Use
     .g-mention {
         /*clear: both;*/
         /*margin: -1px 0 1.5em 0;*/
+        display: flex;
+        flex-direction: column;
+        border-bottom: solid 1px #ccc;
     }
 
     .g-mention p {
         color: #444;
         /*font-family: Georgia;*/
         /*font-size: 1.3em;*/
-        line-height: 1.40em;
+        /*line-height: 1.40em;*/
+        order: 1;
+    }
+    
+    .g-mention .g-speaker {
+        order: 2;
+    }
+    
+    .g-mention .g-speaker::before {
+        /*content: "—";*/
+        content: "– ";
+    }
+    
+    .g-mention .g-speaker-title {
+        order: 3;
+        margin-bottom: 10px;
     }
 
     .g-democrat .g-mention p {
@@ -328,11 +349,13 @@ excerpt: The Words We Use
     .g-mention p::before {
         content: "“";
         /*margin: 0.25em 0 0 -10px;*/
+        margin-left: -7px;
+
     }
 
     .g-mention p::after {
         content: "”";
-        /*margin: 0.25em 0 0 0.1em;*/
+        margin-left: 2px;
     }
 
     .g-speaker {
@@ -353,7 +376,7 @@ excerpt: The Words We Use
     .g-democrat .g-speaker,
     .g-democrat .g-speaker-title {
         /*float: left;*/
-        text-align: left;
+        /*text-align: left;*/
     }
 
     .g-republican .g-speaker,
@@ -409,19 +432,11 @@ excerpt: The Words We Use
 <!-- VISUAL -->
 <div id="g-chart" width="100%;" style="margin-left: 0%; postion:block;">
     <div class="g-legend" style="position:absolute; width:100%;">
-        <div style="left:0; width:150px;" class="g-democrat g-arrow">
-            Words favored
-            <br>before coming to Rockhurst
-        </div>
         <div style="position:absolute; width:200px; left:40%" class="g-overview">
             Number of mentions
             <br>by
             <span class="g-swatch g-democrat"></span>PRE and
             <span class="g-swatch g-republican"></span>POST
-        </div>
-        <div style="left:85%; width:150px; position: relative;" class="g-republican g-arrow">
-            Words favored
-            <br>after coming to Rockhurst
         </div>
     </div>
     <div style="margin-left: 0%" class="g-labels"></div>
