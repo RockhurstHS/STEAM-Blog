@@ -215,9 +215,9 @@ function TwoPartyVisual() {
     // display the graph
     function visualize() {
 
-        var width = 970,
-            height = 540;
-
+        var width = $('.row.post .col-md-8').width();
+        var height = 520;
+        
         var collisionPadding = 4,
             clipPadding = 4,
             minRadius = 16,
