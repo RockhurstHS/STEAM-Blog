@@ -459,7 +459,7 @@ Shaded in red are the pre-test results. Shaded in blue are the post-test results
         </div>
     </div>
     <div style="margin-left: 0%" class="g-labels"></div>
-    <svg style="background: white; margin-left: 5%;" class="g-nodes" width="100%" height="400"></svg>
+    <svg style="background: white; margin-left: 5%;" class="g-nodes" width="100%" height="420"></svg>
 </div>
 <hr>
 
