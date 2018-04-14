@@ -41,7 +41,7 @@ excerpt: The Words We Use
     }
 
     .g-label {
-        /*margin-left: 5%;*/
+        margin-left: 5%;
     }
 
     .g-legend {
