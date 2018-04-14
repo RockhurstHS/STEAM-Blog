@@ -379,6 +379,7 @@ html {
 }
 
 .g-swatch {
+  width: 6px;
   height: 8px;
   display: inline-block;
   position: relative;
@@ -394,10 +395,6 @@ html {
 .g-democrat.g-swatch {
   background-color: #c5d7ea;
   border-radius: 4px 0 0 4px;
-}
-
-.g-republican.g-swatch {
-  background-color: #f9caca;
 }
 
 .g-notes {
