@@ -808,8 +808,8 @@ a.g-label {
 <hr>
 
 <!-- COMMENTS -->
-<div class="g-body">
-    <div class="g-mentions g-democrat">
+<div class="g-body container">
+    <div class="g-mentions g-democrat col-md-6">
         <h3 class="g-head g-hasnt-topic">
             <span class="g-isnt-topic"><br>Language We Brought</span>
             <span class="g-is-topic">
@@ -818,7 +818,7 @@ a.g-label {
         </h3>
         <div class="g-divider"></div>
     </div>
-    <div class="g-mentions g-republican">
+    <div class="g-mentions g-republican col-md-6">
         <h3 class="g-head g-hasnt-topic">
             <span class="g-isnt-topic"><br>Language We Took</span>
             <span class="g-is-topic">
