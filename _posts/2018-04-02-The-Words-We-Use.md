@@ -41,70 +41,70 @@ excerpt: The Words We Use
     }
 
     .g-label {
-        margin-left: 5%;
+        /*margin-left: 5%;*/
     }
 
     .g-legend {
         color: #999;
         /*font: 11px/1.3em sans-serif;*/
         height: 30px;
-        margin-top: 15px;
+        /*margin-top: 15px;*/
         position: relative;
         text-align: center;
     }
 
     .g-arrow {
         position: absolute;
-        width: 100px;
+        /*width: 100px;*/
     }
 
     .g-arrow:before {
         position: absolute;
         /*font-size: 15px;*/
         /*font-style: normal;*/
-        top: 7px;
+        /*top: 7px;*/
     }
 
     .g-democrat.g-arrow {
-        left: 170px;
-        padding-left: 40px;
+        /*left: 170px;*/
+        /*padding-left: 40px;*/
     }
 
     .g-arrow.g-democrat:before {
-        content: "<";
-        right: 100px;
+        /*content: "<";*/
+        /*right: 100px;*/
     }
 
     .g-republican.g-arrow {
-        right: 170px;
-        padding-right: 40px;
+        /*right: 170px;*/
+        /*padding-right: 40px;*/
     }
 
     .g-arrow.g-republican:before {
-        content: ">";
-        left: 100px;
+        /*content: ">";*/
+        /*left: 100px;*/
     }
 
     .g-legend .g-pointer {
-        width: 150px;
+        /*width: 150px;*/
     }
 
     .g-overview {
         position: absolute;
-        left: 360px;
+        /*left: 360px;*/
         text-align: center;
-        width: 250px;
+        /*width: 250px;*/
     }
 
     .g-legend .g-democrat.g-pointer {
         position: absolute;
-        left: 314px;
+        /*left: 314px;*/
         text-align: right;
-        padding-right: 20px;
+        /*padding-right: 20px;*/
     }
 
     .g-swatch {
-        width: 6px;
+        /*width: 6px;*/
         height: 8px;
         display: inline-block;
         position: relative;
@@ -130,13 +130,13 @@ excerpt: The Words We Use
         /*font: 11px/1.3em sans-serif;*/
         height: 100px;
         position: absolute;
-        top: 430px;
+        /*top: 430px;*/
     }
 
     .g-note {
         color: #999;
         position: absolute;
-        width: 212px;
+        /*width: 212px;*/
     }
 
     .g-note b {
@@ -161,8 +161,8 @@ excerpt: The Words We Use
         border: solid 1px #ccc;
         /*font-size: 16px;*/
         line-height: 1.2em;
-        margin: 10px;
-        padding: 10px;
+        /*margin: 10px;*/
+        /*padding: 10px;*/
     }
 
     .g-node .g-democrat {
@@ -240,11 +240,11 @@ excerpt: The Words We Use
         line-height: 1.4em;
         /*font-family: Georgia;
         font-weight: normal;*/
-        margin-bottom: 0.9em;
+        /*margin-bottom: 0.9em;*/
     }
 
     .g-mentions {
-        width: 445px;
+        /*width: 445px;*/
     }
 
     .g-mentions h3 {
@@ -252,11 +252,11 @@ excerpt: The Words We Use
     }
 
     .g-mentions.g-democrat h3 {
-        margin-left: 140px;
+        /*margin-left: 140px;*/
     }
 
     .g-mentions.g-republican h3 {
-        margin-right: 140px;
+        /*margin-right: 140px;*/
     }
 
     .g-divider,
@@ -266,24 +266,24 @@ excerpt: The Words We Use
     }
 
     .g-mentions.g-democrat {
-        margin: 0 0 0 20px;
-        float: left;
+        /*margin: 0 0 0 20px;*/
+        /*float: left;*/
     }
 
     .g-mentions.g-republican {
-        margin: 0 20px 0 0;
-        float: right;
+        /*margin: 0 20px 0 0;*/
+        /*float: right;*/
     }
 
     .g-head a {
         border-radius: 3px;
-        padding: 3px 3px;
+        /*padding: 3px 3px;*/
         white-space: nowrap;
     }
 
     .g-mention {
-        clear: both;
-        margin: -1px 0 1.5em 0;
+        /*clear: both;*/
+        /*margin: -1px 0 1.5em 0;*/
     }
 
     .g-mention p {
@@ -294,16 +294,16 @@ excerpt: The Words We Use
     }
 
     .g-democrat .g-mention p {
-        margin: 1.5em 0 1.5em 160px;
+        /*margin: 1.5em 0 1.5em 160px;*/
     }
 
     .g-republican .g-mention p {
-        margin: 1.5em 140px 1.5em 20px;
+        /*margin: 1.5em 140px 1.5em 20px;*/
     }
 
     .g-mention a {
         border-radius: 3px;
-        padding: 1px 3px;
+        /*padding: 1px 3px;*/
         text-decoration: none;
     }
 
@@ -327,7 +327,7 @@ excerpt: The Words We Use
 
     .g-mention p::before {
         content: "“";
-        margin: 0.25em 0 0 -10px;
+        /*margin: 0.25em 0 0 -10px;*/
     }
 
     .g-mention p::after {
@@ -337,28 +337,28 @@ excerpt: The Words We Use
 
     .g-speaker {
         /*font: bold 13px sans-serif;*/
-        margin: 1.5em 0 0.15em 0;
+        /*margin: 1.5em 0 0.15em 0;*/
         text-transform: uppercase;
-        width: 125px;
+        /*width: 125px;*/
     }
 
     .g-speaker-title {
-        clear: both;
+        /*clear: both;*/
         color: #aaa;
         /*font: 11px sans-serif;*/
-        margin-bottom: 1em;
-        width: 125px;
+        /*margin-bottom: 1em;*/
+        /*width: 125px;*/
     }
 
     .g-democrat .g-speaker,
     .g-democrat .g-speaker-title {
-        float: left;
+        /*float: left;*/
         text-align: left;
     }
 
     .g-republican .g-speaker,
     .g-republican .g-speaker-title {
-        float: right;
+        /*float: right;*/
         text-align: right;
     }
 
@@ -367,7 +367,7 @@ excerpt: The Words We Use
         color: #aaa;
         display: none;
         /*font: 11px sans-serif;*/
-        padding-top: 1em;
+        /*padding-top: 1em;*/
         text-align: center;
     }
 
@@ -377,21 +377,21 @@ excerpt: The Words We Use
     .storySummary,
     .storyHeader h1 {
         display: block;
-        margin: 5px auto;
+        /*margin: 5px auto;*/
         padding: 0;
         text-align: center;
-        width: 640px;
+        /*width: 640px;*/
     }
 
     #interactiveFooter {
         border-top: 1px solid #ddd;
-        margin-top: 10px;
-        padding-top: 12px;
+        /*margin-top: 10px;*/
+        /*padding-top: 12px;*/
     }
 
     #main .storyHeader h1 {
         /*font-size: 26px;*/
-        margin: 25px auto 4px auto;
+        /*margin: 25px auto 4px auto;*/
     }
 
 </style>
