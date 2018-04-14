@@ -431,7 +431,7 @@ excerpt: The Words We Use
 <hr>
 
 <!-- COMMENTS -->
-<div class="g-body container-fluid">
+<div class="g-body row">
     <div class="g-mentions g-democrat col-md-6">
         <h3 class="g-head g-hasnt-topic">
             <span class="g-isnt-topic"><br>Language We Brought</span>
@@ -459,5 +459,5 @@ excerpt: The Words We Use
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 <script src="https://cdn.rawgit.com/JamesWClark/Two-Party-Visualizer/gh-pages/d3.v2.min.js"></script>
 <script src="https://cdn.rawgit.com/JamesWClark/Two-Party-Visualizer/gh-pages/topics.js"></script>
-<script src="https://cdn.rawgit.com/JamesWClark/Two-Party-Visualizer/gh-pages/two-party-visualize.js"></script>
+<script src="/js/two-party-visualize.js"></script>
 <script src="https://cdn.rawgit.com/JamesWClark/Two-Party-Visualizer/gh-pages/index.js"></script>
