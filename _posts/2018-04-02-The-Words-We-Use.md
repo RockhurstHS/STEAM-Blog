@@ -8,7 +8,7 @@ excerpt: The acronym! All five words&#58; Math, Technology, Engineering, Arts an
 
 How do we assess whether or not people learn at a conference?
 
-I felt confident that the **sessions** at the **STEM Conference** were very strong and value-added. Once the conference ended, I figured that people would feel energized, which they did. However, I wasn’t quite sure if they would learn anything. More specifically, I didn't know how I would know if learning happened. How do we know if people learn anything during a two day event? This post describes our attempt to capture some of the learning during the conference.
+I felt confident that the [sessions](https://drive.google.com/open?id=1kuaM6CvER5Fb2pf9pRnlObPES1BDZERU) at the [STEM Conference](http://steam.rockhursths.edu/2018/03/15/AdvancED-STEM-Conference.html) were very strong and value-added. Once the conference ended, I figured that people would feel energized, which they did. However, I wasn’t quite sure if they would learn anything. More specifically, I didn't know how I would know if learning happened. How do we know if people learn anything during a two day event? This post describes our attempt to capture some of the learning during the conference.
 
 <u>Methodology</u>
 
@@ -16,9 +16,9 @@ First step was to pre-test and post-test the conference attendees. During the op
 
 **“Please write as <u>many things</u> as you can that <u>indicate successful STEM education</u> is happening at a school.”**
 
-We used the Google Add-On **PearDeck** to capture all the responses. We hoped that collectively, the group would establish a more cohesive definition of successful STEM education. More importantly, we hoped that the conference attendees would use words from the **11 STEM Indicators** for the STEM Certification more frequently during the post test.
+We used the Google Add-On [PearDeck](https://www.peardeck.com/) to capture all the responses. We hoped that collectively, the group would establish a more cohesive definition of successful STEM education. More importantly, we hoped that the conference attendees would use words from the [11 STEM Indicators](http://steam.rockhursths.edu/stem-certification/) for the STEM Certification more frequently during the post test.
 
-Finally, we used a fancy **data visualization** to dynamically analyze the results - let’s check it out!
+Finally, we used a fancy [data visualization](https://jameswclark.github.io/Two-Party-Visualizer/) to dynamically analyze the results - let’s check it out!
 
 <u>Results</u>
 
@@ -106,9 +106,11 @@ The pre-test and post-test had different total word counts (1,076 and 933 respec
 
 Credits:
 
-The idea for this data visual came from Mr. William Palin, Technology Fellow at Harvard Law School. He was inspired from a New York Times piece designed by Mike Bostock. More great data visualizations can be found on Mr. Bostock’s website. 
+The idea for this data visual came from [Mr. William Palin](http://www.developingjustice.org/), Technology Fellow at Harvard Law School. He was inspired from a [New York Times piece](https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html) designed by Mike Bostock. More great data visualizations can be found on Mr. Bostock’s [website](https://bost.ocks.org/mike/). 
 
-This post would not have been possible without the time and talent of Mr. J.W. Clark who built the final product in collaboration with Mr. William Palin. Like all successful STEM education, this <u>project</u> was a <u>collaborative</u> effort that yield a <u>performance-based</u> product. We do our best to model STEM Learning, which I think contributed to the learning that happened at the STEM Conference.
+This post would not have been possible without the time and talent of [Mr. J.W. Clark](http://steam.rockhursths.edu/team/jwclark/) who built the final product in collaboration with Mr. William Palin. Like all successful STEM education, this <u>project</u> was a <u>collaborative</u> effort that yield a <u>performance-based</u> product. 
+
+We do our best to model STEM Learning, which I think contributed to the learning that happened at the STEM Conference.
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
