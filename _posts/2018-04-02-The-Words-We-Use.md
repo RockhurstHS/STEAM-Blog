@@ -4,13 +4,13 @@ author: gregowsley
 title: The Words We Use
 excerpt: The acronym! All five words&#58; Math, Technology, Engineering, Arts and Math all decreased in use. This is a big deal. Successful STEM Education is not about what happens in isolation with those specific content area. Successful STEM Education, especially defined by the eleven AdvancED STEM Indicators includes all content areas.
 ---
-<u>Context & Purpose</u>
+## <u>Context & Purpose</u>
 
 How do we assess whether or not people learn at a conference?
 
 I felt confident that the [sessions](https://drive.google.com/open?id=1kuaM6CvER5Fb2pf9pRnlObPES1BDZERU) at the [STEM Conference](http://steam.rockhursths.edu/2018/03/15/AdvancED-STEM-Conference.html) were very strong and value-added. Once the conference ended, I figured that people would feel energized, which they did. However, I wasn’t quite sure if they would learn anything. More specifically, I didn't know how I would know if learning happened. How do we know if people learn anything during a two day event? This post describes our attempt to capture some of the learning during the conference.
 
-<u>Methodology</u>
+## <u>Methodology</u>
 
 First step was to pre-test and post-test the conference attendees. During the opening session, they were asked to answer the following question:
 
@@ -20,7 +20,7 @@ We used the Google Add-On [PearDeck](https://www.peardeck.com/) to capture all t
 
 Finally, we used a fancy [data visualization](https://jameswclark.github.io/Two-Party-Visualizer/) to dynamically analyze the results - let’s check it out!
 
-<u>Results</u>
+## <u>Results</u>
 
 Shaded in red are the pre-test results. Shaded in blue are the post-test results. Take a look.
 
@@ -40,13 +40,13 @@ Shaded in red are the pre-test results. Shaded in blue are the post-test results
 </div>
 <hr>
 
-Things we learned:
+## Things we learned:
 
-<u>Words that increased</u>:
+### <u>Words that increased</u>:
 
 Most obviously, the word “learning” occurred nearly three times more frequently with the post test compared to the post test.  This seems to emphasize the fact that successful STEM schools place a premium on those two things (phew!). On a small scale, the word ‘interdisciplinary’ went from no mentions to three - indicating a slightly broader awareness that successful STEM schools focus on more than just the acronym.
 
-<u>What stayed the same</u>:
+### <u>What stayed the same</u>:
 
 The words “inquiry”, “real world”, “authentic”, and “creative/creativity” all stayed about the same. This suggestions that everyone understands that successful STEM schools encourage students to be creative and work on solving authentic, real world problems. Ultimately, it is about breaking down the walls between “school world” and “real world”. 
 
@@ -54,11 +54,11 @@ The words “inquiry”, “real world”, “authentic”, and “creative/crea
 
 The acronym! All five words: Math, Technology, Engineering, Arts and Math all decreased in use. This is a big deal. Successful STEM Education is not about what happens in isolation with those specific content area. Successful STEM Education, especially defined by the eleven AdvancED STEM Indicators includes all content areas.
 
-**Bonus Level:**
+## **Bonus Level:**
 
 This Data Visual is so cool that you can actually search for words and see the new word counts pop up as a bubble above. 
 
-<u>User Exercise</u>: Type the words “Active Learning”. 
+### <u>User Exercise</u>: Type the words “Active Learning”. 
 
 <!-- SEARCH BAR -->
 <form id="g-form">
@@ -68,7 +68,7 @@ This Data Visual is so cool that you can actually search for words and see the n
 
 A new “Active Learning” bubble will appear. During the pre-test there were zero mentions. The post-test, however, revealed 18 mentions per 1,000 words! Therefore, the Active Learning classrooms and philosophy at Rockhurst High School made a huge impression!
 
-<u>Final Thoughts</u>
+### <u>Final Thoughts</u>
 
 As if this data visual couldn’t get cooler, it truly is the gift that keeps on giving. Click on the bubble “Learning” above. When you click on the bubble, quotes from the participants are revealed below. 
 
@@ -100,11 +100,11 @@ Some of my favorite quotes are below. I think it is safe to say that some learni
     <br>
 </div>
 
-Technical Notes:
+### Technical Notes:
 
 The pre-test and post-test had different total word counts (1,076 and 933 respectively). Although the totals were pretty close, it was important to normalize the output in the circumstance that word counts varied widely. Thus, we took  the ratio of word count to total words and multiplied by 1,000 to generate a numbers that can be more equitably compared.
 
-Credits:
+### Credits:
 
 The idea for this data visual came from [Mr. William Palin](http://www.developingjustice.org/), Technology Fellow at Harvard Law School. He was inspired from a [New York Times piece](https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html) designed by Mike Bostock. More great data visualizations can be found on Mr. Bostock’s [website](https://bost.ocks.org/mike/). 
 
