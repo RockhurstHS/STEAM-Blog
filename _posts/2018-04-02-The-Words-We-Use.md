@@ -50,7 +50,7 @@ Most obviously, the word “learning” occurred nearly three times more frequen
 
 The words “inquiry”, “real world”, “authentic”, and “creative/creativity” all stayed about the same. This suggestions that everyone understands that successful STEM schools encourage students to be creative and work on solving authentic, real world problems. Ultimately, it is about breaking down the walls between “school world” and “real world”. 
 
-<u>What went down</u>:
+### <u>What went down</u>:
 
 The acronym! All five words: Math, Technology, Engineering, Arts and Math all decreased in use. This is a big deal. Successful STEM Education is not about what happens in isolation with those specific content area. Successful STEM Education, especially defined by the eleven AdvancED STEM Indicators includes all content areas.
 
