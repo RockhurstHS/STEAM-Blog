@@ -29,7 +29,7 @@ Shaded in red are the pre-test results. Shaded in blue are the post-test results
 <div id="g-chart" width="100%;" style="margin-left: 0%; postion:block;">
     <div class="g-legend" style="position:absolute; width:100%;">
         <div style="position:absolute; width:200px; left:40%" class="g-overview">
-            Number of mentions
+            Number of mentions per 1,000 words
             <br>by
             <span class="g-swatch g-democrat"></span>PRE and
             <span class="g-swatch g-republican"></span>POST
