@@ -66,22 +66,6 @@ This Data Visual is so cool that you can actually search for words and see the n
     <button>+</button>
 </form>
 
-<!-- BUBBLES -->
-<hr>
-<div id="g-chart" width="100%;" style="margin-left: 0%; postion:block;">
-    <div class="g-legend" style="position:absolute; width:100%;">
-        <div style="position:absolute; width:200px; left:40%" class="g-overview">
-            Number of mentions per 1,000 words
-            <br>by
-            <span class="g-swatch g-democrat"></span>PRE and
-            <span class="g-swatch g-republican"></span>POST
-        </div>
-    </div>
-    <div style="margin-left: 0%" class="g-labels"></div>
-    <svg style="background: white; margin-left: 5%;" class="g-nodes" width="100%" height="420"></svg>
-</div>
-<hr>
-
 A new “Active Learning” bubble will appear. During the pre-test there were zero mentions. The post-test, however, revealed 18 mentions per 1,000 words! Therefore, the Active Learning classrooms and philosophy at Rockhurst High School made a huge impression!
 
 ### <u>Final Thoughts</u>
