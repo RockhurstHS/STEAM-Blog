@@ -42,21 +42,16 @@ The words “inquiry”, “real world”, “authentic”, and “creative/crea
 
 The acronym! All five words: Math, Technology, Engineering, Arts and Math all decreased in use. This is a big deal. Successful STEM Education is not about what happens in isolation with those specific content area. Successful STEM Education, especially defined by the eleven AdvancED STEM Indicators includes all content areas.
 
-## **Bonus Level:**
-
-This Data Visual is so cool that you can actually search for words and see the new word counts pop up as a bubble above. 
-
 ### User Exercise: Type the words “Active Learning”. 
 
+This Data Visual is so cool that you can actually search for words and see the new word counts pop up as a bubble above. 
 A new “Active Learning” bubble will appear. During the pre-test there were zero mentions. The post-test, however, revealed 18 mentions per 1,000 words! Therefore, the Active Learning classrooms and philosophy at Rockhurst High School made a huge impression!
 
 ### Final Thoughts
 
-As if this data visual couldn’t get cooler, it truly is the gift that keeps on giving. Click on the bubble “Learning” above. When you click on the bubble, quotes from the participants are revealed below. 
+As if this data visual couldn’t get cooler, it truly is the gift that keeps on giving. Click on the bubble “Learning”. When you click on the bubble, quotes from the participants are revealed below. Go ahead and read what the conference attendees said about what indicates successful STEM education.
 
-Some of my favorite quotes are below. I think it is safe to say that some learning happened over the course of the two day conference. As educators, let us continue to work together to change the world for the better.
-
-**“Please write as <u>many things</u> as you can that <u>indicate successful STEM education</u> is happening at a school.”**
+I think it is safe to say that some learning happened over the course of the two day conference. As educators, let us continue to work together to change the world for the better.
 
 <!-- SEARCH BAR -->
 <form id="g-form">
@@ -79,6 +74,8 @@ Some of my favorite quotes are below. I think it is safe to say that some learni
     <svg style="background: white; margin-left: 5%;" class="g-nodes" width="100%" height="420"></svg>
 </div>
 <hr>
+
+<center>**“Please write as <u>many things</u> as you can that <u>indicate successful STEM education</u> is happening at a school.”**</center>
 
 <!-- COMMENTS -->
 <div class="g-body row">
