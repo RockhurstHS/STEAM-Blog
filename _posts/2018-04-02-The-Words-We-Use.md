@@ -34,11 +34,11 @@ Shaded in red are the pre-test results. Shaded in blue are the post-test results
 
 Most obviously, the word “learning” occurred nearly three times more frequently with the post test compared to the post test.  This seems to emphasize the fact that successful STEM schools place a premium on those two things (phew!). On a small scale, the word ‘interdisciplinary’ went from no mentions to three - indicating a slightly broader awareness that successful STEM schools focus on more than just the acronym.
 
-### What stayed the same:
+### Words that occurred with the same frequency:
 
 The words “inquiry”, “real world”, “authentic”, and “creative/creativity” all stayed about the same. This suggestions that everyone understands that successful STEM schools encourage students to be creative and work on solving authentic, real world problems. Ultimately, it is about breaking down the walls between “school world” and “real world”. 
 
-### What went down:
+### Words that went down:
 
 The acronym! All five words: Math, Technology, Engineering, Arts and Math all decreased in use. This is a big deal. Successful STEM Education is not about what happens in isolation with those specific content area. Successful STEM Education, especially defined by the eleven AdvancED STEM Indicators includes all content areas.
 
