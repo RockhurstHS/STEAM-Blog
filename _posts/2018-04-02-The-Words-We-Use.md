@@ -24,21 +24,9 @@ Finally, we used a fancy [data visualization](https://jameswclark.github.io/Two-
 
 Shaded in red are the pre-test results. Shaded in blue are the post-test results. Take a look.
 
-<!-- BUBBLES -->
-<hr>
-<div id="g-chart" width="100%;" style="margin-left: 0%; postion:block;">
-    <div class="g-legend" style="position:absolute; width:100%;">
-        <div style="position:absolute; width:200px; left:40%" class="g-overview">
-            Number of mentions per 1,000 words
-            <br>by
-            <span class="g-swatch g-democrat"></span>PRE and
-            <span class="g-swatch g-republican"></span>POST
-        </div>
-    </div>
-    <div style="margin-left: 0%" class="g-labels"></div>
-    <svg style="background: white; margin-left: 5%;" class="g-nodes" width="100%" height="420"></svg>
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/static-bubbles.png">
 </div>
-<hr>
 
 ## Things we learned:
 
@@ -60,12 +48,6 @@ This Data Visual is so cool that you can actually search for words and see the n
 
 ### User Exercise: Type the words “Active Learning”. 
 
-<!-- SEARCH BAR -->
-<form id="g-form">
-    <input style="height:20px;" type="text" name="search" placeholder="Add word or phrase" tabindex="1">
-    <button>+</button>
-</form>
-
 A new “Active Learning” bubble will appear. During the pre-test there were zero mentions. The post-test, however, revealed 18 mentions per 1,000 words! Therefore, the Active Learning classrooms and philosophy at Rockhurst High School made a huge impression!
 
 ### Final Thoughts
@@ -75,6 +57,28 @@ As if this data visual couldn’t get cooler, it truly is the gift that keeps on
 Some of my favorite quotes are below. I think it is safe to say that some learning happened over the course of the two day conference. As educators, let us continue to work together to change the world for the better.
 
 **“Please write as <u>many things</u> as you can that <u>indicate successful STEM education</u> is happening at a school.”**
+
+<!-- SEARCH BAR -->
+<form id="g-form">
+    <input style="height:20px;" type="text" name="search" placeholder="Add word or phrase" tabindex="1">
+    <button>+</button>
+</form>
+
+<!-- BUBBLES -->
+<hr>
+<div id="g-chart" width="100%;" style="margin-left: 0%; postion:block;">
+    <div class="g-legend" style="position:absolute; width:100%;">
+        <div style="position:absolute; width:200px; left:40%" class="g-overview">
+            Number of mentions per 1,000 words
+            <br>by
+            <span class="g-swatch g-democrat"></span>PRE and
+            <span class="g-swatch g-republican"></span>POST
+        </div>
+    </div>
+    <div style="margin-left: 0%" class="g-labels"></div>
+    <svg style="background: white; margin-left: 5%;" class="g-nodes" width="100%" height="420"></svg>
+</div>
+<hr>
 
 <!-- COMMENTS -->
 <div class="g-body row">
