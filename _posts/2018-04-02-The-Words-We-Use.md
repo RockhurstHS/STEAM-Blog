@@ -75,7 +75,7 @@ I think it is safe to say that some learning happened over the course of the two
 </div>
 <hr>
 
-<center>**“Please write as <u>many things</u> as you can that <u>indicate successful STEM education</u> is happening at a school.”**</center>
+**<center>“Please write as <u>many things</u> as you can that <u>indicate successful STEM education</u> is happening at a school.”</center>**
 
 <!-- COMMENTS -->
 <div class="g-body row">
