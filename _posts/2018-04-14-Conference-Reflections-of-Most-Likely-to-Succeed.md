@@ -2,7 +2,7 @@
 layout: post
 author: gregowsley
 title: Conference Reflections of Most Likely to Succeed
-excerpt: Last line of a 1953 Poem written by Lida Hickman --> So teacher please be careful with these students that you teach...for if they fail to learn to live, their hearts you've failed to reach. 
+excerpt: So teacher please be careful with these students that you teach...for if they fail to learn to live, their hearts you've failed to reach. 
 ---
 
 The capstone of the first day of the [2018 AdvancED Missouri STEM Conference](http://steam.rockhursths.edu/2018/03/15/AdvancED-STEM-Conference.html) involved educators watching the film [Most Likely to Succeed](https://www.mltsfilm.org/). This was followed by a panel discussion, then large group networking. However, we used [PearDeck](https://www.peardeck.com/) to encourage all the participants to write down their thoughts of the movie notes digitally while it was playing. The film provides [timestamped discussion questions](https://drive.google.com/file/d/0B3gHTRZxhj74Uks0VmR4NDVkdS1pa3pkenFjNDQ4QWlDNkZj/view) that were pushed out to the viewers via PearDeck. In this way, we were able to capture the collective conscience of the conference participants through guided questions that were thematically aligned with the movie. The results were pretty profound. Some key quotes that followed the guided questions can be seen below. 
