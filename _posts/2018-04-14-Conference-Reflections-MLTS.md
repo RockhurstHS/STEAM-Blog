@@ -8,7 +8,6 @@ The capstone of the first day of the [2018 AdvancED Missouri STEM Conference hos
 
 Educators are passionate about how schools can better serve students. Read what they have to say.
 
-
 ## What's not working for this student (and this system)?
 
 <i>Not engaged, not seeing the importance of what is being taught
