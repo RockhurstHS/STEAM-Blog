@@ -21,7 +21,7 @@ Educators are passionate about how schools can better serve students. Read what 
 
 <i>It's the way things should be.  But, getting there is a bit tricky as we "relearn" how to educate our students.
 
-Student centered instruction should always be our fierce focus!</i>
+<i>Student centered instruction should always be our fierce focus!</i>
 
 ## What are your thoughts surrounding assessment? Traditional, performance-based, authentic, and self- assessment.
 
