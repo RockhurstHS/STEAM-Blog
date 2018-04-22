@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Conference Resources from Speaker Presentations
+title: STEM Conference Resources from Speaker Presentations
 excerpt: Below are a few of the resources from various presentations at the conference.
 ---
 
