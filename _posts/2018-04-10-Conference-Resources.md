@@ -21,5 +21,5 @@ Below are a few of the resources from various presentations at the conference. C
 
 [STEAM Studio](https://drive.google.com/open?id=1jyzDkauY1q4Uyj2o3G3HX76uPM8xyxXz)
 
-[STEAM Council - the journey of a new student club (Student Presentation!)](https://drive.google.com/open?id=1o8L2p6qDj7UM31g9bog7lxW-8z6EdmO1P9Zfe1Jal18)
+[STEAM Council - the journey of a new student club (Student Presentation!)](https://drive.google.com/file/d/1PZVtGkvwmoMkgycOXuQ4cPXxt5eVjUWA/view?usp=sharing)
 
