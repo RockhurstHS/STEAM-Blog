@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Conference Reflections of Most Likely to Succeed
+title: STEM Conference Reflections of Most Likely to Succeed
 excerpt: So teacher please be careful with these students that you teach...for if they fail to learn to live, their hearts you've failed to reach. 
 ---
 
