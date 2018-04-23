@@ -16,27 +16,28 @@ Below are a few of the resources from various presentations at the conference. C
 
 <center><b>AdvancED STEM Conference Resources</b></center>
 
+//<a href="Link">Title</a>
+
 <table>
   <tr>
     <th>Presentation Title with Link</th>
     <th>Organization Website</th>
   </tr>
   <tr>
-    <td>[Using eProve™ to Cultivate Cultures of STEM Learning] (https://drive.google.com/file/d/0B1 JIRrX_4I5Z3FsVnA0NEsyb0VaZ1dBX3pVOUJ3VWtiam9J/view?usp=sharing)</td>
+    <td><a href="https://drive.google.com/file/d/0B1 JIRrX_4I5Z3FsVnA0NEsyb0VaZ1dBX3pVOUJ3VWtiam9J/view?usp=sharing">Using eProve™ to Cultivate Cultures of STEM Learning</a></td>
     <td><a href="http://www.advanc-ed.org/services/stem-certification">AdvancED STEM Certification</a></td>
   </tr>
   <tr>
-    <td>[Entrepreneurial Mindset + STEM = Innovation] (https://drive.google.com/open?id=0B1-JIRrX_4I5ZHBHRnlTa3o4MnNFdHc0djhHZWZmTlE3Zk5B)</td>
-    <td>[UMKC SBTDC] (https://sbtdc.umkc.edu/)</td>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5ZHBHRnlTa3o4MnNFdHc0djhHZWZmTlE3Zk5B">Entrepreneurial Mindset + STEM = Innovation</a></td>
+    <td><a href="https://sbtdc.umkc.edu/">UMKC SBTDC</a></td>
   </tr>  
   <tr>
-    <td>[More Than a Library - Specifically, information about Linda Hall](https://drive.google.com/open?id=1bJeveK8yE_th7jCytlQBinvlLIBt0T59)
-</td>
+    <td><a href="https://drive.google.com/open?id=1bJeveK8yE_th7jCytlQBinvlLIBt0T59">Linda Hall Library</a></td>
     <td>[Linda Hall Library] (http://www.lindahall.org/)</td>
   </tr>
   <tr>
-    <td>[STEM in the Elementary Classroom] (https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww)</td>
-    <td>[Washburn University Department of Education] (http://www.washburn.edu/academics/college-schools/arts-sciences/departments/education/index.html)</td>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww">STEM in the Elementary Classroom</a></td>
+    <td><a href="http://www.washburn.edu/academics/college-schools/arts-sciences/departments/education/index.html">Washburn University Department of Education</a></td>
   </tr>
 </table>
    
