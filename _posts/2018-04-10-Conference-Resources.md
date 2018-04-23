@@ -24,14 +24,13 @@ Below are a few of the resources from various presentations at the conference. C
     <td>[Entrepreneurial Mindset + STEM = Innovation] (https://drive.google.com/open?id=0B1-JIRrX_4I5ZHBHRnlTa3o4MnNFdHc0djhHZWZmTlE3Zk5B)</td>
     <td>[UMKC SBTDC] (https://sbtdc.umkc.edu/)</td>
   </tr>  
+  <tr>
+    <td>[More Than a Library - Specifically, information about Linda Hall](https://drive.google.com/open?id=1bJeveK8yE_th7jCytlQBinvlLIBt0T59)
+</td>
+    <td>[Linda Hall Library] (http://www.lindahall.org/)</td>
+  </tr>
 </table>
-     
-[Using eProve™ to Cultivate Cultures of STEM Learning](https://drive.google.com/file/d/0B1-JIRrX_4I5Z3FsVnA0NEsyb0VaZ1dBX3pVOUJ3VWtiam9J/view?usp=sharing)
-
-[Entrepreneurial Mindset + STEM = Innovation](https://drive.google.com/open?id=0B1-JIRrX_4I5ZHBHRnlTa3o4MnNFdHc0djhHZWZmTlE3Zk5B)
-
-[More Than a Library - Specifically, information about Linda Hall](https://drive.google.com/open?id=1bJeveK8yE_th7jCytlQBinvlLIBt0T59)
-
+   
 [STEM in the Elementary Classroom](https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww)
 
 [Space Matters! Building Critical STEM Competencies More Naturally Through Design](https://drive.google.com/open?id=1hLbXblJKZ_9sP6OZcTokRZVW1ImMOphz)
