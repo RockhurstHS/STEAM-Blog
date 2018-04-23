@@ -13,8 +13,8 @@ Below are a few of the resources from various presentations at the conference. C
 
 <table>
   <tr>
-    <td>Presentation Title with Link</td>
-    <td>Organization Website</td>
+    <th>Presentation Title with Link</th>
+    <th>Organization Website</th>
   </tr>
   <tr>
     <td>[Using eProve™ to Cultivate Cultures of STEM Learning](https://drive.google.com/file/d/0B1 JIRrX_4I5Z3FsVnA0NEsyb0VaZ1dBX3pVOUJ3VWtiam9J/view?usp=sharing)</td>
