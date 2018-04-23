@@ -39,13 +39,17 @@ Below are a few of the resources from various presentations at the conference. C
     <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww">STEM in the Elementary Classroom</a></td>
     <td><a href="http://www.washburn.edu/academics/college-schools/arts-sciences/departments/education/index.html">Washburn University Department of Education</a></td>
   </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=1hLbXblJKZ_9sP6OZcTokRZVW1ImMOphz">Space Matters! Building Critical STEM Competencies More Naturally Through Design</a></td>
+    <td><a href="http://steam.rockhursths.edu/active-learning/">Active Learning</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=1jyzDkauY1q4Uyj2o3G3HX76uPM8xyxXz">STEAM Studio Conference Presentation</a></td>
+    <td><a href="http://steam-studio.com/">STEAM Studio Website</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1PZVtGkvwmoMkgycOXuQ4cPXxt5eVjUWA/view?usp=sharing">STEAM Council - the journey of a new student club (Student Presentation!)</a></td>
+    <td><a href="Link">Rockhurst High School STEAM Council</a></td>
+  </tr>
 </table>
    
-
-
-[Space Matters! Building Critical STEM Competencies More Naturally Through Design](https://drive.google.com/open?id=1hLbXblJKZ_9sP6OZcTokRZVW1ImMOphz)
-
-[STEAM Studio](https://drive.google.com/open?id=1jyzDkauY1q4Uyj2o3G3HX76uPM8xyxXz)
-
-[STEAM Council - the journey of a new student club (Student Presentation!)](https://drive.google.com/file/d/1PZVtGkvwmoMkgycOXuQ4cPXxt5eVjUWA/view?usp=sharing)
-
