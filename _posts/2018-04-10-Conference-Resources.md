@@ -34,9 +34,13 @@ Below are a few of the resources from various presentations at the conference. C
 </td>
     <td>[Linda Hall Library] (http://www.lindahall.org/)</td>
   </tr>
+  <tr>
+    <td>[STEM in the Elementary Classroom] (https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww)</td>
+    <td>[Washburn University Department of Education] (http://www.washburn.edu/academics/college-schools/arts-sciences/departments/education/index.html)</td>
+  </tr>
 </table>
    
-[STEM in the Elementary Classroom](https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww)
+
 
 [Space Matters! Building Critical STEM Competencies More Naturally Through Design](https://drive.google.com/open?id=1hLbXblJKZ_9sP6OZcTokRZVW1ImMOphz)
 
