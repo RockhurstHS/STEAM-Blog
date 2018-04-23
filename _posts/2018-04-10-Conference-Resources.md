@@ -33,7 +33,7 @@ Below are a few of the resources from various presentations at the conference. C
   </tr>  
   <tr>
     <td><a href="https://drive.google.com/open?id=1bJeveK8yE_th7jCytlQBinvlLIBt0T59">Linda Hall Library</a></td>
-    <td>[Linda Hall Library] (http://www.lindahall.org/)</td>
+    <td><a href="http://www.lindahall.org/">Linda Hall Library</a></td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5MkF0MHhJWnpjcjQwVTFIYUV2QzRWdmZVTGww">STEM in the Elementary Classroom</a></td>
