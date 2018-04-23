@@ -9,6 +9,18 @@ Below are a few of the resources from various presentations at the conference. C
 
 [Conference Program](https://drive.google.com/file/d/1k5eINr__jliu_PQcP3SD5iv4aOpVErxq/view?usp=sharing)
 
+<table>
+  <th>AdvancED STEM Conference Resources</th>
+  <tr>
+    <td>Presentation Title with Link</td><td>
+    <td>Organization Website</td>
+  </tr>
+  <tr>
+    <td>[Using eProve™ to Cultivate Cultures of STEM Learning](https://drive.google.com/file/d/0B1 JIRrX_4I5Z3FsVnA0NEsyb0VaZ1dBX3pVOUJ3VWtiam9J/view?usp=sharing)</td>
+    <td>AdvancED STEM Certification</td>
+  </tr>
+</table>
+     
 [Using eProve™ to Cultivate Cultures of STEM Learning](https://drive.google.com/file/d/0B1-JIRrX_4I5Z3FsVnA0NEsyb0VaZ1dBX3pVOUJ3VWtiam9J/view?usp=sharing)
 
 [Entrepreneurial Mindset + STEM = Innovation](https://drive.google.com/open?id=0B1-JIRrX_4I5ZHBHRnlTa3o4MnNFdHc0djhHZWZmTlE3Zk5B)
