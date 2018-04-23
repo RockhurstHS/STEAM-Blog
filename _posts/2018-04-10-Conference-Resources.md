@@ -4,6 +4,11 @@ author: gregowsley
 title: STEM Conference Resources from Speaker Presentations
 excerpt: Below are a few of the resources from various presentations at the conference.
 ---
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
 
 Below are a few of the resources from various presentations at the conference. Continue to check this blog post for additional resources.
 
