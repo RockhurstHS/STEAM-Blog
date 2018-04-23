@@ -9,8 +9,9 @@ Below are a few of the resources from various presentations at the conference. C
 
 [Conference Program](https://drive.google.com/file/d/1k5eINr__jliu_PQcP3SD5iv4aOpVErxq/view?usp=sharing)
 
+<center><b>AdvancED STEM Conference Resources</b></center>
+
 <table>
-  <th>AdvancED STEM Conference Resources</th>
   <tr>
     <td>Presentation Title with Link</td>
     <td>Organization Website</td>
