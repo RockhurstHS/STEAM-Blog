@@ -51,5 +51,9 @@ Below are a few of the resources from various presentations at the conference. C
     <td><a href="https://drive.google.com/file/d/1PZVtGkvwmoMkgycOXuQ4cPXxt5eVjUWA/view?usp=sharing">STEAM Council - the journey of a new student club (Student Presentation!)</a></td>
     <td><a href="Link">Rockhurst High School STEAM Council</a></td>
   </tr>
+   <tr>
+    <td><a href="https://drive.google.com/file/d/1Wv300x3hRP1MNy9X8s5EPT0cJt_ncErr/view?usp=sharing">Leveraging Community</a></td>
+    <td><a href="https://www.kcstem.org/">KC STEM Alliance</a></td>
+  </tr>
 </table>
    
