@@ -55,5 +55,9 @@ Below are a few of the resources from various presentations at the conference. C
     <td><a href="https://drive.google.com/file/d/1Wv300x3hRP1MNy9X8s5EPT0cJt_ncErr/view?usp=sharing">Leveraging Community</a></td>
     <td><a href="https://www.kcstem.org/">KC STEM Alliance</a></td>
   </tr>
+   <tr>
+    <td><a href="https://docs.google.com/presentation/d/1MqDfX8UvSXJfH43NkS5UL3EFqfPbDuI5aHc7mwHkKPg/edit?usp=sharing">Death of Planners</a></td>
+    <td><a href="https://myhomeworkapp.com/">MyHomework</a></td>
+  </tr>
 </table>
    
