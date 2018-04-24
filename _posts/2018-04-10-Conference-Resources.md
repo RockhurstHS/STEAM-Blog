@@ -16,8 +16,6 @@ Below are a few of the resources from various presentations at the conference. C
 
 <center><b>AdvancED STEM Conference Resources</b></center>
 
-//<a href="Link">Title</a>
-
 <table>
   <tr>
     <th>Presentation Title with Link</th>
