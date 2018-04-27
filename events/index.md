@@ -4,38 +4,13 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
-## Roscars
-### April 26th at 7:00pm in the Rose Theatre
-Please attend this student film festival. All are invited!
-
-## STEAM Studio Volunteers
-### Three Separate Options:
-#### Mondays, April 9, 16, 23, 30, May 7, 14
-#### Wednesdays, April 4, 11, 18, 25, May 2, 9
-
-Sign up now to volunteer at the STEAM Studio this semester. This work can also be counted towards work grant hours.
-
-Here is a [video](http://fox4kc.com/2018/01/10/rockhurst-senior-who-built-prosthetic-arm-for-metro-boy-now-going-to-teach-other-kids-how-to-do-it-too/) that showcases how senior Krishon Harris made a huge impact through his work at the STEAM Studio.
-
-<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfipuWvkheI6sEO2vlRYuPSr8q9kYX83hWgHB-4n3lwx589gQ/viewform?usp=sf_link" role="button">Volunteer</a>
-
-## City-Wide MECA Challenge
-<div class="flex-wrapper">
-  <img src="/img/MECA Challenge.png">
-</div>  
-MECA Challenge is a one-day innovation competition, where students work in teams of seven with an entrepreneur mentor to solve a real-world problem.
-
-Please email Mr. Owsley by Wednesday, April 4th, at gowsley@rockhursths.edu if you are interested. 
-
-<a class="btn btn-primary" href="https://www.eventbrite.com/e/meca-challenge-citywide-high-school-invitational-tickets-43324608069" role="button">More Information Here</a>
-
-## Science Stars
-### Volunteering for Cure of Ars Catholic School 
+## Leadership Intern Program
+### National Inventor Hall of Fame Camp
 
 <div class="flex-wrapper">
   <img src="/img/ScienceStars.jpg">
 </div>  
-<a class="btn btn-primary" href="https://drive.google.com/open?id=0B1-JIRrX_4I5aUdGbTM5eGpLbjBVY3BKWm9jV0dzeklHZWhJ" role="button">Click for More Information</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5clVOYXFnTHRkME1kTVdTelNZQjN0WUVKLU5F/view?usp=sharing" role="button">Click to view flyer</a>
 
 ## Drone Repair Tech
 ### After School Job Opportunity
