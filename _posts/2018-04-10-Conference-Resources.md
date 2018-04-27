@@ -57,5 +57,9 @@ Below are a few of the resources from various presentations at the conference. C
     <td><a href="https://docs.google.com/presentation/d/1MqDfX8UvSXJfH43NkS5UL3EFqfPbDuI5aHc7mwHkKPg/edit?usp=sharing">Death of Planners</a></td>
     <td><a href="https://myhomeworkapp.com/">MyHomework</a></td>
   </tr>
+   <tr>
+    <td><a href="https://drive.google.com/file/d/0B1-JIRrX_4I5eGgzdEV3OG85SDc5Wlk3VTBkV3RGUFk2ek9r/view?usp=sharing">Training Citizens for the Digital City</a></td>
+    <td><a href="http://www.kcdigitaldrive.org/">KC Digital Drive</a></td>
+  </tr>
 </table>
    
