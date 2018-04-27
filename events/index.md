@@ -8,7 +8,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ### City-wide internship program for the summer
 
 <div class="flex-wrapper">
-  <img src="/img/ScienceStars.jpg">
+  <img src="/img/HireKCYouth.png">
 </div>  
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5bFBfdXE4WDdIQVFhaXo4RXFfdEdkWWc3SHBV/view?usp=sharing" role="button">Flyer</a>
 <a class="btn btn-primary" href="hirekcyouth.org/jobs" role="button">Website</a>
@@ -18,7 +18,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ### National Inventor Hall of Fame Camp
 
 <div class="flex-wrapper">
-  <img src="/img/ScienceStars.jpg">
+  <img src="/img/National Inventor HOF.png">
 </div>  
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5clVOYXFnTHRkME1kTVdTelNZQjN0WUVKLU5F/view?usp=sharing" role="button">Click to view flyer</a>
 
