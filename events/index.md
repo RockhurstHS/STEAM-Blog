@@ -4,6 +4,16 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+## Hire KC Youth
+### City-wide internship program for the summer
+
+<div class="flex-wrapper">
+  <img src="/img/ScienceStars.jpg">
+</div>  
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5bFBfdXE4WDdIQVFhaXo4RXFfdEdkWWc3SHBV/view?usp=sharing" role="button">Click to view flyer</a>
+
+
+
 ## Leadership Intern Program
 ### National Inventor Hall of Fame Camp
 
