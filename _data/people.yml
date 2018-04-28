@@ -120,3 +120,8 @@ brentsams:
   image: img/brentsams.jpg
   profile: true
 
+nickvaughn:
+  name: Nick Vaughn
+  title: Science Teacher
+  image: img/nickvaughn.jpg
+  profile: false
