@@ -6,7 +6,13 @@ excerpt: First, we considered making our own liquid nitrogen and realized that i
 tags: science
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.10 st1.11
 ---
-<b> The Rockhurst Science Department helped middles school student, Olivier Desbois, with his science project. Read his reflectin below.</b>
+Outreach is something each of us can do for others, it is about reaching out to others to educate them about something you are passionate about.  Its an important aspect of mankind that leads to goodwill towards others.
+
+Recently a young man, Olivier Desbois, reached out to me, he is a local grade school student who visited Rockhurst during our Open House in the Fall.  During his visit, he was amazed by our demonstrations using liquid nitrogen.  Shortly after his visit, his teacher at his school announced they would be designing and implementing a science experiment; the young man's thoughts went straight to liquid nitrogen.  As is the case many times in science, there were numerous challenges ahead that this young man realized.  Thus, he turned to us, something I am so glad he did.
+
+He asked if we could get him some liquid nitrogen and help him safely complete his experiment.  We were glad to help, several teachers and students welcomed him to our school again and we used our lab facilities.  It was a positive experience for everyone involved.  Our hope is that this young man was excited to experience something special in science and that this experience leads to the desire to answer more questions.  
+
+<b> Olivier Desbois's reflections can be read below. </b>
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/middle school student project 1.png"></div>
