@@ -6,7 +6,7 @@ $(document).ready(function () {
     //VARIABLES
     var KEY = 'AIzaSyCTofNNUQKU4eBPZoJ4HcVsKN3fT_owPcE'; //get from jwclark@rockhursths.edu account, google developer api console
     var MINIMUM_EVENTS = 4;
-    var DAYS_TO_SEARCH_FORWARD = 7;
+    var DAYS_TO_SEARCH_FORWARD = 40;
 
     var CALENDARS = [ //these are the IDs of each calendar, found under calendar settings in a Google account's Calendar system
          'rockhursths.edu_9a0buoguac15bb5t8a3cnf96fg@group.calendar.google.com' // STEAM Events - https://calendar.google.com/calendar/embed?src=rockhursths.edu_9a0buoguac15bb5t8a3cnf96fg%40group.calendar.google.com&ctz=America%2FChicago
@@ -26,11 +26,13 @@ $(document).ready(function () {
     function getCalendarFeeds() {
         for (var i = 0; i < CALENDARS.length; i++) {
             var https = 'https://www.googleapis.com/calendar/v3/calendars/' + CALENDARS[i] + '/events?singleEvents=true&orderBy=startTime&sortOrder=ascending&timeMin=' + moment(startMin).format() + '&timeMax=' + moment(startMax).format() + '&key=' + KEY;
+            console.log(https);
             $.ajax({
                 url: https,
                 dataType: 'jsonp',
                 type: "GET",
                 success: function (response) {
+                    console.log(response);
                     processFeed(response);
                 }
             });
@@ -43,14 +45,15 @@ $(document).ready(function () {
         //why? google automatically injects the max-results=25 parameter into the calendar query
         //so, if results = 46, you still only get 25 entries and the for loop hits null results
         //alternate: ?alt=json&max-results=100&orderby=starttime&sortorder=ascending&singleevents=true
-        var numResults = feed['items'].length;
+        var numResults = feed.items.length;
+
         if (numResults > 25)
             numResults = 25;
 
         for (var i = 0; i < numResults; i++) { //process every entry in the feed
-            processEntry(feed['items'][i]);
+            processEntry(feed.items[i]);
         }
-        if (feedsProcessedCount === CALENDARS.length) { //the ajax requests are complete, sort and print
+        if (feedsProcessedCount === CALENDARS.length && numResults > 0) { //the ajax requests are complete, sort and print
             printEntries();
         }
     }
