@@ -5,7 +5,7 @@ title: The Legendary Mr. John McEniry Returns
 excerpt: Mr. McEniry’s talk was very interesting to me because he was able to show how hyperbolic parabolas worked in person instead of on a screen.  Because I got to see how the parabolas formed it was easy to understand.  It was cool that he made the slides and the model himself because it showed how interested he was with his project. At first I didn’t understand what he was going to do with the old projector and the string setup, but he did it pretty well. The way he used light with the string setup was pretty creative.
 ---
 
-<blockquote>I taught one of [Mr. Radosevic’s] classes about conic sections using string models that I made over 40 years ago and a 35mm slide projector. The support base of the right circular cone is giant plastic tinker toys, and the center support is an old wooden broom stick. - John McEniry </blockquote>
+<blockquote>I taught one of [Mr. Radosevic’s] classes about conic sections using string models that I made over 40 years ago and a 35mm slide projector. The support base of the right circular cone is giant plastic tinker toys, and the center support is an old wooden broom stick. - John McEniry '68 </blockquote>
 
 On April 25, 2018, Mr. John McEniry returned to Rockhurst. This technology teacher enlightened Algebra II students with some <i>old school</i> technology to help them understand conic sections. Below are some student reflections from the event.
 
