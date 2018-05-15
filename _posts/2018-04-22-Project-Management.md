@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Students Learn About Project Management.
+title: Students Learn About Project Management
 excerpt: Project management skills are life skills that any young man will need throughout his life.
 ---
 
@@ -20,6 +20,6 @@ Project management is becoming a [more and more popular career path](https://www
 Ms. Harris is a professional project manager and current Rockhurst parent. She also volunteered at Rockhurst when the school hosted the [regional STEM Conference](http://steam.rockhursths.edu/2018/03/15/AdvancED-STEM-Conference.html).
 More information about project management can be found at the links below:
 
-www.pmallaccess.net
-www.pmi.org
-www.scrum.org
+[PM All Access](www.pmallaccess.net)
+[Project Management Institute](www.pmi.org)
+[The Home of Scrum](www.scrum.org)
