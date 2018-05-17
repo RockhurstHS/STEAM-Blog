@@ -15,13 +15,11 @@ excerpt: I always used to lose my notes...
 
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/RocketBook2.jpg">
-    <img src="{{ site.baseurl }}/img/RocketBookBlank.jpg">
 </div>
 
 <div class="flex-wrapper">
-  <figure>
     <img src="{{ site.baseurl }}/img/RocketBook3.jpg">
-  </figure>
+    <img src="{{ site.baseurl }}/img/RocketBookBlank.jpg">
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FL2aOGwm3Ak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
