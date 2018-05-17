@@ -22,4 +22,4 @@ excerpt: I always used to lose my notes...
     <img src="{{ site.baseurl }}/img/RocketBookBlank.jpg">
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FL2aOGwm3Ak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/FL2aOGwm3Ak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
