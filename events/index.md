@@ -4,6 +4,15 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+## Black & Veatch Job Shadow Days
+### June 11, June 18, July 16, July 23
+
+<div class="flex-wrapper">
+  <img src="/img/Screen Shot 2018-05-17 at 1.17.26 PM.png">
+</div>  
+<a class="btn btn-primary" href="https://drive.google.com/open?id=1iocYek2Pb49Gfh2r_4Phglm6BbUsNHTc" role="button">Flyer</a>
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSflixsDhhaC7W3knz6taqR2iFxxGk6S-VNOjUk1oJ5318JIeA/viewform" role="button">Register</a>
+
 ## Science Stars
 ### Elementary Summer Camp!
 
