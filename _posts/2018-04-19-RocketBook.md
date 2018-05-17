@@ -16,7 +16,7 @@ excerpt: I always used to lose my notes...
 <div class="flex-wrapper">
   <figure>
     <img src="{{ site.baseurl }}/img/RocketBook2.jpg">
-    <img src="{{ site.baseurl }}/img/RocketBlanck.jpg">
+    <img src="{{ site.baseurl }}/img/RocketBookBlanck.jpg">
   </figure>
 </div>
 
