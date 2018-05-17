@@ -14,10 +14,9 @@ excerpt: I always used to lose my notes...
 </div>
 
 <div class="flex-wrapper">
-  <figure>
     <img src="{{ site.baseurl }}/img/RocketBook2.jpg">
     <img src="{{ site.baseurl }}/img/RocketBookBlank.jpg">
-  </figure>
+</div>
 
 <div class="flex-wrapper">
   <figure>
