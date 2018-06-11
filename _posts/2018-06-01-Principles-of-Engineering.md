@@ -11,6 +11,12 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.8
 
 This past year, 61 Rockhurst students experienced the new Principles of Engineering course. Using a project-based learning approach, students engage in hands-on learning as they learn concepts in physics, computer science, and engineering. This year, the final project consisted of students building a marble sorting machine. Students also experienced student learning experiences ranging from truss building competitions to robot races. In addition to these projects, every student also taxes an end of course exam to demonstrate their proficiency in the engineering content.
 
+
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/Truss.JPG"></div>
+</div>
+<p class="caption">Mr. Wilson, POE instructor, is setting up the device to measure the strength of the student trusses. </p>
+
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/Truss2.JPG"></div>
 </div>
