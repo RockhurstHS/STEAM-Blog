@@ -2,6 +2,7 @@
 layout: post
 author: gregowsley
 title: The Words We Use
+tags: active-learning
 excerpt: The acronym! All five words&#58; Math, Technology, Engineering, Arts and Math all decreased in use. This is a big deal. Successful STEM Education is not about what happens in isolation with those specific content area. Successful STEM Education, especially defined by the eleven AdvancED STEM Indicators includes all content areas.
 ---
 ## Context & Purpose
