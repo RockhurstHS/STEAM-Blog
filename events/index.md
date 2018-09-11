@@ -4,74 +4,41 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
-## Black & Veatch Job Shadow Days
-### June 11, June 18, July 16, July 23
+ <div class="flex-wrapper">
+  <img src="/img/steam-studio-logo.png">
+</div>     
+    
+## STEAM Studio Volunteers
+### Wednesdays and/or Thursdays after school starting immediately!
+
+Volunteers needed for the STEAM Studio on Wednesdays and Thursdays after school. <b>Hours can count towards service or work grant</b>. Students will be helping middle school students complete projects by using robotics, 3D printing, coding and/or graphic design tools. Interested students should email Mr. Owsley. 
+
+ <div class="flex-wrapper">
+  <img src="/img/BVLogo.jpg">
+  <img src="/img/kcptlogo.jpg">
+</div>     
+
+## Black & Veatch & KCPT Outreach Opportunity
+Eligible students can also apply to miss part of the school day in a collaboration with Black & Veatch and KCPT to teach STEAM projects to elementary/middle schools students on selected dates this semester. Interested students should email Mr. Owsley
+
+ <div class="flex-wrapper">
+  <img src="/img/Screen Shot 2018-09-11 at 12.19.18 PM.png">
+</div>      
+
+## KU Engineering Showcase
+### Tuesday, September 18th, 2018
+The KU Engineering Showcase hosted by Burns & McDonnell is on Tuesday, September 18th, 2018 from 6-8pm. Any student interested in Engineering is welcome to attend. See the following flyer for more details: <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5SXN0V2pBTVJYaGE0UHJMcWdrTkJCcEFsM00w/view?usp=sharing" role="button">Event Flyer</a>
+
 
 <div class="flex-wrapper">
-  <img src="/img/Screen Shot 2018-05-17 at 1.17.26 PM.png">
-</div>  
-<a class="btn btn-primary" href="https://drive.google.com/open?id=1iocYek2Pb49Gfh2r_4Phglm6BbUsNHTc" role="button">Flyer</a>
-<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSflixsDhhaC7W3knz6taqR2iFxxGk6S-VNOjUk1oJ5318JIeA/viewform" role="button">Register</a>
-
-## Science Stars
-### Elementary Summer Camp!
-
-<div class="flex-wrapper">
-  <img src="/img/ScienceStars.jpg">
-</div>  
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1FZeo4nAqDljy5vv8qmoOFGh10zyR29jG/view?usp=sharing" role="button">Click for More Information</a>
-
-## Hire KC Youth
-### City-wide internship program for the summer
-
-<div class="flex-wrapper">
-  <img src="/img/HireKCYouth.png">
-</div>  
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5bFBfdXE4WDdIQVFhaXo4RXFfdEdkWWc3SHBV/view?usp=sharing" role="button">Flyer</a>
-<a class="btn btn-primary" href="hirekcyouth.org/jobs" role="button">Website</a>
-
-## Leadership Intern Program
-### National Inventor Hall of Fame Camp
-
-<div class="flex-wrapper">
-  <img src="/img/National Inventor HOF.png">
-</div>  
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5clVOYXFnTHRkME1kTVdTelNZQjN0WUVKLU5F/view?usp=sharing" role="button">Click to view flyer</a>
-
-## Drone Repair Tech
-### After School Job Opportunity
-
-<a class="btn btn-primary" href="
-https://drive.google.com/open?id=0B1-JIRrX_4I5Tjk5YzFwbjFUenJXWFhmVDFYMHFLYWl4ZEZJ" role="button">Click Here for more Information</a>
-
-## Engineering U 
-### A FREE summer academy at the Burns & McDonnell world headquarters, where students will engage with experienced engineers, architects and construction professionals.
-<div class="flex-wrapper">
-  <img src="/img/Screen Shot 2018-04-02 at 2.23.40 PM.png">
+  <img src="/img/Screen Shot 2018-09-11 at 12.17.41 PM.png">
 </div> 
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5VFRvd0VIWDNiWG42S00xSnJoMEhyMUxNZWNF/view?usp=sharing" role="button">Click for More Information</a>
 
-## Wolfram Summer Camp
-### June 24 - July 13 in Boston, MA
-One of the most innovative summer programs--where technology
-meets science, education and entrepreneurship--has opened its
-applications. 
+## 20/20 Fitness Student Intern
+### Mondays through Thursdays after school
 
-Take advantage of a unique opportunity to work on real projects
-with some of the best architects in tech. Network with a
-hand-picked, international group of talented students and
-professionals from a wide range of backgrounds. Whether you dream
-to build artificial intelligence, advance your original research,
-create new technology, establish new startups, innovate education
-or discover new ideas in your field, the Wolfram Summer School is
-for you.
+20/20 Fitness is looking for a student who is available to work 30 - 45 minutes Mondays through Thursdays in exchange for a free gym membership. Interested students can find more information at the following link:href="https://drive.google.com/file/d/0B1-JIRrX_4I5b1lVZUJUc1JRNnJSZnNUMHNLNW1qZ1dIZFpn/view?usp=sharing" role="button">Event Flyer</a>
 
-<a class="btn btn-primary" href="https://education.wolfram.com/summer/school/" role="button">Click Here for more Information</a>
 
-## Directory of Engineering Camps
-<div class="flex-wrapper">
-  <img src="/img/EngineeringEducationServiceCenter.gif">
-</div> 
-If you are interested in engineering, please find a directory of camps below.
-<a class="btn btn-primary" href="http://www.engineeringedu.com/store/index.php?route=information/information&information_id=8" role="button">Click Here for more Information</a>
 
+    
