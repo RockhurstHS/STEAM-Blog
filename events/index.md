@@ -37,7 +37,7 @@ The KU Engineering Showcase hosted by Burns & McDonnell is on Tuesday, September
 ## 20/20 Fitness Student Intern
 ### Mondays through Thursdays after school
 
-20/20 Fitness is looking for a student who is available to work 30 - 45 minutes Mondays through Thursdays in exchange for a free gym membership. There is also the possibility of exchanging the gym membership for working 10 hours per month over the weekend. Interested students can find more information at the following link:href="https://drive.google.com/file/d/0B1-JIRrX_4I5b1lVZUJUc1JRNnJSZnNUMHNLNW1qZ1dIZFpn/view?usp=sharing" role="button">Event Flyer</a>
+20/20 Fitness is looking for a student who is available to work 30 - 45 minutes Mondays through Thursdays in exchange for a free gym membership. There is also the possibility of exchanging the gym membership for working 10 hours per month over the weekend. Interested students can find more information at the following link:<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5b1lVZUJUc1JRNnJSZnNUMHNLNW1qZ1dIZFpn/view?usp=sharing" role="button">Event Flyer</a>
 
 
 
