@@ -11,7 +11,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ## STEAM Studio Volunteers
 ### Wednesdays and/or Thursdays after school starting immediately!
 
-Volunteers needed for the STEAM Studio on Wednesdays and Thursdays after school. <b>Hours can count towards service or work grant</b>. Students will be helping middle school students complete projects by using robotics, 3D printing, coding and/or graphic design tools. Students will be helping from 3:30-4:30 for six consecutive Wednesdays and/or six consecutive Thursdays. Interested students should email Mr. Owsley. 
+Volunteers needed for the [STEAM Studio](http://steam-studio.com/) on Wednesdays and Thursdays after school. <b>Hours can count towards service or work grant</b>. Students will be helping middle school students complete projects by using robotics, 3D printing, coding and/or graphic design tools. Students will be helping from 3:30-4:30 for six consecutive Wednesdays and/or six consecutive Thursdays. Interested students should email Mr. Owsley. 
 
  <div class="flex-wrapper">
   <img src="/img/BVLogo.jpg">
