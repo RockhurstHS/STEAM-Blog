@@ -13,7 +13,7 @@ On Sunday, July 15th, a group of Rockhurst High School students gathered to lear
 </div>
 <p class="caption">Aerial picture of camp particpants taken by drone.</p>
     
-Earnest McCoy, camp instructor and Rockhurst High School 2006 graduate recently left an engineering career at Burns & McDonnell to start his own venture called [AltSpec UAS](https://www.altspecuas.com/). The young men loved learning all the ins & outs of drone flight ranging from the legal rules, the ways to achieve a pilot’s license, and the various standard maneuvers. Moreover, he opened up the students eyes by sharing a multitude of ways that drones can be applied to solve real world problems. 
+Earnest McCoy, camp instructor and Rockhurst High School 2006 graduate, recently left an engineering career at Burns & McDonnell to start his own venture called [AltSpec UAS](https://www.altspecuas.com/). The young men loved learning all the ins & outs of drone flight ranging from the legal rules, the ways to achieve a pilot’s license, and the various standard maneuvers. Moreover, he opened up the students eyes by sharing a multitude of ways that drones can be applied to solve real world problems. 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/DroneCamp1.JPG"></div>
   <div class="x1"><img src="{{ site.baseurl }}/img/DroneCamp2.JPG"></div>
