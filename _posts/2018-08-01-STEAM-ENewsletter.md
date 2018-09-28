@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: STEAM E-Newsletter demonstrates success in 1st year
+title: STEAM E-Newsletter a Success
 tags: science
 indicators: st1.6 st1.10 st1.11
 ---
