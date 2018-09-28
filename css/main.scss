@@ -34,8 +34,9 @@ html {
   background-image: url($BASE_URL + '/img/background.jpg');
 
   blockquote {
-    margin: 20px 0 20px;
+    background-color: #fafafa;
     border-left: 3px solid #337ab7;
+    margin: 20px 0 20px;
   }
 
   body {
@@ -280,6 +281,11 @@ html {
   .row {
     margin-bottom: 4 * $PADDING;
   }
+}
+
+/* TABLEAU EMBED */
+div.tableauPlaceholder {
+  width: 100% !important; /* bc tableau script will set inline width to some pixels */
 }
 
 /* TRELLO */
