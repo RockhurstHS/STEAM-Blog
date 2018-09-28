@@ -21,7 +21,7 @@ If you are interested in seeing previous STEAM E-Newsletters, then please see be
     <th>STEAM E-Newsletters</th>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/0B1-JIRrX_4I5bXlzVUhmeXcyRTY1OV92ODB5NEx2QVpPYUR3/view?usp=sharing">September 2017</a></td>
+    <td><a href="https://drive.google.com/file/d/0B1-JIRrX_4I5bXlzVUhmeXcyRTY1OV92ODB5NEx2QVpPYUR3/view?usp=sharing">September 2017</a>     </td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5YTU0am5leTZ6ZmpDbDVVMUJGMWROTm4tbWJj">October 2017</a></td>
@@ -50,12 +50,3 @@ If you are interested in seeing previous STEAM E-Newsletters, then please see be
 </table>
 
 
-[September 2017](https://drive.google.com/file/d/0B1-JIRrX_4I5bXlzVUhmeXcyRTY1OV92ODB5NEx2QVpPYUR3/view?usp=sharing)
-[October 2017](https://drive.google.com/open?id=0B1-JIRrX_4I5YTU0am5leTZ6ZmpDbDVVMUJGMWROTm4tbWJj)
-[November 2017](https://drive.google.com/open?id=0B1-JIRrX_4I5b1E2NDJZcEJkNHhQRFpwd2pHNmY1eFNiaTlZ)
-[December 2017](https://drive.google.com/open?id=0B1-JIRrX_4I5SUtybE9wX0hCQzhUQlN0aEdRRzNMQ04tZnVn)
-[January 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5YWhSVURNM0ZOUURjcGVqcFRDQ3M2UVk5Tm5F)
-[February 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5Skw0YkhjX24zaGtjZXA0TXQxRmJBaHdFWlhF)
-[March 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5eU9hVUh6cHVJRE5tV1RPeVJlZFQ0ajNYVUZZ)
-[April 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5c2lkRnFCMWdId2NlX1ZKcTVaS21PbTJRNVZj)
-[May 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5eUU4MjBobndsSVl3VU41TUFQR2lTMFlFLUpB)
