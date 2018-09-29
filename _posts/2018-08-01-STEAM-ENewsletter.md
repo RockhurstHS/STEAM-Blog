@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: STEAM E-Newsletter demonstrates success in 1st year
+title: STEAM E-Newsletter a Success
 tags: science
 indicators: st1.6 st1.10 st1.11
 ---
@@ -16,12 +16,37 @@ Furthermore, many other RHS alumni reached out to the school seeking and thinkin
 
 If you are interested in seeing previous STEAM E-Newsletters, then please see below.
 
-[September 2017](https://drive.google.com/file/d/0B1-JIRrX_4I5bXlzVUhmeXcyRTY1OV92ODB5NEx2QVpPYUR3/view?usp=sharing)
-[October 2017](https://drive.google.com/open?id=0B1-JIRrX_4I5YTU0am5leTZ6ZmpDbDVVMUJGMWROTm4tbWJj)
-[November 2017](https://drive.google.com/open?id=0B1-JIRrX_4I5b1E2NDJZcEJkNHhQRFpwd2pHNmY1eFNiaTlZ)
-[December 2017](https://drive.google.com/open?id=0B1-JIRrX_4I5SUtybE9wX0hCQzhUQlN0aEdRRzNMQ04tZnVn)
-[January 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5YWhSVURNM0ZOUURjcGVqcFRDQ3M2UVk5Tm5F)
-[February 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5Skw0YkhjX24zaGtjZXA0TXQxRmJBaHdFWlhF)
-[March 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5eU9hVUh6cHVJRE5tV1RPeVJlZFQ0ajNYVUZZ)
-[April 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5c2lkRnFCMWdId2NlX1ZKcTVaS21PbTJRNVZj)
-[May 2018](https://drive.google.com/open?id=0B1-JIRrX_4I5eUU4MjBobndsSVl3VU41TUFQR2lTMFlFLUpB)
+<table>
+  <tr>
+    <th>STEAM E-Newsletters</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/0B1-JIRrX_4I5bXlzVUhmeXcyRTY1OV92ODB5NEx2QVpPYUR3/view?usp=sharing">September 2017</a>     </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5YTU0am5leTZ6ZmpDbDVVMUJGMWROTm4tbWJj">October 2017</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5b1E2NDJZcEJkNHhQRFpwd2pHNmY1eFNiaTlZ">November 2017</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5SUtybE9wX0hCQzhUQlN0aEdRRzNMQ04tZnVn">December 2017</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5YWhSVURNM0ZOUURjcGVqcFRDQ3M2UVk5Tm5F">January 2018</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5Skw0YkhjX24zaGtjZXA0TXQxRmJBaHdFWlhF">February 2018</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5eU9hVUh6cHVJRE5tV1RPeVJlZFQ0ajNYVUZZ">March 2018</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5c2lkRnFCMWdId2NlX1ZKcTVaS21PbTJRNVZj">April 2018</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/open?id=0B1-JIRrX_4I5eUU4MjBobndsSVl3VU41TUFQR2lTMFlFLUpB">May 2018</a></td>
+  </tr>
+</table>
+
+
