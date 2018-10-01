@@ -23,7 +23,7 @@ The core concepts we touch upon are pretty much standard across any intro progra
 
 In teaching this list of topics, we have the students over a course of nine end of unit projects maintain a single animated sprite. This is their code base for the semester and it is unique to each of them. One of the great things about this exercise is the requirement that students need to think and problem solve alone. In so doing, each student must take ownership of their knowledge and demonstrate it in an applied sense.
 
-Keeping in mind that the students are all of Rockhurst's freshmen, our goal is to appeal to the broadest audience possible and to provide a more interesting feedback experience. If you ask our students what they want to learn, you will find the majority point to virtual reality and game design.
+Since every single freshmen at Rockhurst High School takes this course, our goal is to appeal to the broadest audience possible and to provide a more interesting feedback experience. If you ask our students what they want to learn, you will find the majority point to virtual reality and game design.
 
 So, we have them write code that generates visuals. That's the cool thing about Processing - the output is a drawing sketchbook. Teaching with Processing is unlike the traditional text-in, text-out approach to learning programming. Let's take a look at the sequence of a semester project in this course.
 
@@ -267,7 +267,9 @@ Test by tapping the phone screen or moving your mouse. This is buildup for autom
 
 ## Project 4 - Applied Rotation
 
-Students are lightly introduced to radians (the angle from start to stop inside a circle after traversing the length of its radius along the perimeter) as they apply rotations to some of their shapes. It turns out a single rotation can take up to four lines of extra code as we also have to move the origin of the sketch as well as restore it back to its original position when we're done with it. Otherwise, the shapes only rotate around the top left corner, or the origin.
+Students are lightly introduced to radians (the angle from start to stop inside a circle after traversing the length of its radius along the perimeter) as they apply rotations to some of their shapes. Moreover, this topic sets the foundation for further study in their sophomore and junior level mathematics classes.
+
+It turns out a single rotation in Processing can take up to four lines of extra code as we also have to move the origin of the sketch as well as restore it back to its original position when we're done with it. Otherwise, the shapes only rotate around the top left corner, or the origin.
 
 ``` java
 float bodyBrightness = 101;
@@ -1834,4 +1836,4 @@ And here it is - a fully automated, hands-free sprite in action! The little guy 
 
 <canvas data-processing-sources="{{ site.baseurl }}/assets/pde/Nguyen_Final/Creature.pde {{ site.baseurl }}/assets/pde/Nguyen_Final/Nguyen.pde {{ site.baseurl }}/assets/pde/Nguyen_Final/Nguyen_Final.pde"></canvas>
 
-Thanks for reading and please leave a comment or feel free to contact me to talk about things computer science or code related, jwclark at rockhursths dot edu.
+Thanks for reading and please leave a comment or feel free to contact me to talk about things computer science or code related, jwclark@rockhursths.edu.
