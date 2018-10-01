@@ -3,7 +3,7 @@ layout: post
 author: gregowsley
 title: Reflection from a Summer Internship
 excerpt: The knowledge I was taught in high school was used extensively during this internship. I have learned many things that I was not taught in high school and have met multiple people that inspire me at such a young age. I am blessed to have the teachers at Rockhurst that pushed me to become the motivated individual I am today and to be involved in every aspect of my life. AMDG
-tags: computer science student reflection
+tags: computerscience studentreflection
 indicators: st1.1 st1.2 st1.3 st1.4 st1.6 st1.11
 ---
 
