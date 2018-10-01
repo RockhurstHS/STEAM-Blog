@@ -16,11 +16,11 @@ Rockhurst High School was excited to partner with [STEAM Stars](https://www.scie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_-qEEvTwnk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
-WE are hopeful to offer future STEAM Stars events in the future.
-
+We are hopeful to offer future STEAM Stars events in the future.
+    
 <center>
 <div class="flex-wrapper">
-  <div class="x1"><img src="{{ site.baseurl }}/img/STEAMstarts1.jpg"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/STEAMstars1.jpg"></div>
 </div>
     
 <div class="flex-wrapper">
