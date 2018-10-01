@@ -79,6 +79,8 @@ rect(94, 54, 31, 50);
 rect(93, 55, 31, 50);
 ```
 
+It's black and white, and it's taken form. It's a turkey!
+
 <canvas data-processing-sources="{{ site.baseurl }}/assets/pde/P1_Nguyen/P1_Nguyen.pde"></canvas>
 
 ## Project 2 - Colorful Sprite
@@ -164,7 +166,8 @@ fill(23, 100, 101, 150);
 rect(93, 55, 31, 50);
 colorMode(RGB);
 ```
-It's black and white, and it's taken form. It's a turkey!
+
+Now it's a colorful turkey!
 
 <canvas data-processing-sources="{{ site.baseurl }}/assets/pde/P2_Nguyen/P2_Nguyen.pde"></canvas>
 
