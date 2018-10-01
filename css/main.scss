@@ -264,7 +264,6 @@ html {
   }
 }
 
-
 /* PEOPLE */
 #people-container {
   .profile-image-wrapper {
@@ -281,6 +280,18 @@ html {
   .row {
     margin-bottom: 4 * $PADDING;
   }
+}
+
+/* PROCESSING.JS */
+canvas[data-processing-sources] {
+  border: solid $LIGHT_GREY 1px;
+  margin-bottom: 1em;
+  max-width: 100% !important;
+}
+
+.highlighter-rouge {
+  overflow: scroll;
+  max-height: 300px;
 }
 
 /* TABLEAU EMBED */
@@ -813,7 +824,7 @@ body {
     text-decoration: none;
   }
 
-    .listing li + li {
+  .listing li + li {
     padding-top: 2 * $PADDING;
   }
 }
@@ -835,7 +846,6 @@ body {
     text-align: center;
     vertical-align: middle;
   }
-
 }
 
 /* when the nav logo needs to shrink */
