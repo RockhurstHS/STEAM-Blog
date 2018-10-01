@@ -2,7 +2,7 @@
 layout: post
 author: jwclark
 title: Project Sequence - Intro to Computer Science 
-excerpt: Keeping in mind that the students are all of Rockhurst's freshmen, our goal is to appeal to the broadest audience possible and to provide a more interesting feedback experience. If you ask our students what they want to learn, you will find the majority point to virtual reality and game design.
+excerpt: Since every single freshmen at Rockhurst High School takes this course, our goal is to appeal to the broadest audience possible and to provide a more interesting feedback experience. If you ask our students what they want to learn, you will find the majority point to virtual reality and game design.
 ---
 
 In our Intro to Computer Science course, we currently teach computer programming in the language [Processing](https://processing.org/) using two dimensional drawing and animation to provide some context. For homework, students complete the [Khan Academy Intro to JS & Animation](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming) unit which conveniently aligns with our course.
