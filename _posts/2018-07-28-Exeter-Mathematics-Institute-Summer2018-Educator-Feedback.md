@@ -1,8 +1,8 @@
 ---
 layout: post
 author: gregowsley
-title: Exeter Mathematics Institute Summer of 2018 Educator Feedback
-tags: science
+title: 2018 Exeter Mathematics Institute 
+tags: math
 indicators: st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 ---
 <blockquote> The two weeks of workshops impacted nearly 90,000 students! </blockquote>
