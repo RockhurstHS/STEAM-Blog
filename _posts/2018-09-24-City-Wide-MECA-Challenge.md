@@ -27,4 +27,4 @@ One of the most inspirational parts of the challenge was the mentors that were p
 </div>
 <p class="caption">Winning group used this photo to sell their idea. Rockhurst student, Will Hansen, representing in the middle.</p>
 
-    
+Startland News wrote an article about this MECA Challenge [here](http://www.startlandnews.com/2018/09/meca-students-to-goodwill/).
