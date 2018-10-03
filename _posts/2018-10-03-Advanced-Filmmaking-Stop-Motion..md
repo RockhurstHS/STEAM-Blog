@@ -7,7 +7,7 @@ tags: arts
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 
 ---
 
-Within the Communication Arts department, the Advanced Filmmkaing class creates the conditions to inspire to leanr and use skills creativily. Most recently, students produced stop motion videos of their own design. Below is one of the student stop motion videos followed by his reflection. Enjoy!
+Within the Communication Arts department, the Advanced Filmmkaing class creates the conditions that inspire students to learn and use skills creativily. Most recently, students designed and produced stop motion videos! Below is one of the student stop motion videos, followed by his reflection. Enjoy!
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pks16dUKyOs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
