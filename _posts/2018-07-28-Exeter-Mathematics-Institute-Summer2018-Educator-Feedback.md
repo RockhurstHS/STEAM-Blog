@@ -11,8 +11,34 @@ indicators: st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 For a 3rd straight year, Rockhurst High School, St. Teresa’s Academy and the Phillips Exeter Academy partnered to facilitate an Exeter Mathematics Institute for Kansas City area math teachers. Great representation of teachers from schools all across the metropolitan area differentiated this year’s workshop.
 
 
-<div class='tableauPlaceholder' id='viz1538453106334' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;ExeterMathematicsInstitute-Summer2018KansasCity&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ExeterMathematicsInstitute-Summer2018KansasCity&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;ExeterMathematicsInstitute-Summer2018KansasCity&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1538453106334');               var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);               </script>
-
+<div class='tableauPlaceholder' id='viz1538453106334' style='position: relative'>
+  <noscript>
+    <a href='#'> <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;ExeterMathematicsInstitute-Summer2018KansasCity&#47;Dashboard1&#47;1_rss.png' style='border: none' /> </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='ExeterMathematicsInstitute-Summer2018KansasCity&#47;Dashboard1' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;ExeterMathematicsInstitute-Summer2018KansasCity&#47;Dashboard1&#47;1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+  </object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1538453106334');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 Over one-third of the participants had already attended one of the previous two summers - a testament to the retention power of EMI. This year’s group of 88 educators averaged just over 100 students when asked how many students the teachers teach in a given year. This means that the two weeks of workshops impacts nearly 90,000 students! 
 
 <div class="flex-wrapper">
