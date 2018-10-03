@@ -2,7 +2,7 @@
 layout: post
 author: gregowsley
 title: City Wide MECA Challenge
-excerpt: 
+excerpt: One of the most inspirational parts of the challenge was the mentors that were provided to us. They provided useful insight that helped our group succeed, and they have the experience that we lack.
 tags: computerscience studentreflection
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.11
 ---
