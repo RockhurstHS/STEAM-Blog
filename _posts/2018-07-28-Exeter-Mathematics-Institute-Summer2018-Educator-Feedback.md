@@ -2,6 +2,7 @@
 layout: post
 author: gregowsley
 title: 2018 Exeter Mathematics Institute 
+excerpt: This year’s group of 88 educators averaged just over 100 students when asked how many students the teachers teach in a given year. This means that the two weeks of workshops impacts nearly 90,000 students! 
 tags: math
 indicators: st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 ---
