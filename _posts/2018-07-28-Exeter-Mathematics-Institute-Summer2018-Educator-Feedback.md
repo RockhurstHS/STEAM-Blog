@@ -10,6 +10,17 @@ indicators: st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 
 For a 3rd straight year, Rockhurst High School, St. Teresa’s Academy and the Phillips Exeter Academy partnered to facilitate an Exeter Mathematics Institute for Kansas City area math teachers. Great representation of teachers from schools all across the metropolitan area differentiated this year’s workshop.
 
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/EMI2018(2).JPG"></div>
+</div>
+
+Over one-third of the participants had already attended one of the previous two summers - a testament to the retention power of EMI. This year’s group of 88 educators averaged just over 100 students when asked how many students the teachers teach in a given year. This means that the two weeks of workshops impacts nearly 90,000 students! 
+
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/EMI2018(3).JPG"></div>
+</div>
+
+Furthermore, the learning experience continued to be top notch for these math educators. Over 80% say they will recommend the experience to a peer and over 75% are very likely to attend again!
 
 <div class='tableauPlaceholder' id='viz1538453106334' style='position: relative'>
   <noscript>
@@ -39,18 +50,6 @@ For a 3rd straight year, Rockhurst High School, St. Teresa’s Academy and the P
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-Over one-third of the participants had already attended one of the previous two summers - a testament to the retention power of EMI. This year’s group of 88 educators averaged just over 100 students when asked how many students the teachers teach in a given year. This means that the two weeks of workshops impacts nearly 90,000 students! 
-
-<div class="flex-wrapper">
-  <div class="x1"><img src="{{ site.baseurl }}/img/EMI2018(3).JPG"></div>
-</div>
-
-Furthermore, the learning experience continued to be top notch for these math educators. Over 80% say they will recommend the experience to a peer and over 75% are very likely to attend again!
-
-<div class="flex-wrapper">
-  <div class="x1"><img src="{{ site.baseurl }}/img/EMI2018(2).JPG"></div>
-</div>
-
 So what exactly did the teachers get out of the experience? Below are a list of quotes from some of the survey questions.
 
 <b>Why would you recommend EMI to another teacher?</b>
