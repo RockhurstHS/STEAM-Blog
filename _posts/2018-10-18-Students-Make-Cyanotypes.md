@@ -2,7 +2,7 @@
 layout: post
 author: timnendick
 title: Students Make Cyanotypes
-excerpt: It was a very rewarding experience and showed me that while research can be a long and arduous process, it is not out of reach.
+excerpt: It was a very rewarding experience and showed me that while research can be a long and arduous process, it is not out of reach. All things considered, the process went rather smoothly when considering the complexity of the science we performed. It has been, and will continue to be, one of the coolest and most memorable things I have done at Rockhurst.
 tags: science arts
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 
 ---
