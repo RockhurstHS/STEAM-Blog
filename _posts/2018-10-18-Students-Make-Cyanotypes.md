@@ -6,6 +6,11 @@ excerpt: It was a very rewarding experience and showed me that while research ca
 tags: science arts
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 
 ---
+      
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/CyanotypeDisplay1.jpg"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/CyanotypeDisplay2.jpg"></div>
+</div>
 
 This year, the Rockhurst High School science department launched a new course entitled, "Fundamentals of Scientific Research" ([Read Course Description Here](https://www.rockhursths.edu/file/academics/2018-19/Course-Catalogue-18-19-DT-to-share.pdf)). The students's first quarter project featured student made cyanotypes, now on display in the Rockhurst Learning Commons. Enjoy the student reflections about the project below.
       
