@@ -1,6 +1,6 @@
 ---
 layout: post
-author: gregowsley
+author: nicolesmith
 title: Filmmaking Students produce Stop Motion Videos
 excerpt: My creative mind now uses filmmaking as a way to crave its hunger. I focused on a lot of close up shots to show emotion of my protagonist and antagonist. In stop motion, the number one lesson I learned was patience.
 tags: arts
