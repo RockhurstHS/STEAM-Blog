@@ -13,7 +13,7 @@ This year, the Rockhurst High School science department launched a new course en
   <div class="x1"><img src="{{ site.baseurl }}/img/Cyanotype1.jpg"></div>
 </div>
 
-<center> <b> The reflection below is by student filmmaker, Noah DeHardt (Senior). </b> </center>
+<center> <b> The reflection below is by student researcher, Noah DeHardt (Senior). </b> </center>
 
 We made a cyanotype using steel wool, hydrochloric acid, and all of my sweat and tears. With the help of our fearless leader, Mr. Nendick, our intrepid group of plucky researchers synthesized FAO (Ferric Ammonium Oxalate), a light sensitive chemical, to create an original cyanotype from “scratch.” Perhaps unexpectedly, the longest part of the process was the sheer amount of research that was involved before we even touched a beaker. Before we could even begin, we had to scour thousands and thousands of patents looking for something that we thought could be replicated. Once we finally produced FAO, the work in the darkroom became that much more exciting, as I knew we were close to an end product. We painted the FAO solution onto watercolor paper and waited for the solution to dry. Then, the printing process was relatively simple. We pressed our negatives over the paper using glass. We then exposed our print to sunlight over varying times of two to thirty minutes to develop the picture. Finally, the print was placed in water and acid to prevent further development and sharpen the colors, respectively.
 
@@ -22,7 +22,7 @@ The process of creating a cyanotype from start to finish provided an insight int
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/Cyanotype2.jpg"></div>
 </div>
-<center> <b> The reflection below is by student filmmaker, Dominic Rodriguez (Senior).</b> </center>
+<center> <b> The reflection below is by student researcher, Dominic Rodriguez (Senior).</b> </center>
 
 When I accepted my assignment to create a cyanotype, I did not know what a cyanotype was or how to create one. This state of unfamiliarity was soon relieved as I came to understand that a cyanotype is a photographic blueprint. With the guidance of Mr. Nendick and the rest of the class, I began to research how to make a cyanotype by looking through patents and video resources on YouTube, such as NileRed. After researching, my group and I created a step by step procedure in order to create a cyanotype from scratch.
 
