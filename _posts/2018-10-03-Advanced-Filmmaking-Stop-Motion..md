@@ -25,8 +25,6 @@ LEGO influenced me greatly as I child because they let my creative mind flow. My
 
 <center> <b> The reflection below is by student filmmaker, George Nixon.</b> </center>
 
-Attached is my Stop Motion Reflection:
-
 The time I fell through the roof has stuck with me; it was a nerve wracking experience. The stop motion project challenged me to put my experience into a drawing. The project proved to be very tedious with every frame requiring a different approach. I knew just images would not tell the whole story, so I added a voiceover to make it easier to follow. My patience was tested; however, I am very happy with the end result. I enjoyed the process of making the film, as each step (brainstorming, filming, editing) was equal in importance. The stop motion project was a great time and I am excited to use my knowledge gained from it towards my future projects.
 
 
