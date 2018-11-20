@@ -10,7 +10,7 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.6 st1.11
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/Fr Brown Pitch Space.JPG"></div>
 </div>
-
+<p class="caption">Fr. David Brown S.J. is sharing his experience as a Vatican Astrophysicist to students during Activity Period in the Learning Commons Pitch Space.</p>
 <b>The following reflection is by Rockhurst senior, Dylan Lawrence.</b>
 
 	On October 2nd, 2018, a man coming all the way down from the Vatican Observatory stopped on by. His name is Father David Brown, S.J. He is a priest and an astronomer. Many people question how these two jobs work in conjunction with one another. During the presentation, he spoke about how both faith and reason work together. He is fascinated by God’s Creation and he absolutely loves understanding how this universe was created and the science behind it. His particular field of astronomy focuses on the study of horizontal branch stars, which are stars in the stage of stellar evolution that immediately follow the red giant branch in stars whose masses are similar to the Sun's. When asked about his most fascinating moment while working at the Vatican Observatory, he said that it was during an IAU (International Astronomical Union) meeting where he witnessed several brilliant men and women, some even sporting Nobel Peace prizes.
@@ -19,6 +19,7 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.6 st1.11
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/Fr Brown Class.jpg"></div>
 </div>
+<p class="caption">Fr. David Brown S.J. meets with the Rockhurst High School Newspaper staff for a class interview.</p>
 
 <blockquote>He spoke about how both faith and reason work together.</blockquote>
 
@@ -28,7 +29,7 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.6 st1.11
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/Fr Brown Mass.jpg"></div>
 </div>
-
+<p class="caption">Fr. David Brown S.J. celebrates mass with Rockhurst High School students, staff and parents before school.</p>
 
 <b>From the Vatican Observatory Website:</b>
 
