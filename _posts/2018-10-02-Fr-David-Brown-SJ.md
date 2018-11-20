@@ -3,7 +3,7 @@ layout: post
 author: paulwinkeler
 title: Vatican Astrophysicist Vists Rockhurst 
 excerpt: During the presentation, he spoke about how both faith and reason work together. He is fascinated by God’s Creation and he absolutely loves understanding how this universe was created and the science behind it.
-tags: science studentreflection
+tags: science student-perspectives
 indicators: st1.1 st1.2 st1.3 st1.4 st1.6 st1.11
 ---
       
