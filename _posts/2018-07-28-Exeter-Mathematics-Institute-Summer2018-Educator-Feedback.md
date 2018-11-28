@@ -6,7 +6,7 @@ excerpt: This year’s group of 88 educators averaged just over 100 students whe
 tags: math
 indicators: st1.6 st1.7 st1.8 st1.9 st1.10 st1.11
 ---
-<blockquote> The two weeks of workshops impacts nearly 90,000 students! </blockquote>
+<blockquote> The two weeks of workshops impacts nearly 9,000 students! </blockquote>
 
 For a 3rd straight year, Rockhurst High School, St. Teresa’s Academy and the Phillips Exeter Academy partnered to facilitate an Exeter Mathematics Institute for Kansas City area math teachers. Great representation of teachers from schools all across the metropolitan area differentiated this year’s workshop.
 
@@ -14,7 +14,7 @@ For a 3rd straight year, Rockhurst High School, St. Teresa’s Academy and the P
   <div class="x1"><img src="{{ site.baseurl }}/img/EMI2018(2).JPG"></div>
 </div>
 
-Over one-third of the participants had already attended one of the previous two summers - a testament to the retention power of EMI. This year’s group of 88 educators averaged just over 100 students when asked how many students the teachers teach in a given year. This means that the two weeks of workshops impacts nearly 90,000 students! 
+Over one-third of the participants had already attended one of the previous two summers - a testament to the retention power of EMI. This year’s group of 88 educators averaged just over 100 students when asked how many students the teachers teach in a given year. This means that the two weeks of workshops impacts nearly 9,000 students! 
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/EMI2018(3).JPG"></div>

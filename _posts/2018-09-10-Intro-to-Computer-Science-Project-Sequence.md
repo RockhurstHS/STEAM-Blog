@@ -1,7 +1,7 @@
 ---
 layout: post
 author: jwclark
-title: Project Sequence - Intro to Computer Science 
+title: Intro to Computer Science - Project Sequence  
 excerpt: Since every single freshmen at Rockhurst High School takes this course, our goal is to appeal to the broadest audience possible and to provide a more interesting feedback experience. If you ask our students what they want to learn, you will find the majority point to virtual reality and game design.
 ---
 
