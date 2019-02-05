@@ -14,13 +14,13 @@ For the 2nd year in a row, Rockhurst High School has partnered with the nonprofi
 
 Moses lives with cerebral palsy. When he was adopted by his parents, he carried a Captain America doll around with him wherever he went. As a result, the students decided to turn his wheelchair into a Captain America Avengers costume for Halloween! 
 
-<blockquote>Mr. Murphy’s students in the Design for Industry class built the frame for his wheelchair.
+<p>Mr. Murphy’s students in the Design for Industry class built the frame for his wheelchair.
+</p>
+<p>Students in Mr. Owen’s Painting class colored the costume to reflect the Avengers.</p>
 
-Students in Mr. Owen’s Painting class colored the costume to reflect the Avengers.
+<p>Principels of Engineering studetns programmed Avenger music so that the music would play after Moses pressed buttons attached to the arms of his wheelchair. </p>
 
-Principels of Engineering studetns programmed Avenger music so that the music would play after Moses pressed buttons attached to the arms of his wheelchair. 
-
-Junior Evan Highfill made a documentary of the entire event for his advanced Filmmaking class with Ms. Smith. </blockquote>
+<p>Junior Evan Highfill made a documentary of the entire event for his advanced Filmmaking class with Ms. Smith.</p>
 
 Interdisciplinary projects with an an authentic audience like these are the reason why Rockhurst High School joined the [CAPS Network](https://www.rockhursths.edu/pages/news/news---rockhurst-joins-caps-network) in May of 2018.
 
