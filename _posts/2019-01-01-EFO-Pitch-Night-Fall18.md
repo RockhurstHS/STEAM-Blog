@@ -17,16 +17,16 @@ Students from the Entrepreneurship for Others (EFO) class pitched their business
 
 Each student led company had 5 minutes to pitch their product or service. Afterwards, the panel of judges had 5 additional minutes for questions. The class is in its 2nd year with a goal of allowing the young men to get creative, work in teams, research, pitch, grow and potentially fail. The fall of 2018 semester produced 8 student teams that tackled a variety of issues that the students felt were important. 
 
-<li>
-   1. RecBooth - portable, cost effective recording/event software.
-   2. Educomm - school teacher/administration communication tool to help timing of homework and tests across the entire school. 
-   3. Puarlee & Co. - retractable wired headphones accessory. 
-   4. Grainess - safety harness for farmers to access grain bins.
-   5. Project X - proper football tackling sensory technology.
-   6. Project Christopher - automobile vehicle sensory system.
-   7. Cool Moms - folding chair cooling component.
-   8. Magnetic Magic - magnetic features on shirts to ease use for those with Parkinson's, arthritis, amputees and other rare conditions.
-</li>
+<ol>
+  <li>RecBooth - portable, cost effective recording/event software.</li>
+  <li>Educomm - school teacher/administration communication tool to help timing of homework and tests across the entire school.</li>
+  <li>Puarlee & Co. - retractable wired headphones accessory.</li>
+  <li>Grainess - safety harness for farmers to access grain bins.</li>
+  <li>Project X - proper football tackling sensory technology.</li>
+  <li>Project Christopher - automobile vehicle sensory system.</li>
+  <li>Cool Moms - folding chair cooling component.</li>
+  <li>Magnetic Magic - magnetic features on shirts to ease use for those with Parkinson's, arthritis, amputees and other rare conditions.</li>
+</ol>
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/EFO Most Viable.JPG"></div>
