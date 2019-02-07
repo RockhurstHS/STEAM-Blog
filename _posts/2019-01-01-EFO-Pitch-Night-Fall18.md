@@ -39,7 +39,8 @@ Providing an authentic audience for the students is a growing point of emphasis 
 10 other adult entrepreneurs worked with the students in the 1st quarter at a [City-Wide MECA Challenge](http://steam.rockhursths.edu/2018/09/24/City-Wide-MECA-Challenge.html), which is an entrepreneurial challenge.
 All the students shared their project at [Global Entrepreneurship Week](http://steam.rockhursths.edu/2018/11/13/GEW.html)
       
-      
+<blockquote>"This had been maybe the funnest and best class I have taken at Rockhurst and my life so far." - EFO student</blockquote>
+
 It will be exciting to see what great work comes out of the new group of students for EFO Spring 2019! 
 
 <div class="flex-wrapper">
