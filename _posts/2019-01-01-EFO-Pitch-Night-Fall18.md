@@ -2,7 +2,7 @@
 layout: post
 author: gregowsley
 title: EFO Pitch Night
-excerpt: 
+excerpt: On Wednesday, December 12th, 2018. In front of a panel of judges and over 100 guests including parents, faculty and alumni, the 24 students in the Entrepreneurship for Others class showcased business canvas, their prototypes and market research developed over the course of the semester. 
 tags: computerscience studentreflection
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.11
 ---
