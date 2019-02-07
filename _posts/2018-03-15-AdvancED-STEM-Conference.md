@@ -34,6 +34,11 @@ In order for a school to earn a STEM certification, a school [must provide evide
 <blockquote> Thank you for an insightful and well-constructed conference! I met a lot of wonderful people and learned a great deal about the incredible work being done at Rockhurst and other organizations in our region. I look forward to sharing my learning with my KC STEM colleagues. - Community Partner</blockquote>
 
 Rockhurst High School desires to serve the community. Students at Rockhurst participate in thousands of hours of community service each year.  Nearly fifty faculty, administration and staff modeled this same behavior, but in service to their counterparts at other schools. This STEM Conference is simply one indicator and artifact that Rockhurst is [helping lift up education](http://steam.rockhursths.edu/2018/04/01/STEAM-Supports-Catholic-Education.html) across the entire community. [Rockhurst High School’s mission](https://www.rockhursths.edu/pages/about-us/school-information/about-us---school-information---mission-and-vision) is to form “Men with and for Others”; this conference is an example of how the school models for its students by being a “School with and for Others.”
+
+Special thanks to the [Creators Group](https://www.creatorsgroup.com/) (Formerly the Eighty 80 Rule) for putting together the following VLOG of the event!
+<center><iframe src="https://player.vimeo.com/video/268462041" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/268462041">STEM Conference 2018 Vlog</a> from <a href="https://vimeo.com/rockhursths">Rockhurst High</a> on <a href="https://vimeo.com">Vimeo</a>.</p> </center> 
+  
   
 <blockquote> Thanks for taking the time and effort to host this conference.  This was a great opportunity for me as I begin initiating the STREAM initiative at my school.  I was able to get a great amount of information from the sessions and spend time talking and collaborating with others who attended. - Local Catholic Parochial School Principal</blockquote>
 
