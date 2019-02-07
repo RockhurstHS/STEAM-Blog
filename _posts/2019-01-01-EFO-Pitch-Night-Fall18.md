@@ -18,14 +18,14 @@ Students from the Entrepreneurship for Others (EFO) class pitched their business
 Each student led company had 5 minutes to pitch their product or service. Afterwards, the panel of judges had 5 additional minutes for questions. The class is in its 2nd year with a goal of allowing the young men to get creative, work in teams, research, pitch, grow and potentially fail. The fall of 2018 semester produced 8 student teams that tackled a variety of issues that the students felt were important. 
 
 <ol>
-  <li>RecBooth - portable, cost effective recording/event software.</li>
-  <li>Educomm - school teacher/administration communication tool to help timing of homework and tests across the entire school.</li>
-  <li>Puarlee & Co. - retractable wired headphones accessory.</li>
-  <li>Grainess - safety harness for farmers to access grain bins.</li>
-  <li>Project X - proper football tackling sensory technology.</li>
-  <li>Project Christopher - automobile vehicle sensory system.</li>
-  <li>Cool Moms - folding chair cooling component.</li>
-  <li>Magnetic Magic - magnetic features on shirts to ease use for those with Parkinson's, arthritis, amputees and other rare conditions.</li>
+  <li><b>RecBooth</b> - portable, cost effective recording/event software.</li>
+  <li><b>Educomm</b> - school teacher/administration communication tool to help timing of homework and tests across the entire school.</li>
+  <li><b>Puarlee & Co.</b> - retractable wired headphones accessory.</li>
+  <li><b>Grainess</b> - safety harness for farmers to access grain bins.</li>
+  <li><b>Project X</b> - proper football tackling sensory technology.</li>
+  <li><b>Project Christopher</b> - automobile vehicle sensory system.</li>
+  <li><b>Cool Moms</b> - folding chair cooling component.</li>
+  <li><b>Magnetic Magic</b> - magnetic features on shirts to ease use for those with Parkinson's, arthritis, amputees and other rare conditions.</li>
 </ol>
 
 <div class="flex-wrapper">
@@ -35,9 +35,9 @@ Each student led company had 5 minutes to pitch their product or service. Afterw
 
 Providing an authentic audience for the students is a growing point of emphasis for the Rockhurst learning experience. Indicator [1.11 of the STEM Certification](http://steam.rockhursths.edu/stem-certification/indicators/st1.11/) emphasizes the importance of relative adult-world connections in supporting student learning. The EFO class created multiple opportunities for students to interact with adults.
 <ol>
-<li>9 different entrepreneurs shared their story to the class. Each entrepreneur was interviewed by two students in front of the class.</li>
-<li>11 different adult professionals came to class to meet with various groups to help mentor them as they worked on solving their problem.</li>
-<li>10 other adult entrepreneurs worked with the students in the 1st quarter at a [City-Wide MECA Challenge](http://steam.rockhursths.edu/2018/09/24/City-Wide-MECA-Challenge.html), which is an entrepreneurial challenge.</li>
+  <li><b>9</b> different entrepreneurs shared their story to the class. Each entrepreneur was interviewed by two students in front of the class.</li>
+  <li><b>11</b> different adult professionals came to class to meet with various groups to help mentor them as they worked on solving their problem.</li>
+  <li><b>10</b> other adult entrepreneurs worked with the students in the 1st quarter at a [City-Wide MECA Challenge](http://steam.rockhursths.edu/2018/09/24/City-Wide-MECA-Challenge.html), which is an entrepreneurial challenge.</li>
 <li>All the students shared their project at [Global Entrepreneurship Week](http://steam.rockhursths.edu/2018/11/13/GEW.html)</li>
       
 <blockquote>"This had been maybe the funnest and best class I have taken at Rockhurst and my life so far." - EFO student</blockquote>
