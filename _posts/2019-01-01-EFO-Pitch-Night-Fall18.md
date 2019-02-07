@@ -31,9 +31,14 @@ Each student led company had 5 minutes to pitch their product or service. Afterw
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/EFO Most Viable.JPG"></div>
 </div>
-<p class="caption">Magnetic magic won most viable product after impressing the judges with a product they can see going to market.</p>
+<p class="caption">Magnetic magic won most viable product after impressing the judges with a product they can see going to market. members include junior Mark Hallier, senior Aidan Matlock and senior Joseph Mandacina.</p>
 
 Providing an authentic audience for the students is a growing point of emphasis for the Rockhurst learning experience. Indicator [1.11 of the STEM Certification](http://steam.rockhursths.edu/stem-certification/indicators/st1.11/) emphasizes the importance of relative adult-world connections in supporting student learning. The EFO class created multiple opportunities for students to interact with adults.
+
+<div class="flex-wrapper">
+  <div class="x1"><img src="{{ site.baseurl }}/img/EFO Best Process.jpeg"></div>  
+</div>
+<p class="caption">Educomm received he award for best process. This all senior team included RJ Pascuzzi, Al Ba, Tyler Nelson and Tonyo Grandison. </p>
 
   * **9** different entrepreneurs shared their story to the class. Each entrepreneur was interviewed by two students in front of the class.
   * **11** different adult professionals came to class to meet with various groups to help mentor them as they worked on solving their problem.
@@ -45,7 +50,6 @@ Providing an authentic audience for the students is a growing point of emphasis 
 It will be exciting to see what great work comes out of the new group of students for EFO Spring 2019! 
 
 <div class="flex-wrapper">
-  <div class="x1"><img src="{{ site.baseurl }}/img/EFO Best Pitch.jpeg"></div>
-  <div class="x1"><img src="{{ site.baseurl }}/img/EFO Best Process.jpeg"></div>
+  <div class="x1"><img src="{{ site.baseurl }}/img/EFO Best Pitch.jpeg"></div>  
 </div>
-<p class="caption">Project Christopher won best pitch and Educomm received he award for best process.</p>
+<p class="caption">Project Christopher won best pitch. This team included Zach Andreson, Anthony Haggerty and Thomas Chastain.</p>
