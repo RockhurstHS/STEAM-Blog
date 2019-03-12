@@ -15,7 +15,7 @@ indicators:
 <p class="caption">Rockhurst STEAM students posing for a picture with Secretary of State, Jay Ashcroft.</p>
 </center>
 
-Seven students travelled to Jefferson City, MO on March 7th, to celebrate [STEM Day at the Capitol](https://mochamber.com/stem-day/). Each student showcased their unique STEAM project to legislators, policy makers, industry partners and other educators. This was a wonderful opportunity for Rockhurst High School students to advocate for the important of STEAM education to the state government officials. Rockhurst students also spent time witnessing both the state house representatives and the state senators in session. 
+Seven students travelled to Jefferson City, MO on March 7th, to celebrate [STEM Day at the Capitol](https://mochamber.com/stem-day/). Each student showcased their unique STEAM project to legislators, policy makers, industry partners and other educators. A couple of examples include senior Daniel Tartaglia explaining how he is using an acid solution to harvest platinum from donated catalytic converters previously used in old cars and senior Austin Sands showing off his very own game that can be downloaded on iTunes. This was a wonderful opportunity for Rockhurst High School students to advocate for the important of STEAM education to the state government officials. Rockhurst students also spent time witnessing both the state house representatives and the state senators in session. 
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/STEMDayAtCapitol2.jpg"></div>
