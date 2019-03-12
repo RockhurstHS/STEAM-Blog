@@ -46,7 +46,7 @@ Students from Rockhurst were invited by the event host, Missouri Chamber of Comm
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/STEMDayAtCapitol5.jpg"></div>
 </div>
-<p class="caption">Seniors Daniel Tartaglia, Leyton Rebori, Anthony Haggerty, Austin Sands, Watson Deacon and juniors Tanner Helton and Aidan Lake.</p>
+<p class="caption">From left to right: Leyton Rebori '19, Austin Sands '19, Anthony Haggerty '19, Mr. Greg Owsley '00, Daniel Tartaglia '19, Aidan Lake '20, Tanner Helton '20, Watson Deacon '19.</p>
 
 
 
