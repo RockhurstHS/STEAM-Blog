@@ -38,6 +38,8 @@ Students from Rockhurst were invited by the event host, Missouri Chamber of Comm
 <p class="caption">Anthony Haggerty is explainging how he applied STEM skills for his Entrepreneurship class. Aidan Lake & Tanner Helton are sharing their computer science programs with Miss Teen Missouri, USA.</p>
 </center>
 
+<blockquote>"I finally understand how important STEM is." - Anthony Haggerty on the 0:45 mark on the video below.</blockquote>
+
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/MOSTEMDay19?src=hash&amp;ref_src=twsrc%5Etfw">#MOSTEMDay19</a> was a blast! Enjoy these highlights of a few of the students and organizations who joined us to celebrate <a href="https://twitter.com/hashtag/STEM?src=hash&amp;ref_src=twsrc%5Etfw">#STEM</a> education at the Capitol today. <a href="https://t.co/xGO0ae8Fky">pic.twitter.com/xGO0ae8Fky</a></p>&mdash; Missouri Chamber (@MissouriChamber) <a href="https://twitter.com/MissouriChamber/status/1103768324616282112?ref_src=twsrc%5Etfw">March 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
