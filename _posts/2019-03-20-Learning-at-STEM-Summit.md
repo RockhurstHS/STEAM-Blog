@@ -3,7 +3,7 @@ layout: post
 author: gregowsley
 title: Learning at the 2019 STEM Summit
 tags: science technology engineering math 
-excerpt: 
+excerpt: What did we learn at the 2019 STEM Summit?
 ---
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRS98g5kUUz9LgD7d2EsCJVLwRGnrDoNraUs2DH45eTDCQc9wv8rvhUdT8YPttAk_2AP3wljNThldKz/pubhtml
@@ -65,7 +65,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vRS98g5kUUz9LgD7d2EsCJVLwRGnrDoN
 <script>
 // these sources need to be published on the web for this app to work correctly.
 var source1 = 'https://docs.google.com/spreadsheets/d/1r18EHVyqB8m47S8cliQSTAOnb9H5z1w8vUvmlWoZWG0/edit#gid=1847657122';
-var source2 = 'https://docs.google.com/spreadsheets/d/1pdwvdwZUdiro9JP318D1XjlsehoqtSHR0qzMc5hm0Ug/edit#gid=614798975';
+var source2 = 'https://docs.google.com/spreadsheets/d/1sxcZxHlXjamJjYCukxu7aogH7yxfjqxKOmUsubzySfw/edit#gid=193257641';
 
 var viz = new TwoPartyVisual();
 viz.loadPearDeckSheets(source1, source2)
