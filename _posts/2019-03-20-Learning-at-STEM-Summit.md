@@ -6,8 +6,6 @@ tags: science technology engineering math
 excerpt: What did we learn at the 2019 STEM Summit?
 ---
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRS98g5kUUz9LgD7d2EsCJVLwRGnrDoNraUs2DH45eTDCQc9wv8rvhUdT8YPttAk_2AP3wljNThldKz/pubhtml
-
 <!-- SEARCH BAR -->
 <form id="g-form">
     <input style="height:20px;" type="text" name="search" placeholder="Add word or phrase" tabindex="1">
