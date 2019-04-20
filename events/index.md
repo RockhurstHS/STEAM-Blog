@@ -7,7 +7,14 @@ If you have any questions about the events below, then please email Mr. Greg Ows
  <div class="flex-wrapper">
   <img src="/img/BurnsMcDonnellLogo.jpg">
 </div>     
-    
+
+## Burns & McDonnell Engineering U - FREE
+Dates: Various Dates in June
+<b>Deadline:</b> May 10th
+
+[Apply Here](https://info.burnsmcd.com/engineeringu?utm_campaign=BMCD_K12-STEM&utm_medium=handout%20card&utm_source=OPR_EngineeringU_10730%20vanity)
+
+
 ## Burns & McDonnell Career Exploration Night
 ### Tuesday, December 4th
 
