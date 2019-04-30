@@ -1,0 +1,21 @@
+---
+layout: post
+author: gregowsley
+title: The Student behind the Jesubot Entrepreneurship Award
+tags: science technology engineering arts 
+excerpt: 
+---
+
+<blockquote>“There is a reason why the Jesuits Push reflection. It works for us.”</blockquote>
+
+Nearly 3,000 people attended the Greater Kansas City Robotics Regional event from March 22-24th, 2019 hosted at Rockhurst High School. 36 teams comprising nearly 1,000 students competed in a Deep Space challenge. The event kicked off with [two Jesubots singing the National Anthem](https://www.youtube.com/watch?v=7-WL1TO-V6M&feature=youtu.be)!
+
+When the event culminated, the Rockhurst Jesubots were awarded the “Entrepreneurship Award.” What does this mean exactly? In order to answer that question, the first step is to ask the Jesubot known by his peers as “The Lawyer”.
+
+Part of the reason that Andrew Meyer earned his nickname is the fact that his main job responsibility is to ensure that the robot stays ‘legal’. When competing in FIRST Robotics, the Jesubots must abide by a 180ish page rule book. The rule book describes things such as how far a limb can come out of the robot perimeter (15 inches this year) or if it’s ok if bolts stick out of the robot (yes, but they have to be less than or equal to 0.5 inches and rounded).  Andrew spends approximately 10 hours during the season [summarizing this manual into a condensed spreadsheet](https://docs.google.com/spreadsheets/d/1GMIPKBeCooTrfqgG6DY16Hd3iF5IsFrkJnwX8mAR60w/edit?usp=sharing) that can be more easily digested by team members. 
+
+Another aspect of his role is to go out and form relationships with people in the community. When Andrew was a freshman, this resulted in a relationship with Willaby Design, who designed the Jesubot logo.
+
+Furthermore, when the competition is ongoing, Andrew serves as the public relations liaison. One strategy for team success is to remove any impediments and distractions that keep the build team and the program team from working on the robot. Thousands of people walk around the pit area in a given day, which could potentially equal thousands of distractions. Andrew greets all of these well intentioned and curious visitors and answers all their questions. His interception allows his teammates to focus on their robot and the competition. Through these interventions, Andrew also helps secure one of the Jesubot’s core values: “No adults can touch the robot!” Unlike some of their peer teams, the Rockhurst Jesubots pride themselves in the fact that the only people to touch the robot from beginning build to competition completion are the students themselves. In fact, the mentor motto for the Jesubots is “Teach them, Lead them, Let them.” (This mentor motto is so prevalent that the students sometimes think that the mentors add a “laugh at them” at the end because at times, the students wish they had even more help!) When Andrew greets interested visitors, he is also able to prevent them from being too curious and touching their robot. 
+
+In order to compete for the entrepreneurship award, the robotics teams must submit a [business plan](https://drive.google.com/file/d/1bkOpPfQiGY1asOXqZytV_YwS904eN0lR/view?usp=sharing) along with an executive summary. According to Andrew, what helped make the Jesubot documents stand out was the emphasis on reflection as a team value. At the beginning of the year, each member of the Robotics team wrote down individual goals for the robot and offer those goals in the mass. Therefore, in a very real way, the reflective values were implemented in the design of the robot. The fact that every member of the Jesubots had an individual goal made the team stand out. “Goal setting taken seriously makes a huge impact,” says Andrew. Incorporating a reflection process surrounding these goals has been a major contributing factor to the success of the Jesubots during the first four years. “There is a reason why the Jesuits Push it. It works for us, but only if we actually do it.”
