@@ -16,6 +16,7 @@ When the event culminated, the Rockhurst Jesubots were awarded the “Entreprene
     <img src="{{ site.baseurl }}/img/AndrewMeyer1.jpg">
     <img src="{{ site.baseurl }}/img/AndrewMeyer3.jpg">
 </div>
+<p class="caption">Throughout the last couple of years, Andrew Meyer has made this spot his place of study. The hallway connects the main academic building to the robotics room. His chair is across from the mural of the Global Jesuit Network. This is the perfect spot for this young man and his particular skillset.</p>
 
 Part of the reason that Andrew Meyer earned his nickname is the fact that his main job responsibility is to ensure that the robot stays ‘legal’. When competing in FIRST Robotics, the Jesubots must abide by a 180ish page rule book. The rule book describes things such as how far a limb can come out of the robot perimeter (15 inches this year) or if it’s ok if bolts stick out of the robot (yes, but they have to be less than or equal to 0.5 inches and rounded).  Andrew spends approximately 10 hours during the season [summarizing this manual into a condensed spreadsheet](https://docs.google.com/spreadsheets/d/1GMIPKBeCooTrfqgG6DY16Hd3iF5IsFrkJnwX8mAR60w/edit?usp=sharing) that can be more easily digested by team members. 
 
