@@ -12,6 +12,11 @@ Nearly 3,000 people attended the Greater Kansas City Robotics Regional event fro
 
 When the event culminated, the Rockhurst Jesubots were awarded the “Entrepreneurship Award.” What does this mean exactly? In order to answer that question, the first step is to ask the Jesubot known by his peers as “The Lawyer”.
 
+<div class="flex-wrapper">
+    <img src="{{ site.baseurl }}/img/AndrewMeyer1.jpg">
+    <img src="{{ site.baseurl }}/img/AndrewMeyer3.jpg">
+</div>
+
 Part of the reason that Andrew Meyer earned his nickname is the fact that his main job responsibility is to ensure that the robot stays ‘legal’. When competing in FIRST Robotics, the Jesubots must abide by a 180ish page rule book. The rule book describes things such as how far a limb can come out of the robot perimeter (15 inches this year) or if it’s ok if bolts stick out of the robot (yes, but they have to be less than or equal to 0.5 inches and rounded).  Andrew spends approximately 10 hours during the season [summarizing this manual into a condensed spreadsheet](https://docs.google.com/spreadsheets/d/1GMIPKBeCooTrfqgG6DY16Hd3iF5IsFrkJnwX8mAR60w/edit?usp=sharing) that can be more easily digested by team members. 
 
 Another aspect of his role is to go out and form relationships with people in the community. When Andrew was a freshman, this resulted in a relationship with Willaby Design, who designed the Jesubot logo.
