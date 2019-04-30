@@ -22,11 +22,8 @@ Part of the reason that Andrew Meyer earned his nickname is the fact that his ma
 
 Another aspect of his role is to go out and form relationships with people in the community. When Andrew was a freshman, this resulted in a relationship with [Willoughby Design](https://willoughbydesign.com/), who designed the Jesubot logo.
 
-<div class="flex-wrapper">
-  <figure>
-    <img src="{{ site.baseurl }}/img/Jesubots logo from willoughby.jpg">
-    <figcaption> The above logo created by Willoughby.</figcaption>
-  </figure>
+<div class="center">
+  <img alt="This logo created by Willoughby." src="{{ site.baseurl }}/img/Jesubots logo from willoughby.jpg">
 </div>
 
 <div class="flex-wrapper">
