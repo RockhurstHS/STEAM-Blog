@@ -46,4 +46,3 @@ In order to compete for the entrepreneurship award, the robotics teams must subm
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-&nbsp;
