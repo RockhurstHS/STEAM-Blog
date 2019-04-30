@@ -3,7 +3,7 @@ layout: post
 author: gregowsley
 title: The Student behind the Jesubot Entrepreneurship Award
 tags: science technology engineering arts 
-excerpt: 
+excerpt: There is a reason why the Jesuits Push reflection. It works for us.
 ---
 
 <blockquote>“There is a reason why the Jesuits Push reflection. It works for us.”</blockquote>
