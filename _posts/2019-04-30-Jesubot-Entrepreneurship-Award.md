@@ -32,3 +32,8 @@ Furthermore, when the competition is ongoing, Andrew serves as the public relati
 </div>
 
 In order to compete for the entrepreneurship award, the robotics teams must submit a [business plan](https://drive.google.com/file/d/1bkOpPfQiGY1asOXqZytV_YwS904eN0lR/view?usp=sharing) along with an executive summary. According to Andrew, what helped make the Jesubot documents stand out was the emphasis on reflection as a team value. At the beginning of the year, each member of the Robotics team wrote down individual goals for the robot and offer those goals in the mass. Therefore, in a very real way, the reflective values were implemented in the design of the robot. The fact that every member of the Jesubots had an individual goal made the team stand out. “Goal setting taken seriously makes a huge impact,” says Andrew. Incorporating a reflection process surrounding these goals has been a major contributing factor to the success of the Jesubots during the first four years. “There is a reason why the Jesuits Push it. It works for us, but only if we actually do it.”
+
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Jesubots FIRST robot on display in the Learning Commons. AMDG <a href="https://t.co/dNBiKBjKki">pic.twitter.com/dNBiKBjKki</a></p>&mdash; David J Laughlin (@RockHighPres) <a href="https://twitter.com/RockHighPres/status/1121516506536390656?ref_src=twsrc%5Etfw">April 25, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
