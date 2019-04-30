@@ -20,7 +20,18 @@ When the event culminated, the Rockhurst Jesubots were awarded the “Entreprene
 
 Part of the reason that Andrew Meyer earned his nickname is the fact that his main job responsibility is to ensure that the robot stays ‘legal’. When competing in FIRST Robotics, the Jesubots must abide by a 180ish page rule book. The rule book describes things such as how far a limb can come out of the robot perimeter (15 inches this year) or if it’s ok if bolts stick out of the robot (yes, but they have to be less than or equal to 0.5 inches and rounded).  Andrew spends approximately 10 hours during the season [summarizing this manual into a condensed spreadsheet](https://docs.google.com/spreadsheets/d/1GMIPKBeCooTrfqgG6DY16Hd3iF5IsFrkJnwX8mAR60w/edit?usp=sharing) that can be more easily digested by team members. 
 
-Another aspect of his role is to go out and form relationships with people in the community. When Andrew was a freshman, this resulted in a relationship with Willaby Design, who designed the Jesubot logo.
+Another aspect of his role is to go out and form relationships with people in the community. When Andrew was a freshman, this resulted in a relationship with [Willoughby Design](https://willoughbydesign.com/), who designed the Jesubot logo.
+
+<div class="flex-wrapper">
+  <figure>
+    <img src="{{ site.baseurl }}/img/Jesubots logo from willoughby.jpg">
+    <figcaption> The above logo created by Willoughby.</figcaption>
+  </figure>
+</div>
+
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Take a walk with me through the Loyola Center. It looks different today.  Motion sickness warning advisement. 🤢🤢Robots. Go Jesubots!  AMDG <a href="https://t.co/MTDReAvG3M">pic.twitter.com/MTDReAvG3M</a></p>&mdash; David J Laughlin (@RockHighPres) <a href="https://twitter.com/RockHighPres/status/1108787734213287936?ref_src=twsrc%5Etfw">March 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 Furthermore, when the competition is ongoing, Andrew serves as the public relations liaison. One strategy for team success is to remove any impediments and distractions that keep the build team and the program team from working on the robot. Thousands of people walk around the pit area in a given day, which could potentially equal thousands of distractions. Andrew greets all of these well intentioned and curious visitors and answers all their questions. His interception allows his teammates to focus on their robot and the competition. Through these interventions, Andrew also helps secure one of the Jesubot’s core values: “No adults can touch the robot!” Unlike some of their peer teams, the Rockhurst Jesubots pride themselves in the fact that the only people to touch the robot from beginning build to competition completion are the students themselves. In fact, the mentor motto for the Jesubots is “Teach them, Lead them, Let them.” (This mentor motto is so prevalent that the students sometimes think that the mentors add a “laugh at them” at the end because at times, the students wish they had even more help!) When Andrew greets interested visitors, he is also able to prevent them from being too curious and touching their robot. 
 
