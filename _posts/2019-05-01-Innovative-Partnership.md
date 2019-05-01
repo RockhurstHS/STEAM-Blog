@@ -3,7 +3,7 @@ layout: post
 author: gregowsley
 title: An Innovative Partnership
 tags: science technology engineering math 
-excerpt: What is the impact of the partnerhsip with AdvancED?
+excerpt: What is the impact of the partnerhsip with AdvancED and Rockhurst High School?
 ---
 
 For the 2nd year in a row, Rockhurst High School partnered with AdvancED to host a regional STEM Summit. [Read about last year’s event here](http://steam.rockhursths.edu/2018/03/15/AdvancED-STEM-Conference.html). During March 19th & 20th, over 100 educators from 12 states, representing over 50 schools attended to hear [Rockhurst’s story of earning a STEM certification](https://www.rockhursths.edu/pages/news/news---stem-certification) and learn how the process might work at their respective school. A data visualization of the attendees can be seen below.
