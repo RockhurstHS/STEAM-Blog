@@ -14,6 +14,10 @@ For the 2nd year in a row, Rockhurst High School partnered with AdvancED to host
 
 In order for a school to earn a STEM certification, a school [must provide evidence](http://steam.rockhursths.edu/stem-certification/) and artifacts of exemplar practice that supports the eleven indicators of the AdvancED STEM Standard. Each of the conference’s 33 90-minute breakout sessions ([the session program can be seen here](https://custom.cvent.com/110075779E56425DB8EDA43F961FFAB6/files/b1c372dc912c4ba19d8cbd55cbad7a88.pdf)) represented practices and behaviors of these eleven indicators. Therefore, each of the sessions empowered educators with tools, contacts and steps that they can implement at their respective schools. In 2019, 30% of the sessions were administered by one of 5 local universities!
 
+<div class="center">
+  <img alt="" src="{{ site.baseurl }}/img/2019AdvED2.png">
+</div>
+
 <blockquote>I am pleased that there is a STEM Summit. I did gain some wonderful insight from other teachers I spoke with while attending and would like to see this event grow in strength.</blockquote)
 
 This is the 2nd year that Rockhurst has partnered with AdvancED to host this professional development event. Based on feedback, 92% of participants would recommend this event to a colleague and 76% would attend again. This STEM Conference is simply one indicator and artifact that Rockhurst is [helping lift up education](http://steam.rockhursths.edu/2018/04/01/STEAM-Supports-Catholic-Education.html) across the entire community. From both last year’s and this year’s event, numerous school tours have resulted. Area schools are becoming less and less siloed. The Summit itself support learning. Participants participate in a pre-test and post-test to determine how they define successful STEM Education. Check out the results of the [2018](http://steam.rockhursths.edu/2018/04/02/The-Words-We-Use.html) and [2019](http://steam.rockhursths.edu/2019/03/20/Learning-at-STEM-Summit.html) event.
@@ -21,16 +25,32 @@ This is the 2nd year that Rockhurst has partnered with AdvancED to host this pro
 <blockquote>Loved KC. Coming from SD, we loved your weather. Fun stuff to do. Loved the school that it was held in.
 </blockquote>
 
+<div class="center">
+  <img alt="" src="{{ site.baseurl }}/img/2019AdvED1.png">
+</div>
+
 In fact, the KC STEM Alliance even put together a [Carnegie STEM Excellence Pathway professional development event](https://drive.google.com/file/d/0B1-JIRrX_4I5TlVKZzk2WDRWQzVISzI0cXlEN3RuWlMydUFR/view?usp=sharing) specifically for local parochial schools and 90+ people attended the event in the fall of 2018; Rockhurst’s STEAM Director [presented on their panel](https://drive.google.com/file/d/1E-HGfgF7gihVdMRlPaCXFEEAqh2Pq5YK/view?usp=sharing). 
 
 <blocquote>Interdisciplinary was the most important thing I got from this
 </blockquote>
 
+<div class="center">
+  <img alt="" src="{{ site.baseurl }}/img/2019AdvED3.png">
+</div>
+
 The partnership between Rockhurst and AdvancED helped provide evidence to the KC STEM Alliance the market need and desire of Parochial schools to engage in the STEM Education conversation. Finally, it was recently announced by Rockhurst University that they will now offer a [master’s degree in K-8 STEM Education](https://www.rockhurst.edu/education/graduate/master-educational-studies#steam) due to the high numbers of requests from educators to be more qualified.
+
+<div class="center">
+  <img alt="" src="{{ site.baseurl }}/img/2019AdvED4.png">
+</div>
 
 <blockquote>I felt welcomed into your school. The environment was fueled with learning. Thank you! I would like to be in contact in the future, as our school will be seeking the Advanced Ed STEM Certification. You made me feel invited to do so. Again, I appreciate it.</blockquote>
 
  [Rockhurst High School’s mission](https://www.rockhursths.edu/pages/about-us/school-information/about-us---school-information---mission-and-vision) is to form “Men with and for Others”; this summit is an example of how the school models for its students by being a “School with and for Others.” Through the partnership with AdvancED, over 50 schools learn about the [AdvancED STEM Certification](http://steam.rockhursths.edu/stem-certification/) and the [11 indicators](http://steam.rockhursths.edu/stem-certification/) that define successful STEM Education based on AdvancED.
+
+<div class="center">
+  <img alt="" src="{{ site.baseurl }}/img/2019AdvED5.png">
+</div>
 
 <blocquote>There was so much more I wanted to experience and learn. Perhaps 2 full days?
 </blockquote>
