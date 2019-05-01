@@ -6,6 +6,10 @@ tags: science technology engineering math
 excerpt: What did we learn at the 2019 STEM Summit?
 ---
 
+Similar to [last year](http://steam.rockhursths.edu/2018/04/02/The-Words-We-Use.html), educators recognize that successful STEM education extends much past the acronym. When educators are asked to describe successful STEM education in a pre-test and a post-test of the [AdvancED STEM Summit](http://www.cvent.com/events/advanced-midwest-stem-summit-2019/event-summary-dd6ce7f8f112483b82d5e669634413cf.aspx?dvce=1), they consistently use the acronym less in the post-test. 
+
+The bubbles below are prepopulated words that occur often in the [11 indicators](http://steam.rockhursths.edu/stem-certification/) of the AdvancED STEM Certification. When you click on a bubble, the quotes from participating educators will appear below. By using the search tab, you can type in words that you might find crucial to successful STEM education. A new bubble with your word will appear. By clicking on that bubble, then you can read the quote from the participating educator as well. For example, if you type the word 'partnerships', then you will see more than twice the emphasis during the post-test versus the pre-test.
+
 <!-- SEARCH BAR -->
 <form id="g-form">
     <input style="height:20px;" type="text" name="search" placeholder="Add word or phrase" tabindex="1">
