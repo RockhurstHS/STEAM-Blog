@@ -51,7 +51,7 @@ The partnership between Rockhurst and AdvancED helped provide evidence to the [K
   <img alt="How likely would you recommend this summit to a colleage?" src="{{ site.baseurl }}/img/2019AdvED4.png">
 </div>
 
-<blocquote>There was so much more I wanted to experience and learn. Perhaps 2 full days?
+<blockquote>There was so much more I wanted to experience and learn. Perhaps 2 full days?
 </blockquote>
 
 
