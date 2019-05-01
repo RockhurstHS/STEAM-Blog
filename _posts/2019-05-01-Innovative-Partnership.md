@@ -18,7 +18,7 @@ In order for a school to earn a STEM certification, a school [must provide evide
   <img alt="Type of School" src="{{ site.baseurl }}/img/2019AdvED1.png">
 </div>
 
-<blockquote>I am pleased that there is a STEM Summit. I did gain some wonderful insight from other teachers I spoke with while attending and would like to see this event grow in strength.</blockquote)
+<blockquote>I am pleased that there is a STEM Summit. I did gain some wonderful insight from other teachers I spoke with while attending and would like to see this event grow in strength.</blockquote>
 
 This is the 2nd year that Rockhurst has partnered with AdvancED to host this professional development event. Based on feedback, 92% of participants would recommend this event to a colleague and 76% would attend again. This STEM Conference is simply one indicator and artifact that Rockhurst is [helping lift up education](http://steam.rockhursths.edu/2018/04/01/STEAM-Supports-Catholic-Education.html) across the entire community. From both last year’s and this year’s event, numerous school tours have resulted. Area schools are becoming less and less siloed. The Summit itself support learning. Participants participate in a pre-test and post-test to determine how they define successful STEM Education. Check out the results of the [2018](http://steam.rockhursths.edu/2018/04/02/The-Words-We-Use.html) and [2019](http://steam.rockhursths.edu/2019/03/20/Learning-at-STEM-Summit.html) event.
 
