@@ -40,7 +40,7 @@ This is the 2nd year that Rockhurst has partnered with AdvancED to host this pro
   <img alt="Grade Level of School" src="{{ site.baseurl }}/img/2019AdvED2.png">
 </div>
 
-In fact, the KC STEM Alliance even put together a [Carnegie STEM Excellence Pathway professional development event](https://drive.google.com/file/d/0B1-JIRrX_4I5TlVKZzk2WDRWQzVISzI0cXlEN3RuWlMydUFR/view?usp=sharing) specifically for local parochial schools and 90+ people attended the event in the fall of 2018; Rockhurst’s STEAM Director [presented on their panel](https://drive.google.com/file/d/1E-HGfgF7gihVdMRlPaCXFEEAqh2Pq5YK/view?usp=sharing). 
+In fact, the KC STEM Alliance even put together a [Carnegie STEM Excellence Pathway professional development event](https://drive.google.com/file/d/0B1-JIRrX_4I5TlVKZzk2WDRWQzVISzI0cXlEN3RuWlMydUFR/view?usp=sharing) specifically for local parochial schools and 90+ people attended the event in the fall of 2018; Rockhurst’s STEAM Director presented on their panel. 
 
 <blockquote>Interdisciplinary was the most important thing I got from this</blockquote>
 
