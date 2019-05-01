@@ -37,7 +37,7 @@ In fact, the KC STEM Alliance even put together a [Carnegie STEM Excellence Path
   <img alt="Position at School" src="{{ site.baseurl }}/img/2019AdvED3.png">
 </div>
 
-The partnership between Rockhurst and AdvancED helped provide evidence to the KC STEM Alliance the market need and desire of Parochial schools to engage in the STEM Education conversation. Finally, it was recently announced by Rockhurst University that they will now offer a [master’s degree in K-8 STEM Education](https://www.rockhurst.edu/education/graduate/master-educational-studies#steam) due to the high numbers of requests from educators to be more qualified.
+The partnership between Rockhurst and AdvancED helped provide evidence to the [KC STEM Alliance](https://www.kcstem.org/) the market need and desire of Parochial schools to engage in the STEM Education conversation. Finally, it was recently announced by Rockhurst University that they will now offer a [master’s degree in K-8 STEM Education](https://www.rockhurst.edu/education/graduate/master-educational-studies#steam) due to the high numbers of requests from educators to be more qualified.
 
 <div class="center">
   <img alt="How likely would you attend this summit again?" src="{{ site.baseurl }}/img/2019AdvED5.png">
