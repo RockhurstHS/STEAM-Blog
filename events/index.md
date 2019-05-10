@@ -11,6 +11,10 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 
 [STEM Connect - KC Website](https://www.kcstem.org/events/)
 
+## HireKC Youth matches hundreds of students with internships and jobs every summer.
+
+[Register Here](https://hirekc.org/students/)
+
 ## NCSSS has the best calendar that lists upcoming national STEM Camps.
 
 [NCSSS Camps Listing](http://www.ncsss.org/component/weblinks/category/10-resources-for-students?Itemid=107)
