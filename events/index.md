@@ -26,6 +26,15 @@ Dates: Various Dates in June
 
 [Apply Here](https://info.burnsmcd.com/engineeringu?utm_campaign=BMCD_K12-STEM&utm_medium=handout%20card&utm_source=OPR_EngineeringU_10730%20vanity)
 
+## Design the Future Summer Program
+This is a Stanford University camp that is being held at the University of Kansas. At this design thinking & STEM summer program where students design and manufacture product solutions to solve real problems faced by individuals with a physical disability. 
+
+Session 1: July 29 - Aug 3 
+Session 2: Aug 5 - Aug 10
+<b>Application Deadline:</b> May 15th
+
+[Apply Here](https://designthefuture.dcdesignltd.com/university-of-kansas-info-2019)
+
 
 ## Think Like an Entrepreneur Camp at Lindenwood University in St. Louis, MO
 Dates: July 16-19
