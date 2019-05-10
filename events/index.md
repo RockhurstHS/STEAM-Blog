@@ -35,6 +35,9 @@ Session 2: Aug 5 - Aug 10
 
 [Apply Here](https://designthefuture.dcdesignltd.com/university-of-kansas-info-2019)
 
+## Kansas City Better Business Bureau Internship
+More information can be found [here](https://drive.google.com/file/d/0B1-JIRrX_4I5LVJycWlnWHFjQnB2cjVLM3ozZTdtX0JYaTJj/view?usp=sharing
+)
 
 ## Think Like an Entrepreneur Camp at Lindenwood University in St. Louis, MO
 Dates: July 16-19
