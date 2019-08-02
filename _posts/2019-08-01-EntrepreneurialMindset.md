@@ -23,7 +23,7 @@ An interesting growth area came out of the classes these past semesters. It seem
 
 Beyond this simply measuring tool, every student writes a final paper reflecting on how their definition of an entrepreneurial mindset evolved over the course of the semester. Below are a few of notable quotes from these papers.
 
-Quotes from Final Papers
+## Quotes from Final Papers
 
 <blockquote>My definition has grown to focus on traits like perseverance, grit, and preparation in achieving one’s goals.</blockquote>
 
@@ -42,8 +42,6 @@ with his product.</blockquote>
 </blockquote>
 <blockquote>I would like to say that this had been maybe the funnest and best class I have taken at Rockhurst and my life so far. The level of engagement and depth is very hard to match, personal stories from speakers and having to find a mentor that cares about your project. In some parts there may be a challenge but not one you cannot overcome. This isn't a class, it is an experience and as a message to anyone taking this class in the future the statement you get as much as you put in couldn’t be more true. </blockquote>
 <blockquote>From August 16th, to now December 13, Entrepreneurship for Others has been a life-changing class. The semester really showed me how much can be done even when one might think it is not possible.</blockquote>
-
-
 
 After the fall semester pitch night, one parent sent a follow up email as well:
 	
