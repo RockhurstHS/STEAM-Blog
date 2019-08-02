@@ -49,4 +49,4 @@ After the fall semester pitch night, one parent sent a follow up email as well:
 
 It's one thing for Rockhurst High School to promote content learning of STEAM subjects. The real key is for the students to embody the Ignatian vision of using their knowledge and resources to positively impact the world. It's crucial that students develop the communication arts skills that help them channel their competence through their conscience and manifested in their compassion. After all, the [goal of Jesuit education is to form form men of competence, compassion and compassionate commitment.](http://www.sjweb.info/education/doc-news/HUMAN_EXCELLENCE_ENG.pdf)
 
-
+Read more about how Rockhurst is promoting entrepreneurship and the arts [here](http://steam.rockhursths.edu/tags/?q=Arts).
