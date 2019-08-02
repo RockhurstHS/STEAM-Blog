@@ -47,17 +47,7 @@ After the fall semester pitch night, one parent sent a follow up email as well:
 	
 <blockquote>	My wife and I really enjoyed Wednesday night’s presentations.  The boys did a great job.  I was so proud of Joseph and his team.  They truly embraced the projects vs. simply viewing it as a class assignment. - EFO parent </blockquote>
 
-If you are interested in seeing the full results of the surveys, then you can see them here:
 
-Entrepreneurial Mindset Fall 2018 Pre-Test 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdrmJUMKpCTDGMXOQKvGapvMVQru_YZ397EhgKipr6l_CqNpg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Entrepreneurial Mindset Fall 2018 Post-Test
-
-Entrepreneurial Mindset Spring 2019 Pre-Test
-
-Entrepreneurial Mindset Spring 2019 Post-Test
 
 
 
