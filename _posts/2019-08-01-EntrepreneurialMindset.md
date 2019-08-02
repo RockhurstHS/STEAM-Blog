@@ -11,11 +11,11 @@ The 2018-2019 school year featured a launch of a new Entrepreneurship for Others
 
 The EFO course is based off of the curriculum from the [Ice House Entrepreneurship Program](https://elimindset.com/entrepreneurship-programs/programs-overview/) created by the Entrepreneurial Learning Initiative. This curriculum includes a measuring tool to help assess the growth of a student’s entrepreneurial mindset. 
 
-Several positive takeaways came out of the Fall of 2018 and Spring of 2019 class:
+Several positive takeaways came out of the Fall of 2018 and Spring of 2019 class. In general, students self-report a growth of their entrepreneurial mindset. Spefically, many students articulated growth in their ability to respond rather than react, recognizing problems as opportunities and even combatting the voice of learned helplessness. Check out the results below:
 
-<center><div class="flex-wrapper"><iframe width="982.3182618092003" height="531.2173829701372" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=133940965&amp;format=interactive"></iframe></div></center>
+<center><div class="flex-wrapper"><iframe width="100%" height="531.2173829701372" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=133940965&amp;format=interactive"></iframe></div></center>
 
-<center><div class="flex-wrapper"><iframe width="955.8049017700836" height="590.9449152542373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=350209794&amp;format=interactive"></iframe></div></center>
+<center><div class="flex-wrapper"><iframe width="100%" height="590.9449152542373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=350209794&amp;format=interactive"></iframe></div></center>
 
 An interesting growth area came out of the classes these past semesters. It seems like students still see a disconnect between being entrepreneurial and being prepared for college. A number of Rockhurst High School alumni entrepreneurs speak of entrepreneurial endeavors while in college. Moreover, many of them will claim that their entrepreneurial mindset helped them be more successful in college. The 2019-2020 school year will focus on the connection between being entrepreneurial and college ready.
 
