@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Entreprneurial Mindset Cultivation
+title: Entrepreneurial Mindset
 excerpt: I now understand that an entrepreneurial mindset is something that can be learned by all people and can be developed more as time goes on. It is what people use when they see a problem that needs to be solved and a way that people who want to help others look at life. People with an Entrepreneurial mindset believe that they can change the world with their ideas.
 tags: arts
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.11
