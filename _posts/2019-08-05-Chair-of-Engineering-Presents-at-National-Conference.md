@@ -13,7 +13,7 @@ This past July, Computer Science and Engineering Department Chair, [Andy Wilcox]
 
 <center><div class="flex-wrapper">
   <figure>
-    <img src="{{ site.baseurl }}/img/AWNC1.png">
+    <img src="{{ site.baseurl }}/img/AWNC1.jpg">
     <figcaption>Andy Wilcox giving his presentation at the STEM Expo In San Francisco, CA. </figcaption>
   </figure>
 </div></center>
@@ -21,8 +21,8 @@ This past July, Computer Science and Engineering Department Chair, [Andy Wilcox]
 He included in his talk about the initial meetings in the 2013-2014 school on the creation of a robotics team and how the interest in competitive robotics led to the creation of three robotics classes.  He also cited examples of real world problem solving as the Robotics Engineering 2 students rewired a fishing boat and designed and built an ROV for their unit on electronics.
 
 <div class="flex-wrapper">
-    <img src="{{ site.baseurl }}/img/AWNC2.png">
-    <img src="{{ site.baseurl }}/img/AWNC3.png">
+    <img src="{{ site.baseurl }}/img/AWNC2.jpg">
+    <img src="{{ site.baseurl }}/img/AWNC3.jpg">
 </div>
 <p class="caption">On the left, Robotics 2 students re-wiring a fishing boat. On the right is an image of the ROV designed and built by Rockhurst student.</p>
 
