@@ -13,6 +13,8 @@ The EFO course is based off of the curriculum from the [Ice House Entrepreneursh
 
 Several positive takeaways came out of the Fall of 2018 and Spring of 2019 class. In general, students self-report a growth of their entrepreneurial mindset. Spefically, many students articulated growth in their ability to respond rather than react, recognizing problems as opportunities and even combatting the voice of learned helplessness. Check out the results below:
 
+<div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=133940965&amp;format=interactive" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 <center><div class="flex-wrapper"><iframe width="100%" height="531" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=133940965&amp;format=interactive"></iframe></div></center>
 
 <center><div class="flex-wrapper"><iframe width="100%" height="590" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=350209794&amp;format=interactive"></iframe></div></center>
