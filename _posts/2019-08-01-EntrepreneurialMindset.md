@@ -15,13 +15,13 @@ Several positive takeaways came out of the Fall of 2018 and Spring of 2019 class
 
 <div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=133940965&amp;format=interactive" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
+<div class="google-slides-container"><iframe ssrc="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=350209794&amp;format=interactive" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 <center><div class="flex-wrapper"><iframe width="100%" height="531" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=133940965&amp;format=interactive"></iframe></div></center>
 
 <center><div class="flex-wrapper"><iframe width="100%" height="590" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=350209794&amp;format=interactive"></iframe></div></center>
 
 An interesting growth area came out of the classes these past semesters. It seems like students still see a disconnect between being entrepreneurial and being prepared for college. A number of Rockhurst High School alumni entrepreneurs speak of entrepreneurial endeavors while in college. Moreover, many of them will claim that their entrepreneurial mindset helped them be more successful in college. The 2019-2020 school year will focus on the connection between being entrepreneurial and college ready.
-
-<center><div class="flex-wrapper"><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=592559609&amp;format=interactive"></iframe></div></center>
 
 <div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=592559609&amp;format=interactive" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
