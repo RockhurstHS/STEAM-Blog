@@ -26,4 +26,12 @@ He included in his talk about the initial meetings in the 2013-2014 school on th
 </div>
 <p class="caption">On the left, Robotics 2 students re-wiring a fishing boat. On the right is an image of the ROV designed and built by Rockhurst student.</p>
 
-In addition to presenting at the Expo, he attended many seminars on how to create/cultivate community partnerships to provide intern/externships for the students. Strong mentors who buy into the Jesubots culture are a key ingredient for the success of the students, as mentioned in the STEAM student bio of [Andrew Meyer '19](http://steam.rockhursths.edu/2019/04/30/Jesubot-Entrepreneurship-Award.html). The mentor motto of the Jesubots is: "Teach them, lead them, let them."
+In addition to presenting at the Expo, he attended many seminars on how to create/cultivate community partnerships to provide intern/externships for the students. Strong mentors who buy into the Jesubots culture are a key ingredient for the success of the students, as mentioned in the STEAM student bio of [Andrew Meyer '19](http://steam.rockhursths.edu/2019/04/30/Jesubot-Entrepreneurship-Award.html). The mentor motto of the Jesubots is: "Teach them, lead them, let them." 
+
+The slide deck used for the conference can be seen below.
+<center>
+<div class="google-slides-container"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTur9-3QFlhvnslp6RkFkW-T0khRTC1rjkVnk60IxbxY75TW38LGGKKmi1znB-YXRAZK3ggdYivJZPT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+</center>
+
+
+
