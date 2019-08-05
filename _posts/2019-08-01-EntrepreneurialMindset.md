@@ -21,6 +21,8 @@ An interesting growth area came out of the classes these past semesters. It seem
 
 <center><div class="flex-wrapper"><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=592559609&amp;format=interactive"></iframe></div></center>
 
+<div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4u0-QbrOAy0TtJRIXtmQ9Buee2UYn8kOJ6FjXGZGqhCiCSRrhtMaoeaBIea4OzMM7OPlORjvYVQ0X/pubchart?oid=592559609&amp;format=interactive" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 Beyond this simply measuring tool, every student writes a final paper reflecting on how their definition of an entrepreneurial mindset evolved over the course of the semester. Below are a few of notable quotes from these papers.
 
 ## Quotes from Final Papers
