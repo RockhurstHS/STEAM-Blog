@@ -3,7 +3,7 @@ layout: post
 author: andywilcox
 title: Chair of Engineering & Computer Science presents at National Conference
 excerpt: This past July, Computer Science and Engineering Department Chair, Andy Wilcox presented at the NSTA (National Science Teaching Association) STEM Expo in San Francisco, California. The topic of his presentation was “How to Create and Maintain a Successful Robotics Program.” 
-tags: arts
+tags: engineering science
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.6 st1.8 st1.9 st1.10 st1.11 
 ---
 
