@@ -1,7 +1,7 @@
 ---
 layout: post
 author: paulwinkeler
-title: Monarch Butterflies arrived at Rockhurst High School!
+title: Monarch Butterflies are here!
 excerpt: Now that we know we can attract monarchs, we are going to up the ante and get our garden certified through KU's Monarch Way Station.  We need to add a few types of plants first to continue to attract monarchs. Very exciting!!!!!
 tags: science 
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5
