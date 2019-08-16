@@ -24,6 +24,6 @@ Now that we know we can attract monarchs, we are going to up the ante and get ou
 Very excited!!!!!
 
 <div class="flex-wrapper">
-    <img src="{{ site.baseurl }}/img/Monarch1.JPG">
-    <img src="{{ site.baseurl }}/img/Monarch2.JPG">
+    <img src="{{ site.baseurl }}/img/Monarch1.jpg">
+    <img src="{{ site.baseurl }}/img/Monarch2.jpg">
 </div>
