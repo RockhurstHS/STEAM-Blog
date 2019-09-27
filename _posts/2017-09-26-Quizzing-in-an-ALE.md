@@ -11,7 +11,7 @@ When students and teachers first walk into a classroom designed by the principle
 
 <blockquote>“It took me a couple of years to figure out what works for me and this class,” reflected Mr. Buckman, AP US History Educator.</blockquote>
 
-## Divders +
+# Dividers +
 
 <div class="flex-wrapper">
   <img src="/img/QuizzingPlusSign.jpg">
@@ -21,7 +21,7 @@ When students and teachers first walk into a classroom designed by the principle
 
 Not only are mini white board dividers helpful for various learning activities, they also serve as dividers to maintain academic integrity. “This setup eliminates all temptations [to cheat]. In fact, it helps me prepare and study better beforehand,” reflected one student. AP U.S. History teacher, Mr. Greg Buckman, adds, “The students have their own space and I don’t have to worry about academic integrity being threatened every time a student turns in his swivel chair.”
 
-## Highlighting Time
+# Highlighting Time
 
 <blockquote>"Sometimes [the timer] can be stressful, but I think I’ve been benefiting as of late. It helps me manage my time." - 11th grade student. </blockquote>
 
@@ -34,7 +34,7 @@ Not only are mini white board dividers helpful for various learning activities, 
 
 Another added value of the multiple screens in an active learning environment is the easy ability to display a timer during quizzes. “The timer helps students stay on task, especially because everything on the Advanced Placement test is time constrained,” says Mr. Buckman. The fact that the timer is displayed in multiple locations makes it easy for a student to monitor their time no matter which direction they face. Another student in class shared, “sometimes it can be stressful, but I think I’ve been benefiting as of late. It helps me manage my time.”
 
-## Displaying Question Prompts and/or Key Concepts
+# Displaying Question Prompts and/or Key Concepts
 
 Mr. Buckman also uses a screen to display essay prompt words. Other teachers often use one screen to display a key question or writing prompt. Depending on the technological tools within the classroom, there may be multiple ways to display a prompt on one screen and the timer on another. However, the most straightforward way to accomplish the task is to simply ‘freeze’ one of the screens with the remote control. 
 
@@ -42,7 +42,7 @@ Mr. Buckman also uses a screen to display essay prompt words. Other teachers oft
   <img src="/img/QuizzingEssayPromptWords.jpg">
 </div>
 
-On top of displaying different images on different strings, Mr. Buckman’s classroom also contains permanent laminated posters that highlight the 7 Key Concepts of the AP US History Exam. This permanent, analog, display serves as the connecting thread throughout the entire course. These displays assist students during written quizzes by constantly reinforcing the major course themes. “It took me a couple of years to figure out what works for me and this class,” reflected Mr. Buckman. When speaking with students and colleagues, these best/next practices definitely work.
+On top of displaying different images on different strings, Mr. Buckman’s classroom also contains permanent laminated posters that highlight the 7 Key Concepts of the AP US History Exam. This permanent, analog, display serves as the connecting thread throughout the entire course. These displays assist students during written quizzes by constantly reinforcing the major course themes. “It took me a couple of years to figure out what works for me and this class,” reflected Mr. Buckman. When speaking with students and colleagues, these best/next practices definitely lead to an improved student learning environment, setting up the students for success.
 
 <div class="flex-wrapper">
   <img src="/img/QuizzingCourseThemes.jpg">
