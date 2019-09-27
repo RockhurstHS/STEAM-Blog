@@ -19,7 +19,7 @@ When students and teachers first walk into a classroom designed by the principle
 
 <blockquote>“The students have their own space and I don’t have to worry about academic integrity being threatened every time a student turns in his swivel chair.” - Mr. Greg Buckman, AP US History Educator</blockquote>
 
-Not only are mini white board dividers helpful for various learning activities, they also serve as dividers to maintain academic integrity. “This setup eliminates all temptations [to cheat]. In fact, it helps me prepare and study better beforehand,” reflected one student. AP U.S. History teacher, Mr. Greg Buckman, adds, “The students have their own space and I don’t have to worry about academic integrity being threatened every time a student turns in his swivel chair.”
+Not only are mini white board dividers helpful for various learning activities, they also serve as dividers to maintain academic integrity. “This setup eliminates all temptations [to cheat]. In fact, it helps me prepare and study better beforehand,” reflected one student. AP U.S. History teacher, [Mr. Greg Buckman](https://www.rockhursths.edu/curriculum-detail?fromId=275451&LevelNum=1736&DepartmentId=30080), adds, “The students have their own space and I don’t have to worry about academic integrity being threatened every time a student turns in his swivel chair.”
 
 # Highlighting Time
 
