@@ -19,7 +19,7 @@ indicators: st1.2 st1.4
 </div>
 <p class="caption">The students in the class all have the same worksheet in front of them. The worksheet on display is from a peer student. The class collectively completes the assignment by commenting and expanding on the thinking of the shared student work.</p>
 
-<blockquote> “I used to have students write their work on the board, but it would take too long. Therefore, taking a picture [of their work] solved that issue.” - Mr. Joe LeRoy, Mathematics Department Chair and precalculus teacher. </blockquote>
+<blockquote> “I used to have students write their work on the board, but it would take too long. Therefore, taking a picture [of their work] solved that issue.” - Mr. Joe LeRoy, Mathematics Department Chair and Precalculus teacher. </blockquote>
 
 According to one student in his class, the practice “allows us to go at our own pace and see how I am doing in relation to my peers.” This best/next practice also increases student engagement because students can think about mathematics through the lens of their peer learners. “It holds us more accountable,” reflected one student. Another student shared, “If a bunch of people do one thing wrong, it becomes a bit more apparent.” 
 
