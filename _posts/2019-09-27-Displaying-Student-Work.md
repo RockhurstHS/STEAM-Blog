@@ -32,9 +32,9 @@ Framing a problem through the lens of a peer can be quite powerful. From one stu
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkStudents2.jpg">
 </div>
+
+## <center> How else might this strategy help student learning? </center>
 <center>
-## How else might this strategy help student learning? </center>
-<center>
-### Leave a comment below! </center>
+### <center> Leave a comment below! </center>
 
 
