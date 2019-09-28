@@ -35,7 +35,7 @@ Framing a problem through the lens of a peer can be quite powerful. From one stu
 </div>
 
 ## <center> How else might this strategy help student learning? </center>
-<center>
+
 ### <center> Leave a comment below! </center>
 
 
