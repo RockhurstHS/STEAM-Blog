@@ -27,6 +27,9 @@ Framing a problem through the lens of a peer can be quite powerful. From one stu
 
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkDisplay3.JPG">
+</div>
+
+<div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkStudents2.jpg">
 </div>
 <center>
