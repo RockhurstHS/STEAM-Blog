@@ -27,9 +27,9 @@ Framing a problem through the lens of a peer can be quite powerful. From one stu
     <img src="{{ site.baseurl }}/img/SharingStudentWorkDisplay3.JPG">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkStudents2.jpg">
 </div>
-
+<center>
 ## How else might this strategy help student learning? 
 ### Leave a comment below!
-
+</center>
 
 
