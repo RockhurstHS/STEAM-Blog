@@ -18,18 +18,18 @@ According to one student in his class, the practice “allows us to go at our ow
 
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkStudents1.jpg">
-    <img src="{{ site.baseurl }}/img/SharingStudentWorkStudents2.jpg">
 </div>
-
 
 This strategy can be used when going over previous assignments or classwork. Additionally, a problem-based approach helps when reviewing content to prepare for a quiz. 
 Framing a problem through the lens of a peer can be quite powerful. From one student’s perspective “It’s good review for the quizzes,” reflected one student.
 
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkDisplay3.JPG">
+    <img src="{{ site.baseurl }}/img/SharingStudentWorkStudents2.jpg">
 </div>
 
-## How else might this strategy help student learning? Leave a comment below!
+## How else might this strategy help student learning? 
+### Leave a comment below!
 
 
 
