@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Sharing Student Work in an Active Learning Environment
+title: Displaying Student Work in an Active Learning Environment
 excerpt: This best/next practice also increases student engagement because students can think about mathematics through the lens of their peer learners.
 tags: active-learning
 indicators: st1.2 st1.4
@@ -12,7 +12,7 @@ indicators: st1.2 st1.4
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/SharingStudentWorkDisplay1.JPG">
 </div>
-
+<p class="caption">The above image is a picture of student work completed on a worksheet. The student wrote in pencil. The teacher took a picture of the student work with an iPad & displayed the image on the screens in the active learning classroom. With his iPad, Mr. LeRoy then wrote additional mathematics on the worksheet in order to illustrate to the students the best way to communicate the thinking mathematically.</p>
 
 According to one student in his class, the practice “allows us to go at our own pace and see how I am doing in relation to my peers.” This best/next practice also increases student engagement because students can think about mathematics through the lens of their peer learners. “It holds us more accountable,” reflected one student. Another student shared, “If a bunch of people do one thing wrong, it becomes a bit more apparent.” 
 
