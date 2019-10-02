@@ -6,7 +6,7 @@ excerpt: One of the most inspirational parts of the challenge was the mentors th
 tags: computerscience studentreflection
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.11
 ---
-<center><b> The following reflection is by Rockurst student Tanner Helton, member of the class of 2019.</b></center>
+<center><b> The following reflection is by Rockurst student Tanner Helton, member of the class of 2020.</b></center>
 
 The MECA challenge was a great experience. It was both fun and had many educational opportunities available. I loved working with a wide variety of people from different communities around the metro area. The challenge really pushed us to all put forth our best effort because of the time constraint. The time limitation also showed us what it is like to be under high pressure situations. 
 <div class="flex-wrapper">
