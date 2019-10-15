@@ -24,7 +24,7 @@ Each student group decided on a background with an appropriate action. Their vid
 
 <iframe src="https://player.vimeo.com/video/362629611" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/362629611">Green Screen Demo</a> from <a href="https://vimeo.com/user102098481">Aidan Pittman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+<p class="caption">A class favorite, introverted Rockhurst students come alive through their Green Screen Demo project.</p>
 
 ## What did you enjoy most about the green screen demo learning activity?
 
@@ -38,3 +38,4 @@ Each student group decided on a background with an appropriate action. Their vid
 
 <iframe src="https://player.vimeo.com/video/364096052" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/364096052">Rose Theater PSA</a> from <a href="https://vimeo.com/user102098481">Aidan Pittman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p class="caption">The above public service announcement proceeded each production of the theater department's play, The Curious Incident of the Dog in the Night-Time.</p>
