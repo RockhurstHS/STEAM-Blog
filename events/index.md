@@ -17,9 +17,8 @@ Check out the following wonderful event hosted at the Linda Hall Library
 </div>    
 <a class="btn btn-primary" href="https://www.lindahall.org/event/engineering/?mc_cid=8c0e6e8ed5&mc_eid=d6ba1282f0" role="button">Learn More and Register</a>
 
-## Garmin
-Check out thRegistration is open for the Not Your Typical Jobs in Tech info session being held on September 24th from 6:00pm-7:30pm at Garmin Headquarters! This event is geared towards high school juniors/seniors and their parents who want to learn about tech-focused careers.
- <div class="flex-wrapper">
-  <img src="/img/GarminEvent19.png">
-</div>    
-<a class="btn btn-primary" href="https://www.garmin.com/en-US/forms/alt-careers/" role="button">Register Here (spots are limited)</a>
+## ### () (Sophomores, Juniors or Seniors Only) 
+
+The Kiewit Engineering Group based in Lenexa, KS is now accepting applications for the Leadership Engineering Application & Design (LEAD) Internship this upcoming summer. It is a paid internship - 40 hours/week for 8-10 weeks. For more information on the program check out the this video on [LEADing the Way](https://www.youtube.com/watch?v=AeZVGiw37UM). 
+
+<a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/599075500/" role="button">Apply</a>
