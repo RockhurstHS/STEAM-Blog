@@ -40,4 +40,14 @@ Meet more than 300 collegiate Kauffman Scholars and alumni in one place. The fai
 
 <a class="btn btn-primary" href="https://www.eventbrite.com/e/jive-fair-2020-discover-new-diverse-kc-talent-registration-71416020239?mc_cid=e477828a09&mc_eid=94e526aa43&aff=odeimcmailchimp&mc_cid=c6ad358588&mc_eid=c05034b62c" role="button">Learn More & Register Here</a>
 
+## Burns & McDonnell Your World Empowered
+<div class="flex-wrapper">
+  <img src="/img/Burns&McDonnellYourWorldEmpowered.png">
+</div>   
+
+Burns & McDonnell is once again hosting their annual evening event ,YOUR WORLD: EMPOWERED, on TUESDAY, DECEMBER 3, 2019 from 6:00 – 7:30PM at the Burns & McDonnell World Headquarters! 
+
+At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do engineers REALLY do?” and “Do I have to get perfect grades in order to have a career in the STEM fields?” and “Will I have to sit at a desk every day of my career if I’m an engineer?” They have a fun (and free!) program planned specifically designed to help students in grades 7 – 12 explore the possibilities of a career in engineering, architecture, drafting, environmental science and construction management. Their dynamic speaker will talk with students and parents about these different engineering career paths and dispel those crazy myths that surround these STEM fields! They will also have a panel of recent graduate STEM professionals ready to engage with the audience by offering tips for success in high school and college!
+
+<a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2019?utm_campaign=CORP_STEM&utm_source=CORP_HR_YourWorldEmpowered_Vanity_Empowered2019_LP-RSVP_13779&utm_medium=PDF%20Invitation" role="button">Register Here</a>
 
