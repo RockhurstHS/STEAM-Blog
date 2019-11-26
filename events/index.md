@@ -60,7 +60,7 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
 
 ## KC STEM Alliance has the best calendar that lists upcoming local STEM Events.
 <div class="flex-wrapper">
-  <img src="/img/KCStemAlliance.png">
+  <img src="/img/kcSTEM_logo_clr_tag.jpg">
 </div>  
 
 <a class="btn btn-primary" href="https://www.kcstem.org/events/" role="button">KC STEM Alliance Events Calendar</a>
