@@ -16,7 +16,7 @@ Should learning be theoretical or practical? This question took center stage as 
 
 While studying particle motion, students are tasked to go out on the soccer field and videotape their classmates kicking soccer balls footballs. After they capture these objects in motion, the students then use the school’s [Vernier](https://www.vernier.com/physics/) software to plot the data.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3Ls2QD6PWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/y3Ls2QD6PWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p class="caption">Rockhurst High School junior, Spencer Brown, explains the goal of the physics lab.</p>
 
 Through curve-fitting technology (pro tip: selecting ‘quadratic’ curve fitting instead of ‘linear’ works way better), the students can identify the nature of falling bodies on our God-given planet Earth. 
