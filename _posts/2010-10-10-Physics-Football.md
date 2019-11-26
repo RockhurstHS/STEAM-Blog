@@ -21,11 +21,11 @@ While studying particle motion, students are tasked to go out on the soccer fiel
 
 Through curve-fitting technology (pro tip: selecting ‘quadratic’ curve fitting instead of ‘linear’ works way better), the students can identify the nature of falling bodies on our God-given planet Earth. 
 
-<c><iframe width="560" height="315" src="https://www.youtube.com/embed/pPMFh6dlON8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p class="caption">The original kick used for the data for the worksheets in this blog.</p></c>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pPMFh6dlON8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="caption">The original kick used for the data for the worksheets in this blog.</p></center>
 
-<c><iframe width="560" height="315" src="https://www.youtube.com/embed/OSV-08-jxoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p class="caption">The same video with points overlayed on top of the ball at various moments.</p></c>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/OSV-08-jxoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="caption">The same video with points overlayed on top of the ball at various moments.</p></center>
 
 The students then each fill out a [traditional projectile motion worksheet](https://drive.google.com/open?id=0B1-JIRrX_4I5aVJ3d3RxVVVDdU5Bb21JVGlfTWI4NUxXZGt3), but they must use their own data! In this way, each students experience the same learning exercise, but their results are personalized to the student specific data. The worksheets of Obi Oligbo can be seen below. <i>Warning: his data is quite beautiful!</i>
 
@@ -46,5 +46,5 @@ The students then each fill out a [traditional projectile motion worksheet](http
 
 This activity exemplifies the sweet spot between the theoretical and the practical. The students experience a hands-on learning experience while still being held accountable for learning rigorous physics content.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQWImUhar88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/OQWImUhar88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p class="caption">Mr. Stephen Arico, master Physics teacher, explains how to use the Vernier software for their football lab.</p>
