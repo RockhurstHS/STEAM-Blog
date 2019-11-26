@@ -12,7 +12,7 @@ indicators: st1.1 st1.2 st1.3 st1.4 st1.5
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/PhysFoot5.jpg">
 </div>
-<p class="caption">Physic student measuring the horizontal trajectory of a kicked ball with a trundle wheel.</p>
+<p class="caption">Physics student measuring the horizontal trajectory of a kicked ball with a trundle wheel.</p>
 
 Should learning be theoretical or practical? This question took center stage as early as the [School of Athens](http://www.visual-arts-cork.com/famous-paintings/school-of-athens.htm) during the time of the Greeks. Mr. Stephen Arico, physics instructor, works to ensure the student learning experience incorporates both. 
 
