@@ -21,7 +21,7 @@ While studying particle motion, students are tasked to go out on the soccer fiel
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/y3Ls2QD6PWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p class="caption">Rockhurst High School junior, Spencer Brown, explains the goal of the physics lab.</p>
 
-Through curve-fitting technology (pro tip: selecting ‘quadratic’ curve fitting instead of ‘linear’ works way better), the students can identify the nature of falling bodies on our God-given planet Earth. 
+Through curve-fitting technology (Pro tip: selecting ‘quadratic’ curve fitting instead of ‘linear’ works way better), the students can identify the nature of falling bodies on our God-given planet Earth. 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/pPMFh6dlON8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p class="caption">The original kick used for the data for the worksheets in this blog.</p></center>
