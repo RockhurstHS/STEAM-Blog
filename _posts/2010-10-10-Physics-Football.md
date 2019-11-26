@@ -29,20 +29,22 @@ Through curve-fitting technology (pro tip: selecting ‘quadratic’ curve fitti
 
 The students then each fill out a [traditional projectile motion worksheet](https://drive.google.com/open?id=0B1-JIRrX_4I5aVJ3d3RxVVVDdU5Bb21JVGlfTWI4NUxXZGt3), but they must use their own data! In this way, each students experience the same learning exercise, but their results are personalized to the student specific data. The worksheets of Obi Oligbo can be seen below. <i>Warning: his data is quite beautiful!</i>
 
-<div class="row">
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht1.jpg" title=""><img src="/img/PhysFootWksht1.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/
-img/PhysFootWksht2.jpg" title=""><img src="
-img/PhysFootWksht2.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/
-img/PhysFootWksht3.jpg" title=""><img src="
-img/PhysFootWksht3.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht4.jpg" title=""><img src="/img/PhysFootWksht4.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht5.jpg" title=""><img src="img/PhysFootWksht5.jpg""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht6.jpg" title=""><img src="/img/PhysFootWksht6.jpg" alt=""></a></div>
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/PhysFootWksht1.jpg">
+  <img src="{{ site.baseurl }}/img/PhysFootWksht2.jpg">
+</div>
+
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/PhysFootWksht3.jpg">
+  <img src="{{ site.baseurl }}/img/PhysFootWksht4.jpg">
+</div>
+
+<div class="flex-wrapper">
+  <img src="{{ site.baseurl }}/img/PhysFootWksht5.jpg">
+  <img src="{{ site.baseurl }}/img/PhysFootWksht6.jpg">
 </div>
 
 This activity exemplifies the sweet spot between the theoretical and the practical. The students experience a hands-on learning experience while still being held accountable for learning rigorous physics content.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQWImUhar88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p class="caption">Mr. Stephen Arico, master Physics teacher, explains how to use the Vernier software for their football lab.</p></c>
+<p class="caption">Mr. Stephen Arico, master Physics teacher, explains how to use the Vernier software for their football lab.</p>
