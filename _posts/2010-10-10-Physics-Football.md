@@ -2,10 +2,12 @@
 layout: post
 author: gregowsley
 title: Physics & Football
-excerpt: I had no knowledge at all on green screening before the demo. Now, I could create a green screen video easily from memory. - Rockhurst High School sophomore, Liam O'Keefe
+excerpt: This activity exemplifies the sweet spot between the theoretical and the practical. The students experience a hands-on learning experience while still being held accountable for learning rigorous physics content.
 tags: science
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 
 ---
+
+<blockquote>"We are measuring the distance of a ball that we kick in the x and z direction." - Spencer Brown, class of 2021</blockquote>
 
 <div class="flex-wrapper">
   <img src="{{ site.baseurl }}/img/PhysFoot5.jpg">
