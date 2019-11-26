@@ -31,8 +31,12 @@ The students then each fill out a [traditional projectile motion worksheet](http
 
 <div class="row">
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht1.jpg" title=""><img src="/img/PhysFootWksht1.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht2.jpg" title=""><img src="img/PhysFootWksht2.jpg" alt=""></a></div>
-  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht3.jpg" title=""><img src="img/PhysFootWksht3.jpg""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/
+img/PhysFootWksht2.jpg" title=""><img src="
+img/PhysFootWksht2.jpg" alt=""></a></div>
+  <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/
+img/PhysFootWksht3.jpg" title=""><img src="
+img/PhysFootWksht3.jpg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht4.jpg" title=""><img src="/img/PhysFootWksht4.jpg" alt=""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht5.jpg" title=""><img src="img/PhysFootWksht5.jpg""></a></div>
   <div class="col-xs-3"><a class="image-popup-vertical-fit" href="/img/PhysFootWksht6.jpg" title=""><img src="/img/PhysFootWksht6.jpg" alt=""></a></div>
