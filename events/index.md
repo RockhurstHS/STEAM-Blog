@@ -19,6 +19,10 @@ The Kiewit Engineering Group based in Lenexa, KS is now accepting applications f
 
 ## IRS Paid Student Internships
 
+<div class="flex-wrapper">
+  <img src="/img/IRSJobs.png">
+</div>   
+
 As one of the nation's largest and most diverse institutions, the IRS has a lot to offer. You can make a difference in a variety of seasonal opportunities that are designed to fit your life. 
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5ODB2UWRhZWFQVXVWQ1kydnN2VEdURl9jN1ZZ/view?usp=sharing" role="button">Learn More Here</a>
