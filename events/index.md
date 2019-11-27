@@ -36,6 +36,16 @@ The link below has information about internships throug the Kansas City Police D
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5WnEtQnZySTdhb0Z3R2JqZThUNFpFYmRPa2ZJ/view?usp=sharing" role="button">Email to Learn More</a>
 
+## Friendmedia Internships
+<div class="flex-wrapper">
+  <img src="/img/Friendmedia.png">
+</div>   
+
+[Friendmedia, Inc.](https://friendmedia.com/) is looking to hire two interns starting in January of 2020: a content coordinator and a sales coordinator. Both unpaid internships can turn into a paid internship for the summer of 2020. Interested students should reach out to Mr. Greg Owsley at gowsley@rockhursths.edu.
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
+
 ## JIVE FAIR 2020
 <div class="flex-wrapper">
   <img src="/img/JIVE FAIR.png">
