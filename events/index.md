@@ -68,6 +68,17 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
 
 <a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2019?utm_campaign=CORP_STEM&utm_source=CORP_HR_YourWorldEmpowered_Vanity_Empowered2019_LP-RSVP_13779&utm_medium=PDF%20Invitation" role="button">Register Here</a>
 
+## Leadership Intern at St. Elizabeth STEM Camp
+
+<div class="flex-wrapper">
+  <img src="/img/CampInventionandInventionProject.png">
+</div>  
+
+St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020. Leadership Interns work closely with participants to help them learn creativity & innovation skills to help invent a better tomorrow. 
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5OGxvSmY0eF9INTAzU3dQTWRGNXBuMnJqNmg0/view?usp=sharing" role="button">Learn More</a>
+
+
 ## KC STEM Alliance has the best calendar that lists upcoming local STEM Events.
 <div class="flex-wrapper">
   <img src="/img/kcSTEM_logo_clr_tag.jpg">
