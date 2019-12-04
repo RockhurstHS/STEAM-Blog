@@ -74,7 +74,7 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
   <img src="/img/CampInventionandInventionProject.png">
 </div>  
 
-St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020. Leadership Interns work closely with participants to help them learn creativity & innovation skills to help invent a better tomorrow. 
+St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020 (8:30am - 4:00pm). Leadership Interns work closely with participants to help them learn creativity & innovation skills to help invent a better tomorrow. 
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5OGxvSmY0eF9INTAzU3dQTWRGNXBuMnJqNmg0/view?usp=sharing" role="button">Learn More</a>
 
