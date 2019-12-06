@@ -46,6 +46,19 @@ The link below has information about internships throug the Kansas City Police D
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
 
+## IRS Friends & Family Job Fair
+<div class="flex-wrapper">
+  <img src="/img/IRS Friends & Family Job Fair.png">
+</div>   
+
+At this event you will meet and talk to actual IRS employees about Clerical, Data Entry Clerk and Tax Examiner positions. These positions are full-time and part-time with days, nights and weekend shifts.
+
+Submission Processing Staff,  Recruitment Team and Employment will answer questions on the following: <i>How to navigate through USAJobs, Pathway Program, VETs process, Schedule A process, Benefits and Perks, Resume Tips</i>
+
+This event will be held at 333 W. Pershing Rd. KCMO 64108. Saturday, December 14th .  It is open to the public. Be sure to bring valid ID in order to enter (16 and older must have ID).
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5YTh2dnpvUjdoemNMTjhLTkduOEFMY2hrMmt3/view?usp=sharing" role="button">Click Here for more Information</a>
+
 ## JIVE FAIR 2020
 <div class="flex-wrapper">
   <img src="/img/JIVE FAIR.png">
