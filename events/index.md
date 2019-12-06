@@ -68,6 +68,12 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
 
 <a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2019?utm_campaign=CORP_STEM&utm_source=CORP_HR_YourWorldEmpowered_Vanity_Empowered2019_LP-RSVP_13779&utm_medium=PDF%20Invitation" role="button">Register Here</a>
 
+## Henderson High School Day
+<div class="flex-wrapper">
+  <img src="/img/HendersonHighSchoolDay.jpg">
+</div> 
+<a class="btn btn-primary" href="https://www.surveymonkey.com/r/HendersonCollegeExpJan2020" role="button">Register Here</a>
+
 ## Leadership Intern at St. Elizabeth STEM Camp
 
 <div class="flex-wrapper">
