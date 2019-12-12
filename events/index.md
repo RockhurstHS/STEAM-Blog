@@ -22,7 +22,7 @@ The Kiewit Engineering Group based in Lenexa, KS is now accepting applications f
   <img src="/img/VectorCutCo.png">
 </div> 
 Vector Marketing is hirng students 18+ to work over winter break selling kitchen supplies. Base pay is $17/hr plus commission. 
-<p>
+
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdRd5JnsFyesYXAiOzNp-UwPibqsq_hckVs5ldA-FzIYF2Mag/viewform" role="button">Learn More & Apply</a>
 
 ## IRS Paid Student Internships
