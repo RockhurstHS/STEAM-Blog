@@ -32,7 +32,7 @@ On Saturday, October 12th, all the children and partner organizations gathered f
 
 As an interesting aside, senior Logan Hoss '20, was noticed by his future school on social media! 
 
-<div style="height:50%">
+<div style="height:10%">
     <img src="{{ site.baseurl }}/img/WalknRollnMissouriS&TEmail.jpg">
 </div>
 
