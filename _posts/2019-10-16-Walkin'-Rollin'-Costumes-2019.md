@@ -6,7 +6,9 @@ excerpt: Seeing Zoe that happy when we presented her with the carriage was a gre
 tags: arts engineering servicelearning
 indicators: st1.1 st1.2 st1.3 st1.4 st1.5 st1.8 1.10
 ---
-
+<div class="flex-wrapper">
+    <img src="{{ site.baseurl }}/img/WalkinRollin2019LoganSage.jpg">
+</div>
 
 <blockquote>“Seeing Zoe that happy when we presented her with the carriage was a great feeling” - David King ’20.</blockquote>
 
@@ -14,10 +16,13 @@ For the 3rd straight year, Rockhurst High School students have collaborated with
 
 <div class="flex-wrapper">
     <img src="{{ site.baseurl }}/img/WalkinRollin2019-1.jpg">
-    <img src="{{ site.baseurl }}/img/WalkinRollin2019-2.jpg">
 </div>
 
 Walkin' & Rollin' is a local NonProfit that states, "Every child deserves a cool costume. Sometimes, though, that's a little more challenging, especially for those in walkers and wheelchairs. That's why Walkin' & Rollin' Costumes was born: to be able to create something truly unique and custom-made for these special kids...somthing that's free of charge to the family."
+
+<div class="flex-wrapper">
+    <img src="{{ site.baseurl }}/img/WalkinRollin2019-2.jpg">
+</div>
 
 As members of a Catholic, Jesuit school, students in the Robotics and Engineering II course learn the engineering design process while also demonstrating empathy through service. The Universal Apostolic Preferences of the Society of Jesus include "Walking with the Excluded". On their [webpage](https://jesuits.global/en/uap/walking-with-the-excluded), we are reminded that "Jesus suffers and is crucified in and with His people, especially the little ones. He takes the hands of the excluded, abused and vulnerable. He says to them “Come, inherit the Kingdom”. We are all God’s children."
 
@@ -28,7 +33,6 @@ On Saturday, October 12th, all the children and partner organizations gathered f
 As an interesting aside, senior Logan Hoss '20, was noticed by his future school on social media! 
 
 <div class="flex-wrapper">
-    <img src="{{ site.baseurl }}/img/WalkinRollin2019LoganSage.jpg">
     <img src="{{ site.baseurl }}/img/WalknRollnMissouriS&TEmail.jpg">
 </div>
 
