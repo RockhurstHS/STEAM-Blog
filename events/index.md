@@ -17,6 +17,17 @@ The Kiewit Engineering Group based in Lenexa, KS is now accepting applications f
 
 <a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/599075500/" role="button">Apply</a>
 
+## YEP KC Summer Internship
+
+<div class="flex-wrapper">
+  <img src="/img/YEPKC.png">
+</div> 
+
+This program is a hands-on summer internship program for high school students that focuses on entrepreneurial thinking and development through practical experience. The working experience and exposure each student will acquire during their time with YEP KC makes this an internship program unlike any other. Over the past two summers, Rockhurst High School has had 5 students participate in this program. The application process is highly competitive, but compensation is also excellent. You will earn money as a paid intern, but will also earn college scholarship money as well. Read Joe Hathaway's [testimony](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html) (He graduated in 2018).
+
+<a class="btn btn-primary" href="http://www.yepkc.org/about" role="button">Learn More & Apply</a>
+
+
 ## Vector Marketing Sales Job
 <div class="flex-wrapper">
   <img src="/img/VectorCutCo.png">
