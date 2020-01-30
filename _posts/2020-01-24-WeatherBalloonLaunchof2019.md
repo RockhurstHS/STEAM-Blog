@@ -25,7 +25,7 @@ I sat down with David to ask him a few questions about his project. His answers 
 
 <b>Me:</b> <i>What was your research?</i>
 
-<b>David:</b> <i>The abstract of the project was to look into the viability and the best practices for the construction and operation of a tracking system for a High Altitude Balloon. The system integrated a RasberryPi and a Radiometrix Hx1 to gather sensor data of the balloon. In reality, what happened was that I used a 360 Fly camera to conduct research on image transmission. </i>
+<b>David:</b> <i>The abstract of the project was to look into the viability and the best practices for the construction and operation of a tracking system for a High Altitude Balloon. The system integrated a RasberryPi and a Radiometrix Hx1 to gather sensor data of the balloon. In reality, what happened was that I used a 360 Fly camera to record 360 video. </i>
 
 <p></p>
 
@@ -34,7 +34,7 @@ I sat down with David to ask him a few questions about his project. His answers 
 
 <b>Me:</b> <i>What did you build and design on your own?</i>
 
-<b>David:</b> <i>I built the sonde</i> [the container that holds the payload]. <i>I also built the entire sensor stack using the RasberryPi, which included sensors for temperature, barometric pressure, altitude, latitude, visible light, infrared light, ultraviolet light and humidity.</i>
+<b>David:</b> <i>I built the sonde</i> [the container that holds the payload]. <i>I also built the entire sensor stack using the RaspberryPi, which included sensors for temperature, barometric pressure, altitude, latitude, visible light, infrared light, ultraviolet light and humidity.</i>
 
 <center><blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/2kXTxWwHmD">pic.twitter.com/2kXTxWwHmD</a></p>&mdash; RHS Science (@SciRHS) <a href="https://twitter.com/SciRHS/status/1126941756543709190?ref_src=twsrc%5Etfw">May 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
@@ -51,11 +51,11 @@ I sat down with David to ask him a few questions about his project. His answers 
 
 <b>Me:</b> <i>What did you need to learn along the way?</i>
 
-<b>David:</b> <i>I had to learn how to program in Python so that the RasberryPi would collect and transmit all the data. I also had to learn a bunch of “weather type thing”. It turns out that there are all sorts of various wind currents that take place at various heights. And related to both of those things, I learned a bunch of HAM Radio stuff.</i>
+<b>David:</b> <i>I had to learn how to program in Python so that the RaspberryPi would collect and transmit all the data. I also had to learn a bunch of “weather type thing”. It turns out that there are all sorts of various wind currents that take place at various heights. And related to both of those things, I learned a bunch of HAM Radio stuff.</i>
 
 <b>Me:</b> <i>Tell me more about how you tracked the balloon.</i>
 
-<b>David:</b> <i>Inside of the sonde, there was a pre-built track wino. After the launch, my classmate Jack Rotter and I rode in [Mr. Nendick’s](http://steam.rockhursths.edu/team/timothynendick/) car with our computers open. We set up a GQRX that was connected to the Balloon’s track wino. As data was transmitted in an EPOCH format and we had to decode the messages into positional data. We actually did this by hand. The first numbers represented the degree, followed by minutes, then seconds. We then inputted that data into Google Earth, which we had downloaded onto our devices. We just drove from there. We were actually a quarter of a mile off from where the balloon actually landed so I had to redo some calculations.
+<b>David:</b> <i>Inside of the sonde, there was a pre-built trackuino. After the launch, my classmate Jack Rotter and I rode in [Mr. Nendick’s](http://steam.rockhursths.edu/team/timothynendick/) car with our computers open. We set up a GQRX that was connected to the Balloon’s trackuino. As data was transmitted in an encoded format and we had to decode the messages into positional data. We actually did this by hand. The first numbers represented the degree, followed by minutes, then seconds. We then inputted that data into Google Earth, which we had downloaded onto our devices. We just drove from there. We were actually a quarter of a mile off from where the balloon actually landed so I had to redo some calculations.
 
 <div class="flex-wrapper">
   <div class="x1"><img src="{{ site.baseurl }}/img/FinalTracking.png"></div>
