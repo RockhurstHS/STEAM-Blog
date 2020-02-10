@@ -5,17 +5,20 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
-## Job Opportunities
+## Scholarships
 
-## Kiewit Engineering Internship (Sophomores, Juniors or Seniors Only) PAID!
+## MO Chamber of Commerce STEM Scholarship (March 1st Deadline)
 
 <div class="flex-wrapper">
-  <img src="/img/Kiewit Logo.png">
-</div>    
+  <img src="/img/MOChamberofCommerce.png">
+</div> 
 
-The Kiewit Engineering Group based in Lenexa, KS is now accepting applications for the Leadership Engineering Application & Design (LEAD) Internship this upcoming summer. It is a paid internship - 40 hours/week for 8-10 weeks. For more information on the program check out the this video on [LEADing the Way](https://www.youtube.com/watch?v=AeZVGiw37UM). 
+With start-up funding contributed by The Boeing Company and supported by the Missouri business community, the program offers $1,000 scholarships to a minimum of 10 students to help them pursue their STEM education goals at a 2-year, 4-year or technical college of their choice. The funds are unrestricted to be used for tuition, living expenses, books or technology. High school students graduating in 2020 planning to pursue a STEM program at a 2-year, 4-year or technical college in the Fall of 2020 are eligible to apply. Applications must be submitted by March 1, 2020.
 
-<a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/599075500/" role="button">Apply</a>
+<a class="btn btn-primary" href="https://mochamber.com/signingday/" role="button">Learn More</a>
+<a class="btn btn-primary" href="https://mochamber.com/signingday/apply/" role="button">Apply</a>
+
+## Job Opportunities
 
 ## YEP KC Summer Internship
 
@@ -26,7 +29,6 @@ The Kiewit Engineering Group based in Lenexa, KS is now accepting applications f
 This program is a hands-on summer internship program for high school students that focuses on entrepreneurial thinking and development through practical experience. The working experience and exposure each student will acquire during their time with YEP KC makes this an internship program unlike any other. Over the past two summers, Rockhurst High School has had 5 students participate in this program. The application process is highly competitive, but compensation is also excellent. You will earn money as a paid intern, but will also earn college scholarship money as well. Read Joe Hathaway's [testimony](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html) (He graduated in 2018).
 
 <a class="btn btn-primary" href="http://www.yepkc.org/about" role="button">Learn More & Apply</a>
-
 
 ## Vector Marketing Sales Job
 <div class="flex-wrapper">
