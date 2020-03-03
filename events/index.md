@@ -8,7 +8,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ## College Camps and College Experiences
 
 <div class="flex-wrapper">
-  <img src="/img/img/logo_left_cmyk.jpg">
+  <img src="/img/logo_left_cmyk.jpg">
 </div> 
 
 For students interested in various camps over the summer, the Rockhurst High School [College Placement Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
