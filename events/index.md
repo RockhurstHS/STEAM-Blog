@@ -13,7 +13,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 
 For students interested in various camps over the summer, the Rockhurst High School College Placement Office has curated an excellent list of experiences that can be accessed on Google Drive.
 
-<a class="btn btn-primary" href="https://mochamber.com/signingday/apply/" role="button">Google Folder of College Summer Experiences</a>
+<a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
 
 ## Scholarships
 
