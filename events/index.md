@@ -5,6 +5,16 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+## College Camps and College Experiences
+
+<div class="flex-wrapper">
+  <img src="/img/img/logo_left_cmyk.jpg">
+</div> 
+
+For students interested in various camps over the summer, the Rockhurst High School College Placement Office has curated an excellent list of experiences that can be accessed on Google Drive.
+
+<a class="btn btn-primary" href="https://mochamber.com/signingday/apply/" role="button">Google Folder of College Summer Experiences</a>
+
 ## Scholarships
 
 ## MO Chamber of Commerce STEM Scholarship (March 1st Deadline)
