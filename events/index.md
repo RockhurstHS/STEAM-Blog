@@ -17,7 +17,7 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 ## Scholarships
 
-## MO Chamber of Commerce STEM Scholarship (March 1st Deadline)
+### MO Chamber of Commerce STEM Scholarship (March 1st Deadline)
 
 <div class="flex-wrapper">
   <img src="/img/MOChamberofCommerce.png">
@@ -30,7 +30,7 @@ With start-up funding contributed by The Boeing Company and supported by the Mis
 
 ## Job Opportunities
 
-## YEP KC Summer Internship
+### YEP KC Summer Internship
 
 <div class="flex-wrapper">
   <img src="/img/YEPKC.png">
@@ -40,7 +40,7 @@ This program is a hands-on summer internship program for high school students t
 
 <a class="btn btn-primary" href="http://www.yepkc.org/about" role="button">Learn More & Apply</a>
 
-## Vector Marketing Sales Job
+### Vector Marketing Sales Job
 <div class="flex-wrapper">
   <img src="/img/VectorCutCo.png">
 </div> 
@@ -48,7 +48,7 @@ Vector Marketing is hirng students 18+ to work over winter break selling kitchen
 
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdRd5JnsFyesYXAiOzNp-UwPibqsq_hckVs5ldA-FzIYF2Mag/viewform" role="button">Learn More & Apply</a>
 
-## IRS Paid Student Internships
+### IRS Paid Student Internships
 
 <div class="flex-wrapper">
   <img src="/img/IRSJobs.png">
@@ -59,7 +59,7 @@ As one of the nation's largest and most diverse institutions, the IRS has a lot 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5ODB2UWRhZWFQVXVWQ1kydnN2VEdURl9jN1ZZ/view?usp=sharing" role="button">Learn More Here</a>
 <a class="btn btn-primary" href="https://www.usajobs.gov/" role="button">Apply Here</a>
 
-## KCPD Internships
+### KCPD Internships
 <div class="flex-wrapper">
   <img src="/img/KCPD-logo-400x204.jpg">
 </div>   
@@ -67,7 +67,7 @@ The link below has information about internships throug the Kansas City Police D
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5WnEtQnZySTdhb0Z3R2JqZThUNFpFYmRPa2ZJ/view?usp=sharing" role="button">Email to Learn More</a>
 
-## Friendmedia Internships
+### Friendmedia Internships
 <div class="flex-wrapper">
   <img src="/img/Friendmedia.png">
 </div>   
@@ -77,7 +77,7 @@ The link below has information about internships throug the Kansas City Police D
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
 
-## IRS Friends & Family Job Fair
+### IRS Friends & Family Job Fair
 <div class="flex-wrapper">
   <img src="/img/IRS Friends & Family Job Fair.png">
 </div>   
@@ -90,7 +90,7 @@ This event will be held at 333 W. Pershing Rd. KCMO 64108. Saturday, December 14
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5YTh2dnpvUjdoemNMTjhLTkduOEFMY2hrMmt3/view?usp=sharing" role="button">Click Here for more Information</a>
 
-## JIVE FAIR 2020
+### JIVE FAIR 2020
 <div class="flex-wrapper">
   <img src="/img/JIVE FAIR.png">
 </div>   
@@ -101,7 +101,7 @@ Meet more than 300 collegiate Kauffman Scholars and alumni in one place. The fai
 
 <a class="btn btn-primary" href="https://www.eventbrite.com/e/jive-fair-2020-discover-new-diverse-kc-talent-registration-71416020239?mc_cid=e477828a09&mc_eid=94e526aa43&aff=odeimcmailchimp&mc_cid=c6ad358588&mc_eid=c05034b62c" role="button">Learn More & Register Here</a>
 
-## Burns & McDonnell Your World Empowered
+### Burns & McDonnell Your World Empowered
 <div class="flex-wrapper">
   <img src="/img/Burns&McDonnellYourWorldEmpowered.png">
 </div>   
@@ -112,13 +112,13 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
 
 <a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2019?utm_campaign=CORP_STEM&utm_source=CORP_HR_YourWorldEmpowered_Vanity_Empowered2019_LP-RSVP_13779&utm_medium=PDF%20Invitation" role="button">Register Here</a>
 
-## Henderson High School Day
+### Henderson High School Day
 <div class="flex-wrapper">
   <img src="/img/HendersonHighSchoolDay.jpg">
 </div> 
 <a class="btn btn-primary" href="https://www.surveymonkey.com/r/HendersonCollegeExpJan2020" role="button">Register Here</a>
 
-## Leadership Intern at St. Elizabeth STEM Camp
+### Leadership Intern at St. Elizabeth STEM Camp
 
 <div class="flex-wrapper">
   <img src="/img/CampInventionandInventionProject.png">
@@ -128,7 +128,7 @@ St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020 (8:
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5OGxvSmY0eF9INTAzU3dQTWRGNXBuMnJqNmg0/view?usp=sharing" role="button">Learn More</a>
 
-## Design the Future Camp held at KU
+### Design the Future Camp held at KU
 <div class="flex-wrapper">
   <img src="/img/Screen Shot 2020-01-24 at 10.12.02 AM.png">
 </div>  
