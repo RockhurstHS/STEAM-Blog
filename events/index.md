@@ -11,7 +11,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
   <img src="/img/logo_left_cmyk.jpg">
 </div> 
 
-For students interested in various camps over the summer, the Rockhurst High School [College Placement Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
+For students interested in various camps over the summer, the Rockhurst High School [College Counseling Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
 
 <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
 
