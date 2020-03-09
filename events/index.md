@@ -29,6 +29,16 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 ## Scholarships & Awards
 
+### KCMO NAACP ACT-SO Competition (Deadline on March 21st!)
+<div class="flex-wrapper">
+  <img src="/img/KCMO NAACP Act-SO.png">
+</div> 
+
+Deadline March 21st! A major youth initiative of the National Association for the Advancement of Colored People (NAACP), ACT-SO is an acronym for Afro-Academic, Cultural, Technological and Scientific Olympics.  Founded in 1978 by Vernon Jarrett, pioneering renowned author and syndicated journalist, ACT-SO provides a forum through which African American youths are able to demonstrate their academic, artistic and scientific prowess and expertise, and thereby gain the same recognition often reserved only for persons in the entertainment and sports worlds
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1vShIiGHQHE6xzvWi6RlR5MT3X4js9nax/view?usp=sharing">Learn More Here</a>
+<a class="btn btn-primary" href="https://kcmonaacpyc.wixsite.com/kcmoyc">KCMO NAACP Youth Council Website</a>
+
 ### Merrill Watt Entrepreneurship & Innovation Initiative
 
 <div class="flex-wrapper">
