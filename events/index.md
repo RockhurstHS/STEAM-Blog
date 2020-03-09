@@ -17,28 +17,7 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 ## Scholarships
 
-### MO Chamber of Commerce STEM Scholarship (March 1st Deadline)
-
-<div class="flex-wrapper">
-  <img src="/img/MOChamberofCommerce.png">
-</div> 
-
-With start-up funding contributed by The Boeing Company and supported by the Missouri business community, the program offers $1,000 scholarships to a minimum of 10 students to help them pursue their STEM education goals at a 2-year, 4-year or technical college of their choice. The funds are unrestricted to be used for tuition, living expenses, books or technology. High school students graduating in 2020 planning to pursue a STEM program at a 2-year, 4-year or technical college in the Fall of 2020 are eligible to apply. Applications must be submitted by March 1, 2020.
-
-<a class="btn btn-primary" href="https://mochamber.com/signingday/" role="button">Learn More</a>
-<a class="btn btn-primary" href="https://mochamber.com/signingday/apply/" role="button">Apply</a>
-
 ## Job Opportunities
-
-### YEP KC Summer Internship
-
-<div class="flex-wrapper">
-  <img src="/img/YEPKC.png">
-</div> 
-
-This program is a hands-on summer internship program for high school students that focuses on entrepreneurial thinking and development through practical experience. The working experience and exposure each student will acquire during their time with YEP KC makes this an internship program unlike any other. Over the past two summers, Rockhurst High School has had 5 students participate in this program. The application process is highly competitive, but compensation is also excellent. You will earn money as a paid intern, but will also earn college scholarship money as well. Read Joe Hathaway's [testimony](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html) (He graduated in 2018).
-
-<a class="btn btn-primary" href="http://www.yepkc.org/about" role="button">Learn More & Apply</a>
 
 ### Vector Marketing Sales Job
 <div class="flex-wrapper">
@@ -76,6 +55,56 @@ The link below has information about internships throug the Kansas City Police D
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
+
+### Leadership Intern at St. Elizabeth STEM Camp
+
+<div class="flex-wrapper">
+  <img src="/img/CampInventionandInventionProject.png">
+</div>  
+
+St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020 (8:30am - 4:00pm). Leadership Interns work closely with participants to help them learn creativity & innovation skills to help invent a better tomorrow. 
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5OGxvSmY0eF9INTAzU3dQTWRGNXBuMnJqNmg0/view?usp=sharing" role="button">Learn More</a>
+
+### Design the Future Camp held at KU
+<div class="flex-wrapper">
+  <img src="/img/Screen Shot 2020-01-24 at 10.12.02 AM.png">
+</div>  
+
+Design the Future is an award winning, fully immersive Design Thinking & STEM summer program in which students work to solve some of the biggest challenges facing our world today. The 2020 camp will be from July 20th - 25th.
+
+<a class="btn btn-primary" href="https://youdesignthefuture.com/?utm_source=Kansas+HS+Teachers&utm_campaign=18e8919a48-EMAIL_CAMPAIGN_2020_01_20_07_11&utm_medium=email&utm_term=0_5dccad9bf1-18e8919a48-168800673" role="button">Apply Here</a>
+
+
+## KC STEM Alliance has the best calendar that lists upcoming local STEM Events.
+<div class="flex-wrapper">
+  <img src="/img/kcSTEM_logo_clr_tag.jpg">
+</div>  
+
+<a class="btn btn-primary" href="https://www.kcstem.org/events/" role="button">KC STEM Alliance Events Calendar</a>
+
+## Past Opportunities
+
+### YEP KC Summer Internship
+
+<div class="flex-wrapper">
+  <img src="/img/YEPKC.png">
+</div> 
+
+This program is a hands-on summer internship program for high school students that focuses on entrepreneurial thinking and development through practical experience. The working experience and exposure each student will acquire during their time with YEP KC makes this an internship program unlike any other. Over the past two summers, Rockhurst High School has had 5 students participate in this program. The application process is highly competitive, but compensation is also excellent. You will earn money as a paid intern, but will also earn college scholarship money as well. Read Joe Hathaway's [testimony](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html) (He graduated in 2018).
+
+<a class="btn btn-primary" href="http://www.yepkc.org/about" role="button">Learn More & Apply</a>
+
+### MO Chamber of Commerce STEM Scholarship (March 1st Deadline)
+
+<div class="flex-wrapper">
+  <img src="/img/MOChamberofCommerce.png">
+</div> 
+
+With start-up funding contributed by The Boeing Company and supported by the Missouri business community, the program offers $1,000 scholarships to a minimum of 10 students to help them pursue their STEM education goals at a 2-year, 4-year or technical college of their choice. The funds are unrestricted to be used for tuition, living expenses, books or technology. High school students graduating in 2020 planning to pursue a STEM program at a 2-year, 4-year or technical college in the Fall of 2020 are eligible to apply. Applications must be submitted by March 1, 2020.
+
+<a class="btn btn-primary" href="https://mochamber.com/signingday/" role="button">Learn More</a>
+<a class="btn btn-primary" href="https://mochamber.com/signingday/apply/" role="button">Apply</a>
 
 ### IRS Friends & Family Job Fair
 <div class="flex-wrapper">
@@ -117,31 +146,4 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
   <img src="/img/HendersonHighSchoolDay.jpg">
 </div> 
 <a class="btn btn-primary" href="https://www.surveymonkey.com/r/HendersonCollegeExpJan2020" role="button">Register Here</a>
-
-### Leadership Intern at St. Elizabeth STEM Camp
-
-<div class="flex-wrapper">
-  <img src="/img/CampInventionandInventionProject.png">
-</div>  
-
-St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020 (8:30am - 4:00pm). Leadership Interns work closely with participants to help them learn creativity & innovation skills to help invent a better tomorrow. 
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5OGxvSmY0eF9INTAzU3dQTWRGNXBuMnJqNmg0/view?usp=sharing" role="button">Learn More</a>
-
-### Design the Future Camp held at KU
-<div class="flex-wrapper">
-  <img src="/img/Screen Shot 2020-01-24 at 10.12.02 AM.png">
-</div>  
-
-Design the Future is an award winning, fully immersive Design Thinking & STEM summer program in which students work to solve some of the biggest challenges facing our world today. The 2020 camp will be from July 20th - 25th.
-
-<a class="btn btn-primary" href="https://youdesignthefuture.com/?utm_source=Kansas+HS+Teachers&utm_campaign=18e8919a48-EMAIL_CAMPAIGN_2020_01_20_07_11&utm_medium=email&utm_term=0_5dccad9bf1-18e8919a48-168800673" role="button">Apply Here</a>
-
-
-## KC STEM Alliance has the best calendar that lists upcoming local STEM Events.
-<div class="flex-wrapper">
-  <img src="/img/kcSTEM_logo_clr_tag.jpg">
-</div>  
-
-<a class="btn btn-primary" href="https://www.kcstem.org/events/" role="button">KC STEM Alliance Events Calendar</a>
 
