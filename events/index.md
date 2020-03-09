@@ -7,16 +7,6 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 
 ## College Camps and College Experiences
 
-### KC STEM Fair
-
-<div class="flex-wrapper">
-  <img src="/img/KCSTEMFair.png">
-</div>
-
-If you are interested in studying a STEM Field in College, then you don't want to miss this fair. March 29th, 1pm - 4pm at Union Station.
-
-<a class="btn btn-primary" href="https://www.nacacfairs.org/attend/stem-college-and-career-fairs/kansas-city-stem-college-and-career-fair" role="button">Learn More & Register Here</a>
-
 ### College Counseling Summer Experiences List
 
 <div class="flex-wrapper">
@@ -26,6 +16,16 @@ If you are interested in studying a STEM Field in College, then you don't want t
 For students interested in various camps over the summer, the Rockhurst High School [College Counseling Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
 
 <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
+
+### KC STEM Fair
+
+<div class="flex-wrapper">
+  <img src="/img/KCSTEMFair.png">
+</div>
+
+If you are interested in studying a STEM Field in College, then you don't want to miss this fair. March 29th, 1pm - 4pm at Union Station.
+
+<a class="btn btn-primary" href="https://www.nacacfairs.org/attend/stem-college-and-career-fairs/kansas-city-stem-college-and-career-fair" role="button">Learn More & Register Here</a>
 
 ## Scholarships & Awards
 
