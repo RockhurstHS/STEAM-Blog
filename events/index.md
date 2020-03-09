@@ -10,7 +10,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ### KC STEM Fair
 
 <div class="flex-wrapper">
-  <img src="/img/img/KCSTEMFair.png">
+  <img src="/img/KCSTEMFair.png">
 </div>
 
 If you are interested in studying a STEM Field in College, then you don't want to miss this fair. March 29th, 1pm - 4pm at Union Station.
@@ -27,14 +27,24 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
 
-## Scholarships
+## Scholarships & Awards
+
+### Merrill Watt Entrepreneurship & Innovation Initiative
+
+<div class="flex-wrapper">
+  <img src="/img/MerrillWatt.png">
+</div> 
+
+This award is for students who run their own enterprise or have applied their very own innovation to improve the world. 
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/12OxfAky1zOjHAc7-USAw-WGEYTsPvJpB/view?usp=sharing" role="button">Learn More Here</a>
 
 ## Job Opportunities
 
 ### notes to self After School Job
 
 <div class="flex-wrapper">
-  <img src="/img/img/notestoself.png">
+  <img src="/img/notestoself.png">
 </div> 
 
 Looking for a job that will only require a couple of hours every day after school? Former Rockhurst parent, Laura Schmidt (CEO), is looking to hire some high school students to help in her warehouse. Learn more about <i>notes so self</i> by checking out their [website](https://www.notestoself.com/).
