@@ -31,6 +31,16 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 ## Job Opportunities
 
+### notes to self After School Job
+
+<div class="flex-wrapper">
+  <img src="/img/img/notestoself.png">
+</div> 
+
+Looking for a job that will only require a couple of hours every day after school? Former Rockhurst parent, Laura Schmidt (CEO), is looking to hire some high school students to help in her warehouse. Learn more about <i>notes so self</i> by checking out their [website](https://www.notestoself.com/).
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/19-0u3_-UR1C9JXlDDOGnmxyB5zrm8vIu/view?usp=sharing" role="button">Learn More Here</a>
+
 ### Vector Marketing Sales Job
 <div class="flex-wrapper">
   <img src="/img/VectorCutCo.png">
