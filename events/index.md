@@ -7,6 +7,18 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 
 ## College Camps and College Experiences
 
+### KC STEM Fair
+
+<div class="flex-wrapper">
+  <img src="/img/img/KCSTEMFair.png">
+</div>
+
+If you are interested in studying a STEM Field in College, then you don't want to miss this fair. March 29th, 1pm - 4pm at Union Station.
+
+<a class="btn btn-primary" href="https://www.nacacfairs.org/attend/stem-college-and-career-fairs/kansas-city-stem-college-and-career-fair" role="button">Learn More & Register Here</a>
+
+### College Counseling Summer Experiences List
+
 <div class="flex-wrapper">
   <img src="/img/logo_left_cmyk.jpg">
 </div> 
