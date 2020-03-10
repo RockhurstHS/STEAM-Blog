@@ -117,6 +117,15 @@ Design the Future is an award winning, fully immersive Design Thinking & STEM su
 
 <a class="btn btn-primary" href="https://youdesignthefuture.com/?utm_source=Kansas+HS+Teachers&utm_campaign=18e8919a48-EMAIL_CAMPAIGN_2020_01_20_07_11&utm_medium=email&utm_term=0_5dccad9bf1-18e8919a48-168800673" role="button">Apply Here</a>
 
+### KU Engineering Camp
+
+<div class="flex-wrapper">
+  <img src="/img/img/Project Discovery Graphic.png">
+</div>  
+
+Project Discovery is a week long, intensive learning camp for high school students (entering grades 9-12 in fall 2020). Campers choose from different engineering disciplines and work closely with KU faculty and graduate students as they complete a hands-on project. Held on KU’s Lawrence campus, students will get an up-close view of KU and the School of Engineering classrooms and labs.
+
+<a class="btn btn-primary" href="http://engr.ku.edu/camps" role="button">Learn More Here</a>
 
 ## KC STEM Alliance has the best calendar that lists upcoming local STEM Events.
 <div class="flex-wrapper">
