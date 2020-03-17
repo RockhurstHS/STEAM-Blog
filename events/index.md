@@ -110,7 +110,7 @@ St. Elizabeth's Grade School is hosting a K-6 STEAM camp from June 1-5, 2020 (8:
 
 ### Design the Future Camp held at KU
 <div class="flex-wrapper">
-  <img src="/img/Screen Shot 2020-01-24 at 10.12.02 AM.png">
+  <img src="/img/DesignTheFuture2020.png">
 </div>  
 
 Design the Future is an award winning, fully immersive Design Thinking & STEM summer program in which students work to solve some of the biggest challenges facing our world today. The 2020 camp will be from July 20th - 25th.
