@@ -17,6 +17,21 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
 
+### Virtual Innovation Internship
+
+<div class="flex-wrapper">
+  <img src="/img/Community America.png">
+</div> 
+
+Provide input to improve our existing services. Meet virtually every Monday at 3pm. Work in remote teams to complete a project to support the community. Spend 2 – 3 hours per week from April 9 – May 18.
+
+A small cash award will be given to each intern who successfully completes the internship
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1fQx_kubUo50_bTgRdyOx6Tz8_R0DEn6o/view?usp=sharing" role="button">Learn More Here</a>
+<a class="btn btn-primary" href="
+https://docs.google.com/forms/d/e/1FAIpQLScsm8_b_pXpZSZhRfhc3sJvucsdad4U5KSBIrXqnf5xJyHC7Q/viewform" role="button">Apply Here</a>
+
+
 ### KC STEM Fair
 
 <div class="flex-wrapper">
