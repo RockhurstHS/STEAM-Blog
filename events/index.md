@@ -28,8 +28,7 @@ Provide input to improve our existing services. Meet virtually every Monday at 3
 A small cash award will be given to each intern who successfully completes the internship
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1fQx_kubUo50_bTgRdyOx6Tz8_R0DEn6o/view?usp=sharing" role="button">Learn More Here</a>
-<a class="btn btn-primary" href="
-https://docs.google.com/forms/d/e/1FAIpQLScsm8_b_pXpZSZhRfhc3sJvucsdad4U5KSBIrXqnf5xJyHC7Q/viewform" role="button">Apply Here</a>
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScsm8_b_pXpZSZhRfhc3sJvucsdad4U5KSBIrXqnf5xJyHC7Q/viewform" role="button">Apply Here</a>
 
 
 ### KC STEM Fair
