@@ -31,16 +31,6 @@ A small cash award will be given to each intern who successfully completes the i
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScsm8_b_pXpZSZhRfhc3sJvucsdad4U5KSBIrXqnf5xJyHC7Q/viewform" role="button">Apply Here</a>
 
 
-### KC STEM Fair
-
-<div class="flex-wrapper">
-  <img src="/img/KCSTEMFair.png">
-</div>
-
-If you are interested in studying a STEM Field in College, then you don't want to miss this fair. March 29th, 1pm - 4pm at Union Station.
-
-<a class="btn btn-primary" href="https://www.nacacfairs.org/attend/stem-college-and-career-fairs/kansas-city-stem-college-and-career-fair" role="button">Learn More & Register Here</a>
-
 ## Scholarships & Awards
 
 ### KCMO NAACP ACT-SO Competition (Deadline on March 21st!)
@@ -183,6 +173,16 @@ Submission Processing Staff,  Recruitment Team and Employment will answer questi
 This event will be held at 333 W. Pershing Rd. KCMO 64108. Saturday, December 14th .  It is open to the public. Be sure to bring valid ID in order to enter (16 and older must have ID).
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5YTh2dnpvUjdoemNMTjhLTkduOEFMY2hrMmt3/view?usp=sharing" role="button">Click Here for more Information</a>
+
+### KC STEM Fair
+
+<div class="flex-wrapper">
+  <img src="/img/KCSTEMFair.png">
+</div>
+
+If you are interested in studying a STEM Field in College, then you don't want to miss this fair. March 29th, 1pm - 4pm at Union Station.
+
+<a class="btn btn-primary" href="https://www.nacacfairs.org/attend/stem-college-and-career-fairs/kansas-city-stem-college-and-career-fair" role="button">Learn More & Register Here</a>
 
 ### JIVE FAIR 2020
 <div class="flex-wrapper">
