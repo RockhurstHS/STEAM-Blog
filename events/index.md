@@ -17,6 +17,40 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
 
+### Virtual Internship - Quaranzine Writing
+
+<div class="flex-wrapper">
+  <img src="/img/startlandnews.png">
+</div> 
+
+[STARTLAND](https://startland.org/) 
+
+This is a great opportunity for students to partake in the design process as they will be heavily involved in concept ideation and product execution. If there are students interested in topics such as marketing, digital design, writing/journalism and community engagement- this is for them!
+
+Requirements to apply: Must be a high school student, able to set and meet deadlines and have a desire to cooperate.
+
+
+Interns will be expected to:
+
+-Devote 8-10 hours a week to internship project
+-Participate in virtual meetings with STARTLAND team and other interns
+-Recruit students to submit artwork/projects
+-Review and categorize submissions
+-Respond to all applicant communications/requests in a timely manner
+-Help create weekly challenges to engage the public
+-Help promote QuaranZine on social media platforms and by word of mouth
+
+Benefits:
+
+-Gain Real-Life Skills: Learn to work and collaborate remotely as a team while meeting deadlines
+-Build Connections: Establish relationships with other students to create something for the greater good
+-Make an Impact: Help to build a community and raise the voice of the youth during this time of social distancing, help tell their story!
+
+<b>Applications are due Monday, April 13 by 11:59 PM</b>
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1b-mCpNS78Etr3g7FRyff_X7CFswof4VY/view?usp=sharing" role="button">Learn More Here</a>
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeDsi9sBrWz8NI0_Da03QB0MSd_OUXW27VLkLtqkm9oLyMYfQ/viewform?usp=sf_link" role="button">Apply Here</a>
+
 ### Virtual Innovation Internship
 
 <div class="flex-wrapper">
