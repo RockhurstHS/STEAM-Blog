@@ -32,19 +32,19 @@ Requirements to apply: Must be a high school student, able to set and meet deadl
 
 Interns will be expected to:
 
--Devote 8-10 hours a week to internship project
--Participate in virtual meetings with STARTLAND team and other interns
--Recruit students to submit artwork/projects
--Review and categorize submissions
--Respond to all applicant communications/requests in a timely manner
--Help create weekly challenges to engage the public
--Help promote QuaranZine on social media platforms and by word of mouth
+- Devote 8-10 hours a week to internship project
+- Participate in virtual meetings with STARTLAND team and other interns
+- Recruit students to submit artwork/projects
+- Review and categorize submissions
+- Respond to all applicant communications/requests in a timely manner
+- Help create weekly challenges to engage the public
+- Help promote QuaranZine on social media platforms and by word of mouth
 
 Benefits:
 
--Gain Real-Life Skills: Learn to work and collaborate remotely as a team while meeting deadlines
--Build Connections: Establish relationships with other students to create something for the greater good
--Make an Impact: Help to build a community and raise the voice of the youth during this time of social distancing, help tell their story!
+- Gain Real-Life Skills: Learn to work and collaborate remotely as a team while meeting deadlines
+- Build Connections: Establish relationships with other students to create something for the greater good
+- Make an Impact: Help to build a community and raise the voice of the youth during this time of social distancing, help tell their story!
 
 <b>Applications are due Monday, April 13 by 11:59 PM</b>
 
