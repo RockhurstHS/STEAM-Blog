@@ -5,6 +5,18 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+## Scholarships & Awards
+
+### Merrill Watt Entrepreneurship & Innovation Initiative
+
+<div class="flex-wrapper">
+  <img src="/img/MerrillWatt.png">
+</div> 
+
+This award is for students who run their own enterprise or have applied their very own innovation to improve the world. 
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/12OxfAky1zOjHAc7-USAw-WGEYTsPvJpB/view?usp=sharing" role="button">Learn More Here</a>
+
 ## College Camps and College Experiences
 
 ### College Counseling Summer Experiences List
@@ -63,29 +75,6 @@ A small cash award will be given to each intern who successfully completes the i
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1fQx_kubUo50_bTgRdyOx6Tz8_R0DEn6o/view?usp=sharing" role="button">Learn More Here</a>
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScsm8_b_pXpZSZhRfhc3sJvucsdad4U5KSBIrXqnf5xJyHC7Q/viewform" role="button">Apply Here</a>
-
-
-## Scholarships & Awards
-
-### KCMO NAACP ACT-SO Competition (Deadline on March 21st!)
-<div class="flex-wrapper">
-  <img src="/img/KCMO NAACP Act-SO.png">
-</div> 
-
-Deadline March 21st! A major youth initiative of the National Association for the Advancement of Colored People (NAACP), ACT-SO is an acronym for Afro-Academic, Cultural, Technological and Scientific Olympics.  Founded in 1978 by Vernon Jarrett, pioneering renowned author and syndicated journalist, ACT-SO provides a forum through which African American youths are able to demonstrate their academic, artistic and scientific prowess and expertise, and thereby gain the same recognition often reserved only for persons in the entertainment and sports worlds
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1vShIiGHQHE6xzvWi6RlR5MT3X4js9nax/view?usp=sharing">Learn More Here</a>
-<a class="btn btn-primary" href="https://kcmonaacpyc.wixsite.com/kcmoyc">KCMO NAACP Youth Council Website</a>
-
-### Merrill Watt Entrepreneurship & Innovation Initiative
-
-<div class="flex-wrapper">
-  <img src="/img/MerrillWatt.png">
-</div> 
-
-This award is for students who run their own enterprise or have applied their very own innovation to improve the world. 
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/12OxfAky1zOjHAc7-USAw-WGEYTsPvJpB/view?usp=sharing" role="button">Learn More Here</a>
 
 ## Job Opportunities
 
@@ -243,6 +232,16 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
 ### Henderson High School Day
 <div class="flex-wrapper">
   <img src="/img/HendersonHighSchoolDay.jpg">
+  
+### KCMO NAACP ACT-SO Competition (Deadline on March 21st!)
+<div class="flex-wrapper">
+  <img src="/img/KCMO NAACP Act-SO.png">
+</div> 
+
+Deadline March 21st! A major youth initiative of the National Association for the Advancement of Colored People (NAACP), ACT-SO is an acronym for Afro-Academic, Cultural, Technological and Scientific Olympics.  Founded in 1978 by Vernon Jarrett, pioneering renowned author and syndicated journalist, ACT-SO provides a forum through which African American youths are able to demonstrate their academic, artistic and scientific prowess and expertise, and thereby gain the same recognition often reserved only for persons in the entertainment and sports worlds
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1vShIiGHQHE6xzvWi6RlR5MT3X4js9nax/view?usp=sharing">Learn More Here</a>
+<a class="btn btn-primary" href="https://kcmonaacpyc.wixsite.com/kcmoyc">KCMO NAACP Youth Council Website</a>
 </div> 
 <a class="btn btn-primary" href="https://www.surveymonkey.com/r/HendersonCollegeExpJan2020" role="button">Register Here</a>
 
