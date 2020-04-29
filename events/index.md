@@ -5,18 +5,6 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
-## Scholarships & Awards
-
-### Merrill Watt Entrepreneurship & Innovation Initiative
-
-<div class="flex-wrapper">
-  <img src="/img/MerrillWatt.png">
-</div> 
-
-This award is for students who run their own enterprise or have applied their very own innovation to improve the world. 
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/12OxfAky1zOjHAc7-USAw-WGEYTsPvJpB/view?usp=sharing" role="button">Learn More Here</a>
-
 ## College Camps and College Experiences
 
 ### College Counseling Summer Experiences List
@@ -28,6 +16,28 @@ This award is for students who run their own enterprise or have applied their ve
 For students interested in various camps over the summer, the Rockhurst High School [College Counseling Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
 
 <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1qk3poFG0sON8hfjsvEEs4VuyaliMt3ta" role="button">Google Folder of College Summer Experiences</a>
+
+### St. Louis Pharmacy
+
+<div class="flex-wrapper">
+  <img src="/img/StLouis College of Pharmacy.png">
+</div> 
+
+The six-day, five-night residential program will provide high school students the opportunity to explore health care careers while also building a foundation for their transition to college life.
+
+<a class="https://www.stlcop.edu/summer/immersion/apply.html" role="button">Learn More & Apply Here</a>
+
+## Scholarships & Awards
+
+### Merrill Watt Entrepreneurship & Innovation Initiative
+
+<div class="flex-wrapper">
+  <img src="/img/MerrillWatt.png">
+</div> 
+
+This award is for students who run their own enterprise or have applied their very own innovation to improve the world. 
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/12OxfAky1zOjHAc7-USAw-WGEYTsPvJpB/view?usp=sharing" role="button">Learn More Here</a>
 
 ### Virtual Internship - Quaranzine Writing
 
