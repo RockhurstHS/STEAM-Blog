@@ -25,7 +25,7 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 The six-day, five-night residential program will provide high school students the opportunity to explore health care careers while also building a foundation for their transition to college life.
 
-<a class="https://www.stlcop.edu/summer/immersion/apply.html" role="button">Learn More & Apply Here</a>
+<a class="https://www.stlcop.edu/summer/immersion/index.html" role="button">Learn More & Apply Here</a>
 
 ## Scholarships & Awards
 
