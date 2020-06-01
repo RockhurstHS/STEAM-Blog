@@ -86,6 +86,27 @@ A small cash award will be given to each intern who successfully completes the i
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1fQx_kubUo50_bTgRdyOx6Tz8_R0DEn6o/view?usp=sharing" role="button">Learn More Here</a>
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScsm8_b_pXpZSZhRfhc3sJvucsdad4U5KSBIrXqnf5xJyHC7Q/viewform" role="button">Apply Here</a>
 
+## Career Exploration Experiences
+
+<div class="flex-wrapper">
+  <img src="/img/digiSTORY.png">
+</div> 
+
+KC IMAGINE’s IndustryCamp program is hosting a Digital Media Careers Camp on Thursday, June 18th from 7:00 – 8:30 p.m.  This is a Zoom online conference that is targeted for students and their parents.  The online event will feature breakout sessions led by digital media professionals in eight sectors of the digital media industry:
+
+1. Digital Content Development
+2. Film Production/Entertainment
+3. Promotion & Advertising
+4. Journalism
+5. Web & Mobile Site Development
+6. Post-Production & Communication Technology
+7. 3D Tech & Special Effects
+8. Video Gaming
+DigiSTORY will offer two breakout periods for each sector so that participants can learn about careers in at least two of these sectors.  They will have at least two digital media professionals in each of the eight sectors.  A chart of those eight sectors with representative jobs for each is below.
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1v2VVnR_aMexD8Rt5vBYsx97TJRU1uIv3/view?usp=sharing" role="button">Chart of eight sectors</a>
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfG85Wjtmh54TIMv4L8QJ4j4njLQhn_0iCESh4TVbm0uRysaw/viewform" role="button">Register Here</a>
+
 ## Job Opportunities
 
 ### notes to self After School Job
