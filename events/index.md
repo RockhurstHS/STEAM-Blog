@@ -5,6 +5,14 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+<div class="flex-wrapper">
+  <img src="/img/Life Skills.png">
+</div> 
+
+CommunityAmerica Credit Union just gave $26,000 to students for completing their virtual internship at the end of the school year. 350+ students were involved. Now they are offering a Life Skills webinar series. EVERY student who complete all five sessions will receive a $25 gift card. Sessions will cover topics such as resume skills, tools to build confidence, and tips for getting into the college of your choice.
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1aW9dILaAy0T2xYmnzFjvL8p5-pUomrAo/view?usp=sharing" role="button">Learn More Here</a> <a class="btn btn-primary" href="https://www.eventbrite.com/e/life-skills-series-learn-the-top-5-skills-for-successful-adulting-tickets-106414578870" role="button">Register Here</a>
+
 ## College Camps and College Experiences
 
 ### College Counseling Summer Experiences List
