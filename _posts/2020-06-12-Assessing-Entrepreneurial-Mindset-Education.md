@@ -5,9 +5,9 @@ title: Assessing Entrepreneurial Mindset Education
 tags: communication-arts
 ---
 
-As an educator, how do we know if a student learned? What areas were learned best and what evidence of that learning are we able to capture? In the Entrepreneurship for Others class, the “Entrepreneurial Mindset Self-Assessment” serves as one tool to track student learning. The self-assessment is given to students on the first day of class and the last day of class. For the Fall of 2020, the self-assessment was also given on the first day of online-learning once the worldwide pandemic led to shelter-in-place orders from the city mayor. This self-assessment provides some useful quantitative data.
+As an educator, how do we know if a student learned? What areas were learned best and what evidence of that learning are we able to capture? In the Entrepreneurship for Others class, the <i>Entrepreneurial Mindset Self-Assessment</i> serves as one tool to track student learning. The self-assessment is given to students on the first day of class and the last day of class. For the Fall of 2020, the self-assessment was also given on the first day of online-learning once the worldwide pandemic led to shelter-in-place orders from the city mayor. This self-assessment provides some useful quantitative data.
 
-The main course objective challenges students to define what it means to have an ‘entrepreneurial mindset’. On the first day of class, they are asked to submit a definition and their final paper for the semester allows students to reflect on the various learnings over the course of the semester and articulate how that original definition evolved. This qualitative data sheds quite a bit of insight into the quantitative self-assessment results. 
+The main course objective challenges students to define what it means to have an <i>entrepreneurial mindset</i>. On the first day of class, they are asked to submit a definition and their final paper for the semester allows students to reflect on the various learnings over the course of the semester and articulate how that original definition evolved. This qualitative data sheds quite a bit of insight into the quantitative self-assessment results. 
 
 Below is a list of four growth categories from the self-assessment.
 
@@ -35,19 +35,17 @@ The project for the first unit requires each individual student to craft a perso
 
 ## Respond rather than React
 
-Students watch videos of entrepreneurs compiled by the Entrepreneurial Learning Initiative. Student reflections often indicate how the student realizes that many entrepreneurs share common experiences such as struggle and setbacks. Time and time again, the students reflected on the entrepreneur’s ability to respond to their environment and not possess a victim mindset.
+Students watch videos of entrepreneurs compiled by the [Entrepreneurial Learning Initiative](https://elimindset.com/entrepreneurship-programs/programs-overview/). Student reflections often indicate how the student realizes that many entrepreneurs share common experiences such as struggle and setbacks. Time and time again, the students reflected on the entrepreneur’s ability to respond to their environment and not possess a victim mindset.
 
 <blockquote> “This phase also helped me expand my view on the methods of learning concepts. I had originally thought that online research was enough to qualify the need for my product, but as I continued to do research online, the harder I found it to get anything useful. Without being able to understand the background of the individual, I wouldn’t be able to properly process and use the information given to me in my research. Interviews became a way to expand my knowledge on the topic of my solution, which led to me succeeding in justifying the need for my product.” - Jack Jackson </blockquote>
 
 ## Mentor Relationships
 
-Early on, the course emphasizes the value of talking to human beings. Students are required to make ‘cold-calls’, during what we call the ‘toothbrush vending machine’ challenge. The students participate in this activity in groups and with an adult mentor. When guest entrepreneurs visit the class, she or he is interviewed by students in the class and students ask questions. During class field trips, such as the MECA Challenge, connect students with other students as well as with adult entrepreneurs that serve as mentors for the all day innovation challenge.
+Early on, the course emphasizes the value of talking to human beings. Students are required to make ‘cold-calls’, during what we call the ‘toothbrush vending machine’ challenge (This activity was created by [UMKC SBDC](https://sbtdc.umkc.edu/)). The students participate in this activity in groups and with an adult mentor. When guest entrepreneurs visit the class, she or he is interviewed by students in the class and students ask questions. During class field trips, such as the [MECA Challenge](https://www.mecachallenge.com/), connect students with other students as well as with adult entrepreneurs that serve as mentors for the all day innovation challenge.
 
 <blockquote> “One of the most powerful activities in this class in my opinion was the toothbrush vending machine. Talking to strangers is something that I see as difficult as an introvert. However, when we had to call people and ask them their thoughts on a toothbrush vending machine I felt powerful. When I say powerful, I mean that I got out of my comfort zone and held valuable conversations. This not only helped me in the class, but it also helped me develop my own personal social skills.” - Peter Agnello </blockquote>
 
 <blockquote> “I have always been a lone worker, and one who never asks many questions, I just like to figure things out on my own. Now that I am reflecting on something like this, I am coming to understand the significance of a mentor in other aspects of life other than learning about a toothbrush vending machine.” - John Michael Gyllenborg </blockquote>
-
-
 
 An interesting aspect of this semester is the fact that the course was split in half by the worldwide pandemic. At the beginning of the 4th quarter, the class went to a 100% online learning model. When looking at the data, however, it seems like the course experiences were still effective in increasing entrepreneurial mindset dispositions in all categories. Below is another set of data points followed by some quotations and learning activity descriptions of each of the four elements.
 
