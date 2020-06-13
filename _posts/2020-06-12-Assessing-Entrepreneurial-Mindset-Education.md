@@ -2,7 +2,7 @@
 layout: post
 author: gregowsley
 title: Assessing Entrepreneurial Mindset Education
-tags: communication-arts
+tags: arts
 ---
 
 As an educator, how do we know if a student learned? What areas were learned best and what evidence of that learning are we able to capture? In the Entrepreneurship for Others class, the <i>Entrepreneurial Mindset Self-Assessment</i> serves as one tool to track student learning. The self-assessment is given to students on the first day of class and the last day of class. For the Fall of 2020, the self-assessment was also given on the first day of online-learning once the worldwide pandemic led to shelter-in-place orders from the city mayor. This self-assessment provides some useful quantitative data.
