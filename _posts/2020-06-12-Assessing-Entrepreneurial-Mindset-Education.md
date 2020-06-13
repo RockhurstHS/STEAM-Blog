@@ -53,7 +53,7 @@ An interesting aspect of this semester is the fact that the course was split in 
 
 ## Extrinsic Rewards vs. Intrinsic Rewards
 
-The course is entitled “Entrepreneurship for Others’, which draws inspiration from the mantra shared by all jesuit schools, “forming men and women with an for others.” The second day of class, the students embark on a quick-fire pitch challenge articulating the impact Fr. Pedro Arrupe, S.J. had on Jesuit Education (Spoiler alert: he coined the phrase “Men and Women with and for Others.”)
+The course is entitled “Entrepreneurship for Others’, which draws inspiration from the mantra shared by all jesuit schools, “forming men and women with an for others.” The second day of class, the students embark on a quick-fire pitch challenge articulating the impact Fr. Pedro Arrupe, S.J. had on Jesuit Education (Spoiler alert: he [coined the phrase](https://ignatiansolidarity.net/men-and-women-for-others-fr-pedro-arrupe-s-j/) “Men and Women with and for Others.”)
 
 Throughout the entire course, student hear from entrepreneurs first hand the importance of intrinsic motivators and intrinsic rewards. This is one of the primary elements that surfaces in the final papers of students when discussing how their definition of ‘entrepreneurial mindset’ evolved through the course of the semester.
 
