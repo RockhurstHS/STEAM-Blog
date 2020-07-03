@@ -5,9 +5,14 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+
 <div class="flex-wrapper">
-  <img src="/img/Life Skills.png">
+  <img src="/img/HIREKC2020.png">
 </div> 
+
+[HIREKC](https://hirekc.org/) is making available a virtual work ready institute. Students who complete <u>all four modules</u> <b>will earn $100! Spots are limited</b>. The Executive Director of HireKC is the mother of Ben Keefe, class of 2020!
+
+<a class="btn btn-primary" href="https://hirekc.org/students/?mc_cid=07044fdf4a&mc_eid=c05034b62c" role="button">Sign Up Here</a> 
 
 CommunityAmerica Credit Union just gave $26,000 to students for completing their virtual internship at the end of the school year. 350+ students were involved. Now they are offering a Life Skills webinar series. EVERY student who complete all five sessions will receive a $25 gift card. Sessions will cover topics such as resume skills, tools to build confidence, and tips for getting into the college of your choice.
 
