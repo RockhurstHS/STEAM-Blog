@@ -6,17 +6,11 @@ layout: events
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
 
-<div class="flex-wrapper">
-  <img src="/img/HIREKC2020.png">
-</div> 
+## V-Ships (Virtual Internships, Externships, Fellowships, etc.)
 
-[HIREKC](https://hirekc.org/) is making available a virtual work ready institute. Students who complete <u>all four modules</u> <b>will earn $100! Spots are limited</b>. The Executive Director of HireKC is the mother of Ben Keefe, class of 2020!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">High school students: We are working with 16 Kansas City for profit, non-profit, and community-based organizations to provide client-connected projects. Participants earn $300! Visit <a href="https://t.co/P38R7hC18c">https://t.co/P38R7hC18c</a> or contact help@hirekc.org for more info. <a href="https://t.co/BhkOrwQxC0">pic.twitter.com/BhkOrwQxC0</a></p>&mdash; Hire KC (@HireKCYouth) <a href="https://twitter.com/HireKCYouth/status/1298754470675968002?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="btn btn-primary" href="https://hirekc.org/students/?mc_cid=07044fdf4a&mc_eid=c05034b62c" role="button">Sign Up Here</a> 
-
-CommunityAmerica Credit Union just gave $26,000 to students for completing their virtual internship at the end of the school year. 350+ students were involved. Now they are offering a Life Skills webinar series. EVERY student who complete all five sessions will receive a $25 gift card. Sessions will cover topics such as resume skills, tools to build confidence, and tips for getting into the college of your choice.
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1aW9dILaAy0T2xYmnzFjvL8p5-pUomrAo/view?usp=sharing" role="button">Learn More Here</a> <a class="btn btn-primary" href="https://www.eventbrite.com/e/life-skills-series-learn-the-top-5-skills-for-successful-adulting-tickets-106414578870" role="button">Register Here</a>
+## Past Opportunities
 
 ## College Camps and College Experiences
 
@@ -205,7 +199,17 @@ Project Discovery is a week long, intensive learning camp for high school studen
 
 <a class="btn btn-primary" href="https://www.kcstem.org/events/" role="button">KC STEM Alliance Events Calendar</a>
 
-## Past Opportunities
+<div class="flex-wrapper">
+  <img src="/img/HIREKC2020.png">
+</div> 
+
+[HIREKC](https://hirekc.org/) is making available a virtual work ready institute. Students who complete <u>all four modules</u> <b>will earn $100! Spots are limited</b>. The Executive Director of HireKC is the mother of Ben Keefe, class of 2020!
+
+<a class="btn btn-primary" href="https://hirekc.org/students/?mc_cid=07044fdf4a&mc_eid=c05034b62c" role="button">Sign Up Here</a> 
+
+CommunityAmerica Credit Union just gave $26,000 to students for completing their virtual internship at the end of the school year. 350+ students were involved. Now they are offering a Life Skills webinar series. EVERY student who complete all five sessions will receive a $25 gift card. Sessions will cover topics such as resume skills, tools to build confidence, and tips for getting into the college of your choice.
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1aW9dILaAy0T2xYmnzFjvL8p5-pUomrAo/view?usp=sharing" role="button">Learn More Here</a> <a class="btn btn-primary" href="https://www.eventbrite.com/e/life-skills-series-learn-the-top-5-skills-for-successful-adulting-tickets-106414578870" role="button">Register Here</a>
 
 ### YEP KC Summer Internship
 
