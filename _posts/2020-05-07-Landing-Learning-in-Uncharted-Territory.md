@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: Course Projects: Landing Learning in uncharted territory.
+title: Course Projects: Landing Learning in Uncharted Territory.
 tags: science
 ---
 
