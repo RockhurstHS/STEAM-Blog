@@ -56,9 +56,10 @@ In the past, I’ve heard Mr. Winkeler share critical insights about the distinc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LiKgefxbXr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote> "One of the big questions is, "Why?" Tell me what got you into this and why you want to go to Neptune, or whereever it is." </blockquote>
-If you are considering incorporating a project into your course, then listen to Mr. Winkeler’s advice on how to proceed.
 
 ## Advice for other educators
+
+If you are considering incorporating a project into your course, then listen to Mr. Winkeler’s advice on how to proceed.
 
 <blockquote> "List out as much as you can and post it." </blockquote>
 
