@@ -2,12 +2,13 @@
 layout: post
 author: gregowsley
 title: Course Projects - Landing Learning in Uncharted Territory.
+excerpt: Incorporating capstone projects to punctuate a course contribute an added benefit of flexibility and agility for teachers and students. When Rockhurst High School went to an online learning model due to the worldwide pandemic, Mr. Paul Winkeler’s Astronomy students were able to stay engaged and continue their learning journey. While everyone was figuring out their new normal for the spring semester, Mr. Winkeler, Chair of the Science Department, also talked about how the course’s final project helped maintain high expectations and high standards for both him as the instructor and the students in the class.
 tags: science
 ---
 
 ## Importance of a project
 
-Incorporating capstone projects to punctuate a course contribute an added benefit of flexibility and agility for teachers and students. When Rockhurst High School went to an online learning model due to the worldwide pandemic, Mr. Paul Winkeler’s Astronomy students were able to stay engaged and continue their learning journey. While everyone was figuring out their new normal for the spring semester, Mr. Winkeler, Chair of the Science Department. also talked about how the course’s final project help his course maintain high expectations and high standards for both him as the instructor and the students.
+Incorporating capstone projects to punctuate a course contribute an added benefit of flexibility and agility for teachers and students. When Rockhurst High School went to an online learning model due to the worldwide pandemic, Mr. Paul Winkeler’s Astronomy students were able to stay engaged and continue their learning journey. While everyone was figuring out their new normal for the spring semester, Mr. Winkeler, Chair of the Science Department, also talked about how the course’s final project helped maintain high expectations and high standards for both him as the instructor and the students in the class.
 
 <blockquote> "One of the things that I noticed the most was how 'into' this [the project] they were." </blockquote>
 
