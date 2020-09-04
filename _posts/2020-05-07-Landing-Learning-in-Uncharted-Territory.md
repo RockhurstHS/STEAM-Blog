@@ -44,7 +44,7 @@ Furthermore, project roles helped with keeping the students on track. During the
 <blockquote> "If you truly want to unlock a student's potential, then group projects are a big part of that." </blockquote>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7LG5SIfKYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<blockquote< "They all have to really work together. At the same time, they each get their own individual grade." </blockquote>
+<blockquote> "They all have to really work together. At the same time, they each get their own individual grade." </blockquote>
 
 
 ## Learning Evidence
