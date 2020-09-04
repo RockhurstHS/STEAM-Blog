@@ -41,7 +41,7 @@ Furthermore, project roles helped with keeping the students on track. During the
 
 <i> "I would reach out to PM's on Monday and see if their teams needed any guidance.  I would remind them that I was available on Tuesday if they needed me.  Most did. On Tuesday most teams would check in with individual questions via Google Meet. During our Wednesday online class period I would address the entire class, remind them of upcoming deadlines, make announcements, etc.  Really the importance of Wednesday was to guide the teams away from pitfalls, laying the groundwork for success. Thursday was when I had office hours; I would meet with every team for at least 20 minutes.  I had a schedule and the teams would pop in and out when their reserved time came up.  This schedule was something I had to come up with in order for the students to be successful during remote learning.  It worked extremely well." </i> - Mr. Winkeler
 
-<blockquoe> "If you truly want to unlock a student's potential, then group projects are a big part of that." </blockquote>
+<blockquote> "If you truly want to unlock a student's potential, then group projects are a big part of that." </blockquote>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7LG5SIfKYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote< "They all have to really work together. At the same time, they each get their own individual grade." </blockquote>
