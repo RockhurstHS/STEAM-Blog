@@ -16,13 +16,13 @@ indicators: st1.9 st1.10
   <img src="/img/Press Release.png">
 </div>
 
-Applicant schools were put through a rigorous scoring system designed by ITEEA. A score of 110 points is needed to earn the recognition and Rockhurst High School scorec 205 points! One of the reasons we scored so highly is because ITEEA advocates for "i-STEM", which means "integrative STEM". They loved how integrated so much of the Rockhurst STEAM programming was. Below are a few quotes from the director, Nancye Hart.
+Applicant schools were put through a rigorous scoring system designed by ITEEA. A score of 110 points was needed to earn the recognition and Rockhurst High School scorec 205 points! One of the reasons we scored so highly is because ITEEA advocates for "i-STEM", which means "integrative STEM". They loved how integrated so much of the Rockhurst STEAM programming was. Below are a few quotes from the director, Nancye Hart.
 
-<i> 
-- “The fact that you require an Introduction to Computer Science course is aggressive. We love it.”
-- “You have a wide variety of Robotics, Engineering and AP Courses that helped you stand out."
-- "Your collaborations with Walkin' & Rollin' Costumes, Project Lead the Way, the CAPS Network as well as others all really hit the mark, not to mention that you are STEM Certified."
-- "The Fundamentals of Science Research class from Mr. Nendick is quite impressive and reminds us of programs from the North Carolina School of Science and Math." </i>
+
+- <i>“The fact that you require an Introduction to Computer Science course is aggressive. We love it.”</i>
+- <i>“You have a wide variety of Robotics, Engineering and AP Courses that helped you stand out."</i>
+- <i>"Your collaborations with Walkin' & Rollin' Costumes, Project Lead the Way, the CAPS Network as well as others all really hit the mark, not to mention that you are STEM Certified."</i>
+- <i>"The Fundamentals of Science Research class from Mr. Nendick is quite impressive and reminds us of programs from the North Carolina School of Science and Math."</i>
 
 <div class="flex-wrapper">
   <img src="/img/ITEEA.png">
