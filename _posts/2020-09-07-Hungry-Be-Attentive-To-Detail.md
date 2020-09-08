@@ -20,7 +20,9 @@ I first fell in love with science during the 2nd day of my 6th grade year at [St
 
 [Mr. Tim Nendick](http://steam.rockhursths.edu/team/timothynendick/), engaged Rockhurst High School students enrolled in the [Fundamentals of Science Research](http://steam.rockhursths.edu/2019/08/07/FSR18.html) course in a similar exercise to kickoff the 2020-2021 academic year. Below are some more reflections from his students.
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well, it&#39;s good this isn&#39;t a culinary class <a href="https://t.co/5t892F1T2z">pic.twitter.com/5t892F1T2z</a></p>&mdash; RHS Science (@SciRHS) <a href="https://twitter.com/SciRHS/status/1300482684209127424?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 <blockquote>We started off class with talking about grilled cheeses, which was rough because we had lunch an hour later. We went through a reddit post slandering any grilled cheese that contained meat, vegetables or anything else. We were asked to write a procedure on how to make grilled cheese. I thought we were just going to talk about it in class, but instead Mr. Nendick said, “Okay, let's cross the hallway into the lab. The whole class was excited because we were gonna make grilled cheese during school. How wrong we were. Mr Nendick did everything he could to show us our directions were horrible. He opened a container of butter with an electric saw then took every direction literally. This continued until we thought we had the perfect procedure, until he would completely destroy the sandwich from one slightly off direction. This was both an entertaining project and valuable because it taught us what type of standards we would be held to for our research and projects this year.</blockquote>
 
