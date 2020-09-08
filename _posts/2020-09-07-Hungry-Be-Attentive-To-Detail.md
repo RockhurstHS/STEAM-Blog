@@ -10,7 +10,9 @@ indicators:
 
 <blockquote>There is nothing that can prepare you for seeing Mr. Nendick throw a piece of bread onto a direct flame because your directions on how to make a grilled cheese sandwich were not clear enough. - Rockhurst Senior </blockquote>
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can the research students write a teacher-proof procedure to make a grilled cheese? Stay tuned to find out <a href="https://t.co/iUm5s7bUW4">pic.twitter.com/iUm5s7bUW4</a></p>&mdash; RHS Science (@SciRHS) <a href="https://twitter.com/SciRHS/status/1300442254759342082?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 I first fell in love with science during the 2nd day of my 6th grade year at [St. Peter’s Grade School](https://stpkc.org/school/). On the first day, legendary science teacher Mr. Jacobsen asked us to write all of the steps necessary to make a peanut butter & jelly sandwich. On the 2nd day, he came prepared with all of the ingredients and we spent the class laughing as he botched one sandwich after the other due to the fact that our directions were not specific enough.
 
