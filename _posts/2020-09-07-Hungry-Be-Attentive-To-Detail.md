@@ -18,7 +18,7 @@ I first fell in love with science during the 2nd day of my 6th grade year at [St
 
 <blockquote>The moral of the day was that in an experiment, procedure is everything, and every contributing factor to the experiment needs to be explained to its maximum. - Rockhurst Senior</blockquote>
 
-[Mr. Tim Nendick](http://steam.rockhursths.edu/team/timothynendick/), engaged Rockhurst High School students enrolled in the Fundamentals of Science Research course in a similar exercise to kickoff the 2020-2021 academic year. Below are some more reflections from his students.
+[Mr. Tim Nendick](http://steam.rockhursths.edu/team/timothynendick/), engaged Rockhurst High School students enrolled in the [Fundamentals of Science Research](http://steam.rockhursths.edu/2019/08/07/FSR18.html) course in a similar exercise to kickoff the 2020-2021 academic year. Below are some more reflections from his students.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well, it&#39;s good this isn&#39;t a culinary class <a href="https://t.co/5t892F1T2z">pic.twitter.com/5t892F1T2z</a></p>&mdash; RHS Science (@SciRHS) <a href="https://twitter.com/SciRHS/status/1300482684209127424?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
