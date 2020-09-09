@@ -5,12 +5,24 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+## Virtual Job Shadowing with Burns & McDonnell
+<center>
+<div class="flex-wrapper">
+  <img src="/img/img/BurnsMcDonnellLogo.jpg">
+</div> 
+</center>
+
+High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunitiy to develop networking skills that will help you in finding internships and jobs in the future.
+
+<a class="btn btn-primary" href="https://burnsmcd.recsolu.com/external/form/LQ-UOQVa0ODqhiIp5XYivw?utm_campaign=HS_JobShadowProgram&utm_source=CORP_HR_GivingOutreachUpdates_Vanity_JobShadow_Yello-Form&utm_medium=External%20Communications" role="button">Learn More & Apply Here</a>
+
+## Past Opportunities
 
 ## V-Ships (Virtual Internships, Externships, Fellowships, etc.)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">High school students: We are working with 16 Kansas City for profit, non-profit, and community-based organizations to provide client-connected projects. Participants earn $300! Visit <a href="https://t.co/P38R7hC18c">https://t.co/P38R7hC18c</a> or contact help@hirekc.org for more info. <a href="https://t.co/BhkOrwQxC0">pic.twitter.com/BhkOrwQxC0</a></p>&mdash; Hire KC (@HireKCYouth) <a href="https://twitter.com/HireKCYouth/status/1298754470675968002?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Past Opportunities
+
 
 ## College Camps and College Experiences
 
