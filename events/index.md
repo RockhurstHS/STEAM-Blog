@@ -8,7 +8,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 ## Virtual Job Shadowing with Burns & McDonnell
 <center>
 <div class="flex-wrapper">
-  <img src="/img/img/BurnsMcDonnellLogo.jpg">
+  <img src="/img/BurnsMcDonnellLogo.jpg">
 </div> 
 </center>
 
