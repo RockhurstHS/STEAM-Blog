@@ -12,7 +12,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 </div> 
 </center>
 
-High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunitiy to develop networking skills that will help you in finding internships and jobs in the future.
+High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunity to develop networking skills that will help you in finding internships and jobs in the future.
 
 <a class="btn btn-primary" href="https://burnsmcd.recsolu.com/external/form/LQ-UOQVa0ODqhiIp5XYivw?utm_campaign=HS_JobShadowProgram&utm_source=CORP_HR_GivingOutreachUpdates_Vanity_JobShadow_Yello-Form&utm_medium=External%20Communications" role="button">Learn More & Apply Here</a>
 
