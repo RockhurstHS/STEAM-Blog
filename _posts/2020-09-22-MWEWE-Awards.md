@@ -11,7 +11,7 @@ tags: arts
   <img src="/img/MerrillWatt.png">
 </div>
 </center>
-Over the summer, two Rockhurst High School student teams were recognized by the Merrill Watt Education & Mentoring Endowment (MWEME), which awarded three area teams awards for categories including entrepreneurship and innovation. Both of these student teams developed their award winning submissions in courses that developed out the Rockhurst STEAM initiative. 
+Over the summer, two Rockhurst High School student teams were recognized by the [Merrill Watt Education & Mentoring Endowment](https://drive.google.com/file/d/1hWySh1B89iUaxyTPVyhlSu8oAsJ-0Ehn/view?usp=sharing) (MWEME), which awarded three area teams awards for categories including entrepreneurship and innovation. Both of these student teams developed their award winning submissions in courses that developed out the Rockhurst STEAM initiative. 
 
 Of the three awards distributed to area high school students, two of the awards were given to Rockhurst High School student teams. According to Mr. Watt himself, "Both teams submitted projects that tied right into the type of thought process that the award is trying to stimulate."
 
