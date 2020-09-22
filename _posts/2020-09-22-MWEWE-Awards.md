@@ -5,7 +5,7 @@ title: RHS Student Teams Win MWEME Awards
 excerpt: Over the summer, two Rockhurst High School student teams were recognized by the Merrill Watt Education & Mentoring Endowment (MWEME), which awarded three area teams awards for categories including entrepreneurship and innovation. Both of these student teams developed their award winning submissions in courses that developed out the Rockhurst STEAM initiative. 
 tags: arts
 ---
-<blockquote>My brother and I designed an autonomous boat that can measure water quality data and then relay the data to a computer. We are rowers, so we thought it would be interesting to do a project related to water quality on the Kansas River where we row.</blockquote>
+<blockquote>My brother and I designed an autonomous boat that can measure water quality data and then relay the data to a computer. We are rowers, so we thought it would be interesting to do a project related to water quality on the Kansas River where we row. - Michael Donnellan '20</blockquote>
 <center>
 <div class="flex-wrapper">
   <img src="/img/MerrillWatt.png">
