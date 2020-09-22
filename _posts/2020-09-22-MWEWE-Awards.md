@@ -21,6 +21,7 @@ Of the three awards distributed to area high school students, two of the awards 
 <div class="flex-wrapper">
   <img src="/img/MW Award Picture.JPG">
 </div>
+<p class="caption">From left to right: Mr. Merrill Watt, Tanner Helton, Luke Rottinghaus, Aidan Lake, Michael Donnellan and Fr. Vincernt Giacabazi, S.J.</p>
 </center>
 
 The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matthew ‘20. They developed an invention while enrolled in Rockhurst’s Fundamentals of Science Research Class. 
