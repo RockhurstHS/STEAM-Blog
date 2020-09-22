@@ -5,7 +5,7 @@ title: RHS Student Teams Win MWEME Awards
 excerpt: Over the summer, two Rockhurst High School student teams were recognized by the Merrill Watt Education & Mentoring Endowment (MWEME), which awarded three area teams awards for categories including entrepreneurship and innovation. Both of these student teams developed their award winning submissions in courses that developed out the Rockhurst STEAM initiative. 
 tags: arts
 ---
-
+<blockquote>My brother and I designed an autonomous boat that can measure water quality data and then relay the data to a computer. We are rowers, so we thought it would be interesting to do a project related to water quality on the Kansas River where we row.</blockquote>
 <center>
 <div class="flex-wrapper">
   <img src="/img/MerrillWatt.png">
@@ -36,9 +36,9 @@ The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matt
 </div>
 </center>
  
-<i>The structure of the boat is made of two foam catamarans and carbon fiber tubes. The boat has sensors that measure pH, turbidity, conductivity, and dissolved oxygen, all of which are helpful metrics for monitoring water quality. The sensors are attached to a plastic box, which holds several electronics. The boat can be controlled with a remote control and is moved by a wind propeller.  
+<i>The structure of the boat is made of two foam catamarans and carbon fiber tubes. The boat has sensors that measure pH, turbidity, conductivity, and dissolved oxygen, all of which are helpful metrics for monitoring water quality. The sensors are attached to a plastic box, which holds several electronics. The boat can be controlled with a remote control and is moved by a wind propeller.</i>
  
-With the help of Mr. Nendick, we researched boat designs and electronics for controlling the boat. We also put together some parts of the boat, including the catamarans and mounts for other parts. While we were unable to finish the project completely because the semester ended early, we learned a lot about how autonomous systems work. </i>
+<i>With the help of Mr. Nendick, we researched boat designs and electronics for controlling the boat. We also put together some parts of the boat, including the catamarans and mounts for other parts. While we were unable to finish the project completely because the semester ended early, we learned a lot about how autonomous systems work. </i>
  
 The other Rockhurst High School student team consisted of Luke Rottinghaus, Tanner Helton, Max Firsch & Aidan Lake. These members of the class of 2020 won the MWEME initiative’s Entrepreneurship award. During the fall semester, these students created a company during the [Entrepreneurship for Others](http://steam.rockhursths.edu/2020/06/12/Assessing-Entrepreneurial-Mindset-Education.html) class at Rockhurst. They even won the ‘Most Viable Product’ award during [EFO pitch night](http://steam.rockhursths.edu/2019/05/16/EFOSpring19.html). 
 
