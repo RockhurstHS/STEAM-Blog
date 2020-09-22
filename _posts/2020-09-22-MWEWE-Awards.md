@@ -13,7 +13,9 @@ tags: arts
 </center>
 Over the summer, two Rockhurst High School student teams were recognized by the Merrill Watt Education & Mentoring Endowment (MWEME), which awarded three area teams awards for categories including entrepreneurship and innovation. Both of these student teams developed their award winning submissions in courses that developed out the Rockhurst STEAM initiative. 
 
-Of the three awards distributed to area high school students, two of the awards were given to Rockhurst High School student teams. 
+Of the three awards distributed to area high school students, two of the awards were given to Rockhurst High School student teams. According to Mr. Watt himself, "Both teams submitted projects that tied right into the type of thought process that the award is trying to stimulate."
+
+<blockquote> Both teams submitted projects that tied right into the type of thought process that the award is trying to stimulate. - Mr. Merrill Watt </blockquote>
 
 <center>
 <div class="flex-wrapper">
@@ -25,7 +27,7 @@ The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matt
 
 <b> Below is Michael’s description of the project. </b>
 
-<i>My brother and I designed an autonomous boat that can measure water quality data and then relay the data to a computer. We are rowers, so we thought it would be interesting to do a project related to water quality on the Kansas River where we row.
+<i>My brother and I designed an autonomous boat that can measure water quality data and then relay the data to a computer. We are rowers, so we thought it would be interesting to do a project related to water quality on the Kansas River where we row.</i>
  
 <center>
 <div class="flex-wrapper">
@@ -33,7 +35,7 @@ The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matt
 </div>
 </center>
  
-The structure of the boat is made of two foam catamarans and carbon fiber tubes. The boat has sensors that measure pH, turbidity, conductivity, and dissolved oxygen, all of which are helpful metrics for monitoring water quality. The sensors are attached to a plastic box, which holds several electronics. The boat can be controlled with a remote control and is moved by a wind propeller.  
+<i>The structure of the boat is made of two foam catamarans and carbon fiber tubes. The boat has sensors that measure pH, turbidity, conductivity, and dissolved oxygen, all of which are helpful metrics for monitoring water quality. The sensors are attached to a plastic box, which holds several electronics. The boat can be controlled with a remote control and is moved by a wind propeller.  
  
 With the help of Mr. Nendick, we researched boat designs and electronics for controlling the boat. We also put together some parts of the boat, including the catamarans and mounts for other parts. While we were unable to finish the project completely because the semester ended early, we learned a lot about how autonomous systems work. </i>
  
