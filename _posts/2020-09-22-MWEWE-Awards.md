@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gregowsley
-title: RHS Student Teams win MWEME Awards
+title: RHS Student Teams Win MWEME Awards
 excerpt: Over the summer, two Rockhurst High School student teams were recognized by the Merrill Watt Education & Mentoring Endowment (MWEME), which awarded three area teams awards for categories including entrepreneurship and innovation. Both of these student teams developed their award winning submissions in courses that developed out the Rockhurst STEAM initiative. 
 tags: arts
 ---
