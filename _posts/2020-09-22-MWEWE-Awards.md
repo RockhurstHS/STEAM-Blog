@@ -24,7 +24,7 @@ Of the three awards distributed to area high school students, two of the awards 
 <p class="caption">From left to right: Mr. Merrill Watt, Tanner Helton, Luke Rottinghaus, Aidan Lake, Michael Donnellan and Fr. Vincernt Giacabazi, S.J.</p>
 </center>
 
-The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matthew ‘20. They developed an invention while enrolled in Rockhurst’s Fundamentals of Science Research Class. 
+The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matthew ‘20. They developed an invention while enrolled in Rockhurst’s [Fundamentals of Science Research](http://steam.rockhursths.edu/2019/08/07/FSR18.html) Class. 
 
 <b> Below is Michael’s description of the project. </b>
 
@@ -40,7 +40,7 @@ The Innovation award was given to Michael Donnellan, ‘20 and his brother, Matt
  
 With the help of Mr. Nendick, we researched boat designs and electronics for controlling the boat. We also put together some parts of the boat, including the catamarans and mounts for other parts. While we were unable to finish the project completely because the semester ended early, we learned a lot about how autonomous systems work. </i>
  
-The other Rockhurst High School student team consisted of Luke Rottinghaus, Tanner Helton, Max Firsch & Aidan Lake. These members of the class of 2020 won the MWEME initiative’s Entrepreneurship award. During the fall semester, these students created a company during the Entrepreneurship for Others class at Rockhurst. They even won the ‘Most Viable Product’ award during pitch night. 
+The other Rockhurst High School student team consisted of Luke Rottinghaus, Tanner Helton, Max Firsch & Aidan Lake. These members of the class of 2020 won the MWEME initiative’s Entrepreneurship award. During the fall semester, these students created a company during the [Entrepreneurship for Others](http://steam.rockhursths.edu/2020/06/12/Assessing-Entrepreneurial-Mindset-Education.html) class at Rockhurst. They even won the ‘Most Viable Product’ award during [EFO pitch night](http://steam.rockhursths.edu/2019/05/16/EFOSpring19.html). 
 
 Their company, Limitless Lawns, developed an electronic service that connects homeowners with area teenagers looking to do more lawnwork in the neighborhood. They launched their company in the fall of 2019 and started earning profits leading up to the EFO Pitch night in early December of 2019. 
 
