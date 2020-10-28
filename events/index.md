@@ -5,6 +5,19 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+
+<center>
+<div class="flex-wrapper">
+  <img src="/img/UMKCSTEMMAJORS.png">
+</div> 
+</center>
+
+UMKC has created a YouTube channel featuring a series of 2-3 minute videos exploring various STEM majors. Check them out!
+
+<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLkRL61iWh_qYgjZGsIleI2g_qqxltyKET&mc_cid=bb63acda6c&mc_eid=d6ba1282f0" role="button">Watch Here</a>
+
+
+
 ## Virtual Job Shadowing with Burns & McDonnell
 <center>
 <div class="flex-wrapper">
