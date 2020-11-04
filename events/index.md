@@ -19,6 +19,12 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 
 ## BioNexus OneHealth Symposium
 
+<center>
+<div class="flex-wrapper">
+  <img src="/img/BioNexusOneHealthKC.png">
+</div> 
+</center>
+
 The [One Health Research Symposium: The Future of Health](https://bionexuskc.org/event/2020-one-health-research-symposium-biosensors/) on “biosensors and wearable sensors” will feature research showing the impact it is having in One Health (human, animal, and environmental health) applications. The use of biosensors in One Health applications has significant potential to enhance and accelerate the identification of disease conditions by providing access to real-time data to improve decision-making capabilities. 
 
 <b>The event takes place during school hours, but students who register (it's free) for the event will receive a link with the recording.</b>
