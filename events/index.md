@@ -17,6 +17,21 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 <a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLkRL61iWh_qYgjZGsIleI2g_qqxltyKET&mc_cid=bb63acda6c&mc_eid=d6ba1282f0" role="button">Watch Here</a>
 
 
+## BioNexus OneHealth Symposium
+
+The [One Health Research Symposium: The Future of Health](https://bionexuskc.org/event/2020-one-health-research-symposium-biosensors/) on “biosensors and wearable sensors” will feature research showing the impact it is having in One Health (human, animal, and environmental health) applications. The use of biosensors in One Health applications has significant potential to enhance and accelerate the identification of disease conditions by providing access to real-time data to improve decision-making capabilities. 
+
+<b>The event takes place during school hours, but students who register (it's free) for the event will receive a link with the recording.</b>
+
+Rockhurst received a special code (Sensors) that provides a FREE all access pass to students. [Here](https://2020ohrs.eventbrite.com?discount=Sensors) is a shareable link: https://2020ohrs.eventbrite.com?discount=Sensors
+
+Symposium highlights:
+
+The keynote speaker, [Dr. Duncan Lascelles](https://bionexuskc.org/staff/b-duncan-x-lascelles-bsc-bvsc-phd-frcvs/) from NC State will showcase the challenges, opportunities, and future path forward via wearable and implantable sensors. These sensors offer opportunities to access continuous, real-time data across multiple varied dimensions. Such objective data collected in naturally occurring disease states in companion animals also offers a powerful comparative tool that can be leveraged to accelerate the development of analgesic therapies for human health. 
+
+Additionally, on November 17, there will be a Career Panel Discussion with industry professionals from Hill’s Pet Nutrition, Merck Animal Health and Garmin. This will provide engagement opportunities and helpful insights for both students and researchers. 
+
+
 
 ## Virtual Job Shadowing with Burns & McDonnell
 <center>
