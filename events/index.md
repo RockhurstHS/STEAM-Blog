@@ -5,6 +5,31 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
+<center>
+<div class="flex-wrapper">
+  <img src="/img/Kiewit Logo.png">
+</div> 
+</center>
+
+Kiewit Power Engineering is now accepting high school intern applications for the 2022 LEAD Intern Program. Kiewit’s paid, full-time summer LEAD internship provides challenging and achievable projects that encourage participants to pursue their passion for the fields of science, technology, engineering and mathematics (STEM). This program is meant for Kansas City based incoming high school Juniors, Seniors, college Freshman or incoming college Sophomores.The deadline for applications to the LEAD program is January 31, 2020.
+<a class="btn btn-primary" href="https://www.youtube.com/watch?v=AeZVGiw37UM&feature=emb_logo" role="button">Informational Video</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1N7aqY7rk9D5wK7n496HSjCvLoFVqQtml/view?usp=sharing" role="button">1-Page Flier</a>
+<a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/679758000/?locale=en_US" role="button">Register Here</a>
+
+
+<center>
+<div class="flex-wrapper">
+  <img src="/img/YEPKC.png">
+</div> 
+</center>
+
+YEPKC is a phenomenal summer internship program. Students can apply for the 4-week or 8-week sessions. Compensation is exceptional. Multiple Rockhurst students have been accepted in the past. Flier below even features Max Goeke of the class of 2019! You can read about Joe Hathway's experience several years ago [HERE](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html)
+
+Application deadline is February 15th, but students are accepted before the deadline. Therefore, improve your chances by applying early!
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1w2vSNQtUTYQxQdPh3D8qNlzOupz5P5fk/view?usp=sharing" role="button">1-Page Flier</a>
+<a class="btn btn-primary" href="https://www.yeprogram.org/apply" role="button">Register Here</a>
+
 
 <center>
 <div class="flex-wrapper">
