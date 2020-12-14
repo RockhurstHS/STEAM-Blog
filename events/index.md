@@ -30,6 +30,23 @@ Application deadline is February 15th, but students are accepted before the dead
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1w2vSNQtUTYQxQdPh3D8qNlzOupz5P5fk/view?usp=sharing" role="button">1-Page Flier</a>
 <a class="btn btn-primary" href="https://www.yeprogram.org/apply" role="button">Register Here</a>
 
+<center>
+<div class="flex-wrapper">
+  <img src="/img/CAKC-master.png">
+</div> 
+</center>
+
+Climate Action KC is a Missouri nonprofit corporation comprised of leaders from government, industry, nonprofits and the community who are dedicated to reducing emissions and promoting a thriving, climate resilient Kansas City metro region. CAKC supports STEM experiences for KC metro-area students by encouraging their involvement in activities like:
+
+ - Taking specific actions to reduce their own carbon footprint
+ - Providing input on a regional climate action plan
+ - Developing and providing public outreach and education
+ - Planning and attending climate workshops and summits
+ - Helping develop equitable climate solutions
+ - Attending peaceful climate demonstrations and
+ - Learning about volunteer and internship opportunities with local community and environmental organizations.
+ 
+To learn how to connect with Climate Action KC for one of these opportunities, contact Matt Riggs, mriggs@marc.org
 
 <center>
 <div class="flex-wrapper">
