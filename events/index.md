@@ -5,18 +5,7 @@ layout: events
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
-<center>
-<div class="flex-wrapper">
-  <img src="/img/Kiewit Logo.png">
-</div> 
-</center>
-
-Kiewit Power Engineering is now accepting high school intern applications for the 2022 LEAD Intern Program. Kiewit’s paid, full-time summer LEAD internship provides challenging and achievable projects that encourage participants to pursue their passion for the fields of science, technology, engineering and mathematics (STEM). This program is meant for Kansas City based incoming high school Juniors, Seniors, college Freshman or incoming college Sophomores.The deadline for applications to the LEAD program is January 31, 2020.
-<a class="btn btn-primary" href="https://www.youtube.com/watch?v=AeZVGiw37UM&feature=emb_logo" role="button">Informational Video</a>
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1N7aqY7rk9D5wK7n496HSjCvLoFVqQtml/view?usp=sharing" role="button">1-Page Flier</a>
-<a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/679758000/?locale=en_US" role="button">Register Here</a>
-
-
+### YEPKC Internship
 <center>
 <div class="flex-wrapper">
   <img src="/img/YEPKC.png">
@@ -25,10 +14,53 @@ Kiewit Power Engineering is now accepting high school intern applications for th
 
 YEPKC is a phenomenal summer internship program. Students can apply for the 4-week or 8-week sessions. Compensation is exceptional. Multiple Rockhurst students have been accepted in the past. Flier below even features Max Goeke of the class of 2019! You can read about Joe Hathway's experience several years ago [HERE](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html)
 
-Application deadline is February 15th, but students are accepted before the deadline. Therefore, improve your chances by applying early!
+<b>Application deadline is February 15th</b>, but students are accepted before the deadline. Therefore, improve your chances by applying early!
 
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1JR_cYyqpFWCTfA9PmctP7jQNI5a3Wmqy/view?usp=sharing" role="button">Watch the 2 min Promo video here</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1w2vSNQtUTYQxQdPh3D8qNlzOupz5P5fk/view?usp=sharing" role="button">1-Page Flier</a>
 <a class="btn btn-primary" href="https://www.yeprogram.org/apply" role="button">Register Here</a>
+
+## HireKC Youth Summer Internships
+
+<div class="flex-wrapper">
+  <img src="/img/HireKCInternships.png">
+</div>  
+
+Summer opportunities open March 1, 2021 at hirekc.org.
+- I-ships (8-12 Wks)
+- Micro i-ships (1-3 Wks)
+- Client Projects
+- Community Projects
+- Readiness Modules
+
+<a class="btn btn-primary" href="https://hirekc.org/students/?mc_cid=f24f10f274&mc_eid=c05034b62c" role="button">Sign Up</a>
+
+
+### Friendmedia Internships
+<div class="flex-wrapper">
+  <img src="/img/Friendmedia.png">
+</div>   
+
+[Friendmedia, Inc.](https://friendmedia.com/) is looking to hire two interns starting in January of 2020: a content coordinator and a sales coordinator. Both unpaid internships can turn into a paid internship for the summer of 2020. Interested students should reach out to Mr. Greg Owsley at gowsley@rockhursths.edu.
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
+
+### Missouri STEM Signing Day
+<b>Details</b>
+- STEM Signing Day Celebration on April 29, 2021
+- A minimum of 10 Students will receive a <b>$1,000 Scholarship</b> to go towards their college costs
+- Students will sign a letter of intent to pursue a STEM degree program at a <b>Missouri post-secondary institution</b>
+- Students will be recognized for their STEM achievement by state officials, business leaders, coalition members and other special guests
+
+<b>Eligibility & Criteria</b>
+- 2021 Missouri graduating high school students
+- Students interested in pursuing a STEM degree or certificate program at a Missouri 2-year, 4-year or Technical College, Fall 2021
+- Applications will be evaluated on the basis of passion for STEM learning, advancing society through STEM, high school activity involvement and scholarship.  
+- Semi-Finalist will be asked to provide a 1-2 minute video on what inspires them to pursue a STEM pathway
+- <b>Application deadline is March 1, 2021.</b> Applications are submitted through the My Scholarship Central portal.
+
+<a class="btn btn-primary" href="https://stlouisgraduates.academicworks.com/opportunities/3669" role="button">Apply Here</a>
 
 <center>
 <div class="flex-wrapper">
@@ -98,6 +130,16 @@ High school students can get a glimpse into the future by connecting online with
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">High school students: We are working with 16 Kansas City for profit, non-profit, and community-based organizations to provide client-connected projects. Participants earn $300! Visit <a href="https://t.co/P38R7hC18c">https://t.co/P38R7hC18c</a> or contact help@hirekc.org for more info. <a href="https://t.co/BhkOrwQxC0">pic.twitter.com/BhkOrwQxC0</a></p>&mdash; Hire KC (@HireKCYouth) <a href="https://twitter.com/HireKCYouth/status/1298754470675968002?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
+<div class="flex-wrapper">
+  <img src="/img/Kiewit Logo.png">
+</div> 
+</center>
+
+Kiewit Power Engineering is now accepting high school intern applications for the 2022 LEAD Intern Program. Kiewit’s paid, full-time summer LEAD internship provides challenging and achievable projects that encourage participants to pursue their passion for the fields of science, technology, engineering and mathematics (STEM). This program is meant for Kansas City based incoming high school Juniors, Seniors, college Freshman or incoming college Sophomores.The deadline for applications to the LEAD program is January 31, 2020.
+<a class="btn btn-primary" href="https://www.youtube.com/watch?v=AeZVGiw37UM&feature=emb_logo" role="button">Informational Video</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1N7aqY7rk9D5wK7n496HSjCvLoFVqQtml/view?usp=sharing" role="button">1-Page Flier</a>
+<a class="btn btn-primary" href="https://kiewitcareers.kiewit.com/job/Lenexa-LEAD-Internship-Kiewit-Power-Engineers-KS-66210/679758000/?locale=en_US" role="button">Register Here</a>
 
 
 ## College Camps and College Experiences
@@ -241,15 +283,7 @@ The link below has information about internships throug the Kansas City Police D
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5WnEtQnZySTdhb0Z3R2JqZThUNFpFYmRPa2ZJ/view?usp=sharing" role="button">Email to Learn More</a>
 
-### Friendmedia Internships
-<div class="flex-wrapper">
-  <img src="/img/Friendmedia.png">
-</div>   
 
-[Friendmedia, Inc.](https://friendmedia.com/) is looking to hire two interns starting in January of 2020: a content coordinator and a sales coordinator. Both unpaid internships can turn into a paid internship for the summer of 2020. Interested students should reach out to Mr. Greg Owsley at gowsley@rockhursths.edu.
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
 
 ### Leadership Intern at St. Elizabeth STEM Camp
 
