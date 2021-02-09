@@ -62,6 +62,13 @@ Summer opportunities open March 1, 2021 at hirekc.org.
 
 <a class="btn btn-primary" href="https://stlouisgraduates.academicworks.com/opportunities/3669" role="button">Apply Here</a>
 
+## Summer Jobs at Garmin
+
+Do you know a student who loves technology and talking to people? Garmin is hiring for summer seasonal associates to help customers resolve issues with their Garmin products. Openings include positions in Marine, Auto, Fitness and Outdoors and positions have the potential to move into a repeat summer job. 
+
+<a class="btn btn-primary" href="https://careers-us.garmin.com/us/en/job/20001W0/Summer-Seasonal-Product-Support-Specialist?mc_cid=bffaa5688d&mc_eid=d6ba1282f0" role="button">Apply Here</a>
+
+## KC Climate Action Committee
 <center>
 <div class="flex-wrapper">
   <img src="/img/CAKC-master.png">
@@ -79,6 +86,8 @@ Climate Action KC is a Missouri nonprofit corporation comprised of leaders from 
  - Learning about volunteer and internship opportunities with local community and environmental organizations.
  
 To learn how to connect with Climate Action KC for one of these opportunities, contact Matt Riggs, mriggs@marc.org
+Read their recently published report by clicking the button below.
+<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLkRL61iWh_qYgjZGsIleI2g_qqxltyKET&mc_cid=bb63acda6c&mc_eid=d6ba1282f0" role="button">Watch Here</a>
 
 <center>
 <div class="flex-wrapper">
@@ -88,7 +97,7 @@ To learn how to connect with Climate Action KC for one of these opportunities, c
 
 UMKC has created a YouTube channel featuring a series of 2-3 minute videos exploring various STEM majors. Check them out!
 
-<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLkRL61iWh_qYgjZGsIleI2g_qqxltyKET&mc_cid=bb63acda6c&mc_eid=d6ba1282f0" role="button">Watch Here</a>
+<a class="btn btn-primary" href="https://www.marc.org/Environment/Climate-Action/pdf/Climate-Action-Plan.aspx" role="button">Watch Here</a>
 
 
 ## BioNexus OneHealth Symposium
