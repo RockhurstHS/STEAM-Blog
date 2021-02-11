@@ -46,6 +46,18 @@ Summer opportunities open March 1, 2021 at hirekc.org.
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
 
+## Scholarships & Awards
+
+### Merrill Watt Entrepreneurship & Innovation Initiative
+
+<div class="flex-wrapper">
+  <img src="/img/MerrillWatt.png">
+</div> 
+
+This award is for students who run their own enterprise or have applied their very own innovation to improve the world. Two different groups of Rockhurst students earned awards last year in 2020!
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1HXp_Da0Fy6qGKoholhK4uYL123CHKLPE/view?usp=sharing" role="button">Learn More Here</a>
+
 ### Missouri STEM Signing Day
 <b>Details</b>
 - STEM Signing Day Celebration on April 29, 2021
@@ -173,17 +185,6 @@ The six-day, five-night residential program will provide high school students th
 
 <a class="btn btn-primary" href="https://www.stlcop.edu/summer/immersion/index.html" role="button">Learn More & Apply Here</a>
 
-## Scholarships & Awards
-
-### Merrill Watt Entrepreneurship & Innovation Initiative
-
-<div class="flex-wrapper">
-  <img src="/img/MerrillWatt.png">
-</div> 
-
-This award is for students who run their own enterprise or have applied their very own innovation to improve the world. 
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/12OxfAky1zOjHAc7-USAw-WGEYTsPvJpB/view?usp=sharing" role="button">Learn More Here</a>
 
 ### Virtual Internship - Quaranzine Writing
 
