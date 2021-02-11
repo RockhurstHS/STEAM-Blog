@@ -82,6 +82,18 @@ This award is for students who run their own enterprise or have applied their ve
 
 <a class="btn btn-primary" href="https://stlouisgraduates.academicworks.com/opportunities/3669" role="button">Apply Here</a>
 
+### Intent to Invent
+
+<div class="flex-wrapper">
+  <img src="/img/IntenttoInvent.png">
+</div> 
+
+If you are a student in grades 4 through 12, you are invited to be an Inventor! As an Inventor you will showcase your big idea at the Kansas City Invention Convention in the spring of 2021 where you will compete for prizes and an invitation to compete in the National Invention Convention via The Henry Ford Museum in Michigan. 
+
+You will work with a teacher, coach, or other mentors to prepare for the competition. With their help, you will explore the basics of the invention process and work to identify a problem that needs solving. Then you will design a solution and check that your idea doesn’t already exist. During your process, you will keep an Inventor’s Log to document your work and build a prototype of your invention. Finally, you will present your invention to the our judges and join us for an award ceremony in April to celebrate your achievements! 
+
+<a class="btn btn-primary" href="https://www.lindahall.org/event/kansas-city-invention-convention/" role="button">Learn More Here</a>
+
 ## Job Opportunities
 
 ### notes to self After School Job
