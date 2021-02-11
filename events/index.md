@@ -82,6 +82,18 @@ This award is for students who run their own enterprise or have applied their ve
 
 <a class="btn btn-primary" href="https://stlouisgraduates.academicworks.com/opportunities/3669" role="button">Apply Here</a>
 
+## Job Opportunities
+
+### notes to self After School Job
+
+<div class="flex-wrapper">
+  <img src="/img/notestoself.png">
+</div> 
+
+Looking for a job that will only require a couple of hours every day after school? Former Rockhurst parent, Laura Schmidt (CEO), is looking to hire some high school students to help in her warehouse. One current Rockhurs student applied and was accepted last year. He still works there today. Learn more about <i>notes so self</i> by checking out their [website](https://www.notestoself.com/).
+
+<a class="btn btn-primary" href="hhttps://drive.google.com/file/d/18g5wvdALwWa7od_zcJShMp7-4YzyxMHi/view?usp=sharing" role="button">Learn More Here</a>
+
 ## Summer Jobs at Garmin
 
 Do you know a student who loves technology and talking to people? Garmin is hiring for summer seasonal associates to help customers resolve issues with their Garmin products. Openings include positions in Marine, Auto, Fitness and Outdoors and positions have the potential to move into a repeat summer job. 
@@ -262,17 +274,6 @@ DigiSTORY will offer two breakout periods for each sector so that participants c
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1v2VVnR_aMexD8Rt5vBYsx97TJRU1uIv3/view?usp=sharing" role="button">Chart of eight sectors</a>
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfG85Wjtmh54TIMv4L8QJ4j4njLQhn_0iCESh4TVbm0uRysaw/viewform" role="button">Register Here</a>
 
-## Job Opportunities
-
-### notes to self After School Job
-
-<div class="flex-wrapper">
-  <img src="/img/notestoself.png">
-</div> 
-
-Looking for a job that will only require a couple of hours every day after school? Former Rockhurst parent, Laura Schmidt (CEO), is looking to hire some high school students to help in her warehouse. Learn more about <i>notes so self</i> by checking out their [website](https://www.notestoself.com/).
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/19-0u3_-UR1C9JXlDDOGnmxyB5zrm8vIu/view?usp=sharing" role="button">Learn More Here</a>
 
 ### Vector Marketing Sales Job
 <div class="flex-wrapper">
