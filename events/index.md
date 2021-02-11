@@ -46,6 +46,14 @@ Summer opportunities open March 1, 2021 at hirekc.org.
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
 
+### Remake Learning Days
+
+<div class="flex-wrapper">
+  <img src="/img/RemakeLearningDays.png">
+</div> 
+
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSee9mF8wSgY_seeO_ff22KDONdtPVbxf-qKuE65IDck_zJvyA/viewform" role="button">Register Your Team Here</a>
+
 ## Scholarships & Awards
 
 ### Merrill Watt Entrepreneurship & Innovation Initiative
