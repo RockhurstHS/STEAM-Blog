@@ -4,22 +4,6 @@ layout: events
 
 
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
-
-### YEPKC Internship
-<center>
-<div class="flex-wrapper">
-  <img src="/img/YEPKC.png">
-</div> 
-</center>
-
-YEPKC is a phenomenal summer internship program. Students can apply for the 4-week or 8-week sessions. Compensation is exceptional. Multiple Rockhurst students have been accepted in the past. Flier below even features Max Goeke of the class of 2019! You can read about Joe Hathway's experience several years ago [HERE](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html)
-
-<b>Application deadline is February 15th</b>, but students are accepted before the deadline. Therefore, improve your chances by applying early!
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1JR_cYyqpFWCTfA9PmctP7jQNI5a3Wmqy/view?usp=sharing" role="button">Watch the 2 min Promo video here</a>
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1w2vSNQtUTYQxQdPh3D8qNlzOupz5P5fk/view?usp=sharing" role="button">1-Page Flier</a>
-<a class="btn btn-primary" href="https://www.yeprogram.org/apply" role="button">Register Here</a>
-
 ## HireKC Youth Summer Internships
 
 <div class="flex-wrapper">
@@ -168,6 +152,21 @@ High school students can get a glimpse into the future by connecting online with
 <a class="btn btn-primary" href="https://burnsmcd.recsolu.com/external/form/LQ-UOQVa0ODqhiIp5XYivw?utm_campaign=HS_JobShadowProgram&utm_source=CORP_HR_GivingOutreachUpdates_Vanity_JobShadow_Yello-Form&utm_medium=External%20Communications" role="button">Learn More & Apply Here</a>
 
 ## Past Opportunities
+
+### YEPKC Internship
+<center>
+<div class="flex-wrapper">
+  <img src="/img/YEPKC.png">
+</div> 
+</center>
+
+YEPKC is a phenomenal summer internship program. Students can apply for the 4-week or 8-week sessions. Compensation is exceptional. Multiple Rockhurst students have been accepted in the past. Flier below even features Max Goeke of the class of 2019! You can read about Joe Hathway's experience several years ago [HERE](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html)
+
+<b>Application deadline is February 15th</b>, but students are accepted before the deadline. Therefore, improve your chances by applying early!
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1JR_cYyqpFWCTfA9PmctP7jQNI5a3Wmqy/view?usp=sharing" role="button">Watch the 2 min Promo video here</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1w2vSNQtUTYQxQdPh3D8qNlzOupz5P5fk/view?usp=sharing" role="button">1-Page Flier</a>
+<a class="btn btn-primary" href="https://www.yeprogram.org/apply" role="button">Register Here</a>
 
 ## V-Ships (Virtual Internships, Externships, Fellowships, etc.)
 
