@@ -46,6 +46,16 @@ Summer opportunities open March 1, 2021 at hirekc.org.
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5TGhOVDl2ckNBcnFfYkJjWTJmdjN2SzRMZV9J/view?usp=sharing" role="button">Content Coordinator Desecription</a>
 <a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5UG02TWt3NXVwazI5UGFGdW9obzZpeUNtZmxz/view?usp=sharing" role="button">Sales Coordinator Description</a>
 
+### Virtual Internships
+
+<div class="flex-wrapper">
+  <img src="/img/vShips.png">
+</div> 
+
+The [DeBruce Family Foundation](https://debruce.org/?utm_source=febNewsletter&utm_medium=email&utm_campaign=newsletter&inf_contact_key=c6341be8df3e5022d3b6acfb657abf7f) has a virtual internship search tool. Feel free to explore internship opportunities here.
+<a class="btn btn-primary" href="https://vships.moonlighting.com/?inf_contact_key=19b3e3c30adf43b906fcea8abd17025f" role="button">Search for Vships Here</a>
+
+
 ### Remake Learning Days
 
 <div class="flex-wrapper">
