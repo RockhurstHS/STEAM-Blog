@@ -98,7 +98,7 @@ You will work with a teacher, coach, or other mentors to prepare for the competi
 
 Looking for a job that will only require a couple of hours every day after school? Former Rockhurst parent, Laura Schmidt (CEO), is looking to hire some high school students to help in her warehouse. One current Rockhurs student applied and was accepted last year. He still works there today. Learn more about <i>notes so self</i> by checking out their [website](https://www.notestoself.com/).
 
-<a class="btn btn-primary" href="hhttps://drive.google.com/file/d/18g5wvdALwWa7od_zcJShMp7-4YzyxMHi/view?usp=sharing" role="button">Learn More Here</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/18g5wvdALwWa7od_zcJShMp7-4YzyxMHi/view?usp=sharing" role="button">Learn More Here</a>
 
 ## Summer Jobs at Garmin
 
@@ -138,8 +138,6 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 <a class="btn btn-primary" href="https://www.marc.org/Environment/Climate-Action/pdf/Climate-Action-Plan.aspx" role="button">Watch Here</a>
 
 
-
-
 ## Virtual Job Shadowing with Burns & McDonnell
 <center>
 <div class="flex-wrapper">
@@ -147,10 +145,21 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 </div> 
 </center>
 
-High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunity to develop networking skills that will help you in finding internships and jobs in the future.
-
 <a class="btn btn-primary" href="https://burnsmcd.recsolu.com/external/form/LQ-UOQVa0ODqhiIp5XYivw?utm_campaign=HS_JobShadowProgram&utm_source=CORP_HR_GivingOutreachUpdates_Vanity_JobShadow_Yello-Form&utm_medium=External%20Communications" role="button">Learn More & Apply Here</a>
 
+## Summer Programs
+<center>
+<div class="flex-wrapper">
+  <img src="/img/InspiritAI.png">
+</div> 
+  
+AI Scholars inspires curious high school students globally by exposing them to the defining technology of our times: Artificial Intelligence. AI is already present everywhere: in our voice-activated devices, smartphone face recognition systems, and autonomous vehicles. The potential to apply this technology for good is limitless. 
+This program, developed and taught exclusively by a team of alumni and graduate students from Stanford and MIT, provides guidance on initiating AI projects, pursuing AI ventures, and preparing for college. Learn more about our in-person or live online program.
+
+High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunity to develop networking skills that will help you in finding internships and jobs in the future.
+
+<a class="btn btn-primary" href="https://www.inspiritai.com/liveonline" role="button">Learn More</a>
+<a class="btn btn-primary" href="https://inspiritai.typeform.com/to/GAjLDQPj?utm_medium=email&_hsmi=105684299&_hsenc=p2ANqtz--bzSE_IRV1QqXbCADkcYL_eNT73bngFjIovT2NUUML7HSfAo0t8PESfNoTIoxv4QeThzGX9qx4uc6hJlciEMmvDgG5l2L6H7_wRYmnGSHsTyeH_u8&utm_content=105684299&utm_source=hs_email" role="button">Apply Here</a>
 ## Past Opportunities
 
 ### YEPKC Internship
