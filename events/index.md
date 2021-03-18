@@ -5,8 +5,8 @@ layout: events
 ## Summer Programs
 
 ## Life and Math Summer Program (virtual)
-<center>
-<div class="flex-wrapper">
+
+<div class="flex-wrapper center">
   <img src="/img/LifeAndMath.png">
 </div>
 
@@ -16,8 +16,8 @@ Taught by a graduate of St. Ignatius Jesuit High School, this summer program wil
 
 
 ## AI Scholars
-<center>
-<div class="flex-wrapper">
+
+<div class="flex-wrapper center">
   <img src="/img/InspiritAI.png">
 </div> 
   
@@ -51,7 +51,7 @@ Check out their [website](https://www.eventbrite.com/e/hire-kc-virtual-hiring-fa
 
 
 ### Friendmedia Internships
-<div class="flex-wrapper">
+<div class="flex-wrapper center">
   <img src="/img/Friendmedia.png">
 </div>   
 
@@ -137,11 +137,10 @@ Do you know a student who loves technology and talking to people? Garmin is hiri
 <a class="btn btn-primary" href="https://careers-us.garmin.com/us/en/job/20001W0/Summer-Seasonal-Product-Support-Specialist?mc_cid=bffaa5688d&mc_eid=d6ba1282f0" role="button">Apply Here</a>
 
 ## KC Climate Action Committee
-<center>
-<div class="flex-wrapper">
+
+<div class="flex-wrapper center">
   <img src="/img/CAKC-master.png">
 </div> 
-</center>
 
 Climate Action KC is a Missouri nonprofit corporation comprised of leaders from government, industry, nonprofits and the community who are dedicated to reducing emissions and promoting a thriving, climate resilient Kansas City metro region. CAKC supports STEM experiences for KC metro-area students by encouraging their involvement in activities like:
 
@@ -157,11 +156,9 @@ To learn how to connect with Climate Action KC for one of these opportunities, c
 Read their recently published report by clicking the button below.
 <a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLkRL61iWh_qYgjZGsIleI2g_qqxltyKET&mc_cid=bb63acda6c&mc_eid=d6ba1282f0" role="button">Watch Here</a>
 
-<center>
-<div class="flex-wrapper">
+<div class="flex-wrapper center">
   <img src="/img/UMKCSTEMMAJORS.png">
 </div> 
-</center>
 
 UMKC has created a YouTube channel featuring a series of 2-3 minute videos exploring various STEM majors. Check them out!
 
@@ -169,11 +166,10 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 
 
 ## Virtual Job Shadowing with Burns & McDonnell
-<center>
-<div class="flex-wrapper">
+
+<div class="flex-wrapper center">
   <img src="/img/BurnsMcDonnellLogo.jpg">
 </div> 
-</center>
 
 <a class="btn btn-primary" href="https://burnsmcd.recsolu.com/external/form/LQ-UOQVa0ODqhiIp5XYivw?utm_campaign=HS_JobShadowProgram&utm_source=CORP_HR_GivingOutreachUpdates_Vanity_JobShadow_Yello-Form&utm_medium=External%20Communications" role="button">Learn More & Apply Here</a>
 
@@ -181,11 +177,10 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 ## Past Opportunities
 
 ### YEPKC Internship
-<center>
-<div class="flex-wrapper">
+
+<div class="flex-wrapper center">
   <img src="/img/YEPKC.png">
 </div> 
-</center>
 
 YEPKC is a phenomenal summer internship program. Students can apply for the 4-week or 8-week sessions. Compensation is exceptional. Multiple Rockhurst students have been accepted in the past. Flier below even features Max Goeke of the class of 2019! You can read about Joe Hathway's experience several years ago [HERE](http://steam.rockhursths.edu/2018/08/02/YEPKC-Student-Reflection.html)
 
@@ -199,11 +194,9 @@ YEPKC is a phenomenal summer internship program. Students can apply for the 4-we
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">High school students: We are working with 16 Kansas City for profit, non-profit, and community-based organizations to provide client-connected projects. Participants earn $300! Visit <a href="https://t.co/P38R7hC18c">https://t.co/P38R7hC18c</a> or contact help@hirekc.org for more info. <a href="https://t.co/BhkOrwQxC0">pic.twitter.com/BhkOrwQxC0</a></p>&mdash; Hire KC (@HireKCYouth) <a href="https://twitter.com/HireKCYouth/status/1298754470675968002?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<center>
-<div class="flex-wrapper">
+<div class="flex-wrapper center">
   <img src="/img/Kiewit Logo.png">
 </div> 
-</center>
 
 Kiewit Power Engineering is now accepting high school intern applications for the 2022 LEAD Intern Program. Kiewit’s paid, full-time summer LEAD internship provides challenging and achievable projects that encourage participants to pursue their passion for the fields of science, technology, engineering and mathematics (STEM). This program is meant for Kansas City based incoming high school Juniors, Seniors, college Freshman or incoming college Sophomores.The deadline for applications to the LEAD program is January 31, 2020.
 <a class="btn btn-primary" href="https://www.youtube.com/watch?v=AeZVGiw37UM&feature=emb_logo" role="button">Informational Video</a>
@@ -212,11 +205,9 @@ Kiewit Power Engineering is now accepting high school intern applications for th
 
 ## BioNexus OneHealth Symposium
 
-<center>
-<div class="flex-wrapper">
+<div class="flex-wrapper center">
   <img src="/img/BioNexusOneHealthKC.png">
 </div> 
-</center>
 
 The [One Health Research Symposium: The Future of Health](https://bionexuskc.org/event/2020-one-health-research-symposium-biosensors/) on “biosensors and wearable sensors” will feature research showing the impact it is having in One Health (human, animal, and environmental health) applications. The use of biosensors in One Health applications has significant potential to enhance and accelerate the identification of disease conditions by providing access to real-time data to improve decision-making capabilities. 
 
@@ -375,7 +366,7 @@ Design the Future is an award winning, fully immersive Design Thinking & STEM su
 ### KU Engineering Camp
 
 <div class="flex-wrapper">
-  <img src="/img/img/Project Discovery Graphic.png">
+  <img src="/img/Project Discovery Graphic.png">
 </div>  
 
 Project Discovery is a week long, intensive learning camp for high school students (entering grades 9-12 in fall 2020). Campers choose from different engineering disciplines and work closely with KU faculty and graduate students as they complete a hands-on project. Held on KU’s Lawrence campus, students will get an up-close view of KU and the School of Engineering classrooms and labs.
@@ -468,10 +459,13 @@ At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do eng
 <a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2019?utm_campaign=CORP_STEM&utm_source=CORP_HR_YourWorldEmpowered_Vanity_Empowered2019_LP-RSVP_13779&utm_medium=PDF%20Invitation" role="button">Register Here</a>
 
 ### Henderson High School Day
+
 <div class="flex-wrapper">
   <img src="/img/HendersonHighSchoolDay.jpg">
+</div>
   
 ### KCMO NAACP ACT-SO Competition (Deadline on March 21st!)
+
 <div class="flex-wrapper">
   <img src="/img/KCMO NAACP Act-SO.png">
 </div> 
@@ -480,6 +474,5 @@ Deadline March 21st! A major youth initiative of the National Association for th
 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1vShIiGHQHE6xzvWi6RlR5MT3X4js9nax/view?usp=sharing">Learn More Here</a>
 <a class="btn btn-primary" href="https://kcmonaacpyc.wixsite.com/kcmoyc">KCMO NAACP Youth Council Website</a>
-</div> 
 <a class="btn btn-primary" href="https://www.surveymonkey.com/r/HendersonCollegeExpJan2020" role="button">Register Here</a>
 
