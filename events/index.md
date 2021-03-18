@@ -2,8 +2,35 @@
 layout: events
 ---
 
+## Summer Programs
 
+## Life and Math Summer Program (virtual)
+<center>
+<div class="flex-wrapper">
+  <img src="/img/LifeAndMath.png">
+</div>
+
+Taught by a graduate of St. Ignatius Jesuit High School, this summer program will teach advanced math topics in conjunction with life skills. "When will I ever use this in life?" is a popular question in math classes. The [Life and Math](https://lifeandmath.com/) journey will teach advanced fundamentals for math and develop self-management skills for life. 
+
+<a class="btn btn-primary" href="https://lifeandmath.com/?page_id=207" role="button">Learn More & Apply Here</a>
+
+## AI Scholars
+<center>
+<div class="flex-wrapper">
+  <img src="/img/InspiritAI.png">
+</div> 
+  
+AI Scholars inspires curious high school students globally by exposing them to the defining technology of our times: Artificial Intelligence. AI is already present everywhere: in our voice-activated devices, smartphone face recognition systems, and autonomous vehicles. The potential to apply this technology for good is limitless. 
+This program, developed and taught exclusively by a team of alumni and graduate students from Stanford and MIT, provides guidance on initiating AI projects, pursuing AI ventures, and preparing for college. Learn more about our in-person or live online program.
+
+High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunity to develop networking skills that will help you in finding internships and jobs in the future.
+
+<a class="btn btn-primary" href="https://www.inspiritai.com/liveonline" role="button">Learn More</a>
+<a class="btn btn-primary" href="https://inspiritai.typeform.com/to/GAjLDQPj?utm_medium=email&_hsmi=105684299&_hsenc=p2ANqtz--bzSE_IRV1QqXbCADkcYL_eNT73bngFjIovT2NUUML7HSfAo0t8PESfNoTIoxv4QeThzGX9qx4uc6hJlciEMmvDgG5l2L6H7_wRYmnGSHsTyeH_u8&utm_content=105684299&utm_source=hs_email" role="button">Apply Here</a>
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
+
+## Internship Opportunities
+
 ## HireKC Youth Summer Internships
 
 <div class="flex-wrapper">
@@ -147,19 +174,7 @@ UMKC has created a YouTube channel featuring a series of 2-3 minute videos explo
 
 <a class="btn btn-primary" href="https://burnsmcd.recsolu.com/external/form/LQ-UOQVa0ODqhiIp5XYivw?utm_campaign=HS_JobShadowProgram&utm_source=CORP_HR_GivingOutreachUpdates_Vanity_JobShadow_Yello-Form&utm_medium=External%20Communications" role="button">Learn More & Apply Here</a>
 
-## Summer Programs
-<center>
-<div class="flex-wrapper">
-  <img src="/img/InspiritAI.png">
-</div> 
-  
-AI Scholars inspires curious high school students globally by exposing them to the defining technology of our times: Artificial Intelligence. AI is already present everywhere: in our voice-activated devices, smartphone face recognition systems, and autonomous vehicles. The potential to apply this technology for good is limitless. 
-This program, developed and taught exclusively by a team of alumni and graduate students from Stanford and MIT, provides guidance on initiating AI projects, pursuing AI ventures, and preparing for college. Learn more about our in-person or live online program.
 
-High school students can get a glimpse into the future by connecting online with young professionals at Burns & McDonnell.  These professionals will describe their career path and what it took to get where they did.  They'll also discuss a "typical day", from interacting with clients and co-workers to project work.  You'll have the opportunity to develop networking skills that will help you in finding internships and jobs in the future.
-
-<a class="btn btn-primary" href="https://www.inspiritai.com/liveonline" role="button">Learn More</a>
-<a class="btn btn-primary" href="https://inspiritai.typeform.com/to/GAjLDQPj?utm_medium=email&_hsmi=105684299&_hsenc=p2ANqtz--bzSE_IRV1QqXbCADkcYL_eNT73bngFjIovT2NUUML7HSfAo0t8PESfNoTIoxv4QeThzGX9qx4uc6hJlciEMmvDgG5l2L6H7_wRYmnGSHsTyeH_u8&utm_content=105684299&utm_source=hs_email" role="button">Apply Here</a>
 ## Past Opportunities
 
 ### YEPKC Internship
