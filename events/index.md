@@ -14,6 +14,7 @@ Taught by a graduate of St. Ignatius Jesuit High School, this summer program wil
 
 <a class="btn btn-primary" href="https://lifeandmath.com/?page_id=207" role="button">Learn More & Apply Here</a>
 
+
 ## AI Scholars
 <center>
 <div class="flex-wrapper">
@@ -43,6 +44,8 @@ Summer opportunities open March 1, 2021 at hirekc.org.
 - Client Projects
 - Community Projects
 - Readiness Modules
+
+Check out their [website](https://www.eventbrite.com/e/hire-kc-virtual-hiring-fair-2021-registration-144246327649?aff=odeimcmailchimp&mc_cid=ae91143c17&mc_eid=c05034b62c) about the virtual hiring fair on April 9th from 1pm - 4pm.
 
 <a class="btn btn-primary" href="https://hirekc.org/students/?mc_cid=f24f10f274&mc_eid=c05034b62c" role="button">Sign Up</a>
 
