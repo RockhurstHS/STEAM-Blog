@@ -32,7 +32,7 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 
 ## Internship Opportunities
 
-## HireKC Youth Summer Internships
+### HireKC Youth Summer Internships
 
 <div class="flex-wrapper">
   <img src="/img/HireKCInternships.png">
@@ -49,6 +49,16 @@ Check out their [website](https://www.eventbrite.com/e/hire-kc-virtual-hiring-fa
 
 <a class="btn btn-primary" href="https://hirekc.org/students/?mc_cid=f24f10f274&mc_eid=c05034b62c" role="button">Sign Up</a>
 
+### Security PS Cyber Apprentice Program
+
+<div class="flex-wrapper center">
+  <img src="/img/Screen Shot 2021-03-24 at 10.18.38 AM.png">
+</div>
+
+Security PS is a cyber security, penetration testing, consulting company in Kansas City. They have built an apprenticeship program that is intended to engage with high school freshmen through seniors with the goal of placing them in a career as soon as they graduate. Security PS trains the students in network and application penetration testing and then give them opportunities to interview with them as well as other Kansas City area employers to start their career. The goal is to get commitment from an employer between their sophomore and junior year, and then provide on the job training so they are ready to start full-time as soon as they graduate. More information about the program is available below, and there's a link to a blog post summarizing the experiences from our most recent cohort.
+
+<a class="btn btn-primary" href="https://www.securityps.com/cyber_apprentice.html" role="button">Apply Hear</a>
+<a class="btn btn-primary" href="https://blog.securityps.com/2020/08/cyber-apprentice-2020-intern-term.html" role="button">Blog Post</a>
 
 ### Friendmedia Internships
 <div class="flex-wrapper center">
