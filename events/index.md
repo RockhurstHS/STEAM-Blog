@@ -4,6 +4,16 @@ layout: events
 
 ## Summer Programs
 
+### College Counseling Summer Experiences List
+
+<div class="flex-wrapper">
+  <img src="/img/logo_left_cmyk.jpg">
+</div> 
+
+For students interested in various camps over the summer, the Rockhurst High School [College Counseling Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
+
+<a class="btn btn-primary" href="https://docs.google.com/document/d/19WRb0hdjKQblHQQra06G0rnpuVDl7vUrDpTzua00T3c/edit" role="button">Google Folder of College Summer Experiences</a>
+
 ## Life and Math Summer Program (virtual)
 
 <div class="flex-wrapper center">
