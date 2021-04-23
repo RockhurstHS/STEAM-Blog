@@ -2,6 +2,17 @@
 layout: events
 ---
 
+### Burns & McDonnell Your World Empowered
+<div class="flex-wrapper">
+  <img src="/img/Burns&McDonnellYourWorldEmpowered.png">
+</div>   
+
+Burns & McDonnell is once again hosting their annual evening event ,YOUR WORLD: EMPOWERED, on May 5th from 6:00 – 7:30PM.
+
+On MAY 5th from 6:00 – 7:30 pm, we are hosting a virtual event called YOUR WORLD EMPOWERED. We’ve held this event in the past and it’s been VERY successful in helping students understand the various engineering career pathways that are out there, and learning how engineers make a difference in our world every day! Our diverse group of panelists will share how they chose the career path they’re in and how they got to where they are today and will also take live questions from the audience! This is the PERFECT event for any 7th – 12th grade student to attend (virtually!) if they would like to hear more about what it’s like to be in a STEM career!
+
+<a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2021?utm_campaign=COL_2021_Brand&utm_source=CORP_REC_YourWorldEmpowered_Vanity_Empowered2021_LP-YourWorldEmpowered_23999&utm_medium=Distributed%20PDF" role="button">Register Here</a>
+
 ## Summer Programs
 
 ### College Counseling Summer Experiences List
@@ -41,6 +52,35 @@ High school students can get a glimpse into the future by connecting online with
 If you have any questions about the events below, then please email Mr. Greg Owsley, Rockhurst High School STEAM Director, at gowsley@rockhursths.edu  
 
 ## Internship Opportunities
+
+### Entrepreneurship KC
+
+<div class="flex-wrapper">
+  <img src="/img/EntrepreneurshipKC.png">
+</div>  
+
+Students will be matched with entrepreneurs/employers based on career interests and complete a business capstone inclusive of presentation the final week of the internship. Applications are open now and the deadline is May 15th.
+
+Intern Benefits:
+- Academic credit ( 4 week internship)- virtual and blended options
+- Paid stipend
+- Financial literacy/education ( Community America Credit Union)
+- Professional Development 
+- Opportunity to win $5,000( capstone team presentation)
+
+<a class="btn btn-primary" href="https://www.entrepreneurshipkc.org/" role="button">Sign Up</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/15cUTwDAA-k4RAhHZQM5zrXQhmehhpcPH/view?usp=sharing" role="button">Learn More</a>
+
+### IRS Paid Student Internships
+
+<div class="flex-wrapper">
+  <img src="/img/IRSJobs.png">
+</div>   
+
+As one of the nation's largest and most diverse institutions, the IRS has a lot to offer. You can make a difference in a variety of seasonal opportunities that are designed to fit your life. 
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/10m24Dwf7NDTBgSj9-H5SpG8mbxkwvldb/view?usp=sharing" role="button">Learn More Here</a>
+<a class="btn btn-primary" href="https://www.usajobs.gov/" role="button">Apply Here</a>
 
 ### HireKC Youth Summer Internships
 
@@ -343,16 +383,6 @@ Vector Marketing is hirng students 18+ to work over winter break selling kitchen
 
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdRd5JnsFyesYXAiOzNp-UwPibqsq_hckVs5ldA-FzIYF2Mag/viewform" role="button">Learn More & Apply</a>
 
-### IRS Paid Student Internships
-
-<div class="flex-wrapper">
-  <img src="/img/IRSJobs.png">
-</div>   
-
-As one of the nation's largest and most diverse institutions, the IRS has a lot to offer. You can make a difference in a variety of seasonal opportunities that are designed to fit your life. 
-
-<a class="btn btn-primary" href="https://drive.google.com/file/d/0B1-JIRrX_4I5ODB2UWRhZWFQVXVWQ1kydnN2VEdURl9jN1ZZ/view?usp=sharing" role="button">Learn More Here</a>
-<a class="btn btn-primary" href="https://www.usajobs.gov/" role="button">Apply Here</a>
 
 ### KCPD Internships
 <div class="flex-wrapper">
@@ -467,16 +497,6 @@ Meet more than 300 collegiate Kauffman Scholars and alumni in one place. The fai
 
 <a class="btn btn-primary" href="https://www.eventbrite.com/e/jive-fair-2020-discover-new-diverse-kc-talent-registration-71416020239?mc_cid=e477828a09&mc_eid=94e526aa43&aff=odeimcmailchimp&mc_cid=c6ad358588&mc_eid=c05034b62c" role="button">Learn More & Register Here</a>
 
-### Burns & McDonnell Your World Empowered
-<div class="flex-wrapper">
-  <img src="/img/Burns&McDonnellYourWorldEmpowered.png">
-</div>   
-
-Burns & McDonnell is once again hosting their annual evening event ,YOUR WORLD: EMPOWERED, on TUESDAY, DECEMBER 3, 2019 from 6:00 – 7:30PM at the Burns & McDonnell World Headquarters! 
-
-At YOUR WORLD: EMPOWERED, they’ll answer questions such as, “So, what do engineers REALLY do?” and “Do I have to get perfect grades in order to have a career in the STEM fields?” and “Will I have to sit at a desk every day of my career if I’m an engineer?” They have a fun (and free!) program planned specifically designed to help students in grades 7 – 12 explore the possibilities of a career in engineering, architecture, drafting, environmental science and construction management. Their dynamic speaker will talk with students and parents about these different engineering career paths and dispel those crazy myths that surround these STEM fields! They will also have a panel of recent graduate STEM professionals ready to engage with the audience by offering tips for success in high school and college!
-
-<a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2019?utm_campaign=CORP_STEM&utm_source=CORP_HR_YourWorldEmpowered_Vanity_Empowered2019_LP-RSVP_13779&utm_medium=PDF%20Invitation" role="button">Register Here</a>
 
 ### Henderson High School Day
 
