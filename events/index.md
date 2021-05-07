@@ -2,16 +2,7 @@
 layout: events
 ---
 
-### Burns & McDonnell Your World Empowered
-<div class="flex-wrapper">
-  <img src="/img/Burns&McDonnellYourWorldEmpowered.png">
-</div>   
 
-Burns & McDonnell is once again hosting their annual evening event ,YOUR WORLD: EMPOWERED, on May 5th from 6:00 – 7:30PM.
-
-On MAY 5th from 6:00 – 7:30 pm, we are hosting a virtual event called YOUR WORLD EMPOWERED. We’ve held this event in the past and it’s been VERY successful in helping students understand the various engineering career pathways that are out there, and learning how engineers make a difference in our world every day! Our diverse group of panelists will share how they chose the career path they’re in and how they got to where they are today and will also take live questions from the audience! This is the PERFECT event for any 7th – 12th grade student to attend (virtually!) if they would like to hear more about what it’s like to be in a STEM career!
-
-<a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2021?utm_campaign=COL_2021_Brand&utm_source=CORP_REC_YourWorldEmpowered_Vanity_Empowered2021_LP-YourWorldEmpowered_23999&utm_medium=Distributed%20PDF" role="button">Register Here</a>
 
 ## Summer Programs
 
@@ -24,6 +15,24 @@ On MAY 5th from 6:00 – 7:30 pm, we are hosting a virtual event called YOUR WOR
 For students interested in various camps over the summer, the Rockhurst High School [College Counseling Office](https://www.rockhursths.edu/academics/college-counseling) has curated an excellent list of experiences that can be accessed on Google Drive.
 
 <a class="btn btn-primary" href="https://docs.google.com/document/d/19WRb0hdjKQblHQQra06G0rnpuVDl7vUrDpTzua00T3c/edit" role="button">Google Folder of College Summer Experiences</a>
+
+## Burns & McDonnel Engineering U Summer Camp
+<div class="flex-wrapper">
+  <img src="/img/Screen Shot 2021-05-07 at 1.53.05 PM.png">
+</div> 
+
+Burns & McDonnell is proud to bring back their free summer camps – Engineering U! This year we will be offering these camps virtually, but we promise to deliver the same kind of content and activities!
+- <b>High school | June 7 - 9</b>
+Participants of this three-day camp will engage with engineers, architects and drafters working on real chemical, civil, electrical and mechanical engineering projects. You’ll get to meet summer interns who’ll provide tips for making the successful transition from high school to college. They will also connect you with college admissions professionals who will talk to you about your future education and help to prepare you for your college career.
+- <b>Incoming college freshmen | June 21 - 24 </b> 
+Participants of this four-day session will have the opportunity to engage with engineers, architects and other Burns & McDonnell professionals while working on real projects. They also provide participants with tips for networking, future careers and succeeding in college from their summer interns.
+Please keep in mind both camps will run from 9 a.m.- Noon. Space is limited and camps fill up quickly!
+
+We will run the camp securely through Microsoft Teams, and will supply the call in numbers in our confirmation emails. Supplies for any activity will be provided at no charge and mailed to participants shortly before camp starts.
+
+<a class="btn btn-primary" href="https://drive.google.com/file/d/1Lf3iOUDp-h2JLOX3rni-x32VD7Ustcuy/view?usp=sharing" role="button">Learn More Here</a>
+<a class="btn btn-primary" href="https://info.burnsmcd.com/engineeringu?utm_campaign=BMCD_K12-STEM&utm_medium=handout%20card&utm_source=OPR_EngineeringU_10730%20vanity" role="button">Apply Here</a>
+
 
 ## Life and Math Summer Program (virtual)
 
@@ -504,6 +513,17 @@ Meet more than 300 collegiate Kauffman Scholars and alumni in one place. The fai
   <img src="/img/HendersonHighSchoolDay.jpg">
 </div>
   
+### Burns & McDonnell Your World Empowered
+<div class="flex-wrapper">
+  <img src="/img/Burns&McDonnellYourWorldEmpowered.png">
+</div>   
+
+Burns & McDonnell is once again hosting their annual evening event ,YOUR WORLD: EMPOWERED, on May 5th from 6:00 – 7:30PM.
+
+On MAY 5th from 6:00 – 7:30 pm, we are hosting a virtual event called YOUR WORLD EMPOWERED. We’ve held this event in the past and it’s been VERY successful in helping students understand the various engineering career pathways that are out there, and learning how engineers make a difference in our world every day! Our diverse group of panelists will share how they chose the career path they’re in and how they got to where they are today and will also take live questions from the audience! This is the PERFECT event for any 7th – 12th grade student to attend (virtually!) if they would like to hear more about what it’s like to be in a STEM career!
+
+<a class="btn btn-primary" href="https://internal.burnsmcd.com/youre-invited-your-world-empowered-2021?utm_campaign=COL_2021_Brand&utm_source=CORP_REC_YourWorldEmpowered_Vanity_Empowered2021_LP-YourWorldEmpowered_23999&utm_medium=Distributed%20PDF" role="button">Register Here</a>
+
 ### KCMO NAACP ACT-SO Competition (Deadline on March 21st!)
 
 <div class="flex-wrapper">
