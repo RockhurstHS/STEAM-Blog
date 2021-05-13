@@ -91,6 +91,16 @@ If you have any questions about the events below, then please email Mr. Greg Ows
 
 ## Internship Opportunities
 
+### Social Change Internship
+
+<div class="flex-wrapper">
+  <img src="/img/SocialChangeInternship.png">
+</div>  
+
+This spring, Startland piloted a new 8-week internship that challenged students to create social change. Teams of high school and college students were tasked with working together to create, test, and pitch solutions to social challenges in their communities. Whether you’re passionate about public health, political issues, racial injustice, climate change, or education, our community needs young leaders to help solve these challenges. Students are immersed in the entrepreneurial mindset to create real social change in their community. The next internship will run from June 9 - July 28, 2021. To apply, visit the link below. <b>Applications are due May 17th.</b>
+
+<a class="btn btn-primary" href="https://www.startland.org/social-change-internship-application?mc_cid=2d42ed7817&mc_eid=81a992775e" role="button">Learn More & Apply Here</a>
+
 ### Entrepreneurship KC
 
 <div class="flex-wrapper">
