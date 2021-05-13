@@ -16,6 +16,16 @@ For students interested in various camps over the summer, the Rockhurst High Sch
 
 <a class="btn btn-primary" href="https://docs.google.com/document/d/19WRb0hdjKQblHQQra06G0rnpuVDl7vUrDpTzua00T3c/edit" role="button">Google Folder of College Summer Experiences</a>
 
+## UMKC Cybersecurity Camp (FREE)
+
+<div class="flex-wrapper">
+  <img src="/img/GenCyber.png">
+</div>
+
+Sponsored by National Security Agency’s GenCyber program, University of Missouri-Kansas City will offer two one-week camps this July and August. During the online camp rising 9-12th graders will explore the field of cybersecurity through online instruction and lab activities. The participants will learn cybersecurity concepts, ethical hacking, digital forensics and ethics. No previous cybersecurity experience or knowledge is required.
+
+<a class="btn btn-primary" href="https://sce.umkc.edu/gencyber/?mc_cid=1d16de9b6e&mc_eid=d6ba1282f0" role="button">Learn More & Apply Here</a>
+
 ## Burns & McDonnel Engineering U Summer Camp
 <div class="flex-wrapper">
   <img src="/img/Screen Shot 2021-05-07 at 1.53.05 PM.png">
@@ -33,6 +43,25 @@ We will run the camp securely through Microsoft Teams, and will supply the call 
 <a class="btn btn-primary" href="https://drive.google.com/file/d/1Lf3iOUDp-h2JLOX3rni-x32VD7Ustcuy/view?usp=sharing" role="button">Learn More Here</a>
 <a class="btn btn-primary" href="https://info.burnsmcd.com/engineeringu?utm_campaign=BMCD_K12-STEM&utm_medium=handout%20card&utm_source=OPR_EngineeringU_10730%20vanity" role="button">Apply Here</a>
 
+## Kansas City PBS STEM Video Competition
+
+<div class="flex-wrapper">
+  <img src="/img/kcPBS.jpeg">
+</div>
+
+See your ideas come to life on television! Kansas City PBS seeks students in grades 6-12 to create a script for a how-to video illustrating a science experiment for kids ages 2 to 8. The station will then turn the winning script into a television spot to run on PBS Kids this fall! See [this page](https://events.kansascitypbs.org/event/stem-television-spot-contest-with-kansas-city-pbs/?mc_cid=1d16de9b6e&mc_eid=d6ba1282f0&mc_cid=1d16de9b6e&mc_eid=d6ba1282f0) for some tips and the registration form. Entries are due May 31.
+
+<a class="btn btn-primary" href="https://events.kansascitypbs.org/event/stem-television-spot-contest-with-kansas-city-pbs/?mc_cid=1d16de9b6e&mc_eid=d6ba1282f0&mc_cid=1d16de9b6e&mc_eid=d6ba1282f0" role="button">Learn More & Apply Here</a>
+
+## Team Digital 2021 at Kansas City Digital Media Lab
+
+<div class="flex-wrapper center">
+  <img src="/img/KCDigitalMediaLab.png">
+</div>
+
+Applications are open for 2021 Team Digital, a summer program at the Kansas City Digital Media Lab designed to help teens pursue their interests and ambitions. The program is a part of The Kansas City Public Library and specifically seeks teens interested in radio or remote controlled technology, video and audio production to help build out programs offered through the lab.
+
+<a class="btn btn-primary" href="http://kcdml.org/team-digital/?mc_cid=1d16de9b6e&mc_eid=d6ba1282f0" role="button">Learn More & Apply Here</a>
 
 ## Life and Math Summer Program (virtual)
 
