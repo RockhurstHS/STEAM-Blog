@@ -1,4 +1,6 @@
 _site
+.bundle
+.bundle/*
 .DS_Store
 .sass-cache
 gulpfile.js
