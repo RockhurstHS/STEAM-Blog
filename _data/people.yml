@@ -2,126 +2,147 @@
 
 gregowsley:
   name: Greg Owsley
-  title: STEAM Director
+  title: STEAM Director, 2005-2021
   image: img/gregowsley.jpg
   profile: true
+  current: false
 
 paulwinkeler:
   name: Paul Winkeler
   title: STEAM Coordinator
   image: img/paulwinkeler.jpg
   profile: true
+  current: true
 
 jwclark:
   name: J.W. Clark
   title: STEAM Coordinator
   image: img/jwclark.jpg
   profile: true
+  current: true
 
 nicolesmith:
   name: Nicole Smith
-  title: Communication Arts Chair
+  title: Communication Arts Chair, 2008-2021
   image: img/nicolesmith.jpg
   profile: false
+  current: false
 
 scottreagan:
   name: Scott Reagan
   title: Director of Standardized Testing / AdvancED Coordinator
   image: img/scottreagan.jpg
   profile: true
+  current: true
 
 annlehane:
   name: Ann Lehane
   title: Theatre Manager/Facility Rental
   image: img/annlehane.jpg
   profile: false
+  current: true
 
 brandonjones:
   name: Brandon Jones
   title: Educational Technologist
   image: img/brandonjones.jpg
   profile: true
+  current: true
 
 franklyngar:
   name: Frank Lyngar
-  title: Math Teacher
+  title: Math Teacher, 1984–2018
   image: img/franklyngar.jpg
   profile: true
+  current: false
   
 patrickcurran:
   name: Patrick Curran
-  title: Math Teacher
+  title: Math Teacher, 2006-2019
   image: img/patrickcurran.jpg
   profile: true
+  current: false
 
 chrisbosco:
   name: Chris Bosco
   title: Assistant Principal for Student Life
   image: img/chrisbosco.jpg
   profile: false
+  current: true
 
 larryruby:
   name: Larry Ruby
-  title: Principal, 2005 - 2010
+  title: Principal, 2005-2010
   image: img/larryruby.jpg
   profile: false
+  current: false
 
 andywilcox:
   name: Andy Wilcox
   title: Robotics Teacher and Head Coach of the Jesubots
   image: img/andywilcox.jpg
   profile: true
+  current: true
 
 joeleroy:
   name: Joe LeRoy
   title: Math Chair
   image: img/joeleroy.jpg
   profile: false
+  current: true
 
 andrewwilson:
   name: Andrew Wilson
-  title: Physics Teacher
+  title: Physics Teacher, 2011-2019
   image: img/andrewwilson.jpg
   profile: false
+  current: false
 
 timothynendick:
   name: Timothy Nendick
   title: Physics Teacher
   image: img/timothynendick.jpg
   profile: true
+  current: true
 
 bertroney:
   name: Bert Roney
-  title: Modern Language & Classics Department Chair
+  title: Modern Language & Classics Department Chair, 1996-2019
   image: img/bertroney.jpg
   profile: false
+  current: false
   
 marvingrilliot:
   name: Marvin Grilliot
   title: Hurtado Scholars Director
   image: img/marvingrilliot.jpg
   profile: false
+  current: true
   
 amygansner:
   name: Amy Gansner
   title: Librarian
   image: img/amygansner.jpg
   profile: true
+  current: true
 
 emilylane:
   name: Emily Lane
   title: French Teacher
   image: img/emilylane.jpg
   profile: true
+  current: true
 
 brentsams:
   name: Brent Sams
-  title: French Teacher, 2010 - 2016
+  title: French Teacher, 2010-2016
   image: img/brentsams.jpg
   profile: true
+  current: true
 
 nickvaughn:
   name: Nick Vaughn
   title: Science Teacher
   image: img/nickvaughn.jpg
   profile: false
+  current: true
