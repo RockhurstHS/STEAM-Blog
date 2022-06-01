@@ -1,6 +1,6 @@
 # Site settings
 title: Full STEAM Ahead
-baseurl: ""
+baseurl: "/STEAM-Blog"
 
 paginate: 15
 paginate_path: /page:num/
